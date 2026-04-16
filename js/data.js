@@ -238,6 +238,7 @@ async function load(manual=false){
     S.picks = Array.isArray(picksPayload?.picks) ? picksPayload.picks : [];
     S.metrics = metricsPayload || {};
     S.modelInfo = modelInfoPayload || {};
+    rerender();
     if(manual) toast('Datos recargados ✓','success');
   }catch(processErr){
     console.error('Error en process():', processErr);

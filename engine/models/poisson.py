@@ -27,22 +27,28 @@ def goal_matrix(lam: float, mu: float, max_goals: int, rho: float = 0.0, use_dc:
 
 def derive_markets(matrix: list[list[float]]) -> dict[str, float]:
     out = {
-        "1": 0.0, "X": 0.0, "2": 0.0,
-        "O2.5": 0.0, "U2.5": 0.0,
-        "O3.5": 0.0, "U3.5": 0.0,
-        "BTTS": 0.0,
-        "AHH-0.5": 0.0, "AHA-0.5": 0.0,
+        "1": 0.0,
+        "X": 0.0,
+        "2": 0.0,
+        "O2.5": 0.0,
+        "U2.5": 0.0,
+        "O3.5": 0.0,
+        "U3.5": 0.0,
+        "BTTS_Y": 0.0,
+        "BTTS_N": 0.0,
+        "AH_HOME_-0.5": 0.0,
+        "AH_AWAY_-0.5": 0.0,
     }
     for i, row in enumerate(matrix):
         for j, p in enumerate(row):
             if i > j:
                 out["1"] += p
-                out["AHH-0.5"] += p
+                out["AH_HOME_-0.5"] += p
             elif i == j:
                 out["X"] += p
             else:
                 out["2"] += p
-                out["AHA-0.5"] += p
+                out["AH_AWAY_-0.5"] += p
             if i + j > 2:
                 out["O2.5"] += p
             else:
@@ -52,5 +58,7 @@ def derive_markets(matrix: list[list[float]]) -> dict[str, float]:
             else:
                 out["U3.5"] += p
             if i > 0 and j > 0:
-                out["BTTS"] += p
+                out["BTTS_Y"] += p
+            else:
+                out["BTTS_N"] += p
     return out

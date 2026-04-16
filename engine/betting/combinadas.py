@@ -2,9 +2,10 @@ from __future__ import annotations
 
 
 def build_conservative_combo(picks: list[dict], max_legs: int = 3) -> dict:
+    value_bets = [p for p in picks if p.get("pick_type") == "value_bet" and p.get("offered_odds")]
     chosen: list[dict] = []
     used_matches: set[str] = set()
-    for pick in sorted(picks, key=lambda x: x.get("edge", 0.0), reverse=True):
+    for pick in sorted(value_bets, key=lambda x: float(x.get("edge") or 0.0), reverse=True):
         fid = str(pick.get("fixture_id"))
         if fid in used_matches:
             continue
@@ -19,6 +20,6 @@ def build_conservative_combo(picks: list[dict], max_legs: int = 3) -> dict:
     odds = 1.0
     prob = 1.0
     for leg in chosen:
-        odds *= leg["offered_odds"]
-        prob *= leg["prob"]
+        odds *= float(leg["offered_odds"])
+        prob *= float(leg["model_prob"])
     return {"legs": chosen, "combined_odds": round(odds, 3), "combined_prob": round(prob, 4)}

@@ -28,7 +28,7 @@ class BettingConfig:
     min_odds: float = 1.5
     max_odds: float = 5.5
     allowed_markets: tuple[str, ...] = (
-        "1", "X", "2", "O2.5", "U2.5", "O3.5", "U3.5", "BTTS", "AHH-0.5", "AHA-0.5"
+        "1", "X", "2", "O2.5", "U2.5", "O3.5", "U3.5", "BTTS_Y", "BTTS_N", "AH_HOME_-0.5", "AH_AWAY_-0.5"
     )
 
 

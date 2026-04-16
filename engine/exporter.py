@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 from pathlib import Path
-from datetime import datetime, timezone
 import json
 
 
@@ -12,6 +11,13 @@ def write_json(path: Path, payload: dict | list) -> None:
 
 def export_public_data(output_dir: Path, data: dict, picks: list[dict], metrics: dict, model_info: dict) -> None:
     write_json(output_dir / "data.json", data)
-    write_json(output_dir / "picks.json", {"generated_at": datetime.now(timezone.utc).isoformat(), "picks": picks})
+    write_json(
+        output_dir / "picks.json",
+        {
+            "snapshot_id": model_info.get("snapshot_id"),
+            "generated_at": model_info.get("generated_at"),
+            "picks": picks,
+        },
+    )
     write_json(output_dir / "metrics.json", metrics)
     write_json(output_dir / "model-info.json", model_info)
