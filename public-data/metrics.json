@@ -1,0 +1,24 @@
+{
+  "global": {
+    "total_picks": 0,
+    "settled_picks": 0,
+    "yield": 0.0,
+    "roi": 0.0,
+    "hit_rate": 0.0,
+    "average_edge": 0.0,
+    "average_ev": 0.0,
+    "average_profit": 0.0,
+    "brier_score": null,
+    "log_loss": null
+  },
+  "by_market": {},
+  "by_league": {},
+  "by_pick_type": {},
+  "by_odds_bucket": {},
+  "by_edge_bucket": {},
+  "combo": {
+    "legs": [],
+    "combined_odds": 0.0,
+    "combined_prob": 0.0
+  }
+}

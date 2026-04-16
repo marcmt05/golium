@@ -1,163 +1,83 @@
 # Golium
 
-Web de análisis de partidos y detección de **value bets** para fútbol, basada en datos scrapeados y modelo Poisson/Dixon-Coles ya existente.
+Web privada de análisis futbolístico para uso personal.
 
-## Características
+## Flujo objetivo (local -> estático)
+1. Ejecutas scraping y motor local en Python.
+2. El motor genera JSON finales en `public-data/`.
+3. El frontend **solo renderiza** esos JSON (no recalcula modelo).
+4. Subes al repo y Cloudflare publica la web estática.
 
-- Análisis de fixtures con mercados:
-  - 1X2
-  - Over/Under 2.5
-  - Over/Under 3.5
-  - BTTS
-  - Handicap asiático visualizado en líneas: **Local -0.5 / Local +0.5 / Visita -0.5 / Visita +0.5**
-- Ranking y forma de equipos.
-- Módulo de combinada sugerida con filtro de EV y control de margen.
-- Interfaz limpia enfocada a analítica/apuestas informativas.
-
-> Este proyecto **no** incluye autenticación ni base de datos.
+## Stack actual (sin reescritura)
+- Frontend: HTML + JavaScript vanilla.
+- Motor local: Python 3.11.
+- Persistencia: JSON (`public-data/` + `history/snapshots/`).
+- Publicación: GitHub + Cloudflare.
 
 ---
 
-## Requisitos
+## Ejecución local
 
-- Python 3.10+
-
-No se requieren dependencias externas (solo librería estándar).
-
----
-
-## Arranque local
-
-1. Generar datos:
-
+### 1) Generar dataset base
 ```bash
-python scraper.py laliga
-# o: python scraper.py all
+python scraper.py all
 ```
 
-2. Arrancar servidor:
+### 2) Ejecutar pipeline local (modelo + picks + métricas + snapshot)
+```bash
+python run_pipeline.py --config engine_config.json
+```
 
+Esto genera:
+- `public-data/data.json`
+- `public-data/picks.json`
+- `public-data/metrics.json`
+- `public-data/model-info.json`
+- `history/snapshots/<snapshot_id>/{data.json,picks.json,metrics.json,model-info.json,ledger.json}`
+
+### 3) (Opcional) liquidar picks históricos cuando haya resultados finales
+```bash
+python settle_picks.py --history-dir history/snapshots --results public-data/data.json
+```
+
+### 4) (Opcional) recalcular backtest sobre último snapshot
+```bash
+python backtest_runner.py --history-dir history/snapshots
+```
+
+### 5) Levantar web local
 ```bash
 python server.py
 ```
-
-3. Abrir en navegador:
-
-- `http://localhost:8000/`
-- Healthcheck: `http://localhost:8000/health`
+Abre `http://localhost:8000/app.html`.
 
 ---
 
-## Variables de entorno
+## Convenciones importantes
 
-- `PORT` (por defecto `8000`)
-- `HOST` (por defecto `0.0.0.0`)
+### Tipos de pick
+- `model_pick`: no hay cuotas reales integradas (`offered_odds = null`).
+- `value_bet`: sí hay cuota real (`offered_odds_is_real = true`) y se calcula edge/EV real.
 
-Ejemplo:
-
-```bash
-PORT=9000 HOST=0.0.0.0 python server.py
-```
-
----
-
-## Despliegue
-
-### Render
-
-Este repo incluye `render.yaml` y `Procfile`.
-
-Pasos rápidos:
-
-1. Crear servicio Web en Render apuntando al repo.
-2. Render detecta `render.yaml`.
-3. Comando de arranque: `python server.py`.
-
-### Railway
-
-1. Crear proyecto desde el repo.
-2. Configurar variable `PORT` si la plataforma no la inyecta automáticamente.
-3. Start command: `python server.py`.
-
-### Docker
-
-Construir imagen:
-
-```bash
-docker build -t golium .
-```
-
-Ejecutar:
-
-```bash
-docker run --rm -p 8000:8000 golium
-```
+### Taxonomía de mercados (única)
+- `1`, `X`, `2`
+- `O2.5`, `U2.5`
+- `O3.5`, `U3.5`
+- `BTTS_Y`, `BTTS_N`
+- `AH_HOME_-0.5`, `AH_AWAY_-0.5`
 
 ---
 
-## Estructura principal
+## Scripts principales
+- `run_pipeline.py`: ejecuta todo y guarda snapshot histórico.
+- `export_public_data.py`: atajo para exportar data pública + snapshot.
+- `settle_picks.py`: settlement real de picks históricos.
+- `backtest_runner.py`: métricas de backtest sobre picks.
 
-- `app.html`: UI y lógica de visualización/mercados.
-- `scraper.py`: ingesta/generación de `data.json`.
-- `server.py`: servidor estático + endpoint de healthcheck.
-- `data.json`: dataset de fixtures generado por scraper.
+---
 
-
-## Cambios recientes
-- Añadido `worldcup` (`fifa.world`) para mostrar el **Mundial 2026**.
-- Añadidos `AH Visita -0.5` y `AH Local +0.5`.
-- Corregido `AH Visita +0.5` para que use la condición correcta (**visita o empate**).
-- Eliminados los mercados `AH Local -1.5`, `AH Visita +1.5` y tarjetas.
-- Añadido `Over/Under 3.5 goles`.
-
-
-## Refactor fase 1 aplicado
-
-Cambios ya aplicados en este zip:
-
-- `app.html` deja de llevar el motor inline y pasa a cargar scripts externos.
-- `app.js` se mantiene como bundle de compatibilidad, pero la fuente real queda separada en `js/`.
-- Nueva separación por responsabilidades:
-  - `js/state.js`
-  - `js/utils.js`
-  - `js/data.js`
-  - `js/model.js`
-  - `js/render.js`
-  - `js/combinada.js`
-  - `js/main.js`
-- Eliminado el fallback aleatorio de forma (`Math.random`) para que el modelo sea reproducible.
-- Añadido `storage.py` + `save_snapshot.py` para empezar a persistir snapshots en SQLite (`golium.db`).
-- Añadido endpoint `GET /api/snapshots` para inspeccionar los últimos snapshots guardados.
-
-### Guardar un snapshot en SQLite
-
-```bash
-python save_snapshot.py
-```
-
-### Ver snapshots
-
-```bash
-http://localhost:8000/api/snapshots
-```
-
-
-## Scraper integrado
-
-El scraper principal (`scraper.py`) ahora integra el enfoque combinado ESPN + Understat + FBref del archivo aportado por el usuario. fileciteturn0file0
-
-- `scraper.py`: scraper principal actual, compatible con la estructura de `data.json` que espera la app.
-- `combined_scraper.py`: copia del scraper aportado, guardada como referencia.
-- `scraper_legacy.py`: antiguo scraper del proyecto, conservado como fallback y para `quiniela`.
-
-### Uso
-
-```bash
-python scraper.py laliga
-python scraper.py all
-python scraper_legacy.py quiniela
-```
-
-### Nota
-
-La integración mantiene el shape del frontend actual, pero el enriquecimiento xG depende de la disponibilidad real de Understat y FBref para cada equipo/competición.
+## Nota de compatibilidad
+- No se rehízo UI ni se cambió framework frontend.
+- Se mantiene flujo GitHub + Cloudflare.
+- El frontend no ejecuta Poisson/Dixon-Coles/lambdas/EV/Kelly del modelo.
+- `scraper_legacy.py` se mantiene como fallback legado.

@@ -200,10 +200,23 @@ async function load(manual=false){
 
   // ── Fase 1: fetch ─────────────────────────────────────────
   let json;
+  let picksPayload = { picks: [] };
+  let metricsPayload = {};
+  let modelInfoPayload = {};
   try{
-    const res = await fetch('data.json?_='+Date.now());
+    const base = 'public-data';
+    const [resData, resPicks, resMetrics, resModelInfo] = await Promise.all([
+      fetch(`${base}/data.json?_=${Date.now()}`).catch(()=>null),
+      fetch(`${base}/picks.json?_=${Date.now()}`).catch(()=>null),
+      fetch(`${base}/metrics.json?_=${Date.now()}`).catch(()=>null),
+      fetch(`${base}/model-info.json?_=${Date.now()}`).catch(()=>null),
+    ]);
+    const res = (resData && resData.ok) ? resData : await fetch('data.json?_='+Date.now());
     if(!res.ok) throw new Error(`HTTP ${res.status}`);
     json = await res.json();
+    if(resPicks?.ok) picksPayload = await resPicks.json();
+    if(resMetrics?.ok) metricsPayload = await resMetrics.json();
+    if(resModelInfo?.ok) modelInfoPayload = await resModelInfo.json();
   }catch(fetchErr){
     // Solo mostrar error si no teníamos datos previos
     if(!S.raw){
@@ -222,6 +235,9 @@ async function load(manual=false){
   // ── Fase 2: procesar datos ────────────────────────────────
   try{
     process(json);
+    S.picks = Array.isArray(picksPayload?.picks) ? picksPayload.picks : [];
+    S.metrics = metricsPayload || {};
+    S.modelInfo = modelInfoPayload || {};
     if(manual) toast('Datos recargados ✓','success');
   }catch(processErr){
     console.error('Error en process():', processErr);
