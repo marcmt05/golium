@@ -152,7 +152,25 @@ function renderStandings(){
 }
 
 
-function renderDebug(){const c=document.getElementById('debugContent');if(c) c.textContent=S.dbg.join('\n');}
+function renderDebug(){
+  const c=document.getElementById('debugContent');
+  if(!c) return;
+  const picks=(S.picks||[]).slice(0,20).map(p=>`- ${p.fixture} | ${p.market} | p=${(p.prob*100).toFixed(1)}% | edge=${(p.edge*100).toFixed(2)}% | stake=${(p.stake*100).toFixed(2)}%`).join('\n');
+  const met=S.metrics?.global||{};
+  const info=S.modelInfo||{};
+  c.textContent=[
+    ...S.dbg,
+    '',
+    '=== ENGINE MODEL ===',
+    `Version: ${info.model_version||'legacy'}`,
+    `Generated: ${info.generated_at||'n/a'}`,
+    `Picks: ${(S.picks||[]).length}`,
+    `Global ROI: ${met.roi!=null?(met.roi*100).toFixed(2)+'%':'n/a'}`,
+    '',
+    '=== TOP PICKS ===',
+    picks || '(sin picks)'
+  ].join('\n');
+}
 
 
 function render(){renderFixtures();renderStandings();renderDebug();updateJBar();buildCombinada();}

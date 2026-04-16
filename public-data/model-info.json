@@ -1,0 +1,14 @@
+{
+  "model_version": "golium-engine-v1",
+  "generated_at": "2026-04-16T22:26:04.958610+00:00",
+  "sources": [
+    "espn",
+    "understat(fallback)",
+    "fbref(fallback)",
+    "odds(fallback)"
+  ],
+  "flags": {
+    "dixon_coles": true,
+    "real_odds": false
+  }
+}

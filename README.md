@@ -35,13 +35,25 @@ python scraper.py laliga
 # o: python scraper.py all
 ```
 
-2. Arrancar servidor:
+2. Ejecutar motor local (predicciones + picks + métricas):
+
+```bash
+python run_pipeline.py --config engine_config.json
+```
+
+Esto genera:
+- `public-data/data.json`
+- `public-data/picks.json`
+- `public-data/metrics.json`
+- `public-data/model-info.json`
+
+3. Arrancar servidor:
 
 ```bash
 python server.py
 ```
 
-3. Abrir en navegador:
+4. Abrir en navegador:
 
 - `http://localhost:8000/`
 - Healthcheck: `http://localhost:8000/health`
@@ -101,6 +113,8 @@ docker run --rm -p 8000:8000 golium
 - `scraper.py`: ingesta/generación de `data.json`.
 - `server.py`: servidor estático + endpoint de healthcheck.
 - `data.json`: dataset de fixtures generado por scraper.
+- `engine/`: motor local Python (features, modelos, betting, validación).
+- `public-data/`: JSON finales para la web estática.
 
 
 ## Cambios recientes

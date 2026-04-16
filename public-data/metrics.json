@@ -1,0 +1,17 @@
+{
+  "global": {
+    "count": 0,
+    "yield": 0.0,
+    "roi": 0.0,
+    "hit_rate": 0.0,
+    "ev_expected": 0.0,
+    "ev_realized": 0.0
+  },
+  "by_market": {},
+  "by_league": {},
+  "combo": {
+    "legs": [],
+    "combined_odds": 0.0,
+    "combined_prob": 0.0
+  }
+}
