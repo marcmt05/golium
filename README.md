@@ -1,177 +1,150 @@
 # Golium
 
-Web de análisis de partidos y detección de **value bets** para fútbol, basada en datos scrapeados y modelo Poisson/Dixon-Coles ya existente.
+Pipeline local de predicción deportiva con export JSON estático para frontend (GitHub + Cloudflare).
 
-## Características
+## Objetivo operativo
 
-- Análisis de fixtures con mercados:
-  - 1X2
-  - Over/Under 2.5
-  - Over/Under 3.5
-  - BTTS
-  - Handicap asiático visualizado en líneas: **Local -0.5 / Local +0.5 / Visita -0.5 / Visita +0.5**
-- Ranking y forma de equipos.
-- Módulo de combinada sugerida con filtro de EV y control de margen.
-- Interfaz limpia enfocada a analítica/apuestas informativas.
+1. Ejecutas el motor Python en local.
+2. Se generan JSON finales en `public-data/`.
+3. El frontend solo renderiza esos JSON (sin cálculo probabilístico crítico).
+4. Opcionalmente se guarda snapshot histórico por ejecución.
+5. Publicas el repo y Cloudflare muestra los datos.
 
-> Este proyecto **no** incluye autenticación ni base de datos.
+## Arquitectura actual
 
----
+- `engine/`: modelado, mercados, picks, métricas.
+- `run_pipeline.py`: ejecuta pipeline completo y exporta `public-data/*.json`.
+- `history/snapshots/<snapshot_id>/`: copia versionada de cada corrida (`data.json`, `picks.json`, `metrics.json`, `model-info.json`, `ledger.json`).
+- `settle_picks.py`: liquida picks históricos contra resultados finales disponibles en snapshots.
+- `js/`: frontend de render.
+
+## Distinción de picks
+
+### Sin cuotas reales
+- Se generan picks con `pick_type = "model_pick"`.
+- `offered_odds = null`, `offered_odds_is_real = false`.
+- No se etiqueta como value bet.
+
+### Con cuotas reales
+- Se generan `pick_type = "value_bet"`.
+- Incluye `edge`, `ev`, `stake_fraction`.
+- `offered_odds_is_real = true`.
+
+## Taxonomía única de mercados
+
+Usada en engine + JSON + frontend + settlement:
+
+- `1`
+- `X`
+- `2`
+- `O2.5`
+- `U2.5`
+- `O3.5`
+- `U3.5`
+- `BTTS_Y`
+- `BTTS_N`
+- `AH_HOME_-0.5`
+- `AH_AWAY_-0.5`
 
 ## Requisitos
 
 - Python 3.10+
 
-No se requieren dependencias externas (solo librería estándar).
+Instalación:
 
----
+```bash
+pip install -r requirements.txt
+```
 
-## Arranque local
+## Ejecución local
 
-1. Generar datos:
+### 1) Generar/actualizar dataset base
 
 ```bash
 python scraper.py laliga
-# o: python scraper.py all
+# o
+python scraper.py all
 ```
 
-2. Ejecutar motor local (predicciones + picks + métricas):
+### 2) Ejecutar pipeline principal
 
 ```bash
 python run_pipeline.py --config engine_config.json
 ```
 
-Esto genera:
+Salida:
+
 - `public-data/data.json`
 - `public-data/picks.json`
 - `public-data/metrics.json`
 - `public-data/model-info.json`
+- `history/snapshots/<snapshot_id>/...`
 
-3. Arrancar servidor:
+### 3) Liquidar picks históricos
+
+```bash
+python settle_picks.py
+```
+
+Opcional: sincronizar último snapshot a `public-data/`:
+
+```bash
+python settle_picks.py --sync-public
+```
+
+### 4) Recalcular métricas rápidas desde `public-data/picks.json`
+
+```bash
+python backtest_runner.py
+```
+
+### 5) Levantar frontend local
 
 ```bash
 python server.py
 ```
 
-4. Abrir en navegador:
+Abrir: `http://localhost:8000/`
 
-- `http://localhost:8000/`
-- Healthcheck: `http://localhost:8000/health`
+## Qué hace `settle_picks.py`
 
----
+- Recorre `history/snapshots/*`.
+- Marca picks `open -> settled` cuando el fixture ya está finalizado.
+- Soporta settlement para:
+  - `1`, `X`, `2`
+  - `O2.5`, `U2.5`
+  - `O3.5`, `U3.5`
+  - `BTTS_Y`, `BTTS_N`
+  - `AH_HOME_-0.5`, `AH_AWAY_-0.5`
+- Recalcula `profit_units` y reescribe:
+  - `picks.json`
+  - `ledger.json`
+  - `metrics.json`
 
-## Variables de entorno
+## Métricas incluidas
 
-- `PORT` (por defecto `8000`)
-- `HOST` (por defecto `0.0.0.0`)
+`metrics.json` incorpora:
 
-Ejemplo:
+- total picks
+- settled picks
+- yield / ROI
+- hit rate
+- average edge
+- average EV
+- average profit
+- Brier score
+- log loss
 
-```bash
-PORT=9000 HOST=0.0.0.0 python server.py
-```
+Agrupaciones:
 
----
+- por mercado
+- por liga
+- por bucket de cuotas (`1.00-1.49`, `1.50-1.99`, `2.00-2.49`, `2.50+`, `N/A`)
+- por bucket de edge (`0-1.99%`, `2-3.99%`, `4-5.99%`, `6%+`, `N/A`)
+- por `pick_type`
 
-## Despliegue
+## Notas de reproducibilidad
 
-### Render
-
-Este repo incluye `render.yaml` y `Procfile`.
-
-Pasos rápidos:
-
-1. Crear servicio Web en Render apuntando al repo.
-2. Render detecta `render.yaml`.
-3. Comando de arranque: `python server.py`.
-
-### Railway
-
-1. Crear proyecto desde el repo.
-2. Configurar variable `PORT` si la plataforma no la inyecta automáticamente.
-3. Start command: `python server.py`.
-
-### Docker
-
-Construir imagen:
-
-```bash
-docker build -t golium .
-```
-
-Ejecutar:
-
-```bash
-docker run --rm -p 8000:8000 golium
-```
-
----
-
-## Estructura principal
-
-- `app.html`: UI y lógica de visualización/mercados.
-- `scraper.py`: ingesta/generación de `data.json`.
-- `server.py`: servidor estático + endpoint de healthcheck.
-- `data.json`: dataset de fixtures generado por scraper.
-- `engine/`: motor local Python (features, modelos, betting, validación).
-- `public-data/`: JSON finales para la web estática.
-
-
-## Cambios recientes
-- Añadido `worldcup` (`fifa.world`) para mostrar el **Mundial 2026**.
-- Añadidos `AH Visita -0.5` y `AH Local +0.5`.
-- Corregido `AH Visita +0.5` para que use la condición correcta (**visita o empate**).
-- Eliminados los mercados `AH Local -1.5`, `AH Visita +1.5` y tarjetas.
-- Añadido `Over/Under 3.5 goles`.
-
-
-## Refactor fase 1 aplicado
-
-Cambios ya aplicados en este zip:
-
-- `app.html` deja de llevar el motor inline y pasa a cargar scripts externos.
-- `app.js` se mantiene como bundle de compatibilidad, pero la fuente real queda separada en `js/`.
-- Nueva separación por responsabilidades:
-  - `js/state.js`
-  - `js/utils.js`
-  - `js/data.js`
-  - `js/model.js`
-  - `js/render.js`
-  - `js/combinada.js`
-  - `js/main.js`
-- Eliminado el fallback aleatorio de forma (`Math.random`) para que el modelo sea reproducible.
-- Añadido `storage.py` + `save_snapshot.py` para empezar a persistir snapshots en SQLite (`golium.db`).
-- Añadido endpoint `GET /api/snapshots` para inspeccionar los últimos snapshots guardados.
-
-### Guardar un snapshot en SQLite
-
-```bash
-python save_snapshot.py
-```
-
-### Ver snapshots
-
-```bash
-http://localhost:8000/api/snapshots
-```
-
-
-## Scraper integrado
-
-El scraper principal (`scraper.py`) ahora integra el enfoque combinado ESPN + Understat + FBref del archivo aportado por el usuario. fileciteturn0file0
-
-- `scraper.py`: scraper principal actual, compatible con la estructura de `data.json` que espera la app.
-- `combined_scraper.py`: copia del scraper aportado, guardada como referencia.
-- `scraper_legacy.py`: antiguo scraper del proyecto, conservado como fallback y para `quiniela`.
-
-### Uso
-
-```bash
-python scraper.py laliga
-python scraper.py all
-python scraper_legacy.py quiniela
-```
-
-### Nota
-
-La integración mantiene el shape del frontend actual, pero el enriquecimiento xG depende de la disponibilidad real de Understat y FBref para cada equipo/competición.
+- El frontend no ejecuta Poisson/Dixon-Coles ni Kelly real.
+- El motor Python es la única fuente de verdad para probabilidades/mercados.
+- Si faltan cuotas reales, se etiqueta explícitamente como `model_pick`.

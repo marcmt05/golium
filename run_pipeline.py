@@ -14,7 +14,7 @@ def main() -> None:
 
     cfg = load_config(args.config)
     result = run_pipeline(cfg)
-    print(f"Pipeline OK: leagues={len(result['data'].get('leagues', {}))} picks={len(result['picks'])}")
+    print(f"Pipeline OK: snapshot={result['snapshot_id']} leagues={len(result['data'].get('leagues', {}))} picks={len(result['picks'])}")
 
 
 if __name__ == "__main__":
