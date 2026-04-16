@@ -8,13 +8,13 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: golium-pipeline
+  cancel-in-progress: true
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-
-    concurrency:
-      group: golium-pipeline
-      cancel-in-progress: true
 
     steps:
       - name: Checkout repo
@@ -33,41 +33,35 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 🔹 SCRAPER
       - name: Run scraper
         run: |
-          echo "Running scraper..."
           python scraper.py all
 
-      # 🔹 VALIDACIÓN DATA.JSON
       - name: Validate data.json
         run: |
-          echo "Validating data.json..."
-          python -c "import json; json.load(open('data.json'))"
+          python -c "import json; json.load(open('data.json', encoding='utf-8'))"
 
-      # 🔹 MOTOR (LO IMPORTANTE)
-      - name: Run pipeline
+      - name: Run model pipeline
         run: |
-          echo "Running model pipeline..."
           python run_pipeline.py --config engine_config.json
 
-      # 🔹 VALIDACIÓN OUTPUTS
       - name: Validate public-data outputs
         run: |
-          echo "Validating outputs..."
-          python -c "import json; json.load(open('public-data/data.json'))"
-          python -c "import json; json.load(open('public-data/picks.json'))"
-          python -c "import json; json.load(open('public-data/metrics.json'))"
-          python -c "import json; json.load(open('public-data/model-info.json'))"
+          python -c "import json; json.load(open('public-data/data.json', encoding='utf-8'))"
+          python -c "import json; json.load(open('public-data/picks.json', encoding='utf-8'))"
+          python -c "import json; json.load(open('public-data/metrics.json', encoding='utf-8'))"
+          python -c "import json; json.load(open('public-data/model-info.json', encoding='utf-8'))"
 
-      # 🔹 COMMIT SOLO SI HAY CAMBIOS
-      - name: Commit & push outputs
+      - name: Commit and push outputs
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data.json public-data/*.json
 
-          git diff --staged --quiet || git commit -m "update golium data $(date -u +'%Y-%m-%d %H:%M UTC')"
-
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "update golium outputs $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
