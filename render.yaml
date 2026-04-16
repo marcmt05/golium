@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: golium
+    env: python
+    plan: free
+    buildCommand: "python -m compileall server.py scraper.py"
+    startCommand: "python server.py"
+    envVars:
+      - key: PORT
+        value: "10000"
