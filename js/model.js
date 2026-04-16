@@ -252,18 +252,37 @@ function matchData(fix, isHyper=false){
   const hN=Math.max(hfr.length||played,5);
   const aN=Math.max(afr.length||aPlayed,5);
 
-  const{λ,μ}=lambdas(
+  let λ, μ, pOut;
+  if(fix.model?.lambda_home!=null && fix.model?.lambda_away!=null && fix.model?.probs){
+    λ = Number(fix.model.lambda_home);
+    μ = Number(fix.model.lambda_away);
+    const probs = fix.model.probs;
+    pOut = {
+      h:Number(probs['1']||0),
+      d:Number(probs['X']||0),
+      a:Number(probs['2']||0),
+      ov:Number(probs['O2.5']||0),
+      un:Number(probs['U2.5']||0),
+      ov35:Number(probs['O3.5']||0),
+      un35:Number(probs['U3.5']||0),
+      bt:Number(probs['BTTS']||0),
+      ahHomeMinus05:Number(probs['AHH-0.5']||0),
+      ahAwayPlus05:100-Number(probs['AHH-0.5']||0),
+      ahAwayMinus05:Number(probs['AHA-0.5']||0),
+      ahHomePlus05:100-Number(probs['AHA-0.5']||0),
+    };
+  } else {
+    const out=lambdas(
     {gf:hGF,ga:hGA,n:hN,form:hForm,pos:hs.position||10,momentum:hMom,
      gfH:hGFH,gaH:hGAH,nH:halfH},
     {gf:aGF,ga:aGA,n:aN,form:aForm,pos:as_.position||10,momentum:aMom,
      gfA:aGFA,gaA:aGAA,nA:halfA},
     lgH,lgA
   );
-  const m=mkts(matrix(λ,μ));
-  const p=v=>Math.round(v*1000)/10;
-  return{hs,as_,hForm,aForm,real:hfr.length>0||afr.length>0,λ,μ,
-    hMom, aMom,
-    p:{
+    λ = out.λ; μ = out.μ;
+    const m=mkts(matrix(λ,μ));
+    const p=v=>Math.round(v*1000)/10;
+    pOut = {
       h:p(m.h),d:p(m.d),a:p(m.a),
       ov:p(m.ov25),un:p(m.un25),
       ov35:p(m.ov35),un35:p(m.un35),
@@ -273,13 +292,22 @@ function matchData(fix, isHyper=false){
       ahAwayPlus05:p(m.ahAwayPlus05),
       ahAwayMinus05:p(m.ahAwayMinus05),
       ahHomePlus05:p(m.ahHomePlus05),
-    }};
+    };
+  }
+  return{hs,as_,hForm,aForm,real:hfr.length>0||afr.length>0,λ,μ,
+    hMom, aMom,
+    p:pOut};
 }
 
 function deriveForm(s){
   if(!s||!s.played) return [];
-  const n=Math.min(s.played,6),pW=(s.wins||0)/Math.max(s.played,1),pD=(s.draws||0)/Math.max(s.played,1);
-  return Array.from({length:n},()=>{const r=Math.random();return r<pW?'W':r<pW+pD?'D':'L';}).reverse();
+  const n=Math.min(s.played,6), pW=(s.wins||0)/Math.max(s.played,1), pD=(s.draws||0)/Math.max(s.played,1);
+  const out = [];
+  for(let i=0;i<n;i++){
+    const t = (i+1)/(n+1);
+    out.push(t <= pW ? 'W' : (t <= pW+pD ? 'D' : 'L'));
+  }
+  return out;
 }
 
 Object.assign(window,{cardTeamKeyCandidates,findCardTeam,deriveCardTeamFallback,calcCardMarkets,pmf,dcTau,matrix,mkts,formMult,calcMomentum,lambdas,kelly,matchData,deriveForm});

@@ -8,5 +8,8 @@ const S = {
   allLeagues: {},      // { key → leagueData } cuando hay multiple ligas
   currentKey: null,    // liga activa actualmente
   cardModel: {teams:{}, fixtures:{}, referees:{}, leagueAvgTotal:3.8},
+  picks: [],
+  metrics: {},
+  modelInfo: {},
 };
 window.S = S;
