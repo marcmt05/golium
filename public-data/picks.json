@@ -1,10 +1,10 @@
 {
-  "snapshot_id": "2026-04-16T23-19-20Z",
-  "generated_at": "2026-04-16T23:19:20+00:00",
+  "snapshot_id": "2026-04-17T10-27-19Z",
+  "generated_at": "2026-04-17T10:27:19+00:00",
   "picks": [
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748469",
       "league": "LaLiga",
@@ -28,8 +28,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748468",
       "league": "LaLiga",
@@ -53,8 +53,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748467",
       "league": "LaLiga",
@@ -78,8 +78,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748471",
       "league": "LaLiga",
@@ -103,8 +103,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748466",
       "league": "LaLiga",
@@ -128,8 +128,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748472",
       "league": "LaLiga",
@@ -153,8 +153,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748465",
       "league": "LaLiga",
@@ -178,8 +178,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748473",
       "league": "LaLiga",
@@ -203,8 +203,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748470",
       "league": "LaLiga",
@@ -228,8 +228,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748464",
       "league": "LaLiga",
@@ -253,8 +253,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748457",
       "league": "LaLiga",
@@ -278,8 +278,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748455",
       "league": "LaLiga",
@@ -303,8 +303,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740921",
       "league": "Premier League",
@@ -328,8 +328,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740924",
       "league": "Premier League",
@@ -353,8 +353,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740918",
       "league": "Premier League",
@@ -378,8 +378,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740920",
       "league": "Premier League",
@@ -403,8 +403,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740922",
       "league": "Premier League",
@@ -428,8 +428,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740919",
       "league": "Premier League",
@@ -453,8 +453,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740925",
       "league": "Premier League",
@@ -478,8 +478,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740917",
       "league": "Premier League",
@@ -503,8 +503,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740916",
       "league": "Premier League",
@@ -528,8 +528,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740923",
       "league": "Premier League",
@@ -553,8 +553,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740928",
       "league": "Premier League",
@@ -578,8 +578,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "740926",
       "league": "Premier League",
@@ -603,8 +603,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746984",
       "league": "Bundesliga",
@@ -628,8 +628,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746979",
       "league": "Bundesliga",
@@ -653,8 +653,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746980",
       "league": "Bundesliga",
@@ -678,8 +678,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746987",
       "league": "Bundesliga",
@@ -703,8 +703,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746986",
       "league": "Bundesliga",
@@ -728,8 +728,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746982",
       "league": "Bundesliga",
@@ -753,8 +753,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746985",
       "league": "Bundesliga",
@@ -778,8 +778,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746983",
       "league": "Bundesliga",
@@ -803,8 +803,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746981",
       "league": "Bundesliga",
@@ -828,8 +828,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746994",
       "league": "Bundesliga",
@@ -853,8 +853,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746988",
       "league": "Bundesliga",
@@ -878,8 +878,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746992",
       "league": "Bundesliga",
@@ -903,8 +903,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737107",
       "league": "Serie A",
@@ -928,8 +928,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737113",
       "league": "Serie A",
@@ -953,8 +953,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737106",
       "league": "Serie A",
@@ -978,8 +978,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737110",
       "league": "Serie A",
@@ -1003,8 +1003,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737108",
       "league": "Serie A",
@@ -1028,8 +1028,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737104",
       "league": "Serie A",
@@ -1053,8 +1053,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737105",
       "league": "Serie A",
@@ -1078,8 +1078,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737109",
       "league": "Serie A",
@@ -1103,8 +1103,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737112",
       "league": "Serie A",
@@ -1128,8 +1128,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737111",
       "league": "Serie A",
@@ -1153,8 +1153,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737116",
       "league": "Serie A",
@@ -1178,8 +1178,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "737115",
       "league": "Serie A",
@@ -1203,8 +1203,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746674",
       "league": "Ligue 1",
@@ -1228,8 +1228,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746676",
       "league": "Ligue 1",
@@ -1253,8 +1253,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746673",
       "league": "Ligue 1",
@@ -1278,8 +1278,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746675",
       "league": "Ligue 1",
@@ -1303,8 +1303,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746678",
       "league": "Ligue 1",
@@ -1328,8 +1328,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746677",
       "league": "Ligue 1",
@@ -1353,8 +1353,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746679",
       "league": "Ligue 1",
@@ -1378,8 +1378,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746681",
       "league": "Ligue 1",
@@ -1403,8 +1403,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746680",
       "league": "Ligue 1",
@@ -1428,8 +1428,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746643",
       "league": "Ligue 1",
@@ -1453,8 +1453,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746683",
       "league": "Ligue 1",
@@ -1478,8 +1478,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "746686",
       "league": "Ligue 1",
@@ -1503,8 +1503,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862893",
       "league": "Champions League",
@@ -1528,8 +1528,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862894",
       "league": "Champions League",
@@ -1553,8 +1553,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862896",
       "league": "Champions League",
@@ -1578,8 +1578,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862895",
       "league": "Champions League",
@@ -1603,8 +1603,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862907",
       "league": "Europa League",
@@ -1628,8 +1628,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862908",
       "league": "Europa League",
@@ -1653,8 +1653,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862910",
       "league": "Europa League",
@@ -1678,8 +1678,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "401862909",
       "league": "Europa League",
@@ -1703,8 +1703,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748909",
       "league": "LaLiga Hypermotion",
@@ -1728,8 +1728,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748913",
       "league": "LaLiga Hypermotion",
@@ -1753,8 +1753,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748911",
       "league": "LaLiga Hypermotion",
@@ -1778,8 +1778,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748914",
       "league": "LaLiga Hypermotion",
@@ -1803,8 +1803,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748919",
       "league": "LaLiga Hypermotion",
@@ -1828,8 +1828,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748916",
       "league": "LaLiga Hypermotion",
@@ -1853,8 +1853,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748910",
       "league": "LaLiga Hypermotion",
@@ -1878,8 +1878,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748915",
       "league": "LaLiga Hypermotion",
@@ -1903,8 +1903,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748917",
       "league": "LaLiga Hypermotion",
@@ -1928,8 +1928,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748912",
       "league": "LaLiga Hypermotion",
@@ -1953,8 +1953,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748918",
       "league": "LaLiga Hypermotion",
@@ -1978,8 +1978,8 @@
       "reason": "λH=1.48, λA=1.10, formH=1.000, formA=1.000"
     },
     {
-      "snapshot_id": "2026-04-16T23-19-20Z",
-      "generated_at": "2026-04-16T23:19:20+00:00",
+      "snapshot_id": "2026-04-17T10-27-19Z",
+      "generated_at": "2026-04-17T10:27:19+00:00",
       "model_version": "golium-engine-v1",
       "fixture_id": "748929",
       "league": "LaLiga Hypermotion",

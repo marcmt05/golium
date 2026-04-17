@@ -5,7 +5,7 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:10:13.556959+00:00",
+      "scrapedAt": "2026-04-17T10:18:42.587089+00:00",
       "fixtures": [
         {
           "id": "748469",
@@ -310,7 +310,7 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:11:56.027444+00:00",
+      "scrapedAt": "2026-04-17T10:20:22.989008+00:00",
       "fixtures": [
         {
           "id": "740921",
@@ -615,7 +615,7 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:14:03.523957+00:00",
+      "scrapedAt": "2026-04-17T10:22:23.429838+00:00",
       "fixtures": [
         {
           "id": "746984",
@@ -920,7 +920,7 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:15:23.016633+00:00",
+      "scrapedAt": "2026-04-17T10:23:40.189790+00:00",
       "fixtures": [
         {
           "id": "737107",
@@ -1225,7 +1225,7 @@
       "leagueKey": "ligue1",
       "leagueSlug": "fra.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:16:43.408377+00:00",
+      "scrapedAt": "2026-04-17T10:24:56.564528+00:00",
       "fixtures": [
         {
           "id": "746674",
@@ -1530,7 +1530,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:17:11.476278+00:00",
+      "scrapedAt": "2026-04-17T10:25:19.823606+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -1643,7 +1643,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:17:43.121130+00:00",
+      "scrapedAt": "2026-04-17T10:25:46.457825+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -1756,7 +1756,7 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-16T23:19:20.720854+00:00",
+      "scrapedAt": "2026-04-17T10:27:19.089686+00:00",
       "fixtures": [
         {
           "id": "748909",
