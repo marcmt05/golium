@@ -5,7 +5,7 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:05:34.045146+00:00",
+      "scrapedAt": "2026-04-19T09:54:24.144457+00:00",
       "fixtures": [
         {
           "id": "748469",
@@ -1462,128 +1462,8 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:09:55.132215+00:00",
+      "scrapedAt": "2026-04-19T09:55:36.392563+00:00",
       "fixtures": [
-        {
-          "id": "740922",
-          "date": "2026-04-18T19:00Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-18T19:00Z",
-          "homeTeam": {
-            "id": "363",
-            "rawId": "363",
-            "name": "Chelsea",
-            "short": "CHE"
-          },
-          "awayTeam": {
-            "id": "360",
-            "rawId": "360",
-            "name": "Manchester United",
-            "short": "MAN"
-          },
-          "homeScore": 0,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null,
-          "model": {
-            "lambda_home": 1.484,
-            "lambda_away": 1.1,
-            "probs": {
-              "1": 47.0,
-              "X": 23.94,
-              "2": 29.07,
-              "O2.5": 47.75,
-              "U2.5": 52.25,
-              "O3.5": 26.05,
-              "U3.5": 73.95,
-              "BTTS_Y": 50.6,
-              "BTTS_N": 49.4,
-              "AH_HOME_-0.5": 47.0,
-              "AH_AWAY_-0.5": 29.07
-            },
-            "markets": [
-              {
-                "key": "1",
-                "prob": 0.46995,
-                "fair_odds": 2.128,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "X",
-                "prob": 0.23936,
-                "fair_odds": 4.178,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "2",
-                "prob": 0.29069,
-                "fair_odds": 3.44,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "O2.5",
-                "prob": 0.47753,
-                "fair_odds": 2.094,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "U2.5",
-                "prob": 0.52247,
-                "fair_odds": 1.914,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "O3.5",
-                "prob": 0.2605,
-                "fair_odds": 3.839,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "U3.5",
-                "prob": 0.7395,
-                "fair_odds": 1.352,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "BTTS_Y",
-                "prob": 0.50601,
-                "fair_odds": 1.976,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "BTTS_N",
-                "prob": 0.49399,
-                "fair_odds": 2.024,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "AH_HOME_-0.5",
-                "prob": 0.46995,
-                "fair_odds": 2.128,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "AH_AWAY_-0.5",
-                "prob": 0.29069,
-                "fair_odds": 3.44,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              }
-            ]
-          }
-        },
         {
           "id": "740919",
           "date": "2026-04-19T13:00Z",
@@ -2903,6 +2783,126 @@
               }
             ]
           }
+        },
+        {
+          "id": "740930",
+          "date": "2026-04-25T14:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-25T14:00Z",
+          "homeTeam": {
+            "id": "371",
+            "rawId": "371",
+            "name": "West Ham United",
+            "short": "WHU"
+          },
+          "awayTeam": {
+            "id": "368",
+            "rawId": "368",
+            "name": "Everton",
+            "short": "EVE"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null,
+          "model": {
+            "lambda_home": 1.484,
+            "lambda_away": 1.1,
+            "probs": {
+              "1": 47.0,
+              "X": 23.94,
+              "2": 29.07,
+              "O2.5": 47.75,
+              "U2.5": 52.25,
+              "O3.5": 26.05,
+              "U3.5": 73.95,
+              "BTTS_Y": 50.6,
+              "BTTS_N": 49.4,
+              "AH_HOME_-0.5": 47.0,
+              "AH_AWAY_-0.5": 29.07
+            },
+            "markets": [
+              {
+                "key": "1",
+                "prob": 0.46995,
+                "fair_odds": 2.128,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "X",
+                "prob": 0.23936,
+                "fair_odds": 4.178,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "2",
+                "prob": 0.29069,
+                "fair_odds": 3.44,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "O2.5",
+                "prob": 0.47753,
+                "fair_odds": 2.094,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "U2.5",
+                "prob": 0.52247,
+                "fair_odds": 1.914,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "O3.5",
+                "prob": 0.2605,
+                "fair_odds": 3.839,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "U3.5",
+                "prob": 0.7395,
+                "fair_odds": 1.352,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "BTTS_Y",
+                "prob": 0.50601,
+                "fair_odds": 1.976,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "BTTS_N",
+                "prob": 0.49399,
+                "fair_odds": 2.024,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "AH_HOME_-0.5",
+                "prob": 0.46995,
+                "fair_odds": 2.128,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "AH_AWAY_-0.5",
+                "prob": 0.29069,
+                "fair_odds": 3.44,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              }
+            ]
+          }
         }
       ],
       "standings": [],
@@ -2919,7 +2919,7 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:16:15.866584+00:00",
+      "scrapedAt": "2026-04-19T09:57:42.109908+00:00",
       "fixtures": [
         {
           "id": "746985",
@@ -4376,128 +4376,8 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:20:59.990477+00:00",
+      "scrapedAt": "2026-04-19T09:58:47.356483+00:00",
       "fixtures": [
-        {
-          "id": "737108",
-          "date": "2026-04-18T18:45Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-18T18:45Z",
-          "homeTeam": {
-            "id": "104",
-            "rawId": "104",
-            "name": "AS Roma",
-            "short": "ROMA"
-          },
-          "awayTeam": {
-            "id": "105",
-            "rawId": "105",
-            "name": "Atalanta",
-            "short": "ATA"
-          },
-          "homeScore": 0,
-          "awayScore": 1,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null,
-          "model": {
-            "lambda_home": 1.484,
-            "lambda_away": 1.1,
-            "probs": {
-              "1": 47.0,
-              "X": 23.94,
-              "2": 29.07,
-              "O2.5": 47.75,
-              "U2.5": 52.25,
-              "O3.5": 26.05,
-              "U3.5": 73.95,
-              "BTTS_Y": 50.6,
-              "BTTS_N": 49.4,
-              "AH_HOME_-0.5": 47.0,
-              "AH_AWAY_-0.5": 29.07
-            },
-            "markets": [
-              {
-                "key": "1",
-                "prob": 0.46995,
-                "fair_odds": 2.128,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "X",
-                "prob": 0.23936,
-                "fair_odds": 4.178,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "2",
-                "prob": 0.29069,
-                "fair_odds": 3.44,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "O2.5",
-                "prob": 0.47753,
-                "fair_odds": 2.094,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "U2.5",
-                "prob": 0.52247,
-                "fair_odds": 1.914,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "O3.5",
-                "prob": 0.2605,
-                "fair_odds": 3.839,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "U3.5",
-                "prob": 0.7395,
-                "fair_odds": 1.352,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "BTTS_Y",
-                "prob": 0.50601,
-                "fair_odds": 1.976,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "BTTS_N",
-                "prob": 0.49399,
-                "fair_odds": 2.024,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "AH_HOME_-0.5",
-                "prob": 0.46995,
-                "fair_odds": 2.128,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              },
-              {
-                "key": "AH_AWAY_-0.5",
-                "prob": 0.29069,
-                "fair_odds": 3.44,
-                "offered_odds": null,
-                "offered_odds_is_real": false
-              }
-            ]
-          }
-        },
         {
           "id": "737104",
           "date": "2026-04-19T10:30Z",
@@ -5817,40 +5697,23 @@
               }
             ]
           }
-        }
-      ],
-      "standings": [],
-      "teamForm": {},
-      "cardModel": {
-        "leagueAvgTotal": 3.8,
-        "teams": {},
-        "referees": {},
-        "fixtures": {}
-      }
-    },
-    "ligue1": {
-      "league": "Ligue 1",
-      "leagueKey": "ligue1",
-      "leagueSlug": "fra.1",
-      "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:23:57.021028+00:00",
-      "fixtures": [
+        },
         {
-          "id": "746675",
-          "date": "2026-04-18T19:05Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-18T19:05Z",
+          "id": "737118",
+          "date": "2026-04-26T16:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-26T16:00Z",
           "homeTeam": {
-            "id": "166",
-            "rawId": "166",
-            "name": "Lille",
-            "short": "LILL"
+            "id": "239",
+            "rawId": "239",
+            "name": "Torino",
+            "short": "TOR"
           },
           "awayTeam": {
-            "id": "2502",
-            "rawId": "2502",
-            "name": "Nice",
-            "short": "NICE"
+            "id": "110",
+            "rawId": "110",
+            "name": "Internazionale",
+            "short": "INT"
           },
           "homeScore": 0,
           "awayScore": 0,
@@ -5954,7 +5817,24 @@
               }
             ]
           }
-        },
+        }
+      ],
+      "standings": [],
+      "teamForm": {},
+      "cardModel": {
+        "leagueAvgTotal": 3.8,
+        "teams": {},
+        "referees": {},
+        "fixtures": {}
+      }
+    },
+    "ligue1": {
+      "league": "Ligue 1",
+      "leagueKey": "ligue1",
+      "leagueSlug": "fra.1",
+      "source": "ESPN + Understat + FBref",
+      "scrapedAt": "2026-04-19T10:00:02.637170+00:00",
+      "fixtures": [
         {
           "id": "746678",
           "date": "2026-04-19T13:00Z",
@@ -7274,6 +7154,126 @@
               }
             ]
           }
+        },
+        {
+          "id": "746684",
+          "date": "2026-04-26T15:15Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-26T15:15Z",
+          "homeTeam": {
+            "id": "3236",
+            "rawId": "3236",
+            "name": "Le Havre AC",
+            "short": "HAC"
+          },
+          "awayTeam": {
+            "id": "177",
+            "rawId": "177",
+            "name": "Metz",
+            "short": "METZ"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null,
+          "model": {
+            "lambda_home": 1.484,
+            "lambda_away": 1.1,
+            "probs": {
+              "1": 47.0,
+              "X": 23.94,
+              "2": 29.07,
+              "O2.5": 47.75,
+              "U2.5": 52.25,
+              "O3.5": 26.05,
+              "U3.5": 73.95,
+              "BTTS_Y": 50.6,
+              "BTTS_N": 49.4,
+              "AH_HOME_-0.5": 47.0,
+              "AH_AWAY_-0.5": 29.07
+            },
+            "markets": [
+              {
+                "key": "1",
+                "prob": 0.46995,
+                "fair_odds": 2.128,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "X",
+                "prob": 0.23936,
+                "fair_odds": 4.178,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "2",
+                "prob": 0.29069,
+                "fair_odds": 3.44,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "O2.5",
+                "prob": 0.47753,
+                "fair_odds": 2.094,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "U2.5",
+                "prob": 0.52247,
+                "fair_odds": 1.914,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "O3.5",
+                "prob": 0.2605,
+                "fair_odds": 3.839,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "U3.5",
+                "prob": 0.7395,
+                "fair_odds": 1.352,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "BTTS_Y",
+                "prob": 0.50601,
+                "fair_odds": 1.976,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "BTTS_N",
+                "prob": 0.49399,
+                "fair_odds": 2.024,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "AH_HOME_-0.5",
+                "prob": 0.46995,
+                "fair_odds": 2.128,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              },
+              {
+                "key": "AH_AWAY_-0.5",
+                "prob": 0.29069,
+                "fair_odds": 3.44,
+                "offered_odds": null,
+                "offered_odds_is_real": false
+              }
+            ]
+          }
         }
       ],
       "standings": [],
@@ -7290,7 +7290,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:25:08.616824+00:00",
+      "scrapedAt": "2026-04-19T10:00:25.582036+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -7787,7 +7787,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:26:09.255084+00:00",
+      "scrapedAt": "2026-04-19T10:00:51.685456+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -8284,7 +8284,7 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-18T19:27:32.507356+00:00",
+      "scrapedAt": "2026-04-19T10:01:58.509212+00:00",
       "fixtures": [
         {
           "id": "748916",
