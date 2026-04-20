@@ -5,7 +5,7 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:01:23.341996+00:00",
+      "scrapedAt": "2026-04-20T10:54:59.094708+00:00",
       "fixtures": [
         {
           "id": "748469",
@@ -310,7 +310,7 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:03:12.880235+00:00",
+      "scrapedAt": "2026-04-20T10:56:43.503292+00:00",
       "fixtures": [
         {
           "id": "740923",
@@ -615,32 +615,8 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:05:23.118094+00:00",
+      "scrapedAt": "2026-04-20T10:58:45.941623+00:00",
       "fixtures": [
-        {
-          "id": "746981",
-          "date": "2026-04-19T17:30Z",
-          "status": "STATUS_SECOND_HALF",
-          "matchday": "2026-04-19T17:30Z",
-          "homeTeam": {
-            "id": "268",
-            "rawId": "268",
-            "name": "Borussia Mönchengladbach",
-            "short": "BMG"
-          },
-          "awayTeam": {
-            "id": "2950",
-            "rawId": "2950",
-            "name": "Mainz",
-            "short": "M05"
-          },
-          "homeScore": 1,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "746994",
           "date": "2026-04-24T18:30Z",
@@ -904,6 +880,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "747000",
+          "date": "2026-05-02T13:30Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-02T13:30Z",
+          "homeTeam": {
+            "id": "125",
+            "rawId": "125",
+            "name": "Eintracht Frankfurt",
+            "short": "SGE"
+          },
+          "awayTeam": {
+            "id": "127",
+            "rawId": "127",
+            "name": "Hamburg SV",
+            "short": "HSV"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -920,32 +920,8 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:06:46.865860+00:00",
+      "scrapedAt": "2026-04-20T11:00:07.458752+00:00",
       "fixtures": [
-        {
-          "id": "737112",
-          "date": "2026-04-19T18:45Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-19T18:45Z",
-          "homeTeam": {
-            "id": "111",
-            "rawId": "111",
-            "name": "Juventus",
-            "short": "JUV"
-          },
-          "awayTeam": {
-            "id": "107",
-            "rawId": "107",
-            "name": "Bologna",
-            "short": "BOL"
-          },
-          "homeScore": 1,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "737111",
           "date": "2026-04-20T18:45Z",
@@ -1209,6 +1185,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "737126",
+          "date": "2026-05-01T18:45Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-01T18:45Z",
+          "homeTeam": {
+            "id": "3956",
+            "rawId": "3956",
+            "name": "Pisa",
+            "short": "PIS"
+          },
+          "awayTeam": {
+            "id": "113",
+            "rawId": "113",
+            "name": "Lecce",
+            "short": "LEC"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -1225,32 +1225,8 @@
       "leagueKey": "ligue1",
       "leagueSlug": "fra.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:08:08.168460+00:00",
+      "scrapedAt": "2026-04-20T11:01:24.138884+00:00",
       "fixtures": [
-        {
-          "id": "746680",
-          "date": "2026-04-19T18:45Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-19T18:45Z",
-          "homeTeam": {
-            "id": "160",
-            "rawId": "160",
-            "name": "Paris Saint-Germain",
-            "short": "PSG"
-          },
-          "awayTeam": {
-            "id": "167",
-            "rawId": "167",
-            "name": "Lyon",
-            "short": "LYON"
-          },
-          "homeScore": 0,
-          "awayScore": 2,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "746643",
           "date": "2026-04-22T17:00Z",
@@ -1514,6 +1490,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "746695",
+          "date": "2026-05-02T15:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-02T15:00Z",
+          "homeTeam": {
+            "id": "160",
+            "rawId": "160",
+            "name": "Paris Saint-Germain",
+            "short": "PSG"
+          },
+          "awayTeam": {
+            "id": "273",
+            "rawId": "273",
+            "name": "Lorient",
+            "short": "LOR"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -1530,7 +1530,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:08:30.634056+00:00",
+      "scrapedAt": "2026-04-20T11:01:46.719307+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -1643,7 +1643,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:08:57.910931+00:00",
+      "scrapedAt": "2026-04-20T11:02:12.738181+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -1756,32 +1756,8 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-19T19:10:39.128224+00:00",
+      "scrapedAt": "2026-04-20T11:03:48.936484+00:00",
       "fixtures": [
-        {
-          "id": "748912",
-          "date": "2026-04-19T19:00Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-19T19:00Z",
-          "homeTeam": {
-            "id": "6832",
-            "rawId": "6832",
-            "name": "Almería",
-            "short": "ALM"
-          },
-          "awayTeam": {
-            "id": "99",
-            "rawId": "99",
-            "name": "Málaga",
-            "short": "MCF"
-          },
-          "homeScore": 0,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "748918",
           "date": "2026-04-20T18:30Z",
@@ -2038,6 +2014,30 @@
             "rawId": "87",
             "name": "Racing Santander",
             "short": "RAC"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
+        },
+        {
+          "id": "748927",
+          "date": "2026-04-27T18:30Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-27T18:30Z",
+          "homeTeam": {
+            "id": "3842",
+            "rawId": "3842",
+            "name": "Cádiz",
+            "short": "CAD"
+          },
+          "awayTeam": {
+            "id": "98",
+            "rawId": "98",
+            "name": "Las Palmas",
+            "short": "LPA"
           },
           "homeScore": 0,
           "awayScore": 0,

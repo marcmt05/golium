@@ -1,7 +1,7 @@
 {
-  "snapshot_id": "2026-04-19T19-10-39Z",
+  "snapshot_id": "2026-04-20T11-03-49Z",
   "model_version": "golium-engine-v1",
-  "generated_at": "2026-04-19T19:10:39+00:00",
+  "generated_at": "2026-04-20T11:03:49+00:00",
   "sources": [
     "espn",
     "understat(fallback)",
