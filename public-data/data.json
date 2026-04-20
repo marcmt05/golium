@@ -5,7 +5,7 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T10:54:59.094708+00:00",
+      "scrapedAt": "2026-04-20T19:16:53.242095+00:00",
       "fixtures": [
         {
           "id": "748469",
@@ -1462,12 +1462,12 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T10:56:43.503292+00:00",
+      "scrapedAt": "2026-04-20T19:18:34.353109+00:00",
       "fixtures": [
         {
           "id": "740923",
           "date": "2026-04-20T19:00Z",
-          "status": "STATUS_SCHEDULED",
+          "status": "STATUS_FIRST_HALF",
           "matchday": "2026-04-20T19:00Z",
           "homeTeam": {
             "id": "384",
@@ -2919,7 +2919,7 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T10:58:45.941623+00:00",
+      "scrapedAt": "2026-04-20T19:20:42.578173+00:00",
       "fixtures": [
         {
           "id": "746994",
@@ -4376,12 +4376,12 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T11:00:07.458752+00:00",
+      "scrapedAt": "2026-04-20T19:22:13.774316+00:00",
       "fixtures": [
         {
           "id": "737111",
           "date": "2026-04-20T18:45Z",
-          "status": "STATUS_SCHEDULED",
+          "status": "STATUS_FIRST_HALF",
           "matchday": "2026-04-20T18:45Z",
           "homeTeam": {
             "id": "113",
@@ -4396,7 +4396,7 @@
             "short": "FIO"
           },
           "homeScore": 0,
-          "awayScore": 0,
+          "awayScore": 1,
           "homeXG": null,
           "homeXGA": null,
           "awayXG": null,
@@ -5833,7 +5833,7 @@
       "leagueKey": "ligue1",
       "leagueSlug": "fra.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T11:01:24.138884+00:00",
+      "scrapedAt": "2026-04-20T19:23:33.132274+00:00",
       "fixtures": [
         {
           "id": "746643",
@@ -7290,7 +7290,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T11:01:46.719307+00:00",
+      "scrapedAt": "2026-04-20T19:23:58.050997+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -7787,7 +7787,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T11:02:12.738181+00:00",
+      "scrapedAt": "2026-04-20T19:24:26.045695+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -8284,12 +8284,12 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T11:03:48.936484+00:00",
+      "scrapedAt": "2026-04-20T19:25:59.118509+00:00",
       "fixtures": [
         {
           "id": "748918",
           "date": "2026-04-20T18:30Z",
-          "status": "STATUS_SCHEDULED",
+          "status": "STATUS_HALFTIME",
           "matchday": "2026-04-20T18:30Z",
           "homeTeam": {
             "id": "90",
@@ -8304,7 +8304,7 @@
             "short": "MIR"
           },
           "homeScore": 0,
-          "awayScore": 0,
+          "awayScore": 1,
           "homeXG": null,
           "homeXGA": null,
           "awayXG": null,
