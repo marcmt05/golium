@@ -5,7 +5,7 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:16:53.242095+00:00",
+      "scrapedAt": "2026-04-21T10:23:26.555027+00:00",
       "fixtures": [
         {
           "id": "748469",
@@ -310,32 +310,8 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:18:34.353109+00:00",
+      "scrapedAt": "2026-04-21T10:25:15.178189+00:00",
       "fixtures": [
-        {
-          "id": "740923",
-          "date": "2026-04-20T19:00Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-20T19:00Z",
-          "homeTeam": {
-            "id": "384",
-            "rawId": "384",
-            "name": "Crystal Palace",
-            "short": "CRY"
-          },
-          "awayTeam": {
-            "id": "371",
-            "rawId": "371",
-            "name": "West Ham United",
-            "short": "WHU"
-          },
-          "homeScore": 0,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "740928",
           "date": "2026-04-21T19:00Z",
@@ -599,6 +575,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "740939",
+          "date": "2026-05-02T14:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-02T14:00Z",
+          "homeTeam": {
+            "id": "337",
+            "rawId": "337",
+            "name": "Brentford",
+            "short": "BRE"
+          },
+          "awayTeam": {
+            "id": "371",
+            "rawId": "371",
+            "name": "West Ham United",
+            "short": "WHU"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -615,7 +615,7 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:20:42.578173+00:00",
+      "scrapedAt": "2026-04-21T10:27:28.358530+00:00",
       "fixtures": [
         {
           "id": "746994",
@@ -920,32 +920,8 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:22:13.774316+00:00",
+      "scrapedAt": "2026-04-21T10:28:51.495854+00:00",
       "fixtures": [
-        {
-          "id": "737111",
-          "date": "2026-04-20T18:45Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-20T18:45Z",
-          "homeTeam": {
-            "id": "113",
-            "rawId": "113",
-            "name": "Lecce",
-            "short": "LEC"
-          },
-          "awayTeam": {
-            "id": "109",
-            "rawId": "109",
-            "name": "Fiorentina",
-            "short": "FIO"
-          },
-          "homeScore": 0,
-          "awayScore": 1,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "737116",
           "date": "2026-04-24T18:45Z",
@@ -1209,6 +1185,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "737128",
+          "date": "2026-05-02T13:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-02T13:00Z",
+          "homeTeam": {
+            "id": "118",
+            "rawId": "118",
+            "name": "Udinese",
+            "short": "UDI"
+          },
+          "awayTeam": {
+            "id": "239",
+            "rawId": "239",
+            "name": "Torino",
+            "short": "TOR"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -1225,7 +1225,7 @@
       "leagueKey": "ligue1",
       "leagueSlug": "fra.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:23:33.132274+00:00",
+      "scrapedAt": "2026-04-21T10:30:13.607020+00:00",
       "fixtures": [
         {
           "id": "746643",
@@ -1469,9 +1469,9 @@
         },
         {
           "id": "746694",
-          "date": "2026-05-01T18:45Z",
+          "date": "2026-05-02T13:00Z",
           "status": "STATUS_SCHEDULED",
-          "matchday": "2026-05-01T18:45Z",
+          "matchday": "2026-05-02T13:00Z",
           "homeTeam": {
             "id": "165",
             "rawId": "165",
@@ -1530,7 +1530,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:23:58.050997+00:00",
+      "scrapedAt": "2026-04-21T10:30:37.779863+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -1643,7 +1643,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:24:26.045695+00:00",
+      "scrapedAt": "2026-04-21T10:31:06.883750+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -1756,32 +1756,8 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-20T19:25:59.118509+00:00",
+      "scrapedAt": "2026-04-21T10:32:54.670162+00:00",
       "fixtures": [
-        {
-          "id": "748918",
-          "date": "2026-04-20T18:30Z",
-          "status": "STATUS_HALFTIME",
-          "matchday": "2026-04-20T18:30Z",
-          "homeTeam": {
-            "id": "90",
-            "rawId": "90",
-            "name": "Deportivo La Coruña",
-            "short": "DEP"
-          },
-          "awayTeam": {
-            "id": "4515",
-            "rawId": "4515",
-            "name": "Mirandés",
-            "short": "MIR"
-          },
-          "homeScore": 0,
-          "awayScore": 1,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "748929",
           "date": "2026-04-24T18:30Z",
@@ -2038,6 +2014,30 @@
             "rawId": "98",
             "name": "Las Palmas",
             "short": "LPA"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
+        },
+        {
+          "id": "748941",
+          "date": "2026-05-01T14:15Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-01T14:15Z",
+          "homeTeam": {
+            "id": "20179",
+            "rawId": "20179",
+            "name": "FC Andorra",
+            "short": "AND"
+          },
+          "awayTeam": {
+            "id": "2737",
+            "rawId": "2737",
+            "name": "Albacete",
+            "short": "ALB"
           },
           "homeScore": 0,
           "awayScore": 0,
