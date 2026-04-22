@@ -3,7 +3,7 @@
   "league_name": "Serie A",
   "league_slug": "ita.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-21T18:59:37Z",
+  "scraped_at": "2026-04-22T11:49:53Z",
   "standings": [
     {
       "rank": 1.0,
@@ -1400,7 +1400,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "0",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "16-10-7"
       },
       "venue": {
@@ -1437,7 +1437,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "0",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "25-3-5"
       },
       "venue": {
@@ -1874,7 +1874,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "3",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "25-3-5"
       },
       "away_team": {
@@ -1920,7 +1920,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "1",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "16-10-7"
       },
       "venue": {
@@ -1985,7 +1985,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "3",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "16-10-6"
       },
       "away_team": {
@@ -1994,7 +1994,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "4",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "24-3-5"
       },
       "venue": {
@@ -2438,7 +2438,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "0",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "16-10-5"
       },
       "venue": {
@@ -2466,7 +2466,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "5",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "23-3-5"
       },
       "away_team": {
@@ -2697,7 +2697,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "1",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "22-3-5"
       },
       "venue": {
@@ -2836,7 +2836,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "5",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "16-9-5"
       },
       "away_team": {
@@ -3132,7 +3132,7 @@
         "abbr": "COMO",
         "normalized_name": "como",
         "score": "2",
-        "form": "LLDWW",
+        "form": "LLLDW",
         "record": "15-9-5"
       },
       "away_team": {
@@ -3354,7 +3354,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "1",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "22-2-5"
       },
       "away_team": {
@@ -3474,7 +3474,7 @@
         "abbr": "INT",
         "normalized_name": "internazionale",
         "score": "0",
-        "form": "WWWDD",
+        "form": "WWWWD",
         "record": "22-1-5"
       },
       "venue": {
@@ -3628,117 +3628,6 @@
       "venue": {
         "name": "Via Del Mare",
         "city": "Lecce",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737057",
-      "date": "2026-03-07T19:45Z",
-      "date_only": "2026-03-07",
-      "name": "Pisa at Juventus",
-      "short_name": "PIS @ JUV",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "111",
-        "name": "Juventus",
-        "abbr": "JUV",
-        "normalized_name": "juventus",
-        "score": "4",
-        "form": "WWWDW",
-        "record": "14-8-6"
-      },
-      "away_team": {
-        "id": "3956",
-        "name": "Pisa",
-        "abbr": "PIS",
-        "normalized_name": "pisa",
-        "score": "0",
-        "form": "LLLLW",
-        "record": "1-12-15"
-      },
-      "venue": {
-        "name": "Allianz Stadium",
-        "city": "Torino",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737062",
-      "date": "2026-03-07T17:00Z",
-      "date_only": "2026-03-07",
-      "name": "Udinese at Atalanta",
-      "short_name": "UDI @ ATA",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "105",
-        "name": "Atalanta",
-        "abbr": "ATA",
-        "normalized_name": "atalanta",
-        "score": "2",
-        "form": "DLWWL",
-        "record": "12-10-6"
-      },
-      "away_team": {
-        "id": "118",
-        "name": "Udinese",
-        "abbr": "UDI",
-        "normalized_name": "udinese",
-        "score": "2",
-        "form": "LWDWL",
-        "record": "10-6-12"
-      },
-      "venue": {
-        "name": "New Balance Arena",
-        "city": "Bergamo",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737060",
-      "date": "2026-03-07T14:00Z",
-      "date_only": "2026-03-07",
-      "name": "Como at Cagliari",
-      "short_name": "COMO @ CAG",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "2925",
-        "name": "Cagliari",
-        "abbr": "CAG",
-        "normalized_name": "cagliari",
-        "score": "1",
-        "form": "LWLLL",
-        "record": "7-9-12"
-      },
-      "away_team": {
-        "id": "2572",
-        "name": "Como",
-        "abbr": "COMO",
-        "normalized_name": "como",
-        "score": "2",
-        "form": "LLDWW",
-        "record": "14-9-5"
-      },
-      "venue": {
-        "name": "Unipol Domus",
-        "city": "Cagliari",
         "country": "Italy"
       }
     }
@@ -4049,48 +3938,6 @@
     }
   },
   "team_form": {
-    "cagliari": {
-      "sequence": "LLLWL",
-      "matches": 5,
-      "wins": 1,
-      "draws": 0,
-      "losses": 5
-    },
-    "como": {
-      "sequence": "WWDLL",
-      "matches": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 2
-    },
-    "atalanta": {
-      "sequence": "DWWLD",
-      "matches": 5,
-      "wins": 2,
-      "draws": 3,
-      "losses": 1
-    },
-    "udinese": {
-      "sequence": "LWDWL",
-      "matches": 5,
-      "wins": 2,
-      "draws": 2,
-      "losses": 2
-    },
-    "juventus": {
-      "sequence": "WDWWW",
-      "matches": 5,
-      "wins": 5,
-      "draws": 1,
-      "losses": 0
-    },
-    "pisa": {
-      "sequence": "WLLLL",
-      "matches": 5,
-      "wins": 1,
-      "draws": 0,
-      "losses": 5
-    },
     "lecce": {
       "sequence": "LLLLD",
       "matches": 5,
@@ -4182,17 +4029,59 @@
       "draws": 1,
       "losses": 1
     },
+    "atalanta": {
+      "sequence": "DWWLD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1
+    },
     "napoli": {
       "sequence": "WWWDL",
       "matches": 5,
       "wins": 3,
       "draws": 1,
       "losses": 1
+    },
+    "udinese": {
+      "sequence": "LWDWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2
+    },
+    "juventus": {
+      "sequence": "WDWWW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0
+    },
+    "pisa": {
+      "sequence": "WLLLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4
+    },
+    "cagliari": {
+      "sequence": "LLLWL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4
+    },
+    "como": {
+      "sequence": "WWDLL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2
     }
   },
   "meta": {
     "fixture_count": 10,
-    "recent_result_count": 59,
+    "recent_result_count": 56,
     "team_count": 20
   }
 }

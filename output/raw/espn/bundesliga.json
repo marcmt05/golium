@@ -3,7 +3,7 @@
   "league_name": "Bundesliga",
   "league_slug": "ger.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-21T18:59:28Z",
+  "scraped_at": "2026-04-22T11:49:29Z",
   "standings": [
     {
       "rank": 1.0,
@@ -3142,228 +3142,6 @@
         "city": "Hamburg Norderstedt",
         "country": "Germany"
       }
-    },
-    {
-      "event_id": "746938",
-      "date": "2026-03-07T17:30Z",
-      "date_only": "2026-03-07",
-      "name": "Borussia Dortmund at FC Cologne",
-      "short_name": "DOR @ KOE",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "122",
-        "name": "FC Cologne",
-        "abbr": "KOE",
-        "normalized_name": "cologne",
-        "score": "1",
-        "form": "DWDDD",
-        "record": "6-6-13"
-      },
-      "away_team": {
-        "id": "124",
-        "name": "Borussia Dortmund",
-        "abbr": "DOR",
-        "normalized_name": "borussia dortmund",
-        "score": "2",
-        "form": "LLWWW",
-        "record": "16-7-2"
-      },
-      "venue": {
-        "name": "RheinEnergieStadion",
-        "city": "Cologne",
-        "country": "Germany"
-      }
-    },
-    {
-      "event_id": "746942",
-      "date": "2026-03-07T14:30Z",
-      "date_only": "2026-03-07",
-      "name": "FC Augsburg at RB Leipzig",
-      "short_name": "FCA @ RBL",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "11420",
-        "name": "RB Leipzig",
-        "abbr": "RBL",
-        "normalized_name": "rb leipzig",
-        "score": "2",
-        "form": "WWWWL",
-        "record": "14-5-6"
-      },
-      "away_team": {
-        "id": "3841",
-        "name": "FC Augsburg",
-        "abbr": "FCA",
-        "normalized_name": "augsburg",
-        "score": "1",
-        "form": "WDDLL",
-        "record": "9-4-12"
-      },
-      "venue": {
-        "name": "Red Bull Arena",
-        "city": "Leipzig",
-        "country": "Germany"
-      }
-    },
-    {
-      "event_id": "746940",
-      "date": "2026-03-07T14:30Z",
-      "date_only": "2026-03-07",
-      "name": "Hamburg SV at VfL Wolfsburg",
-      "short_name": "HSV @ WOB",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "138",
-        "name": "VfL Wolfsburg",
-        "abbr": "WOB",
-        "normalized_name": "vfl wolfsburg",
-        "score": "1",
-        "form": "WLLLD",
-        "record": "5-5-15"
-      },
-      "away_team": {
-        "id": "127",
-        "name": "Hamburg SV",
-        "abbr": "HSV",
-        "normalized_name": "hamburg sv",
-        "score": "2",
-        "form": "LLDLD",
-        "record": "7-8-10"
-      },
-      "venue": {
-        "name": "Volkswagen Arena",
-        "city": "Wolfsburg",
-        "country": "Germany"
-      }
-    },
-    {
-      "event_id": "746939",
-      "date": "2026-03-07T14:30Z",
-      "date_only": "2026-03-07",
-      "name": "TSG Hoffenheim at 1. FC Heidenheim 1846",
-      "short_name": "TSG @ HDH",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "6418",
-        "name": "1. FC Heidenheim 1846",
-        "abbr": "HDH",
-        "normalized_name": "1 heidenheim 1846",
-        "score": "2",
-        "form": "LWDDL",
-        "record": "3-5-17"
-      },
-      "away_team": {
-        "id": "7911",
-        "name": "TSG Hoffenheim",
-        "abbr": "TSG",
-        "normalized_name": "tsg hoffenheim",
-        "score": "4",
-        "form": "WDLLD",
-        "record": "15-4-6"
-      },
-      "venue": {
-        "name": "Voith-Arena",
-        "city": "Heidenheim",
-        "country": "Germany"
-      }
-    },
-    {
-      "event_id": "746936",
-      "date": "2026-03-07T14:30Z",
-      "date_only": "2026-03-07",
-      "name": "VfB Stuttgart at Mainz",
-      "short_name": "VFB @ M05",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "2950",
-        "name": "Mainz",
-        "abbr": "M05",
-        "normalized_name": "mainz",
-        "score": "2",
-        "form": "DLLWW",
-        "record": "5-9-11"
-      },
-      "away_team": {
-        "id": "134",
-        "name": "VfB Stuttgart",
-        "abbr": "VFB",
-        "normalized_name": "vfb stuttgart",
-        "score": "2",
-        "form": "LWLWL",
-        "record": "14-5-6"
-      },
-      "venue": {
-        "name": "MEWA ARENA",
-        "city": "Mainz",
-        "country": "Germany"
-      }
-    },
-    {
-      "event_id": "746934",
-      "date": "2026-03-07T14:30Z",
-      "date_only": "2026-03-07",
-      "name": "Bayer Leverkusen at SC Freiburg",
-      "short_name": "B04 @ SCF",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "126",
-        "name": "SC Freiburg",
-        "abbr": "SCF",
-        "normalized_name": "freiburg",
-        "score": "3",
-        "form": "WWWWL",
-        "record": "9-7-9"
-      },
-      "away_team": {
-        "id": "131",
-        "name": "Bayer Leverkusen",
-        "abbr": "B04",
-        "normalized_name": "bayer leverkusen",
-        "score": "3",
-        "form": "LWWDL",
-        "record": "13-5-7"
-      },
-      "venue": {
-        "name": "Europa-Park Stadion",
-        "city": "Freiburg im Breisgau",
-        "country": "Germany"
-      }
     }
   ],
   "team_index": {
@@ -3654,90 +3432,6 @@
     }
   },
   "team_form": {
-    "rb leipzig": {
-      "sequence": "LWWWW",
-      "matches": 5,
-      "wins": 5,
-      "draws": 0,
-      "losses": 1
-    },
-    "augsburg": {
-      "sequence": "LLDDW",
-      "matches": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3
-    },
-    "vfl wolfsburg": {
-      "sequence": "DLLLW",
-      "matches": 5,
-      "wins": 1,
-      "draws": 1,
-      "losses": 4
-    },
-    "hamburg sv": {
-      "sequence": "DLDLL",
-      "matches": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3
-    },
-    "1 heidenheim 1846": {
-      "sequence": "LDDWL",
-      "matches": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3
-    },
-    "tsg hoffenheim": {
-      "sequence": "DLLDW",
-      "matches": 5,
-      "wins": 2,
-      "draws": 2,
-      "losses": 2
-    },
-    "mainz": {
-      "sequence": "WWWLD",
-      "matches": 5,
-      "wins": 3,
-      "draws": 2,
-      "losses": 1
-    },
-    "vfb stuttgart": {
-      "sequence": "WWLWL",
-      "matches": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 2
-    },
-    "freiburg": {
-      "sequence": "LWLWW",
-      "matches": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 2
-    },
-    "bayer leverkusen": {
-      "sequence": "DDWWL",
-      "matches": 5,
-      "wins": 2,
-      "draws": 3,
-      "losses": 1
-    },
-    "cologne": {
-      "sequence": "DDDWD",
-      "matches": 5,
-      "wins": 1,
-      "draws": 4,
-      "losses": 1
-    },
-    "borussia dortmund": {
-      "sequence": "WWWLL",
-      "matches": 5,
-      "wins": 4,
-      "draws": 0,
-      "losses": 2
-    },
     "st pauli": {
       "sequence": "LLDLD",
       "matches": 5,
@@ -3773,17 +3467,101 @@
       "draws": 3,
       "losses": 1
     },
+    "borussia dortmund": {
+      "sequence": "WWWLL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
+    "augsburg": {
+      "sequence": "LLDDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "bayer leverkusen": {
+      "sequence": "DDWWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1
+    },
     "bayern munich": {
       "sequence": "DWWWW",
       "matches": 5,
       "wins": 4,
       "draws": 1,
       "losses": 0
+    },
+    "tsg hoffenheim": {
+      "sequence": "DLLDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "vfl wolfsburg": {
+      "sequence": "DLLLW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3
+    },
+    "1 heidenheim 1846": {
+      "sequence": "LDDWL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "hamburg sv": {
+      "sequence": "DLDLL",
+      "matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3
+    },
+    "cologne": {
+      "sequence": "DDDWD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 4,
+      "losses": 0
+    },
+    "mainz": {
+      "sequence": "WWWLD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "freiburg": {
+      "sequence": "LWLWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
+    "vfb stuttgart": {
+      "sequence": "WWLWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
+    "rb leipzig": {
+      "sequence": "LWWWW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1
     }
   },
   "meta": {
     "fixture_count": 9,
-    "recent_result_count": 53,
+    "recent_result_count": 47,
     "team_count": 18
   }
 }

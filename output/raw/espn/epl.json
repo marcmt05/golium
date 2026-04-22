@@ -3,7 +3,7 @@
   "league_name": "Premier League",
   "league_slug": "eng.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-21T18:59:16Z",
+  "scraped_at": "2026-04-22T11:49:08Z",
   "standings": [
     {
       "rank": 1.0,
@@ -302,43 +302,43 @@
     },
     {
       "rank": 6.0,
-      "team_id": "363",
-      "team_name": "Chelsea",
-      "team_short_name": "Chelsea",
-      "team_abbr": "CHE",
-      "normalized_name": "chelsea",
-      "played": 33.0,
+      "team_id": "331",
+      "team_name": "Brighton & Hove Albion",
+      "team_short_name": "Brighton",
+      "team_abbr": "BHA",
+      "normalized_name": "brighton and hove albion",
+      "played": 34.0,
       "wins": 13.0,
-      "draws": 9.0,
-      "losses": 11.0,
-      "goals_for": 53.0,
-      "goals_against": 42.0,
-      "goal_difference": 11.0,
-      "points": 48.0,
-      "form": "LLLL",
+      "draws": 11.0,
+      "losses": 10.0,
+      "goals_for": 48.0,
+      "goals_against": 39.0,
+      "goal_difference": 9.0,
+      "points": 50.0,
+      "form": "WWWDW",
       "status": "Europa League",
       "raw_stats": {
-        "gamesPlayed": 33.0,
-        "Games Played": "33",
-        "GP": "33",
-        "losses": 11.0,
-        "Losses": "11",
-        "L": "11",
-        "pointDifferential": 11.0,
-        "Goal Difference": "+11",
-        "GD": "+11",
-        "points": 48.0,
-        "Points": "48",
-        "P": "48",
-        "pointsAgainst": 42.0,
-        "Goals Against": "42",
-        "A": "42",
-        "pointsFor": 53.0,
-        "Goals For": "53",
-        "F": "53",
-        "ties": 9.0,
-        "Draws": "9",
-        "D": "9",
+        "gamesPlayed": 34.0,
+        "Games Played": "34",
+        "GP": "34",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 9.0,
+        "Goal Difference": "+9",
+        "GD": "+9",
+        "points": 50.0,
+        "Points": "50",
+        "P": "50",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
         "wins": 13.0,
         "Wins": "13",
         "W": "13",
@@ -354,13 +354,72 @@
         "rankChange": 0.0,
         "Rank Change": "0",
         "RC": "0",
-        "overall": "13-9-11",
-        "Overall": "13-9-11",
-        "Total": "13-9-11"
+        "overall": "13-11-10",
+        "Overall": "13-11-10",
+        "Total": "13-11-10"
       }
     },
     {
       "rank": 7.0,
+      "team_id": "363",
+      "team_name": "Chelsea",
+      "team_short_name": "Chelsea",
+      "team_abbr": "CHE",
+      "normalized_name": "chelsea",
+      "played": 34.0,
+      "wins": 13.0,
+      "draws": 9.0,
+      "losses": 12.0,
+      "goals_for": 53.0,
+      "goals_against": 45.0,
+      "goal_difference": 8.0,
+      "points": 48.0,
+      "form": "LLLLL",
+      "status": "Conference League Playoff Round",
+      "raw_stats": {
+        "gamesPlayed": 34.0,
+        "Games Played": "34",
+        "GP": "34",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": 8.0,
+        "Goal Difference": "+8",
+        "GD": "+8",
+        "points": 48.0,
+        "Points": "48",
+        "P": "48",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 53.0,
+        "Goals For": "53",
+        "F": "53",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-9-12",
+        "Overall": "13-9-12",
+        "Total": "13-9-12"
+      }
+    },
+    {
+      "rank": 8.0,
       "team_id": "337",
       "team_name": "Brentford",
       "team_short_name": "Brentford",
@@ -375,7 +434,7 @@
       "goal_difference": 4.0,
       "points": 48.0,
       "form": "DDDD",
-      "status": "Conference League Playoff Round",
+      "status": null,
       "raw_stats": {
         "gamesPlayed": 33.0,
         "Games Played": "33",
@@ -407,9 +466,9 @@
         "ppg": 0.0,
         "Points Per Game": "0",
         "PPG": "0",
-        "rank": 7.0,
-        "Rank": "7",
-        "R": "7",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
         "rankChange": 0.0,
         "Rank Change": "0",
         "RC": "0",
@@ -419,7 +478,7 @@
       }
     },
     {
-      "rank": 8.0,
+      "rank": 9.0,
       "team_id": "349",
       "team_name": "AFC Bournemouth",
       "team_short_name": "Bournemouth",
@@ -466,74 +525,15 @@
         "ppg": 0.0,
         "Points Per Game": "0",
         "PPG": "0",
-        "rank": 8.0,
-        "Rank": "8",
-        "R": "8",
-        "rankChange": 0.0,
-        "Rank Change": "0",
-        "RC": "0",
-        "overall": "11-15-7",
-        "Overall": "11-15-7",
-        "Total": "11-15-7"
-      }
-    },
-    {
-      "rank": 9.0,
-      "team_id": "331",
-      "team_name": "Brighton & Hove Albion",
-      "team_short_name": "Brighton",
-      "team_abbr": "BHA",
-      "normalized_name": "brighton and hove albion",
-      "played": 33.0,
-      "wins": 12.0,
-      "draws": 11.0,
-      "losses": 10.0,
-      "goals_for": 45.0,
-      "goals_against": 39.0,
-      "goal_difference": 6.0,
-      "points": 47.0,
-      "form": "WWWD",
-      "status": null,
-      "raw_stats": {
-        "gamesPlayed": 33.0,
-        "Games Played": "33",
-        "GP": "33",
-        "losses": 10.0,
-        "Losses": "10",
-        "L": "10",
-        "pointDifferential": 6.0,
-        "Goal Difference": "+6",
-        "GD": "+6",
-        "points": 47.0,
-        "Points": "47",
-        "P": "47",
-        "pointsAgainst": 39.0,
-        "Goals Against": "39",
-        "A": "39",
-        "pointsFor": 45.0,
-        "Goals For": "45",
-        "F": "45",
-        "ties": 11.0,
-        "Draws": "11",
-        "D": "11",
-        "wins": 12.0,
-        "Wins": "12",
-        "W": "12",
-        "deductions": 0.0,
-        "Point Deductions": "",
-        "PD": "",
-        "ppg": 0.0,
-        "Points Per Game": "0",
-        "PPG": "0",
         "rank": 9.0,
         "Rank": "9",
         "R": "9",
         "rankChange": 0.0,
         "Rank Change": "0",
         "RC": "0",
-        "overall": "12-11-10",
-        "Overall": "12-11-10",
-        "Total": "12-11-10"
+        "overall": "11-15-7",
+        "Overall": "11-15-7",
+        "Total": "11-15-7"
       }
     },
     {
@@ -1188,43 +1188,6 @@
   ],
   "fixtures": [
     {
-      "event_id": "740928",
-      "date": "2026-04-21T19:00Z",
-      "date_only": "2026-04-21",
-      "name": "Chelsea at Brighton & Hove Albion",
-      "short_name": "CHE @ BHA",
-      "status": {
-        "state": "pre",
-        "completed": false,
-        "description": "Scheduled",
-        "detail": "Tue, April 21st at 3:00 PM EDT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "331",
-        "name": "Brighton & Hove Albion",
-        "abbr": "BHA",
-        "normalized_name": "brighton and hove albion",
-        "score": "0",
-        "form": "DWWWL",
-        "record": "12-11-10"
-      },
-      "away_team": {
-        "id": "363",
-        "name": "Chelsea",
-        "abbr": "CHE",
-        "normalized_name": "chelsea",
-        "score": "0",
-        "form": "LLWLL",
-        "record": "13-9-11"
-      },
-      "venue": {
-        "name": "American Express Stadium",
-        "city": "Falmer",
-        "country": "England"
-      }
-    },
-    {
       "event_id": "740926",
       "date": "2026-04-22T19:00Z",
       "date_only": "2026-04-22",
@@ -1560,6 +1523,43 @@
   ],
   "recent_results": [
     {
+      "event_id": "740928",
+      "date": "2026-04-21T19:00Z",
+      "date_only": "2026-04-21",
+      "name": "Chelsea at Brighton & Hove Albion",
+      "short_name": "CHE @ BHA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "3",
+        "form": "WDWWW",
+        "record": "13-11-10"
+      },
+      "away_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "13-9-12"
+      },
+      "venue": {
+        "name": "American Express Stadium",
+        "city": "Falmer",
+        "country": "England"
+      }
+    },
+    {
       "event_id": "740923",
       "date": "2026-04-20T19:00Z",
       "date_only": "2026-04-20",
@@ -1763,7 +1763,7 @@
         "abbr": "CHE",
         "normalized_name": "chelsea",
         "score": "0",
-        "form": "LLWLL",
+        "form": "LLLWL",
         "record": "13-9-11"
       },
       "away_team": {
@@ -1809,7 +1809,7 @@
         "abbr": "BHA",
         "normalized_name": "brighton and hove albion",
         "score": "2",
-        "form": "DWWWL",
+        "form": "WDWWW",
         "record": "12-11-10"
       },
       "venue": {
@@ -1985,7 +1985,7 @@
         "abbr": "CHE",
         "normalized_name": "chelsea",
         "score": "0",
-        "form": "LLWLL",
+        "form": "LLLWL",
         "record": "13-9-10"
       },
       "away_team": {
@@ -2179,7 +2179,7 @@
         "abbr": "BHA",
         "normalized_name": "brighton and hove albion",
         "score": "2",
-        "form": "DWWWL",
+        "form": "WDWWW",
         "record": "12-10-10"
       },
       "venue": {
@@ -2475,7 +2475,7 @@
         "abbr": "CHE",
         "normalized_name": "chelsea",
         "score": "0",
-        "form": "LLWLL",
+        "form": "LLLWL",
         "record": "13-9-9"
       },
       "venue": {
@@ -2540,7 +2540,7 @@
         "abbr": "BHA",
         "normalized_name": "brighton and hove albion",
         "score": "2",
-        "form": "DWWWL",
+        "form": "WDWWW",
         "record": "11-10-10"
       },
       "away_team": {
@@ -2836,7 +2836,7 @@
         "abbr": "CHE",
         "normalized_name": "chelsea",
         "score": "0",
-        "form": "LLWLL",
+        "form": "LLLWL",
         "record": "13-9-8"
       },
       "away_team": {
@@ -2919,7 +2919,7 @@
         "abbr": "BHA",
         "normalized_name": "brighton and hove albion",
         "score": "1",
-        "form": "DWWWL",
+        "form": "WDWWW",
         "record": "10-10-10"
       },
       "venue": {
@@ -3288,9 +3288,9 @@
       "losses": 2
     },
     "brighton and hove albion": {
-      "sequence": "WWWD",
-      "matches": 4,
-      "wins": 3,
+      "sequence": "WWWDW",
+      "matches": 5,
+      "wins": 4,
       "draws": 1,
       "losses": 0
     },
@@ -3309,11 +3309,11 @@
       "losses": 0
     },
     "chelsea": {
-      "sequence": "LLLL",
-      "matches": 4,
+      "sequence": "LLLLL",
+      "matches": 5,
       "wins": 0,
       "draws": 0,
-      "losses": 4
+      "losses": 5
     },
     "newcastle united": {
       "sequence": "WLLL",
@@ -3422,8 +3422,8 @@
     }
   },
   "meta": {
-    "fixture_count": 10,
-    "recent_result_count": 38,
+    "fixture_count": 9,
+    "recent_result_count": 39,
     "team_count": 20
   }
 }

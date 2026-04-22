@@ -3,7 +3,7 @@
   "league_name": "LaLiga Hypermotion",
   "league_slug": "esp.2",
   "source": "ESPN",
-  "scraped_at": "2026-04-21T18:59:11Z",
+  "scraped_at": "2026-04-22T11:48:40Z",
   "standings": [
     {
       "rank": 1.0,
@@ -4784,154 +4784,6 @@
         "city": "Las Palmas de Gran Canaria",
         "country": "Spain"
       }
-    },
-    {
-      "event_id": "748836",
-      "date": "2026-03-07T20:00Z",
-      "date_only": "2026-03-07",
-      "name": "Real Valladolid at Málaga",
-      "short_name": "VLL @ MCF",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "99",
-        "name": "Málaga",
-        "abbr": "MCF",
-        "normalized_name": "malaga",
-        "score": "3",
-        "form": "LWDDD",
-        "record": "14-6-9"
-      },
-      "away_team": {
-        "id": "95",
-        "name": "Real Valladolid",
-        "abbr": "VLL",
-        "normalized_name": "real valladolid",
-        "score": "3",
-        "form": "LDLWL",
-        "record": "8-9-12"
-      },
-      "venue": {
-        "name": "La Rosaleda",
-        "city": "Malaga",
-        "country": "Spain"
-      }
-    },
-    {
-      "event_id": "748839",
-      "date": "2026-03-07T17:30Z",
-      "date_only": "2026-03-07",
-      "name": "Mirandés at Burgos",
-      "short_name": "MIR @ BUR",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "12597",
-        "name": "Burgos",
-        "abbr": "BUR",
-        "normalized_name": "burgos",
-        "score": "2",
-        "form": "LWWDW",
-        "record": "13-7-9"
-      },
-      "away_team": {
-        "id": "4515",
-        "name": "Mirandés",
-        "abbr": "MIR",
-        "normalized_name": "mirandes",
-        "score": "0",
-        "form": "LDWDD",
-        "record": "6-6-17"
-      },
-      "venue": {
-        "name": "Estadio Municipal de El Plantío",
-        "city": "Burgos",
-        "country": "Spain"
-      }
-    },
-    {
-      "event_id": "748840",
-      "date": "2026-03-07T15:15Z",
-      "date_only": "2026-03-07",
-      "name": "Albacete at Huesca",
-      "short_name": "ALB @ HUE",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "5413",
-        "name": "Huesca",
-        "abbr": "HUE",
-        "normalized_name": "huesca",
-        "score": "0",
-        "form": "LDLDL",
-        "record": "8-7-14"
-      },
-      "away_team": {
-        "id": "2737",
-        "name": "Albacete",
-        "abbr": "ALB",
-        "normalized_name": "albacete",
-        "score": "0",
-        "form": "WLLDD",
-        "record": "9-9-11"
-      },
-      "venue": {
-        "name": "Estadio El Alcoraz",
-        "city": "Huesca",
-        "country": "Spain"
-      }
-    },
-    {
-      "event_id": "748833",
-      "date": "2026-03-07T15:15Z",
-      "date_only": "2026-03-07",
-      "name": "Castellón at Real Sociedad II",
-      "short_name": "CAS @ RSO2",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "20983",
-        "name": "Real Sociedad II",
-        "abbr": "RSO2",
-        "normalized_name": "real sociedad ii",
-        "score": "4",
-        "form": "LDLLL",
-        "record": "10-7-12"
-      },
-      "away_team": {
-        "id": "4438",
-        "name": "Castellón",
-        "abbr": "CAS",
-        "normalized_name": "castellon",
-        "score": "2",
-        "form": "WDWWD",
-        "record": "14-7-8"
-      },
-      "venue": {
-        "name": "Estadio Zubieta XXI",
-        "city": "Donostia-San Sebastian",
-        "country": "Spain"
-      }
     }
   ],
   "team_index": {
@@ -5272,62 +5124,6 @@
     }
   },
   "team_form": {
-    "huesca": {
-      "sequence": "LDLDL",
-      "matches": 5,
-      "wins": 0,
-      "draws": 3,
-      "losses": 5
-    },
-    "albacete": {
-      "sequence": "DDLLW",
-      "matches": 5,
-      "wins": 3,
-      "draws": 3,
-      "losses": 2
-    },
-    "real sociedad ii": {
-      "sequence": "LLLDL",
-      "matches": 5,
-      "wins": 2,
-      "draws": 1,
-      "losses": 5
-    },
-    "castellon": {
-      "sequence": "DWWDW",
-      "matches": 5,
-      "wins": 3,
-      "draws": 3,
-      "losses": 2
-    },
-    "burgos": {
-      "sequence": "WDWWL",
-      "matches": 5,
-      "wins": 5,
-      "draws": 2,
-      "losses": 1
-    },
-    "mirandes": {
-      "sequence": "DDWDL",
-      "matches": 5,
-      "wins": 2,
-      "draws": 3,
-      "losses": 3
-    },
-    "malaga": {
-      "sequence": "DDDWL",
-      "matches": 5,
-      "wins": 3,
-      "draws": 4,
-      "losses": 1
-    },
-    "real valladolid": {
-      "sequence": "LWLDL",
-      "matches": 5,
-      "wins": 2,
-      "draws": 2,
-      "losses": 4
-    },
     "las palmas": {
       "sequence": "LWWLW",
       "matches": 5,
@@ -5412,6 +5208,13 @@
       "draws": 2,
       "losses": 5
     },
+    "mirandes": {
+      "sequence": "DDWDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 2
+    },
     "cadiz": {
       "sequence": "LLLLL",
       "matches": 5,
@@ -5425,11 +5228,60 @@
       "wins": 2,
       "draws": 2,
       "losses": 3
+    },
+    "real valladolid": {
+      "sequence": "LWLDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 4
+    },
+    "real sociedad ii": {
+      "sequence": "LLLDL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5
+    },
+    "malaga": {
+      "sequence": "DDDWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 3,
+      "losses": 1
+    },
+    "huesca": {
+      "sequence": "LDLDL",
+      "matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 5
+    },
+    "burgos": {
+      "sequence": "WDWWL",
+      "matches": 5,
+      "wins": 4,
+      "draws": 2,
+      "losses": 1
+    },
+    "castellon": {
+      "sequence": "DWWDW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 3,
+      "losses": 1
+    },
+    "albacete": {
+      "sequence": "DDLLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 2
     }
   },
   "meta": {
     "fixture_count": 11,
-    "recent_result_count": 87,
+    "recent_result_count": 83,
     "team_count": 22
   }
 }
