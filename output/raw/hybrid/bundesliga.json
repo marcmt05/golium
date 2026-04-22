@@ -3,7 +3,7 @@
   "league_name": "Bundesliga",
   "league_slug": "ger.1",
   "source": "ESPN+SofaScore",
-  "scraped_at": "2026-04-22T11:49:42Z",
+  "scraped_at": "2026-04-22T19:24:30Z",
   "standings": [
     {
       "rank": 1.0,
@@ -1254,7 +1254,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:52+00:00"
+                "expectedEndDate": "2026-05-06T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -1619,6 +1619,34 @@
       "sofascore_event_id": "14065257",
       "round": 31,
       "winner_code": null,
+      "referee": {
+        "name": "Sven Jablonski",
+        "slug": "jablonski-sven",
+        "yellowCards": 1232,
+        "redCards": 22,
+        "yellowRedCards": 26,
+        "games": 318,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 102954,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جابلونسكي، سفين",
+            "bn": "জাবলনস্কি, সোভেন",
+            "hi": "जाब्लोंस्की, स्वेन"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Ole Werner",
       "manager_away": "Marie-Louise Eta"
     },
@@ -1903,7 +1931,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -2356,6 +2384,34 @@
       "sofascore_event_id": "14065231",
       "round": 31,
       "winner_code": null,
+      "referee": {
+        "name": "Harm Osmers",
+        "slug": "osmers-harm",
+        "yellowCards": 1482,
+        "redCards": 33,
+        "yellowRedCards": 42,
+        "games": 352,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 70951,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوسميرس، هارم",
+            "bn": "অজমারস, হার্ম",
+            "hi": "ओसमर्स, हार्म"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Manuel Baum",
       "manager_away": "Albert Riera"
     },
@@ -2599,7 +2655,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:55+00:00"
+                "expectedEndDate": "2026-05-06T16:00:34+00:00"
               },
               {
                 "player": {
@@ -2687,7 +2743,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:25+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               }
             ],
             "starters": [],
@@ -2830,6 +2886,32 @@
       "sofascore_event_id": "14065228",
       "round": 31,
       "winner_code": null,
+      "referee": {
+        "name": "Robin Braun",
+        "slug": "braun-robin",
+        "yellowCards": 616,
+        "redCards": 13,
+        "yellowRedCards": 8,
+        "games": 134,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 786331,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبن براون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Niko Kovač",
       "manager_away": "Julian Schuster"
     }
@@ -4557,7 +4639,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:52+00:00"
+                "expectedEndDate": "2026-05-06T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -6278,7 +6360,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:55+00:00"
+                "expectedEndDate": "2026-05-06T16:00:34+00:00"
               },
               {
                 "player": {
@@ -6366,7 +6448,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:25+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               }
             ],
             "starters": [
@@ -8427,7 +8509,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:35+00:00"
               },
               {
                 "player": {
@@ -10323,7 +10405,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:35+00:00"
               },
               {
                 "player": {

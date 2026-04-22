@@ -3,7 +3,7 @@
   "league_name": "LaLiga",
   "league_slug": "esp.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-22T11:48:14Z",
+  "scraped_at": "2026-04-22T19:23:06Z",
   "standings": [
     {
       "rank": 1.0,
@@ -197,7 +197,7 @@
       "goals_against": 32.0,
       "goal_difference": 19.0,
       "points": 57.0,
-      "form": "WLLL",
+      "form": "WLLLL",
       "status": "Champions League",
       "raw_stats": {
         "gamesPlayed": 31.0,
@@ -1023,7 +1023,7 @@
       "goals_against": 47.0,
       "goal_difference": -8.0,
       "points": 32.0,
-      "form": "LLWLW",
+      "form": "LWLWW",
       "status": "Relegation",
       "raw_stats": {
         "gamesPlayed": 31.0,
@@ -1188,53 +1188,16 @@
   ],
   "fixtures": [
     {
-      "event_id": "748466",
-      "date": "2026-04-22T17:00Z",
-      "date_only": "2026-04-22",
-      "name": "Atlético Madrid at Elche",
-      "short_name": "ATM @ ELC",
-      "status": {
-        "state": "pre",
-        "completed": false,
-        "description": "Scheduled",
-        "detail": "Wed, April 22nd at 1:00 PM EDT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "3751",
-        "name": "Elche",
-        "abbr": "ELC",
-        "normalized_name": "elche",
-        "score": "0",
-        "form": "WLWLL",
-        "record": "7-11-13"
-      },
-      "away_team": {
-        "id": "1068",
-        "name": "Atlético Madrid",
-        "abbr": "ATM",
-        "normalized_name": "atletico madrid",
-        "score": "0",
-        "form": "LLLWL",
-        "record": "17-6-8"
-      },
-      "venue": {
-        "name": "Estadio Martínez Valero",
-        "city": "Elche",
-        "country": "Spain"
-      }
-    },
-    {
       "event_id": "748472",
       "date": "2026-04-22T18:00Z",
       "date_only": "2026-04-22",
       "name": "Getafe at Real Sociedad",
       "short_name": "GET @ RSO",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Wed, April 22nd at 2:00 PM EDT"
+        "description": "Second Half",
+        "detail": "59'"
       },
       "season_year": 2025,
       "home_team": {
@@ -1251,7 +1214,7 @@
         "name": "Getafe",
         "abbr": "GET",
         "normalized_name": "getafe",
-        "score": "0",
+        "score": "1",
         "form": "LWWLW",
         "record": "12-5-14"
       },
@@ -1576,7 +1539,7 @@
         "abbr": "ATM",
         "normalized_name": "atletico madrid",
         "score": "0",
-        "form": "LLLWL",
+        "form": "LLLLW",
         "record": "17-6-8"
       },
       "away_team": {
@@ -1659,7 +1622,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "0",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "7-11-13"
       },
       "venue": {
@@ -1781,6 +1744,43 @@
     }
   ],
   "recent_results": [
+    {
+      "event_id": "748466",
+      "date": "2026-04-22T17:00Z",
+      "date_only": "2026-04-22",
+      "name": "Atlético Madrid at Elche",
+      "short_name": "ATM @ ELC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "3",
+        "form": "WWLWL",
+        "record": "7-11-13"
+      },
+      "away_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "2",
+        "form": "LLLLW",
+        "record": "17-6-8"
+      },
+      "venue": {
+        "name": "Estadio Martínez Valero",
+        "city": "Elche",
+        "country": "Spain"
+      }
+    },
     {
       "event_id": "748471",
       "date": "2026-04-21T19:30Z",
@@ -2142,7 +2142,7 @@
         "abbr": "ATM",
         "normalized_name": "atletico madrid",
         "score": "1",
-        "form": "LLLWL",
+        "form": "LLLLW",
         "record": "17-6-8"
       },
       "venue": {
@@ -2207,7 +2207,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "1",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "7-11-13"
       },
       "away_team": {
@@ -2503,7 +2503,7 @@
         "abbr": "ATM",
         "normalized_name": "atletico madrid",
         "score": "1",
-        "form": "LLLWL",
+        "form": "LLLLW",
         "record": "17-6-7"
       },
       "away_team": {
@@ -2660,7 +2660,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "0",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "6-11-13"
       },
       "venue": {
@@ -2697,7 +2697,7 @@
         "abbr": "ATM",
         "normalized_name": "atletico madrid",
         "score": "2",
-        "form": "LLLWL",
+        "form": "LLLLW",
         "record": "17-6-6"
       },
       "venue": {
@@ -2984,7 +2984,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "2",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "6-11-12"
       },
       "away_team": {
@@ -3252,7 +3252,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "1",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "5-11-12"
       },
       "venue": {
@@ -3317,7 +3317,7 @@
         "abbr": "ATM",
         "normalized_name": "atletico madrid",
         "score": "1",
-        "form": "LLLWL",
+        "form": "LLLLW",
         "record": "17-6-5"
       },
       "away_team": {
@@ -3585,7 +3585,7 @@
         "abbr": "ELC",
         "normalized_name": "elche",
         "score": "1",
-        "form": "WLWLL",
+        "form": "WWLWL",
         "record": "5-11-11"
       },
       "venue": {
@@ -3910,9 +3910,9 @@
       "losses": 1
     },
     "elche": {
-      "sequence": "LLWLW",
+      "sequence": "LWLWW",
       "matches": 5,
-      "wins": 2,
+      "wins": 3,
       "draws": 0,
       "losses": 3
     },
@@ -3987,11 +3987,11 @@
       "losses": 3
     },
     "atletico madrid": {
-      "sequence": "WLLL",
-      "matches": 4,
+      "sequence": "WLLLL",
+      "matches": 5,
       "wins": 1,
       "draws": 0,
-      "losses": 3
+      "losses": 4
     },
     "real madrid": {
       "sequence": "WWLDW",
@@ -4044,8 +4044,8 @@
     }
   },
   "meta": {
-    "fixture_count": 16,
-    "recent_result_count": 49,
+    "fixture_count": 15,
+    "recent_result_count": 50,
     "team_count": 20
   }
 }

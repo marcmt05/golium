@@ -3,7 +3,7 @@
   "league_name": "Premier League",
   "league_slug": "eng.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-22T11:49:08Z",
+  "scraped_at": "2026-04-22T19:23:53Z",
   "standings": [
     {
       "rank": 1.0,
@@ -1194,10 +1194,10 @@
       "name": "Leeds United at AFC Bournemouth",
       "short_name": "LEE @ BOU",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Wed, April 22nd at 3:00 PM EDT"
+        "description": "First Half",
+        "detail": "23'"
       },
       "season_year": 2025,
       "home_team": {
@@ -1231,10 +1231,10 @@
       "name": "Manchester City at Burnley",
       "short_name": "MNC @ BUR",
       "status": {
-        "state": "pre",
+        "state": "in",
         "completed": false,
-        "description": "Scheduled",
-        "detail": "Wed, April 22nd at 3:00 PM EDT"
+        "description": "First Half",
+        "detail": "23'"
       },
       "season_year": 2025,
       "home_team": {
@@ -1251,7 +1251,7 @@
         "name": "Manchester City",
         "abbr": "MNC",
         "normalized_name": "manchester city",
-        "score": "0",
+        "score": "1",
         "form": "WWWWL",
         "record": "20-7-5"
       },

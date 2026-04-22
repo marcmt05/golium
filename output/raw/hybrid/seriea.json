@@ -3,7 +3,7 @@
   "league_name": "Serie A",
   "league_slug": "ita.1",
   "source": "ESPN+SofaScore",
-  "scraped_at": "2026-04-22T11:50:06Z",
+  "scraped_at": "2026-04-22T19:24:55Z",
   "standings": [
     {
       "rank": 1.0,
@@ -835,7 +835,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -968,7 +968,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -1173,7 +1173,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -1510,7 +1510,7 @@
                 "reason": 1,
                 "description": "Head Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:49+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -1751,7 +1751,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -2198,7 +2198,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:44+00:00"
+                "expectedEndDate": "2026-05-06T16:00:31+00:00"
               },
               {
                 "player": {
@@ -2282,7 +2282,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -2326,7 +2326,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -2368,7 +2368,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -2664,7 +2664,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -2703,7 +2703,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -2747,7 +2747,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:29+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               }
             ],
             "starters": [
@@ -2990,7 +2990,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:57+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -3326,7 +3326,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -3529,7 +3529,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:41+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -4065,7 +4065,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:42+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               },
               {
                 "player": {
@@ -4648,48 +4648,6 @@
             "missing_players": [
               {
                 "player": {
-                  "name": "Adam Marusic",
-                  "firstName": "Adam",
-                  "lastName": "Marusic",
-                  "slug": "adam-marusic",
-                  "shortName": "A. Marusic",
-                  "position": "D",
-                  "jerseyNumber": "77",
-                  "height": 185,
-                  "userCount": 1173,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "ME",
-                    "alpha3": "MNE",
-                    "name": "Montenegro",
-                    "slug": "montenegro"
-                  },
-                  "id": 267619,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 719280000,
-                  "proposedMarketValueRaw": {
-                    "value": 3200000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "bn": "অ্যাডাম মারুসিচ",
-                      "hi": "एडम मारुसिक"
-                    },
-                    "shortNameTranslation": {
-                      "bn": "এ. মারুসিচ",
-                      "hi": "ए. मारुसिक"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Calf Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-20T08:00:41+00:00"
-              },
-              {
-                "player": {
                   "name": "Alessio Furlanetto",
                   "slug": "alessio-furlanetto",
                   "shortName": "A. Furlanetto",
@@ -4771,50 +4729,6 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114
-              },
-              {
-                "player": {
-                  "name": "Manuel Lazzari",
-                  "firstName": "Manuel",
-                  "lastName": "Lazzari",
-                  "slug": "manuel-lazzari",
-                  "shortName": "M. Lazzari",
-                  "position": "D",
-                  "jerseyNumber": "29",
-                  "height": 173,
-                  "userCount": 766,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "IT",
-                    "alpha3": "ITA",
-                    "name": "Italy",
-                    "slug": "italy"
-                  },
-                  "id": 273405,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 754531200,
-                  "proposedMarketValueRaw": {
-                    "value": 2200000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "مانويل لازاري",
-                      "bn": "ম্যানুয়েল লাজ্জারি",
-                      "hi": "मैनुअल लाज़ारी"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "م. لازاري",
-                      "bn": "এম. লাজারি",
-                      "hi": "एम. लाज़ारी"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Muscle Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
               },
               {
                 "player": {
@@ -5150,7 +5064,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -6281,7 +6195,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:44+00:00"
+                "expectedEndDate": "2026-05-06T16:00:31+00:00"
               },
               {
                 "player": {
@@ -6365,7 +6279,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -6409,7 +6323,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -6451,7 +6365,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -6830,7 +6744,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -6869,7 +6783,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -10433,7 +10347,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -10895,7 +10809,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -12825,7 +12739,7 @@
               },
               {
                 "id": 132645,
-                "name": "Niclas Fullkrug",
+                "name": "Niclas Füllkrug",
                 "position": "F",
                 "shirt_number": 9,
                 "substitute": true,
@@ -14051,7 +13965,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -15962,7 +15876,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -16095,7 +16009,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -18128,7 +18042,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -18474,7 +18388,7 @@
                 "reason": 1,
                 "description": "Head Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:49+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -20061,7 +19975,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:57+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -20471,7 +20385,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:41+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -22064,7 +21978,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               },
               {
                 "player": {
@@ -22103,7 +22017,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -24556,7 +24470,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:44+00:00"
+                "expectedEndDate": "2026-05-06T16:00:31+00:00"
               },
               {
                 "player": {
@@ -24599,7 +24513,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -24643,7 +24557,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -24685,7 +24599,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -26518,7 +26432,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -26651,7 +26565,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -28136,7 +28050,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -32003,7 +31917,7 @@
             "bench": [
               {
                 "id": 132645,
-                "name": "Niclas Fullkrug",
+                "name": "Niclas Füllkrug",
                 "position": "F",
                 "shirt_number": 9,
                 "substitute": true,
@@ -32254,7 +32168,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -37613,7 +37527,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -37789,7 +37703,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -38169,7 +38083,7 @@
               },
               {
                 "id": 132645,
-                "name": "Niclas Fullkrug",
+                "name": "Niclas Füllkrug",
                 "position": "F",
                 "shirt_number": 9,
                 "substitute": false,
@@ -39858,7 +39772,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -41293,7 +41207,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:44+00:00"
+                "expectedEndDate": "2026-05-06T16:00:31+00:00"
               },
               {
                 "player": {
@@ -41378,7 +41292,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:45+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -41422,7 +41336,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               },
               {
                 "player": {
@@ -41464,7 +41378,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -43342,7 +43256,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:44+00:00"
+                "expectedEndDate": "2026-05-07T16:00:31+00:00"
               }
             ],
             "starters": [
@@ -46281,7 +46195,7 @@
       "season_id": 76457,
       "season_year": "25/26",
       "tournament_id": 23,
-      "current_round": 33,
+      "current_round": 34,
       "rounds_total": 38,
       "events_total": 385,
       "recent_detail_limit": 24,

@@ -3,7 +3,7 @@
   "league_name": "Bundesliga",
   "league_slug": "bundesliga",
   "source": "SofaScore",
-  "scraped_at": "2026-04-22T11:49:42Z",
+  "scraped_at": "2026-04-22T19:24:30Z",
   "tournament_id": 35,
   "season_id": 77333,
   "season_year": "25/26",
@@ -730,7 +730,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:52+00:00"
+                "expectedEndDate": "2026-05-06T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -1092,7 +1092,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Sven Jablonski",
+        "slug": "jablonski-sven",
+        "yellowCards": 1232,
+        "redCards": 22,
+        "yellowRedCards": 26,
+        "games": 318,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 102954,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "جابلونسكي، سفين",
+            "bn": "জাবলনস্কি, সোভেন",
+            "hi": "जाब्लोंस्की, स्वेन"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Ole Werner",
       "manager_away": "Marie-Louise Eta"
     },
@@ -1270,7 +1297,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -1720,7 +1747,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Harm Osmers",
+        "slug": "osmers-harm",
+        "yellowCards": 1482,
+        "redCards": 33,
+        "yellowRedCards": 42,
+        "games": 352,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 70951,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "أوسميرس، هارم",
+            "bn": "অজমারস, হার্ম",
+            "hi": "ओसमर्स, हार्म"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Manuel Baum",
       "manager_away": "Albert Riera"
     },
@@ -2029,7 +2083,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:35+00:00"
               },
               {
                 "player": {
@@ -2397,7 +2451,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Tobias Stieler",
+        "slug": "stieler-tobias",
+        "yellowCards": 1659,
+        "redCards": 41,
+        "yellowRedCards": 47,
+        "games": 437,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 71289,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "ستيلر، توبياس",
+            "bn": "স্টিলার, টোবিয়াস",
+            "hi": "स्टीलर, टोबियास"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Dieter Hecking",
       "manager_away": "Eugen Polanski"
     },
@@ -2688,6 +2769,48 @@
               },
               {
                 "player": {
+                  "name": "Mathias Pereira Lage",
+                  "slug": "mathias-pereira-lage",
+                  "shortName": "M. P. Lage",
+                  "position": "F",
+                  "jerseyNumber": "26",
+                  "height": 180,
+                  "userCount": 353,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "PT",
+                    "alpha3": "PRT",
+                    "name": "Portugal",
+                    "slug": "portugal"
+                  },
+                  "id": 831400,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 849312000,
+                  "proposedMarketValueRaw": {
+                    "value": 3200000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "ماتياس بيريرا لاج",
+                      "bn": "ম্যাথিয়াস পেরেইরা লাগে",
+                      "hi": "मथियास परेरा लेगे"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "م. ب. لاج",
+                      "bn": "এম. পি. লাগে",
+                      "hi": "एम.पी. लेगे"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-31T00:00:00+00:00"
+              },
+              {
+                "player": {
                   "name": "Ricky-Jade Jones",
                   "slug": "ricky-jade-jones",
                   "shortName": "R. Jones",
@@ -2879,7 +3002,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Felix Zwayer",
+        "slug": "zwayer-felix",
+        "yellowCards": 2382,
+        "redCards": 50,
+        "yellowRedCards": 56,
+        "games": 519,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 52417,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "زواير، فيليكس",
+            "bn": "জাওয়ার, ফেলিক্স",
+            "hi": "ज़्वेयर, फ़ेलिक्स"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Frank Schmidt",
       "manager_away": "Alexander Blessin"
     },
@@ -3264,7 +3414,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:36+00:00"
               },
               {
                 "player": {
@@ -3311,7 +3461,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Martin Petersen",
+        "slug": "petersen-martin",
+        "yellowCards": 1299,
+        "redCards": 30,
+        "yellowRedCards": 25,
+        "games": 316,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 70952,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيترسن، مارتين",
+            "bn": "পিটারসেন, মার্টিন",
+            "hi": "पीटरसन, मार्टिन"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Urs Fischer",
       "manager_away": "Vincent Kompany"
     },
@@ -3491,7 +3668,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:25+00:00"
+                "expectedEndDate": "2026-05-06T16:00:25+00:00"
               },
               {
                 "player": {
@@ -3541,7 +3718,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Robert Hartmann",
+        "slug": "hartmann-robert",
+        "yellowCards": 1249,
+        "redCards": 16,
+        "yellowRedCards": 19,
+        "games": 341,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 52457,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "هارتمان، روبرت",
+            "bn": "হার্টম্যান, রবার্ট",
+            "hi": "हार्टमैन, रॉबर्ट"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "René Wagner",
       "manager_away": "Kasper Hjulmand"
     },
@@ -4074,7 +4278,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Robert Schröder",
+        "slug": "schroder-robert",
+        "yellowCards": 1043,
+        "redCards": 22,
+        "yellowRedCards": 29,
+        "games": 251,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 103168,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "شرويدر، روبرت",
+            "bn": "শ্রোডার, রবার্ট",
+            "hi": "श्रोडर, रॉबर्ट"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Merlin Polzin",
       "manager_away": "Christian Ilzer"
     },
@@ -4161,7 +4392,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:27+00:00"
+                "expectedEndDate": "2026-05-06T16:00:26+00:00"
               },
               {
                 "player": {
@@ -4340,7 +4571,34 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Christian Dingert",
+        "slug": "dingert-christian",
+        "yellowCards": 1649,
+        "redCards": 37,
+        "yellowRedCards": 34,
+        "games": 382,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 52185,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "دينجرت، كريستيان",
+            "bn": "ডিঙ্গার্ট, ক্রিশ্চিয়ান",
+            "hi": "डिंगर्ट, क्रिश्चियन"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Sebastian Hoeneß",
       "manager_away": "Daniel Thioune"
     },
@@ -4477,7 +4735,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:55+00:00"
+                "expectedEndDate": "2026-05-06T16:00:34+00:00"
               },
               {
                 "player": {
@@ -4565,7 +4823,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:25+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               }
             ],
             "starters": [],
@@ -4705,7 +4963,32 @@
         },
         "incidents_summary": null
       },
-      "referee": null,
+      "referee": {
+        "name": "Robin Braun",
+        "slug": "braun-robin",
+        "yellowCards": 616,
+        "redCards": 13,
+        "yellowRedCards": 8,
+        "games": 134,
+        "sport": {
+          "id": 1,
+          "slug": "football",
+          "name": "Football"
+        },
+        "country": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "name": "Germany",
+          "slug": "germany"
+        },
+        "id": 786331,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "روبن براون"
+          },
+          "shortNameTranslation": {}
+        }
+      },
       "manager_home": "Niko Kovač",
       "manager_away": "Julian Schuster"
     },
@@ -4917,7 +5200,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:36+00:00"
               },
               {
                 "player": {
@@ -5674,7 +5957,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [],
@@ -9701,7 +9984,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:36+00:00"
               },
               {
                 "player": {
@@ -10032,7 +10315,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:27+00:00"
+                "expectedEndDate": "2026-05-06T16:00:26+00:00"
               },
               {
                 "player": {
@@ -13871,7 +14154,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:52+00:00"
+                "expectedEndDate": "2026-05-06T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -15593,7 +15876,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:55+00:00"
+                "expectedEndDate": "2026-05-06T16:00:34+00:00"
               },
               {
                 "player": {
@@ -15681,7 +15964,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:25+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               }
             ],
             "starters": [
@@ -17669,7 +17952,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:35+00:00"
               },
               {
                 "player": {
@@ -21220,7 +21503,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:25+00:00"
+                "expectedEndDate": "2026-05-06T16:00:25+00:00"
               },
               {
                 "player": {
@@ -21600,7 +21883,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -23022,6 +23305,48 @@
                 "description": "Calf Injury",
                 "externalType": 114,
                 "expectedEndDate": "2026-05-10T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Mathias Pereira Lage",
+                  "slug": "mathias-pereira-lage",
+                  "shortName": "M. P. Lage",
+                  "position": "F",
+                  "jerseyNumber": "26",
+                  "height": 180,
+                  "userCount": 353,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "PT",
+                    "alpha3": "PRT",
+                    "name": "Portugal",
+                    "slug": "portugal"
+                  },
+                  "id": 831400,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 849312000,
+                  "proposedMarketValueRaw": {
+                    "value": 3200000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "ماتياس بيريرا لاج",
+                      "bn": "ম্যাথিয়াস পেরেইরা লাগে",
+                      "hi": "मथियास परेरा लेगे"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "م. ب. لاج",
+                      "bn": "এম. পি. লাগে",
+                      "hi": "एम.पी. लेगे"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-31T00:00:00+00:00"
               },
               {
                 "player": {
@@ -34735,7 +35060,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:58+00:00"
+                "expectedEndDate": "2026-05-06T16:00:35+00:00"
               },
               {
                 "player": {
@@ -38696,7 +39021,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:52+00:00"
+                "expectedEndDate": "2026-05-06T16:00:33+00:00"
               },
               {
                 "player": {

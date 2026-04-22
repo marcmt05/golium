@@ -3,17 +3,43 @@
   "league_name": "Premier League",
   "league_slug": "premier-league",
   "source": "SofaScore",
-  "scraped_at": "2026-04-22T11:49:17Z",
+  "scraped_at": "2026-04-22T19:24:06Z",
   "tournament_id": 17,
   "season_id": 76986,
   "season_year": "25/26",
   "current_round": 34,
   "standings": [
     {
+      "team_id": "17",
+      "team_name": "Manchester City",
+      "team_short_name": "Man City",
+      "rank": 1,
+      "played": 33,
+      "wins": 21,
+      "draws": 7,
+      "losses": 5,
+      "goals_for": 66,
+      "goals_against": 29,
+      "points": 70,
+      "form": null,
+      "raw_stats": {
+        "homeGoalsFor": 38,
+        "homeGoalsAgainst": 12,
+        "awayGoalsFor": 28,
+        "awayGoalsAgainst": 17,
+        "homeWins": 12,
+        "awayWins": 9,
+        "homeDraws": 3,
+        "awayDraws": 4,
+        "homeLosses": 1,
+        "awayLosses": 4
+      }
+    },
+    {
       "team_id": "42",
       "team_name": "Arsenal",
       "team_short_name": "Arsenal",
-      "rank": 1,
+      "rank": 2,
       "played": 33,
       "wins": 21,
       "draws": 7,
@@ -33,32 +59,6 @@
         "awayDraws": 5,
         "homeLosses": 2,
         "awayLosses": 3
-      }
-    },
-    {
-      "team_id": "17",
-      "team_name": "Manchester City",
-      "team_short_name": "Man City",
-      "rank": 2,
-      "played": 32,
-      "wins": 20,
-      "draws": 7,
-      "losses": 5,
-      "goals_for": 65,
-      "goals_against": 29,
-      "points": 67,
-      "form": null,
-      "raw_stats": {
-        "homeGoalsFor": 38,
-        "homeGoalsAgainst": 12,
-        "awayGoalsFor": 27,
-        "awayGoalsAgainst": 17,
-        "homeWins": 12,
-        "awayWins": 8,
-        "homeDraws": 3,
-        "awayDraws": 4,
-        "homeLosses": 1,
-        "awayLosses": 4
       }
     },
     {
@@ -166,10 +166,36 @@
       }
     },
     {
+      "team_id": "60",
+      "team_name": "Bournemouth",
+      "team_short_name": "Bournemouth",
+      "rank": 7,
+      "played": 34,
+      "wins": 11,
+      "draws": 16,
+      "losses": 7,
+      "goals_for": 50,
+      "goals_against": 50,
+      "points": 49,
+      "form": null,
+      "raw_stats": {
+        "homeGoalsFor": 23,
+        "homeGoalsAgainst": 17,
+        "awayGoalsFor": 27,
+        "awayGoalsAgainst": 33,
+        "homeWins": 6,
+        "awayWins": 5,
+        "homeDraws": 9,
+        "awayDraws": 7,
+        "homeLosses": 2,
+        "awayLosses": 5
+      }
+    },
+    {
       "team_id": "38",
       "team_name": "Chelsea",
       "team_short_name": "Chelsea",
-      "rank": 7,
+      "rank": 8,
       "played": 34,
       "wins": 13,
       "draws": 9,
@@ -195,7 +221,7 @@
       "team_id": "50",
       "team_name": "Brentford",
       "team_short_name": "Brentford",
-      "rank": 8,
+      "rank": 9,
       "played": 33,
       "wins": 13,
       "draws": 9,
@@ -215,32 +241,6 @@
         "awayDraws": 2,
         "homeLosses": 3,
         "awayLosses": 8
-      }
-    },
-    {
-      "team_id": "60",
-      "team_name": "Bournemouth",
-      "team_short_name": "Bournemouth",
-      "rank": 9,
-      "played": 33,
-      "wins": 11,
-      "draws": 15,
-      "losses": 7,
-      "goals_for": 50,
-      "goals_against": 50,
-      "points": 48,
-      "form": null,
-      "raw_stats": {
-        "homeGoalsFor": 23,
-        "homeGoalsAgainst": 17,
-        "awayGoalsFor": 27,
-        "awayGoalsAgainst": 33,
-        "homeWins": 6,
-        "awayWins": 5,
-        "homeDraws": 8,
-        "awayDraws": 7,
-        "homeLosses": 2,
-        "awayLosses": 5
       }
     },
     {
@@ -378,13 +378,13 @@
       "team_name": "Leeds United",
       "team_short_name": "Leeds",
       "rank": 15,
-      "played": 33,
+      "played": 34,
       "wins": 9,
-      "draws": 12,
+      "draws": 13,
       "losses": 12,
       "goals_for": 42,
       "goals_against": 49,
-      "points": 39,
+      "points": 40,
       "form": null,
       "raw_stats": {
         "homeGoalsFor": 25,
@@ -394,7 +394,7 @@
         "homeWins": 7,
         "awayWins": 2,
         "homeDraws": 5,
-        "awayDraws": 7,
+        "awayDraws": 8,
         "homeLosses": 5,
         "awayLosses": 7
       }
@@ -482,24 +482,24 @@
       "team_name": "Burnley",
       "team_short_name": "Burnley",
       "rank": 19,
-      "played": 33,
+      "played": 34,
       "wins": 4,
       "draws": 8,
-      "losses": 21,
+      "losses": 22,
       "goals_for": 34,
-      "goals_against": 67,
+      "goals_against": 68,
       "points": 20,
       "form": null,
       "raw_stats": {
         "homeGoalsFor": 15,
-        "homeGoalsAgainst": 25,
+        "homeGoalsAgainst": 26,
         "awayGoalsFor": 19,
         "awayGoalsAgainst": 42,
         "homeWins": 2,
         "awayWins": 2,
         "homeDraws": 5,
         "awayDraws": 3,
-        "homeLosses": 9,
+        "homeLosses": 10,
         "awayLosses": 12
       }
     },
@@ -531,1201 +531,6 @@
     }
   ],
   "fixtures": [
-    {
-      "event_id": "14024003",
-      "date": "2026-04-22T19:00:00Z",
-      "date_only": "2026-04-22",
-      "name": "manchester-city-burnley",
-      "short_name": "manchester-city-burnley",
-      "status": {
-        "state": "notstarted",
-        "completed": false,
-        "description": "Not started",
-        "code": 0
-      },
-      "season_year": "25/26",
-      "round": 34,
-      "matchday": 34,
-      "winner_code": null,
-      "home_team": {
-        "id": "6",
-        "name": "Burnley",
-        "normalized_name": "burnley",
-        "score": null,
-        "form": null
-      },
-      "away_team": {
-        "id": "17",
-        "name": "Manchester City",
-        "normalized_name": "manchester city",
-        "score": null,
-        "form": null
-      },
-      "venue": {
-        "name": "Turf Moor",
-        "city": "Burnley",
-        "country": "England"
-      },
-      "flags": {
-        "has_xg": null,
-        "has_event_player_statistics": false,
-        "has_event_player_heatmap": false
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "missing_players": [
-              {
-                "player": {
-                  "name": "Connor Roberts",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "connor-roberts",
-                  "shortName": "C. Roberts",
-                  "position": "D",
-                  "jerseyNumber": "14",
-                  "height": 175,
-                  "userCount": 393,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "WA",
-                    "alpha3": "WAL",
-                    "name": "Wales",
-                    "slug": "wales"
-                  },
-                  "id": 804613,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 811814400,
-                  "proposedMarketValueRaw": {
-                    "value": 2400000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "كونور روبرتس",
-                      "bn": "কনর রবার্টস",
-                      "hi": "कॉनर रॉबर्ट्स"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ك. روبرتس",
-                      "bn": "সি. রবার্টস",
-                      "hi": "सी. रॉबर्ट्स"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Strain Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-05T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Hannibal Mejbri",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "hannibal-mejbri",
-                  "shortName": "H. Mejbri",
-                  "position": "M",
-                  "jerseyNumber": "28",
-                  "height": 182,
-                  "userCount": 25485,
-                  "gender": "M",
-                  "sofascoreId": "hannibal_mj",
-                  "country": {
-                    "alpha2": "TN",
-                    "alpha3": "TUN",
-                    "name": "Tunisia",
-                    "slug": "tunisia"
-                  },
-                  "id": 1009386,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 1043107200,
-                  "proposedMarketValueRaw": {
-                    "value": 16700000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "حنبعل المجبري",
-                      "bn": "হ্যানিবল মেজব্রি",
-                      "hi": "हैनिबल मेजब्री"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ح. المجبري",
-                      "bn": "এইচ. মেজব্রি",
-                      "hi": "एच. मेजब्री"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Hamstring Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Jordan Beyer",
-                  "slug": "jordan-beyer",
-                  "shortName": "J. Beyer",
-                  "position": "D",
-                  "jerseyNumber": "36",
-                  "height": 187,
-                  "userCount": 330,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "DE",
-                    "alpha3": "DEU",
-                    "name": "Germany",
-                    "slug": "germany"
-                  },
-                  "id": 927175,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 958694400,
-                  "proposedMarketValueRaw": {
-                    "value": 2400000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "جوردان باير",
-                      "bn": "জর্ডান বেয়ার",
-                      "hi": "जॉर्डन बेयर"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ج. باير",
-                      "bn": "জে. বেয়ার",
-                      "hi": "जे. बेयर"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Knee Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Axel Tuanzebe",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "axel-tuanzebe",
-                  "shortName": "A. Tuanzebe",
-                  "position": "D",
-                  "jerseyNumber": "6",
-                  "height": 185,
-                  "userCount": 7666,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "CD",
-                    "alpha3": "COD",
-                    "name": "DR Congo",
-                    "slug": "dr-congo"
-                  },
-                  "id": 817979,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 879465600,
-                  "proposedMarketValueRaw": {
-                    "value": 4600000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "أكسل توانزيبي",
-                      "bn": "অ্যাক্সেল তুয়ানজেবে",
-                      "hi": "एक्सल टुआनज़ेबे"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "أ. توانزيبي",
-                      "bn": "এ. তুয়ানজেবে",
-                      "hi": "ए. टुआनज़ेबे"
-                    }
-                  }
-                },
-                "type": "doubtful",
-                "reason": 1,
-                "description": "Achilles Tendon Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-02T20:00:40+00:00"
-              },
-              {
-                "player": {
-                  "name": "Zeki Amdouni",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "zeki-amdouni",
-                  "shortName": "Z. Amdouni",
-                  "position": "F",
-                  "jerseyNumber": "25",
-                  "height": 183,
-                  "userCount": 2754,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "CH",
-                    "alpha3": "CHE",
-                    "name": "Switzerland",
-                    "slug": "switzerland"
-                  },
-                  "id": 990550,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 975888000,
-                  "proposedMarketValueRaw": {
-                    "value": 9700000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "زكي أمدوني",
-                      "bn": "জেকি আমদউনি",
-                      "hi": "ज़ेकी अमदौनी"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ز. أمدوني",
-                      "bn": "জেড. আমদউনি",
-                      "hi": "ज़ेड. अमदौनी"
-                    }
-                  }
-                },
-                "type": "doubtful",
-                "reason": 1,
-                "description": "Cruciate Ligament Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:51+00:00"
-              }
-            ],
-            "starters": [
-              {
-                "id": 42209,
-                "name": "Martin Dúbravka",
-                "position": "G",
-                "shirt_number": 1,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 996910,
-                "name": "Bashir Humphreys",
-                "position": "D",
-                "shirt_number": 12,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 875360,
-                "name": "Hjalmar Ekdal",
-                "position": "D",
-                "shirt_number": 18,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1117223,
-                "name": "Maxime Estève",
-                "position": "D",
-                "shirt_number": 5,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1392044,
-                "name": "Quilindschy Hartman",
-                "position": "D",
-                "shirt_number": 3,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 161717,
-                "name": "James Ward-Prowse",
-                "position": "M",
-                "shirt_number": 20,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 855845,
-                "name": "Florentino Luís",
-                "position": "M",
-                "shirt_number": 16,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 901907,
-                "name": "Lyle Foster",
-                "position": "F",
-                "shirt_number": 9,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1048916,
-                "name": "Lesley Ugochukwu",
-                "position": "M",
-                "shirt_number": 8,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1020680,
-                "name": "Jaidon Anthony",
-                "position": "M",
-                "shirt_number": 11,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 875137,
-                "name": "Zian Flemming",
-                "position": "F",
-                "shirt_number": 19,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              }
-            ],
-            "bench": []
-          },
-          "away": {
-            "formation": "4-2-3-1",
-            "missing_players": [
-              {
-                "player": {
-                  "name": "Joško Gvardiol",
-                  "slug": "josko-gvardiol",
-                  "shortName": "J. Gvardiol",
-                  "position": "D",
-                  "jerseyNumber": "24",
-                  "height": 186,
-                  "userCount": 51542,
-                  "gender": "M",
-                  "sofascoreId": "JGvardiol",
-                  "country": {
-                    "alpha2": "HR",
-                    "alpha3": "HRV",
-                    "name": "Croatia",
-                    "slug": "croatia"
-                  },
-                  "id": 964994,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 1011744000,
-                  "proposedMarketValueRaw": {
-                    "value": 64000000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "يوشكو غفارديول",
-                      "bn": "জোসকো গোওয়ারদিওল",
-                      "hi": "जोस्को ग्वार्डिओल"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ي. غفارديول",
-                      "bn": "জে. গোওয়ারদিওল",
-                      "hi": "जे. ग्वार्डिओल"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Broken Leg",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Rodri",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "rodri",
-                  "shortName": "Rodri",
-                  "position": "M",
-                  "jerseyNumber": "16",
-                  "height": 191,
-                  "userCount": 87619,
-                  "gender": "M",
-                  "sofascoreId": "Rodri",
-                  "country": {
-                    "alpha2": "ES",
-                    "alpha3": "ESP",
-                    "name": "Spain",
-                    "slug": "spain"
-                  },
-                  "id": 827606,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 835401600,
-                  "proposedMarketValueRaw": {
-                    "value": 59000000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "رودري",
-                      "bn": "রডরি",
-                      "hi": "रोड्री"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "رودري",
-                      "bn": "রডরি",
-                      "hi": "रोड्री"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Physical Discomfort",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:27+00:00"
-              },
-              {
-                "player": {
-                  "name": "Ruben Dias",
-                  "firstName": "Ruben",
-                  "lastName": "Dias",
-                  "slug": "ruben-dias",
-                  "shortName": "R. Dias",
-                  "position": "D",
-                  "jerseyNumber": "3",
-                  "height": 188,
-                  "userCount": 41280,
-                  "gender": "M",
-                  "sofascoreId": "RúbenD",
-                  "country": {
-                    "alpha2": "PT",
-                    "alpha3": "PRT",
-                    "name": "Portugal",
-                    "slug": "portugal"
-                  },
-                  "id": 318941,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 863568000,
-                  "proposedMarketValueRaw": {
-                    "value": 65000000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "روبن دياز",
-                      "bn": "রুবেন ডায়াস",
-                      "hi": "रुबेन डियास"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ر. دياز",
-                      "bn": "আর. ডায়াস",
-                      "hi": "आर. डियास"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Hamstring Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              }
-            ],
-            "starters": [
-              {
-                "id": 824509,
-                "name": "Gianluigi Donnarumma",
-                "position": "G",
-                "shirt_number": 25,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 945122,
-                "name": "Matheus Nunes",
-                "position": "D",
-                "shirt_number": 27,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1194333,
-                "name": "Abdukodir Khusanov",
-                "position": "D",
-                "shirt_number": 45,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 877994,
-                "name": "Marc Guéhi",
-                "position": "D",
-                "shirt_number": 15,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1142703,
-                "name": "Nico O'Reilly",
-                "position": "D",
-                "shirt_number": 33,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 331209,
-                "name": "Bernardo Silva",
-                "position": "M",
-                "shirt_number": 20,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 954056,
-                "name": "Nico González",
-                "position": "M",
-                "shirt_number": 14,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 934354,
-                "name": "Antoine Semenyo",
-                "position": "M",
-                "shirt_number": 42,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 979128,
-                "name": "Rayan Cherki",
-                "position": "M",
-                "shirt_number": 10,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 934386,
-                "name": "Jérémy Doku",
-                "position": "M",
-                "shirt_number": 11,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 839956,
-                "name": "Erling Haaland",
-                "position": "F",
-                "shirt_number": 9,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              }
-            ],
-            "bench": []
-          }
-        },
-        "incidents_summary": null
-      },
-      "referee": {
-        "name": "Andy Madley",
-        "slug": "andy-madley",
-        "yellowCards": 1408,
-        "redCards": 34,
-        "yellowRedCards": 16,
-        "games": 453,
-        "sport": {
-          "id": 1,
-          "slug": "football",
-          "name": "Football"
-        },
-        "country": {
-          "alpha2": "EN",
-          "alpha3": "ENG",
-          "name": "England",
-          "slug": "england"
-        },
-        "id": 79884,
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "أندي مادلي",
-            "bn": "অ্যান্ডি ম্যাডলি",
-            "hi": "एंडी मैडली"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "manager_home": "Scott Parker",
-      "manager_away": "Pep Guardiola"
-    },
-    {
-      "event_id": "14025044",
-      "date": "2026-04-22T19:00:00Z",
-      "date_only": "2026-04-22",
-      "name": "bournemouth-leeds-united",
-      "short_name": "bournemouth-leeds-united",
-      "status": {
-        "state": "notstarted",
-        "completed": false,
-        "description": "Not started",
-        "code": 0
-      },
-      "season_year": "25/26",
-      "round": 34,
-      "matchday": 34,
-      "winner_code": null,
-      "home_team": {
-        "id": "60",
-        "name": "Bournemouth",
-        "normalized_name": "bournemouth",
-        "score": null,
-        "form": null
-      },
-      "away_team": {
-        "id": "34",
-        "name": "Leeds United",
-        "normalized_name": "leeds united",
-        "score": null,
-        "form": null
-      },
-      "venue": {
-        "name": "Vitality Stadium",
-        "city": "Bournemouth",
-        "country": "England"
-      },
-      "flags": {
-        "has_xg": null,
-        "has_event_player_statistics": false,
-        "has_event_player_heatmap": false
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": {
-          "home": {
-            "formation": "4-2-3-1",
-            "missing_players": [
-              {
-                "player": {
-                  "name": "Justin Kluivert",
-                  "slug": "justin-kluivert",
-                  "shortName": "J. Kluivert",
-                  "position": "M",
-                  "jerseyNumber": "19",
-                  "height": 171,
-                  "userCount": 6937,
-                  "gender": "M",
-                  "sofascoreId": "justinkluivert",
-                  "country": {
-                    "alpha2": "NL",
-                    "alpha3": "NLD",
-                    "name": "Netherlands",
-                    "slug": "netherlands"
-                  },
-                  "id": 851596,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 925862400,
-                  "proposedMarketValueRaw": {
-                    "value": 29000000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "جاستن كلويفرت",
-                      "bn": "জাস্টিন ক্লুইভার্ট",
-                      "hi": "जस्टिन क्लुइवर्ट"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ج. كلويفرت",
-                      "bn": "জে. ক্লুইভার্ট",
-                      "hi": "जे. क्लुइवर्ट"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Knee Surgery",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-31T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Lewis Cook",
-                  "firstName": "Lewis",
-                  "lastName": "Cook",
-                  "slug": "lewis-cook",
-                  "shortName": "L. Cook",
-                  "position": "M",
-                  "jerseyNumber": "4",
-                  "height": 175,
-                  "userCount": 951,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "EN",
-                    "alpha3": "ENG",
-                    "name": "England",
-                    "slug": "england"
-                  },
-                  "id": 548188,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 854928000,
-                  "proposedMarketValueRaw": {
-                    "value": 13700000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "لويس كوك",
-                      "bn": "লুইস কুক",
-                      "hi": "लुईस कुक"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "ل. كوك",
-                      "bn": "এল. কুক",
-                      "hi": "एल. कुक"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Hamstring Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Julio Soler",
-                  "firstName": "Julio Soler",
-                  "slug": "julio-soler",
-                  "shortName": "J. Soler",
-                  "position": "D",
-                  "jerseyNumber": "6",
-                  "height": 175,
-                  "userCount": 3964,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "AR",
-                    "alpha3": "ARG",
-                    "name": "Argentina",
-                    "slug": "argentina"
-                  },
-                  "id": 1201520,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 1108512000,
-                  "proposedMarketValueRaw": {
-                    "value": 8300000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "خوليو سولير",
-                      "bn": "জুলিও সোলার",
-                      "hi": "जूलियो सोलर"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "خ. سولير",
-                      "bn": "জে সোলার",
-                      "hi": "जे. सोलर"
-                    }
-                  }
-                },
-                "type": "doubtful",
-                "reason": 1,
-                "description": "Muscle Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-02T20:00:40+00:00"
-              }
-            ],
-            "starters": [
-              {
-                "id": 882604,
-                "name": "Đorđe Petrović",
-                "position": "G",
-                "shirt_number": 1,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1184308,
-                "name": "Álex Jiménez",
-                "position": "D",
-                "shirt_number": 20,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1156586,
-                "name": "James Hill",
-                "position": "D",
-                "shirt_number": 23,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 830659,
-                "name": "Marcos Senesi",
-                "position": "D",
-                "shirt_number": 5,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 999028,
-                "name": "Adrien Truffert",
-                "position": "D",
-                "shirt_number": 3,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1104986,
-                "name": "Alex Scott",
-                "position": "M",
-                "shirt_number": 8,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 800419,
-                "name": "Tyler Adams",
-                "position": "M",
-                "shirt_number": 12,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 1464966,
-                "name": "Rayan",
-                "position": "M",
-                "shirt_number": 37,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 895576,
-                "name": "Marcus Tavernier",
-                "position": "M",
-                "shirt_number": 16,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 855731,
-                "name": "David Brooks",
-                "position": "M",
-                "shirt_number": 7,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 998490,
-                "name": "Evanilson",
-                "position": "F",
-                "shirt_number": 9,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              }
-            ],
-            "bench": []
-          },
-          "away": {
-            "formation": "3-4-2-1",
-            "missing_players": [
-              {
-                "player": {
-                  "name": "Anton Stach",
-                  "firstName": "",
-                  "lastName": "",
-                  "slug": "anton-stach",
-                  "shortName": "A. Stach",
-                  "position": "M",
-                  "jerseyNumber": "18",
-                  "height": 192,
-                  "userCount": 1823,
-                  "gender": "M",
-                  "country": {
-                    "alpha2": "DE",
-                    "alpha3": "DEU",
-                    "name": "Germany",
-                    "slug": "germany"
-                  },
-                  "id": 889861,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 911088000,
-                  "proposedMarketValueRaw": {
-                    "value": 24000000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "أنتون ستاخ",
-                      "bn": "অ্যান্টন স্ট্যাচ",
-                      "hi": "एंटोन स्टैच"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "أ. ستاخ",
-                      "bn": "এ. স্ট্যাচ",
-                      "hi": "ए. स्टैच"
-                    }
-                  }
-                },
-                "type": "missing",
-                "reason": 1,
-                "description": "Ankle Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-10T00:00:00+00:00"
-              },
-              {
-                "player": {
-                  "name": "Daniel James",
-                  "slug": "daniel-james",
-                  "shortName": "D. James",
-                  "position": "M",
-                  "jerseyNumber": "7",
-                  "height": 172,
-                  "userCount": 4239,
-                  "gender": "M",
-                  "sofascoreId": "Daniel_James97",
-                  "country": {
-                    "alpha2": "WA",
-                    "alpha3": "WAL",
-                    "name": "Wales",
-                    "slug": "wales"
-                  },
-                  "id": 828639,
-                  "marketValueCurrency": "EUR",
-                  "dateOfBirthTimestamp": 879120000,
-                  "proposedMarketValueRaw": {
-                    "value": 12700000,
-                    "currency": "EUR"
-                  },
-                  "fieldTranslations": {
-                    "nameTranslation": {
-                      "ar": "دانييل جيمس",
-                      "bn": "ড্যানিয়েল জেমস",
-                      "hi": "डेनियल जेम्स"
-                    },
-                    "shortNameTranslation": {
-                      "ar": "د. جيمس",
-                      "bn": "ডি. জেমস",
-                      "hi": "डी. जेम्स"
-                    }
-                  }
-                },
-                "type": "doubtful",
-                "reason": 1,
-                "description": "Muscle Injury",
-                "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
-              }
-            ],
-            "starters": [
-              {
-                "id": 123689,
-                "name": "Karl Darlow",
-                "position": "G",
-                "shirt_number": 26,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 827681,
-                "name": "James Justin",
-                "position": "D",
-                "shirt_number": 24,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 886930,
-                "name": "Jaka Bijol",
-                "position": "D",
-                "shirt_number": 15,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 836675,
-                "name": "Pascal Struijk",
-                "position": "D",
-                "shirt_number": 5,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 929132,
-                "name": "Jayden Bogle",
-                "position": "D",
-                "shirt_number": 2,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 847097,
-                "name": "Ethan Ampadu",
-                "position": "M",
-                "shirt_number": 4,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 871886,
-                "name": "Ao Tanaka",
-                "position": "M",
-                "shirt_number": 22,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 834308,
-                "name": "Gabriel Gudmundsson",
-                "position": "D",
-                "shirt_number": 3,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 973431,
-                "name": "Brenden Aaronson",
-                "position": "M",
-                "shirt_number": 11,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 865523,
-                "name": "Noah Okafor",
-                "position": "F",
-                "shirt_number": 19,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              },
-              {
-                "id": 372344,
-                "name": "Dominic Calvert-Lewin",
-                "position": "F",
-                "shirt_number": 9,
-                "substitute": false,
-                "captain": false,
-                "rating": null,
-                "minutes_played": null
-              }
-            ],
-            "bench": []
-          }
-        },
-        "incidents_summary": null
-      },
-      "referee": {
-        "name": "Michael Salisbury",
-        "slug": "michael-salisbury",
-        "yellowCards": 771,
-        "redCards": 34,
-        "yellowRedCards": 14,
-        "games": 236,
-        "sport": {
-          "id": 1,
-          "slug": "football",
-          "name": "Football"
-        },
-        "country": {
-          "alpha2": "EN",
-          "alpha3": "ENG",
-          "name": "England",
-          "slug": "england"
-        },
-        "id": 144315,
-        "fieldTranslations": {
-          "nameTranslation": {
-            "ar": "مايكل، ساليسبري",
-            "bn": "মাইকেল, সালিসবারি",
-            "hi": "माइकल, सैलिसबरी"
-          },
-          "shortNameTranslation": {}
-        }
-      },
-      "manager_home": "Andoni Iraola",
-      "manager_away": "Daniel Farke"
-    },
     {
       "event_id": "14023932",
       "date": "2026-04-24T19:00:00Z",
@@ -1937,7 +742,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -1979,7 +784,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -2140,7 +945,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-06-10T00:00:00+00:00"
+                "expectedEndDate": "2026-07-20T00:00:00+00:00"
               },
               {
                 "player": {
@@ -2229,7 +1034,7 @@
                 "reason": 1,
                 "description": "Unknown",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               }
             ],
             "starters": [
@@ -2512,7 +1317,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -2556,7 +1361,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:34+00:00"
+                "expectedEndDate": "2026-05-07T16:00:28+00:00"
               }
             ],
             "starters": [
@@ -3480,7 +2285,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -3525,7 +2330,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -3820,7 +2625,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:32+00:00"
+                "expectedEndDate": "2026-05-07T16:00:27+00:00"
               }
             ],
             "starters": [
@@ -4100,7 +2905,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:46+00:00"
+                "expectedEndDate": "2026-05-06T16:00:32+00:00"
               },
               {
                 "player": {
@@ -4186,7 +2991,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -4230,7 +3035,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:54+00:00"
+                "expectedEndDate": "2026-05-07T16:00:34+00:00"
               }
             ],
             "starters": [
@@ -4478,7 +3283,7 @@
                 "reason": 1,
                 "description": "Groin Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -4802,7 +3607,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -5096,7 +3901,7 @@
                 "reason": 1,
                 "description": "Hip Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -5422,7 +4227,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               },
               {
                 "player": {
@@ -5467,7 +4272,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -6121,7 +4926,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [],
@@ -6303,7 +5108,7 @@
                 "reason": 1,
                 "description": "Cruciate Ligament Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:51+00:00"
+                "expectedEndDate": "2026-05-07T16:00:33+00:00"
               }
             ],
             "starters": [],
@@ -6766,7 +5571,7 @@
                 "reason": 1,
                 "description": "Hip Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [],
@@ -6989,7 +5794,11 @@
         "score": null,
         "form": null
       },
-      "venue": {},
+      "venue": {
+        "name": "Molineux Stadium",
+        "city": "Wolverhampton",
+        "country": "England"
+      },
       "flags": {
         "has_xg": null,
         "has_event_player_statistics": null,
@@ -6997,9 +5806,409 @@
       },
       "sofascore": {
         "statistics": null,
-        "lineups": null,
+        "lineups": {
+          "home": {
+            "formation": null,
+            "missing_players": [
+              {
+                "player": {
+                  "name": "Enso González",
+                  "firstName": "Enso González",
+                  "slug": "enso-gonzalez",
+                  "shortName": "Enso González",
+                  "position": "F",
+                  "jerseyNumber": "30",
+                  "height": 168,
+                  "userCount": 1623,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "PY",
+                    "alpha3": "PRY",
+                    "name": "Paraguay",
+                    "slug": "paraguay"
+                  },
+                  "id": 1402232,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 1106179200,
+                  "proposedMarketValueRaw": {
+                    "value": 2800000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "إنسو غونزاليس",
+                      "bn": "এনসো গঞ্জালেজ",
+                      "hi": "एनसो गोंजालेज"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "إ. غونزاليس",
+                      "bn": "এনসো গঞ্জালেজ",
+                      "hi": "एनसो गोंजालेज"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-06T16:00:32+00:00"
+              },
+              {
+                "player": {
+                  "name": "Sam Johnstone",
+                  "slug": "sam-johnstone",
+                  "shortName": "S. Johnstone",
+                  "position": "G",
+                  "jerseyNumber": "31",
+                  "height": 193,
+                  "userCount": 619,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "EN",
+                    "alpha3": "ENG",
+                    "name": "England",
+                    "slug": "england"
+                  },
+                  "id": 98427,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 733017600,
+                  "proposedMarketValueRaw": {
+                    "value": 3200000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "سام جونستون",
+                      "bn": "স্যাম জনস্টোন",
+                      "hi": "सैम जॉनस्टोन"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "س. جونستون",
+                      "bn": "এস. জনস্টোন",
+                      "hi": "एस. जॉनस्टोन"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Shoulder Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-10T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Jose Sa",
+                  "firstName": "Jose",
+                  "lastName": "Sa",
+                  "slug": "jose-sa",
+                  "shortName": "J. Sa",
+                  "position": "G",
+                  "jerseyNumber": "1",
+                  "height": 192,
+                  "userCount": 4297,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "PT",
+                    "alpha3": "PRT",
+                    "name": "Portugal",
+                    "slug": "portugal"
+                  },
+                  "id": 252669,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 727228800,
+                  "proposedMarketValueRaw": {
+                    "value": 4800000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "خوسيه سا",
+                      "bn": "জোসে সা",
+                      "hi": "जोस सा"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "خ. سا",
+                      "bn": "জে. সা",
+                      "hi": "जे. सा"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Shoulder Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+              },
+              {
+                "player": {
+                  "name": "Matt Doherty",
+                  "firstName": "Matt",
+                  "lastName": "Doherty",
+                  "slug": "matt-doherty",
+                  "shortName": "M. Doherty",
+                  "position": "D",
+                  "jerseyNumber": "2",
+                  "height": 182,
+                  "userCount": 1419,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "IE",
+                    "alpha3": "IRL",
+                    "name": "Ireland",
+                    "slug": "ireland"
+                  },
+                  "id": 143047,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 695520000,
+                  "proposedMarketValueRaw": {
+                    "value": 1500000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "مات دوهيرتي",
+                      "bn": "ম্যাট ডোহার্টি",
+                      "hi": "मैट डोहर्टी"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "م. دوهيرتي",
+                      "bn": "এম. ডোহার্টি",
+                      "hi": "एम. डोहर्टी"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Knock Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:34+00:00"
+              }
+            ],
+            "starters": [],
+            "bench": []
+          },
+          "away": {
+            "formation": null,
+            "missing_players": [
+              {
+                "player": {
+                  "name": "Bertrand Traore",
+                  "firstName": "Bertrand",
+                  "lastName": "Traore",
+                  "slug": "bertrand-traore",
+                  "shortName": "B. Traore",
+                  "position": "F",
+                  "jerseyNumber": "25",
+                  "height": 180,
+                  "userCount": 36672,
+                  "gender": "M",
+                  "sofascoreId": "bertrandtraore10",
+                  "country": {
+                    "alpha2": "BF",
+                    "alpha3": "BFA",
+                    "name": "Burkina Faso",
+                    "slug": "burkina-faso"
+                  },
+                  "id": 218160,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 810345600,
+                  "proposedMarketValueRaw": {
+                    "value": 4700000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "bn": "বার্ট্রান্ড ট্রাওরে",
+                      "hi": "बर्ट्रेंड ट्रैओरे"
+                    },
+                    "shortNameTranslation": {
+                      "bn": "বি. ট্রাওরে",
+                      "hi": "बी. ट्रैओरे"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-10T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Jocelin Ta Bi",
+                  "slug": "jocelin-ta-bi",
+                  "shortName": "J. T. Bi",
+                  "position": "M",
+                  "jerseyNumber": "37",
+                  "height": 175,
+                  "userCount": 622,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "CI",
+                    "alpha3": "CIV",
+                    "name": "Côte d'Ivoire",
+                    "slug": "cote-divoire"
+                  },
+                  "id": 2138729,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 1107907200,
+                  "proposedMarketValueRaw": {
+                    "value": 3200000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "جوسلين تا بي"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ج. بي"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Ankle Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-10T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Simon Moore",
+                  "slug": "simon-moore",
+                  "shortName": "S. Moore",
+                  "position": "G",
+                  "jerseyNumber": "21",
+                  "height": 191,
+                  "userCount": 169,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "EN",
+                    "alpha3": "ENG",
+                    "name": "England",
+                    "slug": "england"
+                  },
+                  "id": 95461,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 643075200,
+                  "proposedMarketValueRaw": {
+                    "value": 110000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "سيمون مور",
+                      "bn": "সাইমন মুর",
+                      "hi": "साइमन मूर"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "س. مور",
+                      "bn": "এস. মুর",
+                      "hi": "एस. मूर"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Broken Hand",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-20T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Nilson Angulo",
+                  "firstName": "Nilson Angulo",
+                  "lastName": "",
+                  "slug": "nilson-angulo",
+                  "shortName": "N. Angulo",
+                  "position": "M",
+                  "jerseyNumber": "10",
+                  "height": 182,
+                  "userCount": 5033,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "EC",
+                    "alpha3": "ECU",
+                    "name": "Ecuador",
+                    "slug": "ecuador"
+                  },
+                  "id": 1116571,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 1055980800,
+                  "proposedMarketValueRaw": {
+                    "value": 16500000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "نيلسون أنغولو",
+                      "bn": "নিলসন অ্যাঙ্গুলো",
+                      "hi": "निल्सन एंगुलो"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ن. أنغولو",
+                      "bn": "এন. অ্যাঙ্গুলো",
+                      "hi": "एन. एंगुलो"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Muscle Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+              },
+              {
+                "player": {
+                  "name": "Omar Alderete",
+                  "slug": "omar-alderete",
+                  "shortName": "O. Alderete",
+                  "position": "D",
+                  "jerseyNumber": "15",
+                  "height": 187,
+                  "userCount": 5734,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "PY",
+                    "alpha3": "PRY",
+                    "name": "Paraguay",
+                    "slug": "paraguay"
+                  },
+                  "id": 805137,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 851558400,
+                  "proposedMarketValueRaw": {
+                    "value": 15900000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "عمر الديريتي",
+                      "bn": "ওমর আলদারেতে",
+                      "hi": "उमर एल्डेरेटे"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ع. الديريتي",
+                      "bn": "ও. আলডেরে্তে",
+                      "hi": "ओ. एल्डेरेटे"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Knock Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+              }
+            ],
+            "starters": [],
+            "bench": []
+          }
+        },
         "incidents_summary": null
-      }
+      },
+      "referee": null,
+      "manager_home": "Rob Edwards",
+      "manager_away": "Régis Le Bris"
     },
     {
       "event_id": "14023931",
@@ -7031,7 +6240,11 @@
         "score": null,
         "form": null
       },
-      "venue": {},
+      "venue": {
+        "name": "Emirates Stadium",
+        "city": "London",
+        "country": "England"
+      },
       "flags": {
         "has_xg": null,
         "has_event_player_statistics": null,
@@ -7039,9 +6252,202 @@
       },
       "sofascore": {
         "statistics": null,
-        "lineups": null,
+        "lineups": {
+          "home": {
+            "formation": null,
+            "missing_players": [
+              {
+                "player": {
+                  "name": "Bukayo Saka",
+                  "slug": "bukayo-saka",
+                  "shortName": "B. Saka",
+                  "position": "F",
+                  "jerseyNumber": "7",
+                  "height": 178,
+                  "userCount": 190623,
+                  "gender": "M",
+                  "sofascoreId": "BSaka7",
+                  "country": {
+                    "alpha2": "EN",
+                    "alpha3": "ENG",
+                    "name": "England",
+                    "slug": "england"
+                  },
+                  "id": 934235,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 999648000,
+                  "proposedMarketValueRaw": {
+                    "value": 126000000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "بوكايو ساكا",
+                      "bn": "বুকায়ো সাকা",
+                      "hi": "बुकायो साका"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ب. ساكا",
+                      "bn": "বি. সাকা",
+                      "hi": "बी. साका"
+                    }
+                  }
+                },
+                "type": "missing",
+                "reason": 1,
+                "description": "Muscle Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-10T00:00:00+00:00"
+              },
+              {
+                "player": {
+                  "name": "Riccardo Calafiori",
+                  "slug": "riccardo-calafiori",
+                  "shortName": "R. Calafiori",
+                  "position": "D",
+                  "jerseyNumber": "33",
+                  "height": 188,
+                  "userCount": 25605,
+                  "gender": "M",
+                  "sofascoreId": "richycala",
+                  "country": {
+                    "alpha2": "IT",
+                    "alpha3": "ITA",
+                    "name": "Italy",
+                    "slug": "italy"
+                  },
+                  "id": 957602,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 1021766400,
+                  "proposedMarketValueRaw": {
+                    "value": 49000000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "ريكاردو كالافيوري",
+                      "bn": "রিকার্ডো কালাফিয়োরি",
+                      "hi": "रिकार्डो कैलाफियोरी"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ر. كالافيوري",
+                      "bn": "আর. কালাফিয়োরি",
+                      "hi": "आर. कैलाफियोरी"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Knock Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+              }
+            ],
+            "starters": [],
+            "bench": []
+          },
+          "away": {
+            "formation": null,
+            "missing_players": [
+              {
+                "player": {
+                  "name": "Alex Iwobi",
+                  "firstName": "Alex",
+                  "lastName": "Iwobi",
+                  "slug": "alex-iwobi",
+                  "shortName": "A. Iwobi",
+                  "position": "M",
+                  "jerseyNumber": "17",
+                  "height": 183,
+                  "userCount": 8491,
+                  "gender": "M",
+                  "sofascoreId": "alexanderiwobi",
+                  "country": {
+                    "alpha2": "NG",
+                    "alpha3": "NGA",
+                    "name": "Nigeria",
+                    "slug": "nigeria"
+                  },
+                  "id": 352770,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 831081600,
+                  "proposedMarketValueRaw": {
+                    "value": 26000000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "أليكس إيووبي",
+                      "bn": "অ্যালেক্স ইওবি",
+                      "hi": "एलेक्स इवोबी"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "أ. إيووبي",
+                      "bn": "এ. ইওবি",
+                      "hi": "ए. इवोबी"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Hamstring Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+              },
+              {
+                "player": {
+                  "name": "Kenny Tete",
+                  "firstName": "Kenny",
+                  "lastName": "Tete",
+                  "slug": "kenny-tete",
+                  "shortName": "K. Tete",
+                  "position": "D",
+                  "jerseyNumber": "2",
+                  "height": 180,
+                  "userCount": 1175,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "NL",
+                    "alpha3": "NLD",
+                    "name": "Netherlands",
+                    "slug": "netherlands"
+                  },
+                  "id": 190877,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 813196800,
+                  "proposedMarketValueRaw": {
+                    "value": 11900000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "كيني تيتي",
+                      "bn": "কেনি টেটে",
+                      "hi": "केनी टेटे"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ك. تيتي",
+                      "bn": "কে. টেটে",
+                      "hi": "के. टेटे"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Foot Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-07T16:00:28+00:00"
+              }
+            ],
+            "starters": [],
+            "bench": []
+          }
+        },
         "incidents_summary": null
-      }
+      },
+      "referee": null,
+      "manager_home": "Mikel Arteta",
+      "manager_away": "Marco Silva"
     },
     {
       "event_id": "14024023",
@@ -10021,7 +9427,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:26+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               },
               {
                 "player": {
@@ -10108,7 +9514,7 @@
                 "reason": 1,
                 "description": "Groin Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:27+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               },
               {
                 "player": {
@@ -10194,7 +9600,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:26+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               },
               {
                 "player": {
@@ -10282,7 +9688,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:28+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               }
             ],
             "starters": [
@@ -11769,7 +11175,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:32+00:00"
+                "expectedEndDate": "2026-05-07T16:00:27+00:00"
               }
             ],
             "starters": [
@@ -13816,7 +13222,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -15223,7 +14629,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-06-10T00:00:00+00:00"
+                "expectedEndDate": "2026-07-20T00:00:00+00:00"
               },
               {
                 "player": {
@@ -15312,7 +14718,7 @@
                 "reason": 1,
                 "description": "Unknown",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:56+00:00"
+                "expectedEndDate": "2026-05-07T16:00:35+00:00"
               }
             ],
             "starters": [
@@ -15782,7 +15188,7 @@
                 "reason": 1,
                 "description": "Cruciate Ligament Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:51+00:00"
+                "expectedEndDate": "2026-05-07T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -17603,7 +17009,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -17648,7 +17054,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -19419,7 +18825,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -19461,7 +18867,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -20961,7 +20367,7 @@
                 "reason": 1,
                 "description": "Groin Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:27+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               },
               {
                 "player": {
@@ -21047,7 +20453,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:26+00:00"
+                "expectedEndDate": "2026-05-07T16:00:25+00:00"
               },
               {
                 "player": {
@@ -21135,7 +20541,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:28+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               },
               {
                 "player": {
@@ -21567,7 +20973,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -23111,7 +22517,7 @@
                 "reason": 1,
                 "description": "Groin Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -25062,7 +24468,7 @@
                 "reason": 1,
                 "description": "Hip Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:40+00:00"
+                "expectedEndDate": "2026-05-07T16:00:30+00:00"
               }
             ],
             "starters": [
@@ -26880,7 +26286,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -27174,7 +26580,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:46+00:00"
+                "expectedEndDate": "2026-05-06T16:00:32+00:00"
               },
               {
                 "player": {
@@ -27260,7 +26666,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -27304,7 +26710,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:54+00:00"
+                "expectedEndDate": "2026-05-07T16:00:34+00:00"
               }
             ],
             "starters": [
@@ -29221,7 +28627,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -29265,7 +28671,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:34+00:00"
+                "expectedEndDate": "2026-05-07T16:00:28+00:00"
               }
             ],
             "starters": [
@@ -32646,7 +32052,7 @@
                 "reason": 1,
                 "description": "Groin Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:27+00:00"
+                "expectedEndDate": "2026-05-07T16:00:26+00:00"
               },
               {
                 "player": {
@@ -34771,7 +34177,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:47+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -38748,7 +38154,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:32+00:00"
+                "expectedEndDate": "2026-05-07T16:00:27+00:00"
               }
             ],
             "starters": [
@@ -40626,7 +40032,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:46+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               },
               {
                 "player": {
@@ -44566,7 +43972,7 @@
                 "reason": 1,
                 "description": "Cruciate Ligament Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:51+00:00"
+                "expectedEndDate": "2026-05-07T16:00:33+00:00"
               }
             ],
             "starters": [
@@ -46410,7 +45816,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:48+00:00"
+                "expectedEndDate": "2026-05-07T16:00:32+00:00"
               }
             ],
             "starters": [
@@ -48484,7 +47890,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T08:00:46+00:00"
+                "expectedEndDate": "2026-05-06T16:00:32+00:00"
               },
               {
                 "player": {
@@ -48609,7 +48015,7 @@
                 "reason": 1,
                 "description": "Knock Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T08:00:54+00:00"
+                "expectedEndDate": "2026-05-07T16:00:34+00:00"
               }
             ],
             "starters": [

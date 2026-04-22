@@ -3,7 +3,7 @@
   "league_name": "LaLiga Hypermotion",
   "league_slug": "esp.2",
   "source": "ESPN+SofaScore",
-  "scraped_at": "2026-04-22T11:48:55Z",
+  "scraped_at": "2026-04-22T19:23:46Z",
   "standings": [
     {
       "rank": 1.0,
@@ -4738,7 +4738,7 @@
       "referee": {
         "name": "Jon Ander Gonzalez Esteban",
         "slug": "jon-ander-gonzalez-esteban",
-        "yellowCards": 706,
+        "yellowCards": 707,
         "redCards": 39,
         "yellowRedCards": 8,
         "games": 157,
@@ -29292,7 +29292,7 @@
       "season_id": 77558,
       "season_year": "25/26",
       "tournament_id": 54,
-      "current_round": 36,
+      "current_round": 37,
       "rounds_total": 42,
       "events_total": 464,
       "recent_detail_limit": 24,
