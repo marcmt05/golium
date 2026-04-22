@@ -1,0 +1,5435 @@
+{
+  "league_key": "hypermotion",
+  "league_name": "LaLiga Hypermotion",
+  "league_slug": "esp.2",
+  "source": "ESPN",
+  "scraped_at": "2026-04-21T18:59:11Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "87",
+      "team_name": "Racing Santander",
+      "team_short_name": "Racing",
+      "team_abbr": "RAC",
+      "normalized_name": "racing santander",
+      "played": 36.0,
+      "wins": 21.0,
+      "draws": 5.0,
+      "losses": 10.0,
+      "goals_for": 75.0,
+      "goals_against": 55.0,
+      "goal_difference": 20.0,
+      "points": 68.0,
+      "form": "LWLWW",
+      "status": "Promotion",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 20.0,
+        "Goal Difference": "+20",
+        "GD": "+20",
+        "points": 68.0,
+        "Points": "68",
+        "P": "68",
+        "pointsAgainst": 55.0,
+        "Goals Against": "55",
+        "A": "55",
+        "pointsFor": 75.0,
+        "Goals For": "75",
+        "F": "75",
+        "ties": 5.0,
+        "Draws": "5",
+        "D": "5",
+        "wins": 21.0,
+        "Wins": "21",
+        "W": "21",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "21-5-10",
+        "Overall": "21-5-10",
+        "Total": "21-5-10"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "90",
+      "team_name": "Deportivo La Coruña",
+      "team_short_name": "Deportivo",
+      "team_abbr": "DEP",
+      "normalized_name": "la coruna",
+      "played": 36.0,
+      "wins": 18.0,
+      "draws": 10.0,
+      "losses": 8.0,
+      "goals_for": 56.0,
+      "goals_against": 39.0,
+      "goal_difference": 17.0,
+      "points": 64.0,
+      "form": "DWDDW",
+      "status": "Promotion",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 17.0,
+        "Goal Difference": "+17",
+        "GD": "+17",
+        "points": 64.0,
+        "Points": "64",
+        "P": "64",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 56.0,
+        "Goals For": "56",
+        "F": "56",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 18.0,
+        "Wins": "18",
+        "W": "18",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "18-10-8",
+        "Overall": "18-10-8",
+        "Total": "18-10-8"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "6832",
+      "team_name": "Almería",
+      "team_short_name": "Almería",
+      "team_abbr": "ALM",
+      "normalized_name": "almeria",
+      "played": 36.0,
+      "wins": 19.0,
+      "draws": 7.0,
+      "losses": 10.0,
+      "goals_for": 70.0,
+      "goals_against": 54.0,
+      "goal_difference": 16.0,
+      "points": 64.0,
+      "form": "WLWLW",
+      "status": "Promotion playoffs",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 16.0,
+        "Goal Difference": "+16",
+        "GD": "+16",
+        "points": 64.0,
+        "Points": "64",
+        "P": "64",
+        "pointsAgainst": 54.0,
+        "Goals Against": "54",
+        "A": "54",
+        "pointsFor": 70.0,
+        "Goals For": "70",
+        "F": "70",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 19.0,
+        "Wins": "19",
+        "W": "19",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "19-7-10",
+        "Overall": "19-7-10",
+        "Total": "19-7-10"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "4438",
+      "team_name": "Castellón",
+      "team_short_name": "Castellón",
+      "team_abbr": "CAS",
+      "normalized_name": "castellon",
+      "played": 36.0,
+      "wins": 17.0,
+      "draws": 10.0,
+      "losses": 9.0,
+      "goals_for": 61.0,
+      "goals_against": 44.0,
+      "goal_difference": 17.0,
+      "points": 61.0,
+      "form": "DWWDW",
+      "status": "Promotion playoffs",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 9.0,
+        "Losses": "9",
+        "L": "9",
+        "pointDifferential": 17.0,
+        "Goal Difference": "+17",
+        "GD": "+17",
+        "points": 61.0,
+        "Points": "61",
+        "P": "61",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 61.0,
+        "Goals For": "61",
+        "F": "61",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-10-9",
+        "Overall": "17-10-9",
+        "Total": "17-10-9"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "99",
+      "team_name": "Málaga",
+      "team_short_name": "Málaga",
+      "team_abbr": "MCF",
+      "normalized_name": "malaga",
+      "played": 36.0,
+      "wins": 17.0,
+      "draws": 9.0,
+      "losses": 10.0,
+      "goals_for": 60.0,
+      "goals_against": 44.0,
+      "goal_difference": 16.0,
+      "points": 60.0,
+      "form": "DDDWL",
+      "status": "Promotion playoffs",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 16.0,
+        "Goal Difference": "+16",
+        "GD": "+16",
+        "points": 60.0,
+        "Points": "60",
+        "P": "60",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 60.0,
+        "Goals For": "60",
+        "F": "60",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-9-10",
+        "Overall": "17-9-10",
+        "Total": "17-9-10"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "12597",
+      "team_name": "Burgos",
+      "team_short_name": "Burgos",
+      "team_abbr": "BUR",
+      "normalized_name": "burgos",
+      "played": 36.0,
+      "wins": 17.0,
+      "draws": 9.0,
+      "losses": 10.0,
+      "goals_for": 43.0,
+      "goals_against": 32.0,
+      "goal_difference": 11.0,
+      "points": 60.0,
+      "form": "WDWWL",
+      "status": "Promotion playoffs",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 11.0,
+        "Goal Difference": "+11",
+        "GD": "+11",
+        "points": 60.0,
+        "Points": "60",
+        "P": "60",
+        "pointsAgainst": 32.0,
+        "Goals Against": "32",
+        "A": "32",
+        "pointsFor": 43.0,
+        "Goals For": "43",
+        "F": "43",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-9-10",
+        "Overall": "17-9-10",
+        "Total": "17-9-10"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "98",
+      "team_name": "Las Palmas",
+      "team_short_name": "Las Palmas",
+      "team_abbr": "LPA",
+      "normalized_name": "las palmas",
+      "played": 36.0,
+      "wins": 16.0,
+      "draws": 12.0,
+      "losses": 8.0,
+      "goals_for": 47.0,
+      "goals_against": 30.0,
+      "goal_difference": 17.0,
+      "points": 60.0,
+      "form": "LWWLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 17.0,
+        "Goal Difference": "+17",
+        "GD": "+17",
+        "points": 60.0,
+        "Points": "60",
+        "P": "60",
+        "pointsAgainst": 30.0,
+        "Goals Against": "30",
+        "A": "30",
+        "pointsFor": 47.0,
+        "Goals For": "47",
+        "F": "47",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-12-8",
+        "Overall": "16-12-8",
+        "Total": "16-12-8"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "3752",
+      "team_name": "Eibar",
+      "team_short_name": "Eibar",
+      "team_abbr": "EIB",
+      "normalized_name": "eibar",
+      "played": 36.0,
+      "wins": 16.0,
+      "draws": 10.0,
+      "losses": 10.0,
+      "goals_for": 42.0,
+      "goals_against": 32.0,
+      "goal_difference": 10.0,
+      "points": 58.0,
+      "form": "WWWDW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 10.0,
+        "Goal Difference": "+10",
+        "GD": "+10",
+        "points": 58.0,
+        "Points": "58",
+        "P": "58",
+        "pointsAgainst": 32.0,
+        "Goals Against": "32",
+        "A": "32",
+        "pointsFor": 42.0,
+        "Goals For": "42",
+        "F": "42",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-10-10",
+        "Overall": "16-10-10",
+        "Total": "16-10-10"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "20179",
+      "team_name": "FC Andorra",
+      "team_short_name": "FC Andorra",
+      "team_abbr": "AND",
+      "normalized_name": "andorra",
+      "played": 36.0,
+      "wins": 14.0,
+      "draws": 10.0,
+      "losses": 12.0,
+      "goals_for": 52.0,
+      "goals_against": 47.0,
+      "goal_difference": 5.0,
+      "points": 52.0,
+      "form": "WDWWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": 5.0,
+        "Goal Difference": "+5",
+        "GD": "+5",
+        "points": 52.0,
+        "Points": "52",
+        "P": "52",
+        "pointsAgainst": 47.0,
+        "Goals Against": "47",
+        "A": "47",
+        "pointsFor": 52.0,
+        "Goals For": "52",
+        "F": "52",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-10-12",
+        "Overall": "14-10-12",
+        "Total": "14-10-12"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "3788",
+      "team_name": "Sporting Gijón",
+      "team_short_name": "Sporting",
+      "team_abbr": "RSG",
+      "normalized_name": "sporting gijon",
+      "played": 36.0,
+      "wins": 15.0,
+      "draws": 7.0,
+      "losses": 14.0,
+      "goals_for": 48.0,
+      "goals_against": 44.0,
+      "goal_difference": 4.0,
+      "points": 52.0,
+      "form": "DLWLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": 4.0,
+        "Goal Difference": "+4",
+        "GD": "+4",
+        "points": 52.0,
+        "Points": "52",
+        "P": "52",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 15.0,
+        "Wins": "15",
+        "W": "15",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "15-7-14",
+        "Overall": "15-7-14",
+        "Total": "15-7-14"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "8447",
+      "team_name": "Córdoba",
+      "team_short_name": "Córdoba",
+      "team_abbr": "COR",
+      "normalized_name": "cordoba",
+      "played": 36.0,
+      "wins": 14.0,
+      "draws": 9.0,
+      "losses": 13.0,
+      "goals_for": 49.0,
+      "goals_against": 53.0,
+      "goal_difference": -4.0,
+      "points": 51.0,
+      "form": "DLWWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -4.0,
+        "Goal Difference": "-4",
+        "GD": "-4",
+        "points": 51.0,
+        "Points": "51",
+        "P": "51",
+        "pointsAgainst": 53.0,
+        "Goals Against": "53",
+        "A": "53",
+        "pointsFor": 49.0,
+        "Goals For": "49",
+        "F": "49",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-9-13",
+        "Overall": "14-9-13",
+        "Total": "14-9-13"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "5404",
+      "team_name": "Ceuta",
+      "team_short_name": "Ceuta",
+      "team_abbr": "CEU",
+      "normalized_name": "ceuta",
+      "played": 36.0,
+      "wins": 14.0,
+      "draws": 8.0,
+      "losses": 14.0,
+      "goals_for": 44.0,
+      "goals_against": 57.0,
+      "goal_difference": -13.0,
+      "points": 50.0,
+      "form": "WDLDD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -13.0,
+        "Goal Difference": "-13",
+        "GD": "-13",
+        "points": 50.0,
+        "Points": "50",
+        "P": "50",
+        "pointsAgainst": 57.0,
+        "Goals Against": "57",
+        "A": "57",
+        "pointsFor": 44.0,
+        "Goals For": "44",
+        "F": "44",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-8-14",
+        "Overall": "14-8-14",
+        "Total": "14-8-14"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "2737",
+      "team_name": "Albacete",
+      "team_short_name": "Albacete",
+      "team_abbr": "ALB",
+      "normalized_name": "albacete",
+      "played": 36.0,
+      "wins": 12.0,
+      "draws": 11.0,
+      "losses": 13.0,
+      "goals_for": 48.0,
+      "goals_against": 48.0,
+      "goal_difference": "0",
+      "points": 47.0,
+      "form": "DDLLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": 0.0,
+        "Goal Difference": "0",
+        "GD": "0",
+        "points": 47.0,
+        "Points": "47",
+        "P": "47",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-11-13",
+        "Overall": "12-11-13",
+        "Total": "12-11-13"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "3747",
+      "team_name": "Granada",
+      "team_short_name": "Granada",
+      "team_abbr": "GRA",
+      "normalized_name": "granada",
+      "played": 36.0,
+      "wins": 11.0,
+      "draws": 12.0,
+      "losses": 13.0,
+      "goals_for": 45.0,
+      "goals_against": 45.0,
+      "goal_difference": "0",
+      "points": 45.0,
+      "form": "WLLWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": 0.0,
+        "Goal Difference": "0",
+        "GD": "0",
+        "points": 45.0,
+        "Points": "45",
+        "P": "45",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 45.0,
+        "Goals For": "45",
+        "F": "45",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-12-13",
+        "Overall": "11-12-13",
+        "Total": "11-12-13"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "17534",
+      "team_name": "Leganés",
+      "team_short_name": "Leganés",
+      "team_abbr": "LEG",
+      "normalized_name": "leganes",
+      "played": 36.0,
+      "wins": 10.0,
+      "draws": 12.0,
+      "losses": 14.0,
+      "goals_for": 40.0,
+      "goals_against": 40.0,
+      "goal_difference": "0",
+      "points": 42.0,
+      "form": "DDLWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": 0.0,
+        "Goal Difference": "0",
+        "GD": "0",
+        "points": 42.0,
+        "Points": "42",
+        "P": "42",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-12-14",
+        "Overall": "10-12-14",
+        "Total": "10-12-14"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "20983",
+      "team_name": "Real Sociedad II",
+      "team_short_name": "Real Sociedad II",
+      "team_abbr": "RSO2",
+      "normalized_name": "real sociedad ii",
+      "played": 36.0,
+      "wins": 11.0,
+      "draws": 8.0,
+      "losses": 17.0,
+      "goals_for": 46.0,
+      "goals_against": 53.0,
+      "goal_difference": -7.0,
+      "points": 41.0,
+      "form": "LLLDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 17.0,
+        "Losses": "17",
+        "L": "17",
+        "pointDifferential": -7.0,
+        "Goal Difference": "-7",
+        "GD": "-7",
+        "points": 41.0,
+        "Points": "41",
+        "P": "41",
+        "pointsAgainst": 53.0,
+        "Goals Against": "53",
+        "A": "53",
+        "pointsFor": 46.0,
+        "Goals For": "46",
+        "F": "46",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-8-17",
+        "Overall": "11-8-17",
+        "Total": "11-8-17"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "95",
+      "team_name": "Real Valladolid",
+      "team_short_name": "Valladolid",
+      "team_abbr": "VLL",
+      "normalized_name": "real valladolid",
+      "played": 36.0,
+      "wins": 10.0,
+      "draws": 10.0,
+      "losses": 16.0,
+      "goals_for": 39.0,
+      "goals_against": 48.0,
+      "goal_difference": -9.0,
+      "points": 40.0,
+      "form": "LWLDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -9.0,
+        "Goal Difference": "-9",
+        "GD": "-9",
+        "points": 40.0,
+        "Points": "40",
+        "P": "40",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 39.0,
+        "Goals For": "39",
+        "F": "39",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-10-16",
+        "Overall": "10-10-16",
+        "Total": "10-10-16"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "3842",
+      "team_name": "Cádiz",
+      "team_short_name": "Cádiz",
+      "team_abbr": "CAD",
+      "normalized_name": "cadiz",
+      "played": 36.0,
+      "wins": 10.0,
+      "draws": 8.0,
+      "losses": 18.0,
+      "goals_for": 33.0,
+      "goals_against": 51.0,
+      "goal_difference": -18.0,
+      "points": 38.0,
+      "form": "LLLLL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 18.0,
+        "Losses": "18",
+        "L": "18",
+        "pointDifferential": -18.0,
+        "Goal Difference": "-18",
+        "GD": "-18",
+        "points": 38.0,
+        "Points": "38",
+        "P": "38",
+        "pointsAgainst": 51.0,
+        "Goals Against": "51",
+        "A": "51",
+        "pointsFor": 33.0,
+        "Goals For": "33",
+        "F": "33",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-8-18",
+        "Overall": "10-8-18",
+        "Total": "10-8-18"
+      }
+    },
+    {
+      "rank": 19.0,
+      "team_id": "91",
+      "team_name": "Real Zaragoza",
+      "team_short_name": "Real Zaragoza",
+      "team_abbr": "ZAR",
+      "normalized_name": "real zaragoza",
+      "played": 36.0,
+      "wins": 8.0,
+      "draws": 11.0,
+      "losses": 17.0,
+      "goals_for": 33.0,
+      "goals_against": 49.0,
+      "goal_difference": -16.0,
+      "points": 35.0,
+      "form": "WDLLD",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 17.0,
+        "Losses": "17",
+        "L": "17",
+        "pointDifferential": -16.0,
+        "Goal Difference": "-16",
+        "GD": "-16",
+        "points": 35.0,
+        "Points": "35",
+        "P": "35",
+        "pointsAgainst": 49.0,
+        "Goals Against": "49",
+        "A": "49",
+        "pointsFor": 33.0,
+        "Goals For": "33",
+        "F": "33",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 19.0,
+        "Rank": "19",
+        "R": "19",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-11-17",
+        "Overall": "8-11-17",
+        "Total": "8-11-17"
+      }
+    },
+    {
+      "rank": 20.0,
+      "team_id": "5413",
+      "team_name": "Huesca",
+      "team_short_name": "Huesca",
+      "team_abbr": "HUE",
+      "normalized_name": "huesca",
+      "played": 36.0,
+      "wins": 8.0,
+      "draws": 9.0,
+      "losses": 19.0,
+      "goals_for": 36.0,
+      "goals_against": 55.0,
+      "goal_difference": -19.0,
+      "points": 33.0,
+      "form": "LDLDL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 19.0,
+        "Losses": "19",
+        "L": "19",
+        "pointDifferential": -19.0,
+        "Goal Difference": "-19",
+        "GD": "-19",
+        "points": 33.0,
+        "Points": "33",
+        "P": "33",
+        "pointsAgainst": 55.0,
+        "Goals Against": "55",
+        "A": "55",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 20.0,
+        "Rank": "20",
+        "R": "20",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-9-19",
+        "Overall": "8-9-19",
+        "Total": "8-9-19"
+      }
+    },
+    {
+      "rank": 21.0,
+      "team_id": "4515",
+      "team_name": "Mirandés",
+      "team_short_name": "Mirandés",
+      "team_abbr": "MIR",
+      "normalized_name": "mirandes",
+      "played": 36.0,
+      "wins": 8.0,
+      "draws": 9.0,
+      "losses": 19.0,
+      "goals_for": 38.0,
+      "goals_against": 59.0,
+      "goal_difference": -21.0,
+      "points": 33.0,
+      "form": "DDWDL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 19.0,
+        "Losses": "19",
+        "L": "19",
+        "pointDifferential": -21.0,
+        "Goal Difference": "-21",
+        "GD": "-21",
+        "points": 33.0,
+        "Points": "33",
+        "P": "33",
+        "pointsAgainst": 59.0,
+        "Goals Against": "59",
+        "A": "59",
+        "pointsFor": 38.0,
+        "Goals For": "38",
+        "F": "38",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 21.0,
+        "Rank": "21",
+        "R": "21",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-9-19",
+        "Overall": "8-9-19",
+        "Total": "8-9-19"
+      }
+    },
+    {
+      "rank": 22.0,
+      "team_id": "10629",
+      "team_name": "Cultural Leonesa",
+      "team_short_name": "Leonesa",
+      "team_abbr": "CLE",
+      "normalized_name": "cultural leonesa",
+      "played": 36.0,
+      "wins": 8.0,
+      "draws": 8.0,
+      "losses": 20.0,
+      "goals_for": 32.0,
+      "goals_against": 58.0,
+      "goal_difference": -26.0,
+      "points": 32.0,
+      "form": "LDWLL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 36.0,
+        "Games Played": "36",
+        "GP": "36",
+        "losses": 20.0,
+        "Losses": "20",
+        "L": "20",
+        "pointDifferential": -26.0,
+        "Goal Difference": "-26",
+        "GD": "-26",
+        "points": 32.0,
+        "Points": "32",
+        "P": "32",
+        "pointsAgainst": 58.0,
+        "Goals Against": "58",
+        "A": "58",
+        "pointsFor": 32.0,
+        "Goals For": "32",
+        "F": "32",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 22.0,
+        "Rank": "22",
+        "R": "22",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-8-20",
+        "Overall": "8-8-20",
+        "Total": "8-8-20"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "748929",
+      "date": "2026-04-24T18:30Z",
+      "date_only": "2026-04-24",
+      "name": "Eibar at Albacete",
+      "short_name": "EIB @ ALB",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 2:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "0",
+        "form": "WLLDD",
+        "record": "12-11-13"
+      },
+      "away_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "0",
+        "form": "WDWWW",
+        "record": "16-10-10"
+      },
+      "venue": {
+        "name": "Carlos Belmonte",
+        "city": "Albacete",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748923",
+      "date": "2026-04-25T14:15Z",
+      "date_only": "2026-04-25",
+      "name": "Real Sociedad II at Real Valladolid",
+      "short_name": "RSO2 @ VLL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 10:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "10-10-16"
+      },
+      "away_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "0",
+        "form": "LDLLL",
+        "record": "11-8-17"
+      },
+      "venue": {
+        "name": "Estadio José Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748930",
+      "date": "2026-04-25T16:30Z",
+      "date_only": "2026-04-25",
+      "name": "Deportivo La Coruña at Burgos",
+      "short_name": "DEP @ BUR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "0",
+        "form": "LWWDW",
+        "record": "17-9-10"
+      },
+      "away_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "0",
+        "form": "WDDWD",
+        "record": "18-10-8"
+      },
+      "venue": {
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748922",
+      "date": "2026-04-25T19:00Z",
+      "date_only": "2026-04-25",
+      "name": "Castellón at Málaga",
+      "short_name": "CAS @ MCF",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "0",
+        "form": "LWDDD",
+        "record": "17-9-10"
+      },
+      "away_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "0",
+        "form": "WDWWD",
+        "record": "17-10-9"
+      },
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Malaga",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748928",
+      "date": "2026-04-26T12:00Z",
+      "date_only": "2026-04-26",
+      "name": "Sporting Gijón at Córdoba",
+      "short_name": "RSG @ COR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 8:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "0",
+        "form": "WWWLD",
+        "record": "14-9-13"
+      },
+      "away_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "0",
+        "form": "WLWLD",
+        "record": "15-7-14"
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo El Arcángel",
+        "city": "Córdoba",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748921",
+      "date": "2026-04-26T14:15Z",
+      "date_only": "2026-04-26",
+      "name": "Cultural Leonesa at Mirandés",
+      "short_name": "CLE @ MIR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 10:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "0",
+        "form": "LDWDD",
+        "record": "8-9-19"
+      },
+      "away_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "0",
+        "form": "LLWDL",
+        "record": "8-8-20"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748925",
+      "date": "2026-04-26T14:15Z",
+      "date_only": "2026-04-26",
+      "name": "Almería at Granada",
+      "short_name": "ALM @ GRA",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 10:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "0",
+        "form": "LWLLW",
+        "record": "11-12-13"
+      },
+      "away_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "0",
+        "form": "WLWLW",
+        "record": "19-7-10"
+      },
+      "venue": {
+        "name": "Nuevo Estadio de Los Cármenes",
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748920",
+      "date": "2026-04-26T16:30Z",
+      "date_only": "2026-04-26",
+      "name": "FC Andorra at Leganés",
+      "short_name": "AND @ LEG",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "0",
+        "form": "LWLDD",
+        "record": "10-12-14"
+      },
+      "away_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "0",
+        "form": "WWWDW",
+        "record": "14-10-12"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés, Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748924",
+      "date": "2026-04-26T16:30Z",
+      "date_only": "2026-04-26",
+      "name": "Real Zaragoza at Huesca",
+      "short_name": "ZAR @ HUE",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "0",
+        "form": "LDLDL",
+        "record": "8-9-19"
+      },
+      "away_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "0",
+        "form": "DLLDW",
+        "record": "8-11-17"
+      },
+      "venue": {
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748926",
+      "date": "2026-04-26T19:00Z",
+      "date_only": "2026-04-26",
+      "name": "Racing Santander at Ceuta",
+      "short_name": "RAC @ CEU",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "0",
+        "form": "DDLDW",
+        "record": "14-8-14"
+      },
+      "away_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "0",
+        "form": "WWLWL",
+        "record": "21-5-10"
+      },
+      "venue": {
+        "name": "Estadio Alfonso Murube",
+        "city": "Ceuta",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748927",
+      "date": "2026-04-27T18:30Z",
+      "date_only": "2026-04-27",
+      "name": "Las Palmas at Cádiz",
+      "short_name": "LPA @ CAD",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Mon, April 27th at 2:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "10-8-18"
+      },
+      "away_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "0",
+        "form": "WLWWL",
+        "record": "16-12-8"
+      },
+      "venue": {
+        "name": "Nuevo Mirandilla",
+        "city": "La Línea de la Concepción",
+        "country": "Spain"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "748918",
+      "date": "2026-04-20T18:30Z",
+      "date_only": "2026-04-20",
+      "name": "Mirandés at Deportivo La Coruña",
+      "short_name": "MIR @ DEP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "3",
+        "form": "WDDWD",
+        "record": "18-10-8"
+      },
+      "away_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "1",
+        "form": "LDWDD",
+        "record": "8-9-19"
+      },
+      "venue": {
+        "name": "Riazor",
+        "city": "La Coruña",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748912",
+      "date": "2026-04-19T19:00Z",
+      "date_only": "2026-04-19",
+      "name": "Málaga at Almería",
+      "short_name": "MCF @ ALM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "3",
+        "form": "WLWLW",
+        "record": "19-7-10"
+      },
+      "away_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "2",
+        "form": "LWDDD",
+        "record": "17-9-10"
+      },
+      "venue": {
+        "name": "Power Horse Stadium",
+        "city": "Almería",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748917",
+      "date": "2026-04-19T16:30Z",
+      "date_only": "2026-04-19",
+      "name": "Huesca at Eibar",
+      "short_name": "HUE @ EIB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "2",
+        "form": "WDWWW",
+        "record": "16-10-10"
+      },
+      "away_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "1",
+        "form": "LDLDL",
+        "record": "8-9-19"
+      },
+      "venue": {
+        "name": "Ipurua",
+        "city": "Eibar",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748915",
+      "date": "2026-04-19T16:30Z",
+      "date_only": "2026-04-19",
+      "name": "Granada at Albacete",
+      "short_name": "GRA @ ALB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "4",
+        "form": "WLLDD",
+        "record": "12-11-13"
+      },
+      "away_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "1",
+        "form": "LWLLW",
+        "record": "11-12-13"
+      },
+      "venue": {
+        "name": "Carlos Belmonte",
+        "city": "Albacete",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748910",
+      "date": "2026-04-19T14:15Z",
+      "date_only": "2026-04-19",
+      "name": "Cádiz at Sporting Gijón",
+      "short_name": "CAD @ RSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "3",
+        "form": "WLWLD",
+        "record": "15-7-14"
+      },
+      "away_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "10-8-18"
+      },
+      "venue": {
+        "name": "Estadio El Molinón-Enrique Castro \"Quini\"",
+        "city": "Gijón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748916",
+      "date": "2026-04-19T12:00Z",
+      "date_only": "2026-04-19",
+      "name": "Real Valladolid at FC Andorra",
+      "short_name": "VLL @ AND",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "14-10-12"
+      },
+      "away_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "10-10-16"
+      },
+      "venue": {
+        "name": "Estadi de la FAF d'Encamp",
+        "city": "Encamp",
+        "country": "Andorra"
+      }
+    },
+    {
+      "event_id": "748919",
+      "date": "2026-04-18T16:30Z",
+      "date_only": "2026-04-18",
+      "name": "Córdoba at Cultural Leonesa",
+      "short_name": "COR @ CLE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "1",
+        "form": "LLWDL",
+        "record": "8-8-20"
+      },
+      "away_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "2",
+        "form": "WWWLD",
+        "record": "14-9-13"
+      },
+      "venue": {
+        "name": "Estadio Reino de León",
+        "city": "León",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748914",
+      "date": "2026-04-18T16:30Z",
+      "date_only": "2026-04-18",
+      "name": "Burgos at Castellón",
+      "short_name": "BUR @ CAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "3",
+        "form": "WDWWD",
+        "record": "17-10-9"
+      },
+      "away_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "1",
+        "form": "LWWDW",
+        "record": "17-9-10"
+      },
+      "venue": {
+        "name": "Nou Estadi Castalia",
+        "city": "Castellón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748911",
+      "date": "2026-04-18T14:15Z",
+      "date_only": "2026-04-18",
+      "name": "Ceuta at Real Zaragoza",
+      "short_name": "CEU @ ZAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "2",
+        "form": "DLLDW",
+        "record": "8-11-17"
+      },
+      "away_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "2",
+        "form": "DDLDW",
+        "record": "14-8-14"
+      },
+      "venue": {
+        "name": "Ibercaja Estadio",
+        "city": "Zaragoza",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748913",
+      "date": "2026-04-17T19:00Z",
+      "date_only": "2026-04-17",
+      "name": "Leganés at Las Palmas",
+      "short_name": "LEG @ LPA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "2",
+        "form": "WLWWL",
+        "record": "16-12-8"
+      },
+      "away_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "0",
+        "form": "LWLDD",
+        "record": "10-12-14"
+      },
+      "venue": {
+        "name": "Estadio Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748909",
+      "date": "2026-04-17T18:30Z",
+      "date_only": "2026-04-17",
+      "name": "Racing Santander at Real Sociedad II",
+      "short_name": "RAC @ RSO2",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "1",
+        "form": "LDLLL",
+        "record": "11-8-17"
+      },
+      "away_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "3",
+        "form": "WWLWL",
+        "record": "21-5-10"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748908",
+      "date": "2026-04-13T18:30Z",
+      "date_only": "2026-04-13",
+      "name": "Eibar at Real Valladolid",
+      "short_name": "EIB @ VLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "10-10-15"
+      },
+      "away_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "0",
+        "form": "WDWWW",
+        "record": "15-10-10"
+      },
+      "venue": {
+        "name": "Estadio José Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748904",
+      "date": "2026-04-12T19:00Z",
+      "date_only": "2026-04-12",
+      "name": "Almería at Racing Santander",
+      "short_name": "ALM @ RAC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "5",
+        "form": "WWLWL",
+        "record": "20-5-10"
+      },
+      "away_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "1",
+        "form": "WLWLW",
+        "record": "18-7-10"
+      },
+      "venue": {
+        "name": "El Sardineros",
+        "city": "Santander",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748906",
+      "date": "2026-04-12T16:30Z",
+      "date_only": "2026-04-12",
+      "name": "Castellón at Mirandés",
+      "short_name": "CAS @ MIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "2",
+        "form": "LDWDD",
+        "record": "8-9-18"
+      },
+      "away_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "2",
+        "form": "WDWWD",
+        "record": "16-10-9"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748900",
+      "date": "2026-04-12T16:30Z",
+      "date_only": "2026-04-12",
+      "name": "FC Andorra at Cádiz",
+      "short_name": "AND @ CAD",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "10-8-17"
+      },
+      "away_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "13-10-12"
+      },
+      "venue": {
+        "name": "Nuevo Mirandilla",
+        "city": "La Línea de la Concepción",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748903",
+      "date": "2026-04-12T14:15Z",
+      "date_only": "2026-04-12",
+      "name": "Deportivo La Coruña at Huesca",
+      "short_name": "DEP @ HUE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "1",
+        "form": "LDLDL",
+        "record": "8-9-18"
+      },
+      "away_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "1",
+        "form": "WDDWD",
+        "record": "17-10-8"
+      },
+      "venue": {
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748902",
+      "date": "2026-04-12T12:00Z",
+      "date_only": "2026-04-12",
+      "name": "Cultural Leonesa at Granada",
+      "short_name": "CLE @ GRA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "1",
+        "form": "LWLLW",
+        "record": "11-12-12"
+      },
+      "away_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "0",
+        "form": "LLWDL",
+        "record": "8-8-19"
+      },
+      "venue": {
+        "name": "Nuevo Estadio de Los Cármenes",
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748901",
+      "date": "2026-04-11T19:00Z",
+      "date_only": "2026-04-11",
+      "name": "Real Zaragoza at Córdoba",
+      "short_name": "ZAR @ COR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "1",
+        "form": "WWWLD",
+        "record": "13-9-13"
+      },
+      "away_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "0",
+        "form": "DLLDW",
+        "record": "8-10-17"
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo El Arcángel",
+        "city": "Córdoba",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748905",
+      "date": "2026-04-11T16:30Z",
+      "date_only": "2026-04-11",
+      "name": "Las Palmas at Málaga",
+      "short_name": "LPA @ MCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "2",
+        "form": "LWDDD",
+        "record": "17-9-9"
+      },
+      "away_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "0",
+        "form": "WLWWL",
+        "record": "15-12-8"
+      },
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Malaga",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748907",
+      "date": "2026-04-11T14:15Z",
+      "date_only": "2026-04-11",
+      "name": "Albacete at Leganés",
+      "short_name": "ALB @ LEG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "2",
+        "form": "LWLDD",
+        "record": "10-12-13"
+      },
+      "away_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "1",
+        "form": "WLLDD",
+        "record": "11-11-13"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés, Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748898",
+      "date": "2026-04-11T14:15Z",
+      "date_only": "2026-04-11",
+      "name": "Sporting Gijón at Burgos",
+      "short_name": "RSG @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "1",
+        "form": "LWWDW",
+        "record": "17-9-9"
+      },
+      "away_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "0",
+        "form": "WLWLD",
+        "record": "14-7-14"
+      },
+      "venue": {
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748899",
+      "date": "2026-04-10T18:30Z",
+      "date_only": "2026-04-10",
+      "name": "Real Sociedad II at Ceuta",
+      "short_name": "RSO2 @ CEU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "0",
+        "form": "DDLDW",
+        "record": "14-7-14"
+      },
+      "away_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "0",
+        "form": "LDLLL",
+        "record": "11-8-16"
+      },
+      "venue": {
+        "name": "Estadio Alfonso Murube",
+        "city": "Ceuta",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748887",
+      "date": "2026-04-06T18:30Z",
+      "date_only": "2026-04-06",
+      "name": "Real Sociedad II at Sporting Gijón",
+      "short_name": "RSO2 @ RSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "1",
+        "form": "WLWLD",
+        "record": "14-7-13"
+      },
+      "away_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "0",
+        "form": "LDLLL",
+        "record": "11-7-16"
+      },
+      "venue": {
+        "name": "Estadio El Molinón-Enrique Castro \"Quini\"",
+        "city": "Gijón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748890",
+      "date": "2026-04-06T17:00Z",
+      "date_only": "2026-04-06",
+      "name": "Granada at Castellón",
+      "short_name": "GRA @ CAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "3",
+        "form": "WDWWD",
+        "record": "16-9-9"
+      },
+      "away_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "2",
+        "form": "LWLLW",
+        "record": "10-12-12"
+      },
+      "venue": {
+        "name": "Nou Estadi Castalia",
+        "city": "Castellón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748894",
+      "date": "2026-04-05T19:00Z",
+      "date_only": "2026-04-05",
+      "name": "Mirandés at Real Zaragoza",
+      "short_name": "MIR @ ZAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "1",
+        "form": "DLLDW",
+        "record": "8-10-16"
+      },
+      "away_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "2",
+        "form": "LDWDD",
+        "record": "8-8-18"
+      },
+      "venue": {
+        "name": "Ibercaja Estadio",
+        "city": "Zaragoza",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748895",
+      "date": "2026-04-05T16:30Z",
+      "date_only": "2026-04-05",
+      "name": "Huesca at Las Palmas",
+      "short_name": "HUE @ LPA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "2",
+        "form": "WLWWL",
+        "record": "15-12-7"
+      },
+      "away_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "1",
+        "form": "LDLDL",
+        "record": "8-8-18"
+      },
+      "venue": {
+        "name": "Estadio Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748891",
+      "date": "2026-04-05T16:30Z",
+      "date_only": "2026-04-05",
+      "name": "Leganés at Almería",
+      "short_name": "LEG @ ALM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "2",
+        "form": "WLWLW",
+        "record": "18-7-9"
+      },
+      "away_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "1",
+        "form": "LWLDD",
+        "record": "9-12-13"
+      },
+      "venue": {
+        "name": "Power Horse Stadium",
+        "city": "Almería",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748896",
+      "date": "2026-04-05T14:15Z",
+      "date_only": "2026-04-05",
+      "name": "Racing Santander at FC Andorra",
+      "short_name": "RAC @ AND",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "6",
+        "form": "WWWDW",
+        "record": "12-10-12"
+      },
+      "away_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "2",
+        "form": "WWLWL",
+        "record": "19-5-10"
+      },
+      "venue": {
+        "name": "Estadi de la FAF d'Encamp",
+        "city": "Encamp",
+        "country": "Andorra"
+      }
+    },
+    {
+      "event_id": "748897",
+      "date": "2026-04-05T12:00Z",
+      "date_only": "2026-04-05",
+      "name": "Ceuta at Eibar",
+      "short_name": "CEU @ EIB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "3",
+        "form": "WDWWW",
+        "record": "15-9-10"
+      },
+      "away_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "0",
+        "form": "DDLDW",
+        "record": "14-6-14"
+      },
+      "venue": {
+        "name": "Ipurua",
+        "city": "Eibar",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748892",
+      "date": "2026-04-04T16:30Z",
+      "date_only": "2026-04-04",
+      "name": "Málaga at Deportivo La Coruña",
+      "short_name": "MCF @ DEP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "1",
+        "form": "WDDWD",
+        "record": "17-9-8"
+      },
+      "away_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "1",
+        "form": "LWDDD",
+        "record": "16-9-9"
+      },
+      "venue": {
+        "name": "Riazor",
+        "city": "La Coruña",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748889",
+      "date": "2026-04-04T16:30Z",
+      "date_only": "2026-04-04",
+      "name": "Real Valladolid at Cultural Leonesa",
+      "short_name": "VLL @ CLE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "1",
+        "form": "LLWDL",
+        "record": "8-8-18"
+      },
+      "away_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "10-9-15"
+      },
+      "venue": {
+        "name": "Estadio Reino de León",
+        "city": "León",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748893",
+      "date": "2026-04-04T14:15Z",
+      "date_only": "2026-04-04",
+      "name": "Burgos at Albacete",
+      "short_name": "BUR @ ALB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "2",
+        "form": "WLLDD",
+        "record": "11-11-12"
+      },
+      "away_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "3",
+        "form": "LWWDW",
+        "record": "16-9-9"
+      },
+      "venue": {
+        "name": "Carlos Belmonte",
+        "city": "Albacete",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748888",
+      "date": "2026-04-04T12:00Z",
+      "date_only": "2026-04-04",
+      "name": "Córdoba at Cádiz",
+      "short_name": "COR @ CAD",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "1",
+        "form": "LLLLL",
+        "record": "10-8-16"
+      },
+      "away_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "3",
+        "form": "WWWLD",
+        "record": "12-9-13"
+      },
+      "venue": {
+        "name": "Nuevo Mirandilla",
+        "city": "La Línea de la Concepción",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748882",
+      "date": "2026-04-02T19:30Z",
+      "date_only": "2026-04-02",
+      "name": "Real Zaragoza at Leganés",
+      "short_name": "ZAR @ LEG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "1",
+        "form": "LWLDD",
+        "record": "9-12-12"
+      },
+      "away_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "1",
+        "form": "DLLDW",
+        "record": "8-10-15"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés, Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748885",
+      "date": "2026-04-02T18:00Z",
+      "date_only": "2026-04-02",
+      "name": "Almería at Castellón",
+      "short_name": "ALM @ CAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "2",
+        "form": "WDWWD",
+        "record": "15-9-9"
+      },
+      "away_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "0",
+        "form": "WLWLW",
+        "record": "17-7-9"
+      },
+      "venue": {
+        "name": "Nou Estadi Castalia",
+        "city": "Castellón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748879",
+      "date": "2026-04-02T18:00Z",
+      "date_only": "2026-04-02",
+      "name": "Eibar at Real Sociedad II",
+      "short_name": "EIB @ RSO2",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "0",
+        "form": "LDLLL",
+        "record": "11-7-15"
+      },
+      "away_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "1",
+        "form": "WDWWW",
+        "record": "14-9-10"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748883",
+      "date": "2026-04-02T17:00Z",
+      "date_only": "2026-04-02",
+      "name": "Granada at Las Palmas",
+      "short_name": "GRA @ LPA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "2",
+        "form": "WLWWL",
+        "record": "14-12-7"
+      },
+      "away_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "0",
+        "form": "LWLLW",
+        "record": "10-12-11"
+      },
+      "venue": {
+        "name": "Estadio Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748880",
+      "date": "2026-04-01T19:30Z",
+      "date_only": "2026-04-01",
+      "name": "Sporting Gijón at Racing Santander",
+      "short_name": "RSG @ RAC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "3",
+        "form": "WWLWL",
+        "record": "19-5-9"
+      },
+      "away_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "1",
+        "form": "WLWLD",
+        "record": "13-7-13"
+      },
+      "venue": {
+        "name": "El Sardineros",
+        "city": "Santander",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748884",
+      "date": "2026-04-01T18:00Z",
+      "date_only": "2026-04-01",
+      "name": "Ceuta at Burgos",
+      "short_name": "CEU @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "1",
+        "form": "LWWDW",
+        "record": "15-9-9"
+      },
+      "away_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "1",
+        "form": "DDLDW",
+        "record": "14-6-13"
+      },
+      "venue": {
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748876",
+      "date": "2026-04-01T18:00Z",
+      "date_only": "2026-04-01",
+      "name": "Cultural Leonesa at Huesca",
+      "short_name": "CLE @ HUE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "1",
+        "form": "LDLDL",
+        "record": "8-8-17"
+      },
+      "away_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "1",
+        "form": "LLWDL",
+        "record": "7-8-18"
+      },
+      "venue": {
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748877",
+      "date": "2026-04-01T17:00Z",
+      "date_only": "2026-04-01",
+      "name": "Málaga at FC Andorra",
+      "short_name": "MCF @ AND",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "3",
+        "form": "WWWDW",
+        "record": "11-10-12"
+      },
+      "away_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "3",
+        "form": "LWDDD",
+        "record": "16-8-9"
+      },
+      "venue": {
+        "name": "Estadi de la FAF d'Encamp",
+        "city": "Encamp",
+        "country": "Andorra"
+      }
+    },
+    {
+      "event_id": "748878",
+      "date": "2026-03-31T19:30Z",
+      "date_only": "2026-03-31",
+      "name": "Cádiz at Real Valladolid",
+      "short_name": "CAD @ VLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "3",
+        "form": "LDLWL",
+        "record": "10-9-14"
+      },
+      "away_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "10-8-15"
+      },
+      "venue": {
+        "name": "Estadio José Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748881",
+      "date": "2026-03-31T18:00Z",
+      "date_only": "2026-03-31",
+      "name": "Córdoba at Deportivo La Coruña",
+      "short_name": "COR @ DEP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "2",
+        "form": "WDDWD",
+        "record": "17-8-8"
+      },
+      "away_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "0",
+        "form": "WWWLD",
+        "record": "11-9-13"
+      },
+      "venue": {
+        "name": "Riazor",
+        "city": "La Coruña",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748886",
+      "date": "2026-03-31T17:00Z",
+      "date_only": "2026-03-31",
+      "name": "Albacete at Mirandés",
+      "short_name": "ALB @ MIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "1",
+        "form": "LDWDD",
+        "record": "7-8-18"
+      },
+      "away_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "1",
+        "form": "WLLDD",
+        "record": "11-11-11"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748875",
+      "date": "2026-03-29T19:00Z",
+      "date_only": "2026-03-29",
+      "name": "Real Sociedad II at Almería",
+      "short_name": "RSO2 @ ALM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "5",
+        "form": "WLWLW",
+        "record": "17-7-8"
+      },
+      "away_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "1",
+        "form": "LDLLL",
+        "record": "11-7-14"
+      },
+      "venue": {
+        "name": "Power Horse Stadium",
+        "city": "Almería",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748870",
+      "date": "2026-03-29T16:30Z",
+      "date_only": "2026-03-29",
+      "name": "Racing Santander at Real Zaragoza",
+      "short_name": "RAC @ ZAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "2",
+        "form": "DLLDW",
+        "record": "8-9-15"
+      },
+      "away_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "0",
+        "form": "WWLWL",
+        "record": "18-5-9"
+      },
+      "venue": {
+        "name": "Ibercaja Estadio",
+        "city": "Zaragoza",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748868",
+      "date": "2026-03-29T14:15Z",
+      "date_only": "2026-03-29",
+      "name": "FC Andorra at Cultural Leonesa",
+      "short_name": "AND @ CLE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "0",
+        "form": "LLWDL",
+        "record": "7-7-18"
+      },
+      "away_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "4",
+        "form": "WWWDW",
+        "record": "11-9-12"
+      },
+      "venue": {
+        "name": "Estadio Reino de León",
+        "city": "León",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748874",
+      "date": "2026-03-29T12:00Z",
+      "date_only": "2026-03-29",
+      "name": "Las Palmas at Eibar",
+      "short_name": "LPA @ EIB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "3",
+        "form": "WDWWW",
+        "record": "13-9-10"
+      },
+      "away_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "1",
+        "form": "WLWWL",
+        "record": "13-12-7"
+      },
+      "venue": {
+        "name": "Ipurua",
+        "city": "Eibar",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748866",
+      "date": "2026-03-28T20:00Z",
+      "date_only": "2026-03-28",
+      "name": "Deportivo La Coruña at Sporting Gijón",
+      "short_name": "DEP @ RSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "1",
+        "form": "WLWLD",
+        "record": "13-7-12"
+      },
+      "away_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "1",
+        "form": "WDDWD",
+        "record": "16-8-8"
+      },
+      "venue": {
+        "name": "Estadio El Molinón-Enrique Castro \"Quini\"",
+        "city": "Gijón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748865",
+      "date": "2026-03-28T20:00Z",
+      "date_only": "2026-03-28",
+      "name": "Castellón at Albacete",
+      "short_name": "CAS @ ALB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "1",
+        "form": "WLLDD",
+        "record": "11-10-11"
+      },
+      "away_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "1",
+        "form": "WDWWD",
+        "record": "14-9-9"
+      },
+      "venue": {
+        "name": "Carlos Belmonte",
+        "city": "Albacete",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748872",
+      "date": "2026-03-28T17:30Z",
+      "date_only": "2026-03-28",
+      "name": "Leganés at Málaga",
+      "short_name": "LEG @ MCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "0",
+        "form": "LWDDD",
+        "record": "16-7-9"
+      },
+      "away_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "0",
+        "form": "LWLDD",
+        "record": "9-11-12"
+      },
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Malaga",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748873",
+      "date": "2026-03-28T15:15Z",
+      "date_only": "2026-03-28",
+      "name": "Huesca at Granada",
+      "short_name": "HUE @ GRA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "4",
+        "form": "LWLLW",
+        "record": "10-12-10"
+      },
+      "away_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "2",
+        "form": "LDLDL",
+        "record": "8-7-17"
+      },
+      "venue": {
+        "name": "Nuevo Estadio de Los Cármenes",
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748871",
+      "date": "2026-03-28T15:15Z",
+      "date_only": "2026-03-28",
+      "name": "Burgos at Real Valladolid",
+      "short_name": "BUR @ VLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "9-9-14"
+      },
+      "away_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "1",
+        "form": "LWWDW",
+        "record": "15-8-9"
+      },
+      "venue": {
+        "name": "Estadio José Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748869",
+      "date": "2026-03-28T13:00Z",
+      "date_only": "2026-03-28",
+      "name": "Cádiz at Ceuta",
+      "short_name": "CAD @ CEU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "2",
+        "form": "DDLDW",
+        "record": "14-5-13"
+      },
+      "away_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "1",
+        "form": "LLLLL",
+        "record": "10-8-14"
+      },
+      "venue": {
+        "name": "Estadio Alfonso Murube",
+        "city": "Ceuta",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748867",
+      "date": "2026-03-27T18:00Z",
+      "date_only": "2026-03-27",
+      "name": "Mirandés at Córdoba",
+      "short_name": "MIR @ COR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "2",
+        "form": "WWWLD",
+        "record": "11-9-12"
+      },
+      "away_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "2",
+        "form": "LDWDD",
+        "record": "7-7-18"
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo El Arcángel",
+        "city": "Córdoba",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748855",
+      "date": "2026-03-23T19:30Z",
+      "date_only": "2026-03-23",
+      "name": "Cultural Leonesa at Castellón",
+      "short_name": "CLE @ CAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "1",
+        "form": "WDWWD",
+        "record": "14-8-9"
+      },
+      "away_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "1",
+        "form": "LLWDL",
+        "record": "7-7-17"
+      },
+      "venue": {
+        "name": "Nou Estadi Castalia",
+        "city": "Castellón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748860",
+      "date": "2026-03-22T17:30Z",
+      "date_only": "2026-03-22",
+      "name": "Sporting Gijón at Las Palmas",
+      "short_name": "RSG @ LPA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "1",
+        "form": "WLWWL",
+        "record": "13-12-6"
+      },
+      "away_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "0",
+        "form": "WLWLD",
+        "record": "13-6-12"
+      },
+      "venue": {
+        "name": "Estadio Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748864",
+      "date": "2026-03-22T15:15Z",
+      "date_only": "2026-03-22",
+      "name": "Granada at Real Sociedad II",
+      "short_name": "GRA @ RSO2",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "0",
+        "form": "LDLLL",
+        "record": "11-7-13"
+      },
+      "away_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "2",
+        "form": "LWLLW",
+        "record": "9-12-10"
+      },
+      "venue": {
+        "name": "Estadio Zubieta XXI",
+        "city": "Donostia-San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748862",
+      "date": "2026-03-22T15:15Z",
+      "date_only": "2026-03-22",
+      "name": "Real Valladolid at Mirandés",
+      "short_name": "VLL @ MIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "2",
+        "form": "LDWDD",
+        "record": "7-6-18"
+      },
+      "away_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "1",
+        "form": "LDLWL",
+        "record": "9-9-13"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748854",
+      "date": "2026-03-22T13:00Z",
+      "date_only": "2026-03-22",
+      "name": "Córdoba at Burgos",
+      "short_name": "COR @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "4",
+        "form": "LWWDW",
+        "record": "14-8-9"
+      },
+      "away_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "0",
+        "form": "WWWLD",
+        "record": "11-8-12"
+      },
+      "venue": {
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748857",
+      "date": "2026-03-21T20:00Z",
+      "date_only": "2026-03-21",
+      "name": "Real Zaragoza at Deportivo La Coruña",
+      "short_name": "ZAR @ DEP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "2",
+        "form": "WDDWD",
+        "record": "16-7-8"
+      },
+      "away_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "1",
+        "form": "DLLDW",
+        "record": "7-9-15"
+      },
+      "venue": {
+        "name": "Riazor",
+        "city": "La Coruña",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748856",
+      "date": "2026-03-21T17:30Z",
+      "date_only": "2026-03-21",
+      "name": "Málaga at Cádiz",
+      "short_name": "MCF @ CAD",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "10-8-13"
+      },
+      "away_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "3",
+        "form": "LWDDD",
+        "record": "16-6-9"
+      },
+      "venue": {
+        "name": "Nuevo Mirandilla",
+        "city": "La Línea de la Concepción",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748863",
+      "date": "2026-03-21T15:15Z",
+      "date_only": "2026-03-21",
+      "name": "Albacete at Racing Santander",
+      "short_name": "ALB @ RAC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "0",
+        "form": "WWLWL",
+        "record": "18-5-8"
+      },
+      "away_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "4",
+        "form": "WLLDD",
+        "record": "11-9-11"
+      },
+      "venue": {
+        "name": "El Sardineros",
+        "city": "Santander",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748858",
+      "date": "2026-03-21T15:15Z",
+      "date_only": "2026-03-21",
+      "name": "Eibar at FC Andorra",
+      "short_name": "EIB @ AND",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "0",
+        "form": "WWWDW",
+        "record": "10-9-12"
+      },
+      "away_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "1",
+        "form": "WDWWW",
+        "record": "12-9-10"
+      },
+      "venue": {
+        "name": "Estadi de la FAF d'Encamp",
+        "city": "Encamp",
+        "country": "Andorra"
+      }
+    },
+    {
+      "event_id": "748861",
+      "date": "2026-03-21T13:00Z",
+      "date_only": "2026-03-21",
+      "name": "Ceuta at Leganés",
+      "short_name": "CEU @ LEG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "5",
+        "form": "LWLDD",
+        "record": "9-10-12"
+      },
+      "away_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "2",
+        "form": "DDLDW",
+        "record": "13-5-13"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés, Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748859",
+      "date": "2026-03-20T19:30Z",
+      "date_only": "2026-03-20",
+      "name": "Almería at Huesca",
+      "short_name": "ALM @ HUE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "1",
+        "form": "LDLDL",
+        "record": "8-7-16"
+      },
+      "away_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "3",
+        "form": "WLWLW",
+        "record": "16-7-8"
+      },
+      "venue": {
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748843",
+      "date": "2026-03-16T19:30Z",
+      "date_only": "2026-03-16",
+      "name": "Las Palmas at Albacete",
+      "short_name": "LPA @ ALB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "2",
+        "form": "WLLDD",
+        "record": "10-9-11"
+      },
+      "away_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "1",
+        "form": "WLWWL",
+        "record": "12-12-6"
+      },
+      "venue": {
+        "name": "Carlos Belmonte",
+        "city": "Albacete",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748853",
+      "date": "2026-03-15T20:00Z",
+      "date_only": "2026-03-15",
+      "name": "Castellón at Sporting Gijón",
+      "short_name": "CAS @ RSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "4",
+        "form": "WLWLD",
+        "record": "13-6-11"
+      },
+      "away_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "1",
+        "form": "WDWWD",
+        "record": "14-7-9"
+      },
+      "venue": {
+        "name": "Estadio El Molinón-Enrique Castro \"Quini\"",
+        "city": "Gijón",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748850",
+      "date": "2026-03-15T17:30Z",
+      "date_only": "2026-03-15",
+      "name": "Huesca at Málaga",
+      "short_name": "HUE @ MCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "5",
+        "form": "LWDDD",
+        "record": "15-6-9"
+      },
+      "away_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "3",
+        "form": "LDLDL",
+        "record": "8-7-15"
+      },
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Malaga",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748846",
+      "date": "2026-03-15T17:30Z",
+      "date_only": "2026-03-15",
+      "name": "Burgos at Eibar",
+      "short_name": "BUR @ EIB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "0",
+        "form": "WDWWW",
+        "record": "11-9-10"
+      },
+      "away_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "0",
+        "form": "LWWDW",
+        "record": "13-8-9"
+      },
+      "venue": {
+        "name": "Ipurua",
+        "city": "Eibar",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748848",
+      "date": "2026-03-15T15:15Z",
+      "date_only": "2026-03-15",
+      "name": "FC Andorra at Granada",
+      "short_name": "AND @ GRA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "1",
+        "form": "LWLLW",
+        "record": "8-12-10"
+      },
+      "away_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "10-9-11"
+      },
+      "venue": {
+        "name": "Nuevo Estadio de Los Cármenes",
+        "city": "Granada",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748845",
+      "date": "2026-03-15T13:00Z",
+      "date_only": "2026-03-15",
+      "name": "Real Sociedad II at Córdoba",
+      "short_name": "RSO2 @ COR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "0",
+        "form": "WWWLD",
+        "record": "11-8-11"
+      },
+      "away_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "2",
+        "form": "LDLLL",
+        "record": "11-7-12"
+      },
+      "venue": {
+        "name": "Estadio Municipal Nuevo El Arcángel",
+        "city": "Córdoba",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748844",
+      "date": "2026-03-14T20:00Z",
+      "date_only": "2026-03-14",
+      "name": "Deportivo La Coruña at Ceuta",
+      "short_name": "DEP @ CEU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "1",
+        "form": "DDLDW",
+        "record": "13-5-12"
+      },
+      "away_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "2",
+        "form": "WDDWD",
+        "record": "15-7-8"
+      },
+      "venue": {
+        "name": "Estadio Alfonso Murube",
+        "city": "Ceuta",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748852",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "Almería at Real Zaragoza",
+      "short_name": "ALM @ ZAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "91",
+        "name": "Real Zaragoza",
+        "abbr": "ZAR",
+        "normalized_name": "real zaragoza",
+        "score": "2",
+        "form": "DLLDW",
+        "record": "7-9-14"
+      },
+      "away_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "0",
+        "form": "WLWLW",
+        "record": "15-7-8"
+      },
+      "venue": {
+        "name": "Ibercaja Estadio",
+        "city": "Zaragoza",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748851",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "Leganés at Real Valladolid",
+      "short_name": "LEG @ VLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "3",
+        "form": "LDLWL",
+        "record": "9-9-12"
+      },
+      "away_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "2",
+        "form": "LWLDD",
+        "record": "8-10-12"
+      },
+      "venue": {
+        "name": "Estadio José Zorrilla",
+        "city": "Valladolid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748847",
+      "date": "2026-03-14T15:15Z",
+      "date_only": "2026-03-14",
+      "name": "Racing Santander at Cultural Leonesa",
+      "short_name": "RAC @ CLE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "1",
+        "form": "LLWDL",
+        "record": "7-6-17"
+      },
+      "away_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "2",
+        "form": "WWLWL",
+        "record": "18-5-7"
+      },
+      "venue": {
+        "name": "Estadio Reino de León",
+        "city": "León",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748849",
+      "date": "2026-03-13T19:30Z",
+      "date_only": "2026-03-13",
+      "name": "Cádiz at Mirandés",
+      "short_name": "CAD @ MIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "0",
+        "form": "LDWDD",
+        "record": "6-6-18"
+      },
+      "away_team": {
+        "id": "3842",
+        "name": "Cádiz",
+        "abbr": "CAD",
+        "normalized_name": "cadiz",
+        "score": "2",
+        "form": "LLLLL",
+        "record": "10-8-12"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Anduva",
+        "city": "Miranda de Ebro",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748838",
+      "date": "2026-03-09T19:30Z",
+      "date_only": "2026-03-09",
+      "name": "Cultural Leonesa at Almería",
+      "short_name": "CLE @ ALM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6832",
+        "name": "Almería",
+        "abbr": "ALM",
+        "normalized_name": "almeria",
+        "score": "3",
+        "form": "WLWLW",
+        "record": "15-7-7"
+      },
+      "away_team": {
+        "id": "10629",
+        "name": "Cultural Leonesa",
+        "abbr": "CLE",
+        "normalized_name": "cultural leonesa",
+        "score": "0",
+        "form": "LLWDL",
+        "record": "7-6-16"
+      },
+      "venue": {
+        "name": "Power Horse Stadium",
+        "city": "Almería",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748841",
+      "date": "2026-03-08T20:00Z",
+      "date_only": "2026-03-08",
+      "name": "Granada at Deportivo La Coruña",
+      "short_name": "GRA @ DEP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "90",
+        "name": "Deportivo La Coruña",
+        "abbr": "DEP",
+        "normalized_name": "la coruna",
+        "score": "0",
+        "form": "WDDWD",
+        "record": "14-7-8"
+      },
+      "away_team": {
+        "id": "3747",
+        "name": "Granada",
+        "abbr": "GRA",
+        "normalized_name": "granada",
+        "score": "2",
+        "form": "LWLLW",
+        "record": "8-11-10"
+      },
+      "venue": {
+        "name": "Riazor",
+        "city": "La Coruña",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748842",
+      "date": "2026-03-08T17:30Z",
+      "date_only": "2026-03-08",
+      "name": "Córdoba at Racing Santander",
+      "short_name": "COR @ RAC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "87",
+        "name": "Racing Santander",
+        "abbr": "RAC",
+        "normalized_name": "racing santander",
+        "score": "4",
+        "form": "WWLWL",
+        "record": "17-5-7"
+      },
+      "away_team": {
+        "id": "8447",
+        "name": "Córdoba",
+        "abbr": "COR",
+        "normalized_name": "cordoba",
+        "score": "3",
+        "form": "WWWLD",
+        "record": "11-8-10"
+      },
+      "venue": {
+        "name": "El Sardineros",
+        "city": "Santander",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748835",
+      "date": "2026-03-08T17:30Z",
+      "date_only": "2026-03-08",
+      "name": "Eibar at Leganés",
+      "short_name": "EIB @ LEG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "17534",
+        "name": "Leganés",
+        "abbr": "LEG",
+        "normalized_name": "leganes",
+        "score": "0",
+        "form": "LWLDD",
+        "record": "8-10-11"
+      },
+      "away_team": {
+        "id": "3752",
+        "name": "Eibar",
+        "abbr": "EIB",
+        "normalized_name": "eibar",
+        "score": "1",
+        "form": "WDWWW",
+        "record": "11-8-10"
+      },
+      "venue": {
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganés, Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748832",
+      "date": "2026-03-08T15:15Z",
+      "date_only": "2026-03-08",
+      "name": "Sporting Gijón at FC Andorra",
+      "short_name": "RSG @ AND",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20179",
+        "name": "FC Andorra",
+        "abbr": "AND",
+        "normalized_name": "andorra",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "10-8-11"
+      },
+      "away_team": {
+        "id": "3788",
+        "name": "Sporting Gijón",
+        "abbr": "RSG",
+        "normalized_name": "sporting gijon",
+        "score": "0",
+        "form": "WLWLD",
+        "record": "12-6-11"
+      },
+      "venue": {
+        "name": "Estadi de la FAF d'Encamp",
+        "city": "Encamp",
+        "country": "Andorra"
+      }
+    },
+    {
+      "event_id": "748834",
+      "date": "2026-03-08T13:00Z",
+      "date_only": "2026-03-08",
+      "name": "Ceuta at Las Palmas",
+      "short_name": "CEU @ LPA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "98",
+        "name": "Las Palmas",
+        "abbr": "LPA",
+        "normalized_name": "las palmas",
+        "score": "4",
+        "form": "WLWWL",
+        "record": "12-12-5"
+      },
+      "away_team": {
+        "id": "5404",
+        "name": "Ceuta",
+        "abbr": "CEU",
+        "normalized_name": "ceuta",
+        "score": "0",
+        "form": "DDLDW",
+        "record": "13-5-11"
+      },
+      "venue": {
+        "name": "Estadio Gran Canaria",
+        "city": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748836",
+      "date": "2026-03-07T20:00Z",
+      "date_only": "2026-03-07",
+      "name": "Real Valladolid at Málaga",
+      "short_name": "VLL @ MCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "99",
+        "name": "Málaga",
+        "abbr": "MCF",
+        "normalized_name": "malaga",
+        "score": "3",
+        "form": "LWDDD",
+        "record": "14-6-9"
+      },
+      "away_team": {
+        "id": "95",
+        "name": "Real Valladolid",
+        "abbr": "VLL",
+        "normalized_name": "real valladolid",
+        "score": "3",
+        "form": "LDLWL",
+        "record": "8-9-12"
+      },
+      "venue": {
+        "name": "La Rosaleda",
+        "city": "Malaga",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748839",
+      "date": "2026-03-07T17:30Z",
+      "date_only": "2026-03-07",
+      "name": "Mirandés at Burgos",
+      "short_name": "MIR @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "12597",
+        "name": "Burgos",
+        "abbr": "BUR",
+        "normalized_name": "burgos",
+        "score": "2",
+        "form": "LWWDW",
+        "record": "13-7-9"
+      },
+      "away_team": {
+        "id": "4515",
+        "name": "Mirandés",
+        "abbr": "MIR",
+        "normalized_name": "mirandes",
+        "score": "0",
+        "form": "LDWDD",
+        "record": "6-6-17"
+      },
+      "venue": {
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748840",
+      "date": "2026-03-07T15:15Z",
+      "date_only": "2026-03-07",
+      "name": "Albacete at Huesca",
+      "short_name": "ALB @ HUE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "5413",
+        "name": "Huesca",
+        "abbr": "HUE",
+        "normalized_name": "huesca",
+        "score": "0",
+        "form": "LDLDL",
+        "record": "8-7-14"
+      },
+      "away_team": {
+        "id": "2737",
+        "name": "Albacete",
+        "abbr": "ALB",
+        "normalized_name": "albacete",
+        "score": "0",
+        "form": "WLLDD",
+        "record": "9-9-11"
+      },
+      "venue": {
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748833",
+      "date": "2026-03-07T15:15Z",
+      "date_only": "2026-03-07",
+      "name": "Castellón at Real Sociedad II",
+      "short_name": "CAS @ RSO2",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "20983",
+        "name": "Real Sociedad II",
+        "abbr": "RSO2",
+        "normalized_name": "real sociedad ii",
+        "score": "4",
+        "form": "LDLLL",
+        "record": "10-7-12"
+      },
+      "away_team": {
+        "id": "4438",
+        "name": "Castellón",
+        "abbr": "CAS",
+        "normalized_name": "castellon",
+        "score": "2",
+        "form": "WDWWD",
+        "record": "14-7-8"
+      },
+      "venue": {
+        "name": "Estadio Zubieta XXI",
+        "city": "Donostia-San Sebastian",
+        "country": "Spain"
+      }
+    }
+  ],
+  "team_index": {
+    "albacete": {
+      "team_id": "2737",
+      "name": "Albacete",
+      "short_name": "Albacete",
+      "abbr": "ALB",
+      "normalized_name": "albacete",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ALB",
+        "Albacete"
+      ]
+    },
+    "almeria": {
+      "team_id": "6832",
+      "name": "Almería",
+      "short_name": "Almería",
+      "abbr": "ALM",
+      "normalized_name": "almeria",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ALM",
+        "Almería"
+      ]
+    },
+    "andorra": {
+      "team_id": "20179",
+      "name": "FC Andorra",
+      "short_name": "FC Andorra",
+      "abbr": "AND",
+      "normalized_name": "andorra",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AND",
+        "FC Andorra"
+      ]
+    },
+    "burgos": {
+      "team_id": "12597",
+      "name": "Burgos",
+      "short_name": "Burgos",
+      "abbr": "BUR",
+      "normalized_name": "burgos",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BUR",
+        "Burgos"
+      ]
+    },
+    "cadiz": {
+      "team_id": "3842",
+      "name": "Cádiz",
+      "short_name": "Cádiz",
+      "abbr": "CAD",
+      "normalized_name": "cadiz",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CAD",
+        "Cádiz"
+      ]
+    },
+    "castellon": {
+      "team_id": "4438",
+      "name": "Castellón",
+      "short_name": "Castellón",
+      "abbr": "CAS",
+      "normalized_name": "castellon",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CAS",
+        "Castellón"
+      ]
+    },
+    "ceuta": {
+      "team_id": "5404",
+      "name": "Ceuta",
+      "short_name": "Ceuta",
+      "abbr": "CEU",
+      "normalized_name": "ceuta",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CEU",
+        "Ceuta"
+      ]
+    },
+    "cordoba": {
+      "team_id": "8447",
+      "name": "Córdoba",
+      "short_name": "Córdoba",
+      "abbr": "COR",
+      "normalized_name": "cordoba",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "COR",
+        "Córdoba"
+      ]
+    },
+    "cultural leonesa": {
+      "team_id": "10629",
+      "name": "Cultural Leonesa",
+      "short_name": "Leonesa",
+      "abbr": "CLE",
+      "normalized_name": "cultural leonesa",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CLE",
+        "Cultural Leonesa",
+        "Leonesa"
+      ]
+    },
+    "eibar": {
+      "team_id": "3752",
+      "name": "Eibar",
+      "short_name": "Eibar",
+      "abbr": "EIB",
+      "normalized_name": "eibar",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "EIB",
+        "Eibar"
+      ]
+    },
+    "granada": {
+      "team_id": "3747",
+      "name": "Granada",
+      "short_name": "Granada",
+      "abbr": "GRA",
+      "normalized_name": "granada",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "GRA",
+        "Granada"
+      ]
+    },
+    "huesca": {
+      "team_id": "5413",
+      "name": "Huesca",
+      "short_name": "Huesca",
+      "abbr": "HUE",
+      "normalized_name": "huesca",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "HUE",
+        "Huesca"
+      ]
+    },
+    "la coruna": {
+      "team_id": "90",
+      "name": "Deportivo La Coruña",
+      "short_name": "Deportivo",
+      "abbr": "DEP",
+      "normalized_name": "la coruna",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "DEP",
+        "Deportivo",
+        "Deportivo La Coruña"
+      ]
+    },
+    "las palmas": {
+      "team_id": "98",
+      "name": "Las Palmas",
+      "short_name": "Las Palmas",
+      "abbr": "LPA",
+      "normalized_name": "las palmas",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LPA",
+        "Las Palmas"
+      ]
+    },
+    "leganes": {
+      "team_id": "17534",
+      "name": "Leganés",
+      "short_name": "Leganés",
+      "abbr": "LEG",
+      "normalized_name": "leganes",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LEG",
+        "Leganés"
+      ]
+    },
+    "malaga": {
+      "team_id": "99",
+      "name": "Málaga",
+      "short_name": "Málaga",
+      "abbr": "MCF",
+      "normalized_name": "malaga",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "MCF",
+        "Málaga"
+      ]
+    },
+    "mirandes": {
+      "team_id": "4515",
+      "name": "Mirandés",
+      "short_name": "Mirandés",
+      "abbr": "MIR",
+      "normalized_name": "mirandes",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "MIR",
+        "Mirandés"
+      ]
+    },
+    "racing santander": {
+      "team_id": "87",
+      "name": "Racing Santander",
+      "short_name": "Racing",
+      "abbr": "RAC",
+      "normalized_name": "racing santander",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RAC",
+        "Racing",
+        "Racing Santander"
+      ]
+    },
+    "real sociedad ii": {
+      "team_id": "20983",
+      "name": "Real Sociedad II",
+      "short_name": "Real Sociedad II",
+      "abbr": "RSO2",
+      "normalized_name": "real sociedad ii",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RSO2",
+        "Real Sociedad II"
+      ]
+    },
+    "real valladolid": {
+      "team_id": "95",
+      "name": "Real Valladolid",
+      "short_name": "Valladolid",
+      "abbr": "VLL",
+      "normalized_name": "real valladolid",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Real Valladolid",
+        "VLL",
+        "Valladolid"
+      ]
+    },
+    "real zaragoza": {
+      "team_id": "91",
+      "name": "Real Zaragoza",
+      "short_name": "Real Zaragoza",
+      "abbr": "ZAR",
+      "normalized_name": "real zaragoza",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Real Zaragoza",
+        "ZAR"
+      ]
+    },
+    "sporting gijon": {
+      "team_id": "3788",
+      "name": "Sporting Gijón",
+      "short_name": "Sporting",
+      "abbr": "RSG",
+      "normalized_name": "sporting gijon",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RSG",
+        "Sporting",
+        "Sporting Gijón"
+      ]
+    }
+  },
+  "team_form": {
+    "huesca": {
+      "sequence": "LDLDL",
+      "matches": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 5
+    },
+    "albacete": {
+      "sequence": "DDLLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 3,
+      "losses": 2
+    },
+    "real sociedad ii": {
+      "sequence": "LLLDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 5
+    },
+    "castellon": {
+      "sequence": "DWWDW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 3,
+      "losses": 2
+    },
+    "burgos": {
+      "sequence": "WDWWL",
+      "matches": 5,
+      "wins": 5,
+      "draws": 2,
+      "losses": 1
+    },
+    "mirandes": {
+      "sequence": "DDWDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 3
+    },
+    "malaga": {
+      "sequence": "DDDWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 4,
+      "losses": 1
+    },
+    "real valladolid": {
+      "sequence": "LWLDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4
+    },
+    "las palmas": {
+      "sequence": "LWWLW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3
+    },
+    "ceuta": {
+      "sequence": "WDLDD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 4
+    },
+    "andorra": {
+      "sequence": "WDWWW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 2,
+      "losses": 1
+    },
+    "sporting gijon": {
+      "sequence": "DLWLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4
+    },
+    "racing santander": {
+      "sequence": "LWLWW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3
+    },
+    "cordoba": {
+      "sequence": "DLWWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4
+    },
+    "leganes": {
+      "sequence": "DDLWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4
+    },
+    "eibar": {
+      "sequence": "WWWDW",
+      "matches": 5,
+      "wins": 6,
+      "draws": 2,
+      "losses": 0
+    },
+    "la coruna": {
+      "sequence": "DWDDW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 3,
+      "losses": 1
+    },
+    "granada": {
+      "sequence": "WLLWL",
+      "matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3
+    },
+    "almeria": {
+      "sequence": "WLWLW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3
+    },
+    "cultural leonesa": {
+      "sequence": "LDWLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 5
+    },
+    "cadiz": {
+      "sequence": "LLLLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 6
+    },
+    "real zaragoza": {
+      "sequence": "WDLLD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 3
+    }
+  },
+  "meta": {
+    "fixture_count": 11,
+    "recent_result_count": 87,
+    "team_count": 22
+  }
+}

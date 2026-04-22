@@ -1,1 +1,1 @@
-"""External data source adapters with graceful fallbacks."""
+"""Data sources package for Golium."""

@@ -1,5 +1,9 @@
+
 'use strict';
 
+/* ════════════════════════════════════════
+   STATE
+════════════════════════════════════════ */
 const S = {
   raw:null, fixtures:[], byId:{}, byNorm:{}, byIdH:{}, byNormH:{},
   formById:{}, formByNorm:{},
@@ -8,19 +12,22 @@ const S = {
   allLeagues: {},      // { key → leagueData } cuando hay multiple ligas
   currentKey: null,    // liga activa actualmente
   cardModel: {teams:{}, fixtures:{}, referees:{}, leagueAvgTotal:3.8},
+  cornerModel: {teams:{}, fixtures:{}, leagueAvgTotal:9.2},
+  momentumModel: {teams:{}, fixtures:{}},
+  teamProfiles: {},
+  selectedTeam: null,
 };
-window.S = S;
 
-
-'use strict';
-
+/* ════════════════════════════════════════
+   NAME NORMALIZER
+════════════════════════════════════════ */
 function norm(s){
   return (s||'').toLowerCase()
     .replace(/\b(fc|af|sc|ac|cd|rc|ud|ca|cf|afc|fk|sk|bv|sv|ssc|as|ss|1\.)\b/g,'')
     .replace(/[^a-z0-9]/g,'').trim();
 }
 
-
+// Clean team name — strip any HTML artifacts from scraped names
 function cleanName(raw){
   if(!raw) return '?';
   let s = String(raw);
@@ -40,46 +47,9 @@ function cleanName(raw){
   return s.trim().replace(/\s+/g,' ');
 }
 
-
-function clamp(v, lo, hi){ return Math.max(lo, Math.min(hi, v)); }
-
-
-function avgOr(v, fallback){
-  const n = Number(v);
-  return Number.isFinite(n) && n > 0 ? n : fallback;
-}
-
-
-function fair(p){return p>0?(100/p).toFixed(2):'∞';}
-
-function mktOdd(p,mg){const mp=p/(1+mg/100);return mp>0?(1/mp).toFixed(2):'∞';}
-
-function edge(p,mg){return((p-p/(1+mg/100))*100).toFixed(1);}
-
-function posC(pos){if(!pos) return '';if(pos===1) return 'p1';if(pos<=4) return 'p4';if(pos<=6) return 'p6';if(pos>=18) return 'p18';if(pos>=17) return 'p17';return '';}
-
-
-function setStatus(st,txt){
-  document.getElementById('pill').className='pill '+st;
-  document.getElementById('dotEl').className='dot '+st;
-  document.getElementById('pillTxt').textContent=txt;
-}
-
-
-function toast(msg,type='info',dur=3500){
-  const el=document.createElement('div');
-  el.className=`toast ${type}`;
-  el.innerHTML=`<span>${{success:'✅',error:'❌',warning:'⚠️',info:'ℹ️'}[type]}</span><span>${msg}</span>`;
-  document.getElementById('toastC').appendChild(el);
-  setTimeout(()=>{el.style.animation='ti .3s ease reverse';setTimeout(()=>el.remove(),300);},dur);
-}
-
-
-Object.assign(window,{norm,cleanName,clamp,avgOr,fair,mktOdd,edge,posC,setStatus,toast});
-
-
-'use strict';
-
+/* ════════════════════════════════════════
+   TEAM LOOKUP
+════════════════════════════════════════ */
 function findStand(id, name, hyper=false){
   const [byId, byNorm_] = hyper ? [S.byIdH, S.byNormH] : [S.byId, S.byNorm];
   const sid = String(id||'');
@@ -98,7 +68,6 @@ function findStand(id, name, hyper=false){
   return best;
 }
 
-
 function findForm(id, rawId, name){
   for(const k of [String(id||''),String(rawId||'')].filter(x=>x&&x!='undefined')){
     if(S.formById[k]?.length) return S.formById[k];
@@ -112,7 +81,9 @@ function findForm(id, rawId, name){
   return [];
 }
 
-
+/* ════════════════════════════════════════
+   PROCESS DATA
+════════════════════════════════════════ */
 function buildLookup(standings, byId, byNorm_){
   for(const r of standings){
     const sid=String(r.teamId||''), n=norm(r.teamName||'');
@@ -121,7 +92,6 @@ function buildLookup(standings, byId, byNorm_){
     if(r.teamName) byId[r.teamName]=r;
   }
 }
-
 
 function process(json, forceKey=null){
   // Guardar todas las ligas disponibles
@@ -140,6 +110,9 @@ function process(json, forceKey=null){
   const d = S.allLeagues[S.currentKey];
   S.raw=d; S.fixtures=d.fixtures||[];
   S.cardModel = d.cardModel || {teams:{}, fixtures:{}, referees:{}, leagueAvgTotal:3.8};
+  S.cornerModel = d.cornerModel || {teams:{}, fixtures:{}, leagueAvgTotal:9.2};
+  S.momentumModel = d.momentumModel || {teams:{}, fixtures:{}};
+  S.teamProfiles = d.teamProfiles || {};
   S.formById={}; S.formByNorm={};
   for(const [k,v] of Object.entries(d.teamForm||{})) S.formById[String(k)]=Array.isArray(v)?v:[];
   S.byId={}; S.byNorm={}; S.byIdH={}; S.byNormH={};
@@ -208,13 +181,16 @@ function process(json, forceKey=null){
   render();
 }
 
-
+// Cambiar liga activa sin recargar el JSON
 function switchLeague(key){
   if(!S.allLeagues[key]) return;
   S.currentKey = key;
   const d = S.allLeagues[key];
   S.raw=d; S.fixtures=d.fixtures||[];
   S.cardModel = d.cardModel || {teams:{}, fixtures:{}, referees:{}, leagueAvgTotal:3.8};
+  S.cornerModel = d.cornerModel || {teams:{}, fixtures:{}, leagueAvgTotal:9.2};
+  S.momentumModel = d.momentumModel || {teams:{}, fixtures:{}};
+  S.teamProfiles = d.teamProfiles || {};
   S.formById={}; S.formByNorm={};
   for(const [k,v] of Object.entries(d.teamForm||{})) S.formById[String(k)]=Array.isArray(v)?v:[];
   S.byId={}; S.byNorm={}; S.byIdH={}; S.byNormH={};
@@ -232,7 +208,6 @@ function switchLeague(key){
   updateLeagueSelector();
   render();
 }
-
 
 function updateLeagueSelector(){
   const sel = document.getElementById('lgSelector');
@@ -257,7 +232,6 @@ function updateLeagueSelector(){
   }).join('');
 }
 
-
 function calcAvg(st, hKey, aKey){
   if(!st.length) return;
   const games=st.reduce((s,r)=>s+(r.played||0),0)/2;
@@ -268,53 +242,6 @@ function calcAvg(st, hKey, aKey){
     S[aKey]=Math.max(0.6,Math.min(1.8,avg*0.88));
   }
 }
-
-
-async function load(manual=false){
-  if(manual){
-    setStatus('load','Cargando…');
-    document.getElementById('grid').innerHTML=`<div class="loader"><div class="spin"></div><div style="font-size:11px;color:var(--text3)">Cargando data.json…</div></div>`;
-  } else {
-    setStatus('load','Buscando datos…');
-  }
-
-  // ── Fase 1: fetch ─────────────────────────────────────────
-  let json;
-  try{
-    const res = await fetch('data.json?_='+Date.now());
-    if(!res.ok) throw new Error(`HTTP ${res.status}`);
-    json = await res.json();
-  }catch(fetchErr){
-    // Solo mostrar error si no teníamos datos previos
-    if(!S.raw){
-      setStatus('err','Sin data.json');
-      document.getElementById('guide').style.display='block';
-      document.getElementById('dbanner').style.display='none';
-      document.getElementById('jbar').style.display='none';
-      document.getElementById('grid').innerHTML='';
-    } else {
-      setStatus('err','Error al recargar');
-    }
-    if(manual) toast('No se encontró data.json — ejecuta el scraper primero','error');
-    return;
-  }
-
-  // ── Fase 2: procesar datos ────────────────────────────────
-  try{
-    process(json);
-    if(manual) toast('Datos recargados ✓','success');
-  }catch(processErr){
-    console.error('Error en process():', processErr);
-    setStatus('err','Error interno');
-    toast(`Error procesando datos: ${processErr.message}`,'error',6000);
-  }
-}
-
-
-Object.assign(window,{findStand,findForm,buildLookup,process,switchLeague,updateLeagueSelector,calcAvg,load});
-
-
-'use strict';
 
 function cardTeamKeyCandidates(team){
   const out = [];
@@ -327,7 +254,6 @@ function cardTeamKeyCandidates(team){
   return [...new Set(out)];
 }
 
-
 function findCardTeam(team){
   const teams = S.cardModel?.teams || {};
   for(const k of cardTeamKeyCandidates(team)){
@@ -336,6 +262,21 @@ function findCardTeam(team){
   return null;
 }
 
+function findCornerTeam(team){
+  const teams = S.cornerModel?.teams || {};
+  for(const k of cardTeamKeyCandidates(team)){
+    if(teams[k]) return teams[k];
+  }
+  return null;
+}
+
+function findTeamProfile(id,name){
+  const sid=String(id||'');
+  if(sid && S.teamProfiles?.[sid]) return S.teamProfiles[sid];
+  const n=norm(name||'');
+  if(n && S.teamProfiles?.[n]) return S.teamProfiles[n];
+  return null;
+}
 
 function deriveCardTeamFallback(team){
   const st = findStand(team?.id, team?.name) || findStand(team?.id, team?.name, true) || {};
@@ -367,6 +308,35 @@ function deriveCardTeamFallback(team){
   };
 }
 
+function clamp(v, lo, hi){ return Math.max(lo, Math.min(hi, v)); }
+
+function avgOr(v, fallback){
+  const n = Number(v);
+  return Number.isFinite(n) && n > 0 ? n : fallback;
+}
+
+function calcCornerMarkets(fix){
+  const cm = S.cornerModel || {};
+  const leagueAvgTotal = avgOr(cm.leagueAvgTotal, 9.2);
+  const leagueAvgTeam = leagueAvgTotal / 2;
+  const home = findCornerTeam(fix.homeTeam) || {avgFor:leagueAvgTeam,avgAgainst:leagueAvgTeam,recentFor:leagueAvgTeam,recentAgainst:leagueAvgTeam,formTrend:0};
+  const away = findCornerTeam(fix.awayTeam) || {avgFor:leagueAvgTeam,avgAgainst:leagueAvgTeam,recentFor:leagueAvgTeam,recentAgainst:leagueAvgTeam,formTrend:0};
+  const fx = (cm.fixtures||{})[String(fix.id||'')] || {};
+
+  let lambdaHome = (avgOr(home.avgFor, leagueAvgTeam) * 0.62 + avgOr(home.recentFor, leagueAvgTeam) * 0.38 + avgOr(away.avgAgainst, leagueAvgTeam) * 0.18);
+  let lambdaAway = (avgOr(away.avgFor, leagueAvgTeam) * 0.62 + avgOr(away.recentFor, leagueAvgTeam) * 0.38 + avgOr(home.avgAgainst, leagueAvgTeam) * 0.18);
+  lambdaHome *= 1 + clamp(Number(home.formTrend||0), -0.08, 0.08);
+  lambdaAway *= 1 + clamp(Number(away.formTrend||0), -0.08, 0.08);
+  const total = clamp(Number(fx.totalCorners || (lambdaHome+lambdaAway)), 3.5, 18.5);
+  const over85 = clamp(Number(fx.over85CornersProb || (1/(1+Math.exp(-(total-8.5)/1.25)))), 0.03, 0.98);
+  const over95 = clamp(Number(fx.over95CornersProb || (1/(1+Math.exp(-(total-9.5)/1.35)))), 0.03, 0.97);
+  return {
+    home: lambdaHome, away: lambdaAway, total,
+    over85Pct: Math.round(over85*1000)/10,
+    over95Pct: Math.round(over95*1000)/10,
+    under95Pct: Math.round((1-over95)*1000)/10,
+  };
+}
 
 function calcCardMarkets(fix){
   const cm = S.cardModel || {};
@@ -408,19 +378,28 @@ function calcCardMarkets(fix){
 }
 
 
+/* ════════════════════════════════════════════════════════
+   PROBABILITY ENGINE v2
+   
+   Mejoras vs v1:
+   ─ Poisson + Dixon-Coles (base, sin cambios)
+   ─ formMult: decay exponencial (reciente pesa más)
+   ─ lambdas: usa split home/away si disponible
+   ─ Momentum: tendencia de últimos 3 vs anteriores 3
+   ─ 12 mercados principales: 1X2, O/U 2.5, O/U 3.5, BTTS y AH ±0.5
+   ─ Kelly Criterion: tamaño óptimo de apuesta
+════════════════════════════════════════════════════════ */
 
 function pmf(k,λ){
   if(λ<=0) return k===0?1:0;
   let lp=-λ+k*Math.log(λ); for(let i=1;i<=k;i++) lp-=Math.log(i); return Math.exp(lp);
 }
-
 function dcTau(i,j,λ,μ,ρ=0.13){
   if(i===0&&j===0) return 1-λ*μ*ρ;
   if(i===1&&j===0) return 1+μ*ρ;
   if(i===0&&j===1) return 1+λ*ρ;
   if(i===1&&j===1) return 1-ρ; return 1;
 }
-
 function matrix(λ,μ,N=7){
   const m=[];
   for(let i=0;i<N;i++){const row=[];for(let j=0;j<N;j++){
@@ -430,7 +409,6 @@ function matrix(λ,μ,N=7){
   for(let i=0;i<N;i++) for(let j=0;j<N;j++) m[i][j]/=tot;
   return m;
 }
-
 
 function mkts(m){
   const N=m.length;
@@ -459,7 +437,9 @@ function mkts(m){
   };
 }
 
-
+// ── FORM MULT: nivel absoluto de forma (últimas 6) ───────
+// Decay exponencial: el partido más reciente pesa ~3.5x más que el 6º
+// Rango resultante: [0.93, 1.07] — captura el NIVEL actual del equipo
 function formMult(form){
   const r=(form||[]).slice(-6).reverse(); // [más reciente → más antiguo]
   if(!r.length) return 1.0;
@@ -472,7 +452,15 @@ function formMult(form){
   return 0.93 + (pts/maxW)*0.14; // [0.93, 1.07]
 }
 
-
+// ── MOMENTUM: tendencia pura (¿mejorando o empeorando?) ──
+// Compara últimas 3 jornadas vs las 3 anteriores.
+// Completamente ortogonal a formMult:
+//   formMult = ¿cuánto de bueno es el equipo HOY?
+//   momentum = ¿está mejorando o empeorando?
+//
+// Un equipo puede tener buena forma pero momentum negativo
+// (tres partidos malos tras una gran racha).
+// Rango mult: [0.96, 1.04] — efecto menor que formMult a propósito.
 function calcMomentum(form){
   const r = (form||[]).slice(-6); // [más antiguo → más reciente]
   if(r.length < 4) return {value:0, label:'', mult:1.0};
@@ -500,7 +488,7 @@ function calcMomentum(form){
   return {value:delta, label, mult};
 }
 
-
+// ── LAMBDAS con home/away split + momentum ────────────────
 function lambdas(hd,ad,lgH,lgA){
   const hn=Math.max(hd.n,5), an=Math.max(ad.n,5);
 
@@ -522,7 +510,9 @@ function lambdas(hd,ad,lgH,lgA){
   return{λ:Math.max(0.2,Math.min(4.5,λ)), μ:Math.max(0.2,Math.min(4.5,μ))};
 }
 
-
+// ── KELLY CRITERION (fraccional 1/4) ─────────────────────
+// f* = (b·p − q) / b   donde b=cuota-1, p=prob modelo, q=1-p
+// Fracción 1/4 para gestión conservadora de bankroll
 function kelly(prob, oddDecimal){
   const p = prob/100;
   const q = 1-p;
@@ -531,7 +521,6 @@ function kelly(prob, oddDecimal){
   const f = (b*p - q) / b;
   return Math.max(0, Math.round(f/4*1000)/10); // fraccional 25%, en %
 }
-
 
 function matchData(fix, isHyper=false){
   const hs =findStand(fix.homeTeam?.id,fix.homeTeam?.name,isHyper)||
@@ -591,21 +580,23 @@ function matchData(fix, isHyper=false){
       ahHomePlus05:p(m.ahHomePlus05),
     }};
 }
-
 function deriveForm(s){
   if(!s||!s.played) return [];
   const n=Math.min(s.played,6),pW=(s.wins||0)/Math.max(s.played,1),pD=(s.draws||0)/Math.max(s.played,1);
   return Array.from({length:n},()=>{const r=Math.random();return r<pW?'W':r<pW+pD?'D':'L';}).reverse();
 }
-
-Object.assign(window,{cardTeamKeyCandidates,findCardTeam,deriveCardTeamFallback,calcCardMarkets,pmf,dcTau,matrix,mkts,formMult,calcMomentum,lambdas,kelly,matchData,deriveForm});
-
-
-'use strict';
+function fair(p){return p>0?(100/p).toFixed(2):'∞';}
+function mktOdd(p,mg){const mp=p/(1+mg/100);return mp>0?(1/mp).toFixed(2):'∞';}
+function edge(p,mg){return((p-p/(1+mg/100))*100).toFixed(1);}
+function posC(pos){if(!pos) return '';if(pos===1) return 'p1';if(pos<=4) return 'p4';if(pos<=6) return 'p6';if(pos>=18) return 'p18';if(pos>=17) return 'p17';return '';}
 
 function buildCard(fix){
   const isHyper=!!(findStand(fix.homeTeam?.id,fix.homeTeam?.name,true)&&(S.raw?.standingsHyper||[]).length>0);
   const{hs,as_,hForm,aForm,real,λ,μ,hMom,aMom,p}=matchData(fix,isHyper);
+  const cards = calcCardMarkets(fix);
+  const corners = calcCornerMarkets(fix);
+  const profileH = findTeamProfile(fix.homeTeam?.id, fix.homeTeam?.name);
+  const profileA = findTeamProfile(fix.awayTeam?.id, fix.awayTeam?.name);
   const vt=S.vt, mg=S.mg;
 
   const markets=[
@@ -621,6 +612,10 @@ function buildCard(fix){
     {key:'AHA+0.5',   name:'AH Visita +0.5',   v:p.ahAwayPlus05},
     {key:'AHA-0.5',   name:'AH Visita -0.5',   v:p.ahAwayMinus05},
     {key:'AHH+0.5',   name:'AH Local +0.5',    v:p.ahHomePlus05},
+    {key:'BTTS-C',    name:'Ambos reciben tarjeta', v:cards.yesPct},
+    {key:'O8.5C',     name:'Over 8.5 corners', v:corners.over85Pct},
+    {key:'O9.5C',     name:'Over 9.5 corners', v:corners.over95Pct},
+    {key:'U9.5C',     name:'Under 9.5 corners', v:corners.under95Pct},
   ];
 
   const vals=markets.filter(m=>m.v>=vt);
@@ -628,6 +623,7 @@ function buildCard(fix){
   const ds=fix.date?new Date(fix.date).toLocaleString('es-ES',{weekday:'short',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}):'?';
 
   const tags=[];
+  const fxAutoTags = ((S.raw?.autoTags||{})[String(fix.id||'')]||[]).slice(0,4);
   if(vals.length>=2) tags.push({l:'⚡ VALUE BET',c:'v'});
   if(isHyper) tags.push({l:'2ª DIV',c:'rel'});
   if((hs.position||10)<=4) tags.push({l:'Champions(L)',c:'eur'});
@@ -635,6 +631,7 @@ function buildCard(fix){
   if((hs.position||10)>=17) tags.push({l:'Descenso(L)',c:'rel'});
   if((as_.position||10)>=17) tags.push({l:'Descenso(V)',c:'rel'});
   tags.push({l:real?'● Forma real':'○ Estimada',c:'data'});
+  fxAutoTags.forEach(t=>tags.push({l:t,c:'drb'}));
 
   const hName=cleanName(fix.homeTeam?.name);
   const aName=cleanName(fix.awayTeam?.name);
@@ -671,6 +668,13 @@ function buildCard(fix){
       <span style="font-size:9px;color:var(--text4)">TOTAL</span>
       <span class="xga">xG visita: ${μ.toFixed(2)}</span>
     </div>
+    <div class="xgrow">
+      <span class="xgh">Tarjetas sí: ${cards.yesPct}%</span>
+      <span style="font-size:9px;color:var(--text4)">BOTH TEAMS CARD</span>
+      <span class="xgtot">${corners.total.toFixed(1)}</span>
+      <span style="font-size:9px;color:var(--text4)">CORNERS ESP.</span>
+      <span class="xga">O9.5: ${corners.over95Pct}%</span>
+    </div>
     <div class="psec">
       <div class="prow"><span class="pk">1 X 2</span><div class="pt">
         <div class="pb h${p.h>p.a?' dom':''}" style="width:${p.h}%">${p.h}%</div>
@@ -705,7 +709,6 @@ function buildCard(fix){
   return el;
 }
 
-
 function renderFixtures(){
   const g=document.getElementById('grid');
   if(!S.fixtures.length){
@@ -716,7 +719,6 @@ function renderFixtures(){
   S.fixtures.forEach((f,i)=>{const c=buildCard(f);c.style.animationDelay=`${i*.06}s`;g.appendChild(c);});
 }
 
-
 function renderStandings(){
   const c=document.getElementById('standC');
   const rows=(S.raw?.standings||[]).sort((a,b)=>a.position-b.position);
@@ -725,6 +727,7 @@ function renderStandings(){
 
   const bc=p=>p===1?'c1':p<=4?'ucl':p<=6?'uel':p>=18?'dn':p>=16?'rel':'';
   const fmH=(id,name)=>{const f=findForm(id,null,name);if(!f.length) return '<span style="color:var(--text4);font-size:9px">—</span>';return `<div class="fm2">${f.slice(-5).map(x=>`<div class="fm ${x.r||x}">${x.r||x}</div>`).join('')}</div>`;};
+  const btnTeam=(r)=>`<button onclick="openTeamProfile(${JSON.stringify(String(r.teamId||''))},${JSON.stringify(String(r.teamName||''))})" style="background:none;border:none;color:inherit;font:inherit;cursor:pointer;text-decoration:underline;text-decoration-color:var(--b2)">${r.teamName}</button>`;
   const tblHtml=(rows,title)=>{
     if(!rows.length) return '';
     return `<div style="margin-bottom:14px;font-family:var(--head);font-size:26px;letter-spacing:2px">${title}</div>
@@ -735,7 +738,7 @@ function renderStandings(){
     </tr></thead><tbody>
     ${rows.map(r=>`<tr>
       <td><span class="pbadge ${bc(r.position)}">${r.position}</span></td>
-      <td style="font-weight:500;color:var(--text)">${r.teamName}</td>
+      <td style="font-weight:500;color:var(--text)">${btnTeam(r)}</td>
       <td class="n">${r.played}</td><td class="n">${r.wins}</td><td class="n">${r.draws}</td><td class="n">${r.losses}</td>
       <td class="n">${r.gf}</td><td class="n">${r.ga}</td>
       <td class="n" style="color:${r.gf-r.ga>0?'var(--green)':r.gf-r.ga<0?'var(--red)':'var(--text3)'}">${r.gf-r.ga>0?'+':''}${r.gf-r.ga}</td>
@@ -754,14 +757,42 @@ function renderStandings(){
              </div>`;
 }
 
+function openTeamProfile(teamId, teamName){
+  S.selectedTeam = findTeamProfile(teamId, teamName);
+  renderTeamProfile();
+  const el=document.getElementById('teamPanel');
+  if(el) el.scrollIntoView({behavior:'smooth', block:'start'});
+}
+
+function renderTeamProfile(){
+  const c=document.getElementById('teamPanel');
+  if(!c) return;
+  const p=S.selectedTeam;
+  if(!p){ c.innerHTML=''; c.style.display='none'; return; }
+  c.style.display='block';
+  const tags=(p.tags||[]).map(t=>`<span class="tag tdrb">${t}</span>`).join('');
+  c.innerHTML=`<div style="padding:14px 18px;background:var(--s2);border-bottom:1px solid var(--b1);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap">
+    <div><div style="font-family:var(--head);font-size:24px;letter-spacing:2px">${p.teamName}</div><div style="font-size:10px;color:var(--text3)">Pos ${p.position||'?'} · ${p.points||0} pts · ${p.played||0} PJ</div></div>
+    <button onclick="S.selectedTeam=null;renderTeamProfile()" class="btn btn-o" style="padding:5px 10px">Cerrar</button>
+  </div>
+  <div style="padding:14px 18px;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px">
+    <div class="mkt"><div class="mkt-key">GOLES</div><div class="mkt-p">${p.goals.avg_for}</div><div class="mkt-odds"><span class="mkt-fair">GF/p</span><span class="mkt-mkt">GA/p ${p.goals.avg_against}</span></div></div>
+    <div class="mkt"><div class="mkt-key">xG</div><div class="mkt-p">${p.xg.avg_for}</div><div class="mkt-odds"><span class="mkt-fair">xGF</span><span class="mkt-mkt">xGA ${p.xg.avg_against}</span></div></div>
+    <div class="mkt"><div class="mkt-key">CORNERS</div><div class="mkt-p">${p.corners.avg_for}</div><div class="mkt-odds"><span class="mkt-fair">a favor</span><span class="mkt-mkt">contra ${p.corners.avg_against}</span></div></div>
+    <div class="mkt"><div class="mkt-key">TARJETAS</div><div class="mkt-p">${p.cards.avg_for}</div><div class="mkt-odds"><span class="mkt-fair">a favor</span><span class="mkt-mkt">contra ${p.cards.avg_against}</span></div></div>
+    <div class="mkt"><div class="mkt-key">MOMENTUM</div><div class="mkt-p">${(p.momentum.score*100).toFixed(0)}</div><div class="mkt-odds"><span class="mkt-fair">${p.momentum.label}</span><span class="mkt-mkt">mult ${p.momentum.mult}</span></div></div>
+    <div class="mkt"><div class="mkt-key">PERFILES</div><div class="mkt-p">${(p.attack_index).toFixed(2)}</div><div class="mkt-odds"><span class="mkt-fair">ataque</span><span class="mkt-mkt">def ${p.defense_index}</span></div></div>
+  </div>
+  <div style="padding:0 18px 16px 18px"><div class="tagrow">${tags}</div></div>`;
+}
 
 function renderDebug(){const c=document.getElementById('debugContent');if(c) c.textContent=S.dbg.join('\n');}
 
-
-function render(){renderFixtures();renderStandings();renderDebug();updateJBar();buildCombinada();}
-
+/* ════════════════════════════════════════
+   RENDER MAIN
+════════════════════════════════════════ */
+function render(){renderFixtures();renderStandings();renderTeamProfile();renderDebug();updateJBar();buildCombinada();}
 function rerender(){if(S.raw) render();}
-
 
 function updateJBar(){
   const jb=document.getElementById('jbar');
@@ -772,18 +803,104 @@ function updateJBar(){
   document.getElementById('jcnt').textContent=S.fixtures.length;
 }
 
-
 function go(t){
   document.querySelectorAll('.ntab').forEach(el=>el.classList.remove('on'));
   document.getElementById('tab-'+t).classList.add('on');
   ['f','s','d'].forEach(id=>{document.getElementById('t'+id).style.display=id===t?'block':'none';});
 }
 
+function setStatus(st,txt){
+  document.getElementById('pill').className='pill '+st;
+  document.getElementById('dotEl').className='dot '+st;
+  document.getElementById('pillTxt').textContent=txt;
+}
 
-Object.assign(window,{buildCard,renderFixtures,renderStandings,renderDebug,render,rerender,updateJBar,go});
+// ── LOAD data.json (main fixtures) ──────────────────────────
+async function load(manual=false){
+  if(manual){
+    setStatus('load','Cargando…');
+    document.getElementById('grid').innerHTML=`<div class="loader"><div class="spin"></div><div style="font-size:11px;color:var(--text3)">Cargando data.json…</div></div>`;
+  } else {
+    setStatus('load','Buscando datos…');
+  }
 
+  // ── Fase 1: fetch ─────────────────────────────────────────
+  let json;
+  try{
+    const res = await fetch('data.json?_='+Date.now());
+    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    json = await res.json();
+  }catch(fetchErr){
+    // Solo mostrar error si no teníamos datos previos
+    if(!S.raw){
+      setStatus('err','Sin data.json');
+      document.getElementById('guide').style.display='block';
+      document.getElementById('dbanner').style.display='none';
+      document.getElementById('jbar').style.display='none';
+      document.getElementById('grid').innerHTML='';
+    } else {
+      setStatus('err','Error al recargar');
+    }
+    if(manual) toast('No se encontró data.json — ejecuta el scraper primero','error');
+    return;
+  }
 
-'use strict';
+  // ── Fase 2: procesar datos ────────────────────────────────
+  try{
+    process(json);
+    if(manual) toast('Datos recargados ✓','success');
+  }catch(processErr){
+    console.error('Error en process():', processErr);
+    setStatus('err','Error interno');
+    toast(`Error procesando datos: ${processErr.message}`,'error',6000);
+  }
+}
+
+function toast(msg,type='info',dur=3500){
+  const el=document.createElement('div');
+  el.className=`toast ${type}`;
+  el.innerHTML=`<span>${{success:'✅',error:'❌',warning:'⚠️',info:'ℹ️'}[type]}</span><span>${msg}</span>`;
+  document.getElementById('toastC').appendChild(el);
+  setTimeout(()=>{el.style.animation='ti .3s ease reverse';setTimeout(()=>el.remove(),300);},dur);
+}
+
+document.addEventListener('DOMContentLoaded',()=>{
+  load();
+  document.addEventListener('keydown',e=>{
+    if((e.ctrlKey||e.metaKey)&&e.key==='r'){e.preventDefault();load(true);}
+  });
+});
+
+/* ════════════════════════════════════════════════════════
+   COMBINADA ALGORITHM — Max Expected Value Accumulator
+   
+   Para cada partido de los próximos 7:
+   1. Calcula Expected Value (EV) de los mercados disponibles
+      EV = prob × (cuota_justa - 1) - (1 - prob)
+      = prob × (100/prob - 1) - (1 - prob)
+      simplificado: EV = 1 - 2*(1-prob)  NO — usamos cuota de mercado real:
+      EV = prob/100 × (oddMkt - 1) - (1 - prob/100)
+   
+   2. Edge: diferencia entre prob modelo y prob implícita casas
+      Filtra: solo mercados con edge > 0 (valor real)
+   
+   3. Correlación: penaliza combinar mercados correlacionados
+      del mismo partido o de tipo similar:
+      - O2.5 + BTTS: alta correlación (+goles) → penaliza
+      - 1 + AH local: misma dirección → penaliza (redundante)
+      - Múltiples "Over" → diversidad menor
+   
+   4. Score final por selección = EV × (1 - corr_penalty)
+   
+   5. Toma las N mejores selecciones distintas (1 por partido máx)
+      ordenadas por score
+   
+   6. Calcula combinada:
+      - Cuota total = producto de cuotas individuales
+      - Prob conjunta = producto de probs (asume independencia)
+      - EV combinada = suma de EVs individuales (en log-space)
+      - Kelly = (prob × odd_total - 1) / (odd_total - 1) / 4
+════════════════════════════════════════════════════════ */
 
 let combOpen = true;
 
@@ -792,7 +909,6 @@ function toggleComb(){
   document.getElementById('combBody').style.display = combOpen ? '' : 'none';
   document.getElementById('combToggleBtn').textContent = combOpen ? '▼' : '▶';
 }
-
 
 function renderCombBody(legs, totalOdd, probConj, evComb, kellyComb, alts, mg, isFallback){
   const hName = f => cleanName(f.homeTeam?.name||'').split(' ').slice(0,2).join(' ');
@@ -878,7 +994,6 @@ function renderCombBody(legs, totalOdd, probConj, evComb, kellyComb, alts, mg, i
     </div>
   `;
 }
-
 
 function buildCombinada(){
   const section = document.getElementById('combSection');
@@ -1095,7 +1210,6 @@ function buildCombinada(){
   window._combMainLegs = mainLegs;
 }
 
-
 function applyCombAlt(idx){
   // Swap main with alt — just re-render with alt legs
   const alt = window._combAlts[idx];
@@ -1106,7 +1220,6 @@ function applyCombAlt(idx){
   buildCombinada();
 }
 
-
 function combStats_ext(legs){
   const totalOdd = legs.reduce((p,l)=>p*l.oddMkt,1);
   const probC    = legs.reduce((p,l)=>p*l.prob/100,1);
@@ -1114,15 +1227,3 @@ function combStats_ext(legs){
   const kellyComb= Math.max(0,Math.round(((probC*(totalOdd-1)-(1-probC))/(totalOdd-1))/4*1000)/10);
   return {totalOdd, probConj:probC*100, evComb, kellyComb};
 }
-
-Object.assign(window,{toggleComb,renderCombBody,buildCombinada,applyCombAlt,combStats_ext});
-
-
-'use strict';
-
-document.addEventListener('DOMContentLoaded',()=>{
-  load();
-  document.addEventListener('keydown',e=>{
-    if((e.ctrlKey||e.metaKey)&&e.key==='r'){e.preventDefault();load(true);}
-  });
-});

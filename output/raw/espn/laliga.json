@@ -1,0 +1,4051 @@
+{
+  "league_key": "laliga",
+  "league_name": "LaLiga",
+  "league_slug": "esp.1",
+  "source": "ESPN",
+  "scraped_at": "2026-04-21T22:25:41Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "83",
+      "team_name": "Barcelona",
+      "team_short_name": "Barcelona",
+      "team_abbr": "BAR",
+      "normalized_name": "barcelona",
+      "played": 31.0,
+      "wins": 26.0,
+      "draws": 1.0,
+      "losses": 4.0,
+      "goals_for": 84.0,
+      "goals_against": 30.0,
+      "goal_difference": 54.0,
+      "points": 79.0,
+      "form": "WWWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 4.0,
+        "Losses": "4",
+        "L": "4",
+        "pointDifferential": 54.0,
+        "Goal Difference": "+54",
+        "GD": "+54",
+        "points": 79.0,
+        "Points": "79",
+        "P": "79",
+        "pointsAgainst": 30.0,
+        "Goals Against": "30",
+        "A": "30",
+        "pointsFor": 84.0,
+        "Goals For": "84",
+        "F": "84",
+        "ties": 1.0,
+        "Draws": "1",
+        "D": "1",
+        "wins": 26.0,
+        "Wins": "26",
+        "W": "26",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "26-1-4",
+        "Overall": "26-1-4",
+        "Total": "26-1-4"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "86",
+      "team_name": "Real Madrid",
+      "team_short_name": "Real Madrid",
+      "team_abbr": "RMA",
+      "normalized_name": "real madrid",
+      "played": 32.0,
+      "wins": 23.0,
+      "draws": 4.0,
+      "losses": 5.0,
+      "goals_for": 67.0,
+      "goals_against": 30.0,
+      "goal_difference": 37.0,
+      "points": 73.0,
+      "form": "WWLDW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 5.0,
+        "Losses": "5",
+        "L": "5",
+        "pointDifferential": 37.0,
+        "Goal Difference": "+37",
+        "GD": "+37",
+        "points": 73.0,
+        "Points": "73",
+        "P": "73",
+        "pointsAgainst": 30.0,
+        "Goals Against": "30",
+        "A": "30",
+        "pointsFor": 67.0,
+        "Goals For": "67",
+        "F": "67",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 23.0,
+        "Wins": "23",
+        "W": "23",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "23-4-5",
+        "Overall": "23-4-5",
+        "Total": "23-4-5"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "102",
+      "team_name": "Villarreal",
+      "team_short_name": "Villarreal",
+      "team_abbr": "VIL",
+      "normalized_name": "villarreal",
+      "played": 31.0,
+      "wins": 19.0,
+      "draws": 4.0,
+      "losses": 8.0,
+      "goals_for": 56.0,
+      "goals_against": 36.0,
+      "goal_difference": 20.0,
+      "points": 61.0,
+      "form": "WDWLW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 20.0,
+        "Goal Difference": "+20",
+        "GD": "+20",
+        "points": 61.0,
+        "Points": "61",
+        "P": "61",
+        "pointsAgainst": 36.0,
+        "Goals Against": "36",
+        "A": "36",
+        "pointsFor": 56.0,
+        "Goals For": "56",
+        "F": "56",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 19.0,
+        "Wins": "19",
+        "W": "19",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "19-4-8",
+        "Overall": "19-4-8",
+        "Total": "19-4-8"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "1068",
+      "team_name": "Atlético Madrid",
+      "team_short_name": "Atlético",
+      "team_abbr": "ATM",
+      "normalized_name": "atletico madrid",
+      "played": 31.0,
+      "wins": 17.0,
+      "draws": 6.0,
+      "losses": 8.0,
+      "goals_for": 51.0,
+      "goals_against": 32.0,
+      "goal_difference": 19.0,
+      "points": 57.0,
+      "form": "WLLL",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 19.0,
+        "Goal Difference": "+19",
+        "GD": "+19",
+        "points": 57.0,
+        "Points": "57",
+        "P": "57",
+        "pointsAgainst": 32.0,
+        "Goals Against": "32",
+        "A": "32",
+        "pointsFor": 51.0,
+        "Goals For": "51",
+        "F": "51",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-6-8",
+        "Overall": "17-6-8",
+        "Total": "17-6-8"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "244",
+      "team_name": "Real Betis",
+      "team_short_name": "Betis",
+      "team_abbr": "BET",
+      "normalized_name": "real betis",
+      "played": 32.0,
+      "wins": 12.0,
+      "draws": 13.0,
+      "losses": 7.0,
+      "goals_for": 48.0,
+      "goals_against": 40.0,
+      "goal_difference": 8.0,
+      "points": 49.0,
+      "form": "DLDDW",
+      "status": "Europa League",
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 8.0,
+        "Goal Difference": "+8",
+        "GD": "+8",
+        "points": 49.0,
+        "Points": "49",
+        "P": "49",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 13.0,
+        "Draws": "13",
+        "D": "13",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-13-7",
+        "Overall": "12-13-7",
+        "Total": "12-13-7"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "85",
+      "team_name": "Celta Vigo",
+      "team_short_name": "Celta Vigo",
+      "team_abbr": "CEL",
+      "normalized_name": "celta vigo",
+      "played": 31.0,
+      "wins": 11.0,
+      "draws": 11.0,
+      "losses": 9.0,
+      "goals_for": 44.0,
+      "goals_against": 40.0,
+      "goal_difference": 4.0,
+      "points": 44.0,
+      "form": "DLWL",
+      "status": "Conference League qualifying",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 9.0,
+        "Losses": "9",
+        "L": "9",
+        "pointDifferential": 4.0,
+        "Goal Difference": "+4",
+        "GD": "+4",
+        "points": 44.0,
+        "Points": "44",
+        "P": "44",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 44.0,
+        "Goals For": "44",
+        "F": "44",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-11-9",
+        "Overall": "11-11-9",
+        "Total": "11-11-9"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "89",
+      "team_name": "Real Sociedad",
+      "team_short_name": "Real Sociedad",
+      "team_abbr": "RSO",
+      "normalized_name": "real sociedad",
+      "played": 31.0,
+      "wins": 11.0,
+      "draws": 9.0,
+      "losses": 11.0,
+      "goals_for": 49.0,
+      "goals_against": 48.0,
+      "goal_difference": 1.0,
+      "points": 42.0,
+      "form": "WLWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": 1.0,
+        "Goal Difference": "+1",
+        "GD": "+1",
+        "points": 42.0,
+        "Points": "42",
+        "P": "42",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 49.0,
+        "Goals For": "49",
+        "F": "49",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-9-11",
+        "Overall": "11-9-11",
+        "Total": "11-9-11"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "2922",
+      "team_name": "Getafe",
+      "team_short_name": "Getafe",
+      "team_abbr": "GET",
+      "normalized_name": "getafe",
+      "played": 31.0,
+      "wins": 12.0,
+      "draws": 5.0,
+      "losses": 14.0,
+      "goals_for": 27.0,
+      "goals_against": 32.0,
+      "goal_difference": -5.0,
+      "points": 41.0,
+      "form": "WLWWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -5.0,
+        "Goal Difference": "-5",
+        "GD": "-5",
+        "points": 41.0,
+        "Points": "41",
+        "P": "41",
+        "pointsAgainst": 32.0,
+        "Goals Against": "32",
+        "A": "32",
+        "pointsFor": 27.0,
+        "Goals For": "27",
+        "F": "27",
+        "ties": 5.0,
+        "Draws": "5",
+        "D": "5",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-5-14",
+        "Overall": "12-5-14",
+        "Total": "12-5-14"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "93",
+      "team_name": "Athletic Club",
+      "team_short_name": "Athletic",
+      "team_abbr": "ATH",
+      "normalized_name": "athletic",
+      "played": 32.0,
+      "wins": 12.0,
+      "draws": 5.0,
+      "losses": 15.0,
+      "goals_for": 34.0,
+      "goals_against": 45.0,
+      "goal_difference": -11.0,
+      "points": 41.0,
+      "form": "LWLLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -11.0,
+        "Goal Difference": "-11",
+        "GD": "-11",
+        "points": 41.0,
+        "Points": "41",
+        "P": "41",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 34.0,
+        "Goals For": "34",
+        "F": "34",
+        "ties": 5.0,
+        "Draws": "5",
+        "D": "5",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-5-15",
+        "Overall": "12-5-15",
+        "Total": "12-5-15"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "97",
+      "team_name": "Osasuna",
+      "team_short_name": "Osasuna",
+      "team_abbr": "OSA",
+      "normalized_name": "osasuna",
+      "played": 32.0,
+      "wins": 10.0,
+      "draws": 9.0,
+      "losses": 13.0,
+      "goals_for": 37.0,
+      "goals_against": 39.0,
+      "goal_difference": -2.0,
+      "points": 39.0,
+      "form": "LWDDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -2.0,
+        "Goal Difference": "-2",
+        "GD": "-2",
+        "points": 39.0,
+        "Points": "39",
+        "P": "39",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 37.0,
+        "Goals For": "37",
+        "F": "37",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-9-13",
+        "Overall": "10-9-13",
+        "Total": "10-9-13"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "9812",
+      "team_name": "Girona",
+      "team_short_name": "Girona",
+      "team_abbr": "GIR",
+      "normalized_name": "girona",
+      "played": 32.0,
+      "wins": 9.0,
+      "draws": 11.0,
+      "losses": 12.0,
+      "goals_for": 35.0,
+      "goals_against": 48.0,
+      "goal_difference": -13.0,
+      "points": 38.0,
+      "form": "WLWDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -13.0,
+        "Goal Difference": "-13",
+        "GD": "-13",
+        "points": 38.0,
+        "Points": "38",
+        "P": "38",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 35.0,
+        "Goals For": "35",
+        "F": "35",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-11-12",
+        "Overall": "9-11-12",
+        "Total": "9-11-12"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "88",
+      "team_name": "Espanyol",
+      "team_short_name": "Espanyol",
+      "team_abbr": "ESP",
+      "normalized_name": "espanyol",
+      "played": 31.0,
+      "wins": 10.0,
+      "draws": 8.0,
+      "losses": 13.0,
+      "goals_for": 37.0,
+      "goals_against": 48.0,
+      "goal_difference": -11.0,
+      "points": 38.0,
+      "form": "DLLDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -11.0,
+        "Goal Difference": "-11",
+        "GD": "-11",
+        "points": 38.0,
+        "Points": "38",
+        "P": "38",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 37.0,
+        "Goals For": "37",
+        "F": "37",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-8-13",
+        "Overall": "10-8-13",
+        "Total": "10-8-13"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "94",
+      "team_name": "Valencia",
+      "team_short_name": "Valencia",
+      "team_abbr": "VAL",
+      "normalized_name": "valencia",
+      "played": 32.0,
+      "wins": 9.0,
+      "draws": 9.0,
+      "losses": 14.0,
+      "goals_for": 35.0,
+      "goals_against": 47.0,
+      "goal_difference": -12.0,
+      "points": 36.0,
+      "form": "LWLLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -12.0,
+        "Goal Difference": "-12",
+        "GD": "-12",
+        "points": 36.0,
+        "Points": "36",
+        "P": "36",
+        "pointsAgainst": 47.0,
+        "Goals Against": "47",
+        "A": "47",
+        "pointsFor": 35.0,
+        "Goals For": "35",
+        "F": "35",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-9-14",
+        "Overall": "9-9-14",
+        "Total": "9-9-14"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "84",
+      "team_name": "Mallorca",
+      "team_short_name": "Mallorca",
+      "team_abbr": "MLL",
+      "normalized_name": "mallorca",
+      "played": 32.0,
+      "wins": 9.0,
+      "draws": 8.0,
+      "losses": 15.0,
+      "goals_for": 40.0,
+      "goals_against": 49.0,
+      "goal_difference": -9.0,
+      "points": 35.0,
+      "form": "WLWWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -9.0,
+        "Goal Difference": "-9",
+        "GD": "-9",
+        "points": 35.0,
+        "Points": "35",
+        "P": "35",
+        "pointsAgainst": 49.0,
+        "Goals Against": "49",
+        "A": "49",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-8-15",
+        "Overall": "9-8-15",
+        "Total": "9-8-15"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "101",
+      "team_name": "Rayo Vallecano",
+      "team_short_name": "Rayo",
+      "team_abbr": "RAY",
+      "normalized_name": "rayo vallecano",
+      "played": 31.0,
+      "wins": 8.0,
+      "draws": 11.0,
+      "losses": 12.0,
+      "goals_for": 29.0,
+      "goals_against": 38.0,
+      "goal_difference": -9.0,
+      "points": 35.0,
+      "form": "DDLWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -9.0,
+        "Goal Difference": "-9",
+        "GD": "-9",
+        "points": 35.0,
+        "Points": "35",
+        "P": "35",
+        "pointsAgainst": 38.0,
+        "Goals Against": "38",
+        "A": "38",
+        "pointsFor": 29.0,
+        "Goals For": "29",
+        "F": "29",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-11-12",
+        "Overall": "8-11-12",
+        "Total": "8-11-12"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "243",
+      "team_name": "Sevilla",
+      "team_short_name": "Sevilla",
+      "team_abbr": "SEV",
+      "normalized_name": "sevilla",
+      "played": 31.0,
+      "wins": 9.0,
+      "draws": 7.0,
+      "losses": 15.0,
+      "goals_for": 39.0,
+      "goals_against": 51.0,
+      "goal_difference": -12.0,
+      "points": 34.0,
+      "form": "DLLLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -12.0,
+        "Goal Difference": "-12",
+        "GD": "-12",
+        "points": 34.0,
+        "Points": "34",
+        "P": "34",
+        "pointsAgainst": 51.0,
+        "Goals Against": "51",
+        "A": "51",
+        "pointsFor": 39.0,
+        "Goals For": "39",
+        "F": "39",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-7-15",
+        "Overall": "9-7-15",
+        "Total": "9-7-15"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "96",
+      "team_name": "Alavés",
+      "team_short_name": "Alavés",
+      "team_abbr": "ALA",
+      "normalized_name": "alaves",
+      "played": 32.0,
+      "wins": 8.0,
+      "draws": 9.0,
+      "losses": 15.0,
+      "goals_for": 36.0,
+      "goals_against": 48.0,
+      "goal_difference": -12.0,
+      "points": 33.0,
+      "form": "DWDDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -12.0,
+        "Goal Difference": "-12",
+        "GD": "-12",
+        "points": 33.0,
+        "Points": "33",
+        "P": "33",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-9-15",
+        "Overall": "8-9-15",
+        "Total": "8-9-15"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "3751",
+      "team_name": "Elche",
+      "team_short_name": "Elche",
+      "team_abbr": "ELC",
+      "normalized_name": "elche",
+      "played": 31.0,
+      "wins": 7.0,
+      "draws": 11.0,
+      "losses": 13.0,
+      "goals_for": 39.0,
+      "goals_against": 47.0,
+      "goal_difference": -8.0,
+      "points": 32.0,
+      "form": "LLWLW",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -8.0,
+        "Goal Difference": "-8",
+        "GD": "-8",
+        "points": 32.0,
+        "Points": "32",
+        "P": "32",
+        "pointsAgainst": 47.0,
+        "Goals Against": "47",
+        "A": "47",
+        "pointsFor": 39.0,
+        "Goals For": "39",
+        "F": "39",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-11-13",
+        "Overall": "7-11-13",
+        "Total": "7-11-13"
+      }
+    },
+    {
+      "rank": 19.0,
+      "team_id": "1538",
+      "team_name": "Levante",
+      "team_short_name": "Levante",
+      "team_abbr": "LEV",
+      "normalized_name": "levante",
+      "played": 31.0,
+      "wins": 7.0,
+      "draws": 8.0,
+      "losses": 16.0,
+      "goals_for": 35.0,
+      "goals_against": 50.0,
+      "goal_difference": -15.0,
+      "points": 29.0,
+      "form": "DWLW",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -15.0,
+        "Goal Difference": "-15",
+        "GD": "-15",
+        "points": 29.0,
+        "Points": "29",
+        "P": "29",
+        "pointsAgainst": 50.0,
+        "Goals Against": "50",
+        "A": "50",
+        "pointsFor": 35.0,
+        "Goals For": "35",
+        "F": "35",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 19.0,
+        "Rank": "19",
+        "R": "19",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-8-16",
+        "Overall": "7-8-16",
+        "Total": "7-8-16"
+      }
+    },
+    {
+      "rank": 20.0,
+      "team_id": "92",
+      "team_name": "Real Oviedo",
+      "team_short_name": "Real Oviedo",
+      "team_abbr": "OVI",
+      "normalized_name": "real oviedo",
+      "played": 31.0,
+      "wins": 6.0,
+      "draws": 9.0,
+      "losses": 16.0,
+      "goals_for": 24.0,
+      "goals_against": 48.0,
+      "goal_difference": -24.0,
+      "points": 27.0,
+      "form": "DWLWW",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 31.0,
+        "Games Played": "31",
+        "GP": "31",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -24.0,
+        "Goal Difference": "-24",
+        "GD": "-24",
+        "points": 27.0,
+        "Points": "27",
+        "P": "27",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 24.0,
+        "Goals For": "24",
+        "F": "24",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 6.0,
+        "Wins": "6",
+        "W": "6",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 20.0,
+        "Rank": "20",
+        "R": "20",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "6-9-16",
+        "Overall": "6-9-16",
+        "Total": "6-9-16"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "748466",
+      "date": "2026-04-22T17:00Z",
+      "date_only": "2026-04-22",
+      "name": "Atlético Madrid at Elche",
+      "short_name": "ATM @ ELC",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 1:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "0",
+        "form": "WLWLL",
+        "record": "7-11-13"
+      },
+      "away_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "17-6-8"
+      },
+      "venue": {
+        "name": "Estadio Martínez Valero",
+        "city": "Elche",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748472",
+      "date": "2026-04-22T18:00Z",
+      "date_only": "2026-04-22",
+      "name": "Getafe at Real Sociedad",
+      "short_name": "GET @ RSO",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 2:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "0",
+        "form": "WDWLW",
+        "record": "11-9-11"
+      },
+      "away_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "0",
+        "form": "LWWLW",
+        "record": "12-5-14"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748465",
+      "date": "2026-04-22T19:30Z",
+      "date_only": "2026-04-22",
+      "name": "Celta Vigo at Barcelona",
+      "short_name": "CEL @ BAR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 3:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "0",
+        "form": "WWLWW",
+        "record": "26-1-4"
+      },
+      "away_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "11-11-9"
+      },
+      "venue": {
+        "name": "Spotify Camp Nou",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748473",
+      "date": "2026-04-23T17:00Z",
+      "date_only": "2026-04-23",
+      "name": "Sevilla at Levante",
+      "short_name": "SEV @ LEV",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Thu, April 23rd at 1:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "0",
+        "form": "WLWDD",
+        "record": "7-8-16"
+      },
+      "away_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "9-7-15"
+      },
+      "venue": {
+        "name": "Estadi Ciutat de València",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748470",
+      "date": "2026-04-23T18:00Z",
+      "date_only": "2026-04-23",
+      "name": "Espanyol at Rayo Vallecano",
+      "short_name": "ESP @ RAY",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Thu, April 23rd at 2:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "0",
+        "form": "LLWWL",
+        "record": "8-11-12"
+      },
+      "away_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "0",
+        "form": "LDLLD",
+        "record": "10-8-13"
+      },
+      "venue": {
+        "name": "Estadio de Vallecas",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748464",
+      "date": "2026-04-23T19:30Z",
+      "date_only": "2026-04-23",
+      "name": "Villarreal at Real Oviedo",
+      "short_name": "VIL @ OVI",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Thu, April 23rd at 3:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "0",
+        "form": "WWLWD",
+        "record": "6-9-16"
+      },
+      "away_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "0",
+        "form": "WLWDW",
+        "record": "19-4-8"
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere",
+        "city": "Oviedo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748457",
+      "date": "2026-04-24T19:00Z",
+      "date_only": "2026-04-24",
+      "name": "Real Madrid at Real Betis",
+      "short_name": "RMA @ BET",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "0",
+        "form": "WLDDD",
+        "record": "12-13-7"
+      },
+      "away_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "0",
+        "form": "WLDLL",
+        "record": "23-4-5"
+      },
+      "venue": {
+        "name": "Estadio La Cartuja",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748455",
+      "date": "2026-04-25T12:00Z",
+      "date_only": "2026-04-25",
+      "name": "Mallorca at Alavés",
+      "short_name": "MLL @ ALA",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 8:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "0",
+        "form": "LDDWD",
+        "record": "8-9-15"
+      },
+      "away_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "0",
+        "form": "DWWLW",
+        "record": "9-8-15"
+      },
+      "venue": {
+        "name": "Mendizorrotza",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748460",
+      "date": "2026-04-25T14:15Z",
+      "date_only": "2026-04-25",
+      "name": "Barcelona at Getafe",
+      "short_name": "BAR @ GET",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 10:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "0",
+        "form": "LWWLW",
+        "record": "12-5-14"
+      },
+      "away_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "0",
+        "form": "WWLWW",
+        "record": "26-1-4"
+      },
+      "venue": {
+        "name": "Estadio Coliseum",
+        "city": "Getafe",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748454",
+      "date": "2026-04-25T16:30Z",
+      "date_only": "2026-04-25",
+      "name": "Girona at Valencia",
+      "short_name": "GIR @ VAL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "9-9-14"
+      },
+      "away_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "0",
+        "form": "LDWLW",
+        "record": "9-11-12"
+      },
+      "venue": {
+        "name": "Mestalla Stadium",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748462",
+      "date": "2026-04-25T19:00Z",
+      "date_only": "2026-04-25",
+      "name": "Athletic Club at Atlético Madrid",
+      "short_name": "ATH @ ATM",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "17-6-8"
+      },
+      "away_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "12-5-15"
+      },
+      "venue": {
+        "name": "Riyadh Air Metropolitano",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748458",
+      "date": "2026-04-26T12:00Z",
+      "date_only": "2026-04-26",
+      "name": "Real Sociedad at Rayo Vallecano",
+      "short_name": "RSO @ RAY",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 8:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "0",
+        "form": "LLWWL",
+        "record": "8-11-12"
+      },
+      "away_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "0",
+        "form": "WDWLW",
+        "record": "11-9-11"
+      },
+      "venue": {
+        "name": "Estadio de Vallecas",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748456",
+      "date": "2026-04-26T14:15Z",
+      "date_only": "2026-04-26",
+      "name": "Elche at Real Oviedo",
+      "short_name": "ELC @ OVI",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 10:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "0",
+        "form": "WWLWD",
+        "record": "6-9-16"
+      },
+      "away_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "0",
+        "form": "WLWLL",
+        "record": "7-11-13"
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere",
+        "city": "Oviedo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748459",
+      "date": "2026-04-26T16:30Z",
+      "date_only": "2026-04-26",
+      "name": "Sevilla at Osasuna",
+      "short_name": "SEV @ OSA",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "0",
+        "form": "LDDWL",
+        "record": "10-9-13"
+      },
+      "away_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "9-7-15"
+      },
+      "venue": {
+        "name": "El Sadar",
+        "city": "Pamplona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748463",
+      "date": "2026-04-26T19:00Z",
+      "date_only": "2026-04-26",
+      "name": "Celta Vigo at Villarreal",
+      "short_name": "CEL @ VIL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "0",
+        "form": "WLWDW",
+        "record": "19-4-8"
+      },
+      "away_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "11-11-9"
+      },
+      "venue": {
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748461",
+      "date": "2026-04-27T19:00Z",
+      "date_only": "2026-04-27",
+      "name": "Levante at Espanyol",
+      "short_name": "LEV @ ESP",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Mon, April 27th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "0",
+        "form": "LDLLD",
+        "record": "10-8-13"
+      },
+      "away_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "0",
+        "form": "WLWDD",
+        "record": "7-8-16"
+      },
+      "venue": {
+        "name": "RCDE Stadium",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "748471",
+      "date": "2026-04-21T19:30Z",
+      "date_only": "2026-04-21",
+      "name": "Alavés at Real Madrid",
+      "short_name": "ALA @ RMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "2",
+        "form": "WLDLL",
+        "record": "23-4-5"
+      },
+      "away_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "1",
+        "form": "LDDWD",
+        "record": "8-9-15"
+      },
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748467",
+      "date": "2026-04-21T19:30Z",
+      "date_only": "2026-04-21",
+      "name": "Real Betis at Girona",
+      "short_name": "BET @ GIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "2",
+        "form": "LDWLW",
+        "record": "9-11-12"
+      },
+      "away_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "3",
+        "form": "WLDDD",
+        "record": "12-13-7"
+      },
+      "venue": {
+        "name": "Estadi Montilivi",
+        "city": "Girona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748469",
+      "date": "2026-04-21T17:00Z",
+      "date_only": "2026-04-21",
+      "name": "Osasuna at Athletic Club",
+      "short_name": "OSA @ ATH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "12-5-15"
+      },
+      "away_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "0",
+        "form": "LDDWL",
+        "record": "10-9-13"
+      },
+      "venue": {
+        "name": "San Mamés",
+        "city": "Bilbao",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748468",
+      "date": "2026-04-21T17:00Z",
+      "date_only": "2026-04-21",
+      "name": "Valencia at Mallorca",
+      "short_name": "VAL @ MLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "9-8-15"
+      },
+      "away_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "1",
+        "form": "DLLWL",
+        "record": "9-9-14"
+      },
+      "venue": {
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748446",
+      "date": "2026-04-13T19:00Z",
+      "date_only": "2026-04-13",
+      "name": "Getafe at Levante",
+      "short_name": "GET @ LEV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "1",
+        "form": "WLWDD",
+        "record": "7-8-16"
+      },
+      "away_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "0",
+        "form": "LWWLW",
+        "record": "12-5-14"
+      },
+      "venue": {
+        "name": "Estadi Ciutat de València",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748451",
+      "date": "2026-04-12T19:00Z",
+      "date_only": "2026-04-12",
+      "name": "Villarreal at Athletic Club",
+      "short_name": "VIL @ ATH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "11-5-15"
+      },
+      "away_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "2",
+        "form": "WLWDW",
+        "record": "19-4-8"
+      },
+      "venue": {
+        "name": "San Mamés",
+        "city": "Bilbao",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748448",
+      "date": "2026-04-12T16:30Z",
+      "date_only": "2026-04-12",
+      "name": "Real Oviedo at Celta Vigo",
+      "short_name": "OVI @ CEL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "0",
+        "form": "LLLWL",
+        "record": "11-11-9"
+      },
+      "away_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "3",
+        "form": "WWLWD",
+        "record": "6-9-16"
+      },
+      "venue": {
+        "name": "Balaidos",
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748445",
+      "date": "2026-04-12T14:15Z",
+      "date_only": "2026-04-12",
+      "name": "Rayo Vallecano at Mallorca",
+      "short_name": "RAY @ MLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "3",
+        "form": "DWWLW",
+        "record": "9-7-15"
+      },
+      "away_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "0",
+        "form": "LLWWL",
+        "record": "8-11-12"
+      },
+      "venue": {
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748444",
+      "date": "2026-04-12T12:00Z",
+      "date_only": "2026-04-12",
+      "name": "Real Betis at Osasuna",
+      "short_name": "BET @ OSA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "1",
+        "form": "LDDWL",
+        "record": "10-9-12"
+      },
+      "away_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "1",
+        "form": "WLDDD",
+        "record": "11-13-7"
+      },
+      "venue": {
+        "name": "El Sadar",
+        "city": "Pamplona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748450",
+      "date": "2026-04-11T19:00Z",
+      "date_only": "2026-04-11",
+      "name": "Atlético Madrid at Sevilla",
+      "short_name": "ATM @ SEV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "2",
+        "form": "WLLLD",
+        "record": "9-7-15"
+      },
+      "away_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "1",
+        "form": "LLLWL",
+        "record": "17-6-8"
+      },
+      "venue": {
+        "name": "Ramón Sánchez Pizjuán Stadium",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748449",
+      "date": "2026-04-11T16:30Z",
+      "date_only": "2026-04-11",
+      "name": "Espanyol at Barcelona",
+      "short_name": "ESP @ BAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "4",
+        "form": "WWLWW",
+        "record": "26-1-4"
+      },
+      "away_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "1",
+        "form": "LDLLD",
+        "record": "10-8-13"
+      },
+      "venue": {
+        "name": "Spotify Camp Nou",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748447",
+      "date": "2026-04-11T14:15Z",
+      "date_only": "2026-04-11",
+      "name": "Valencia at Elche",
+      "short_name": "VAL @ ELC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "1",
+        "form": "WLWLL",
+        "record": "7-11-13"
+      },
+      "away_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "9-8-14"
+      },
+      "venue": {
+        "name": "Estadio Martínez Valero",
+        "city": "Elche",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748452",
+      "date": "2026-04-11T12:00Z",
+      "date_only": "2026-04-11",
+      "name": "Alavés at Real Sociedad",
+      "short_name": "ALA @ RSO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "3",
+        "form": "WDWLW",
+        "record": "11-9-11"
+      },
+      "away_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "3",
+        "form": "LDDWD",
+        "record": "8-9-14"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748453",
+      "date": "2026-04-10T19:00Z",
+      "date_only": "2026-04-10",
+      "name": "Girona at Real Madrid",
+      "short_name": "GIR @ RMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "1",
+        "form": "WLDLL",
+        "record": "22-4-5"
+      },
+      "away_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "1",
+        "form": "LDWLW",
+        "record": "9-11-11"
+      },
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748436",
+      "date": "2026-04-06T19:00Z",
+      "date_only": "2026-04-06",
+      "name": "Villarreal at Girona",
+      "short_name": "VIL @ GIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "1",
+        "form": "LDWLW",
+        "record": "9-10-11"
+      },
+      "away_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "0",
+        "form": "WLWDW",
+        "record": "18-4-8"
+      },
+      "venue": {
+        "name": "Estadi Montilivi",
+        "city": "Girona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748438",
+      "date": "2026-04-05T19:00Z",
+      "date_only": "2026-04-05",
+      "name": "Osasuna at Alavés",
+      "short_name": "OSA @ ALA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "2",
+        "form": "LDDWD",
+        "record": "8-8-14"
+      },
+      "away_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "2",
+        "form": "LDDWL",
+        "record": "10-8-12"
+      },
+      "venue": {
+        "name": "Mendizorrotza",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748441",
+      "date": "2026-04-05T16:30Z",
+      "date_only": "2026-04-05",
+      "name": "Sevilla at Real Oviedo",
+      "short_name": "SEV @ OVI",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "1",
+        "form": "WWLWD",
+        "record": "5-9-16"
+      },
+      "away_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "8-7-15"
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere",
+        "city": "Oviedo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748440",
+      "date": "2026-04-05T14:15Z",
+      "date_only": "2026-04-05",
+      "name": "Celta Vigo at Valencia",
+      "short_name": "CEL @ VAL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "2",
+        "form": "DLLWL",
+        "record": "9-8-13"
+      },
+      "away_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "3",
+        "form": "LLLWL",
+        "record": "11-11-8"
+      },
+      "venue": {
+        "name": "Mestalla Stadium",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748435",
+      "date": "2026-04-05T12:00Z",
+      "date_only": "2026-04-05",
+      "name": "Athletic Club at Getafe",
+      "short_name": "ATH @ GET",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "2",
+        "form": "LWWLW",
+        "record": "12-5-13"
+      },
+      "away_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "11-5-14"
+      },
+      "venue": {
+        "name": "Estadio Coliseum",
+        "city": "Getafe",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748434",
+      "date": "2026-04-04T19:00Z",
+      "date_only": "2026-04-04",
+      "name": "Barcelona at Atlético Madrid",
+      "short_name": "BAR @ ATM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "1",
+        "form": "LLLWL",
+        "record": "17-6-7"
+      },
+      "away_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "2",
+        "form": "WWLWW",
+        "record": "25-1-4"
+      },
+      "venue": {
+        "name": "Riyadh Air Metropolitano",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748439",
+      "date": "2026-04-04T16:30Z",
+      "date_only": "2026-04-04",
+      "name": "Espanyol at Real Betis",
+      "short_name": "ESP @ BET",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "0",
+        "form": "WLDDD",
+        "record": "11-12-7"
+      },
+      "away_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "0",
+        "form": "LDLLD",
+        "record": "10-8-12"
+      },
+      "venue": {
+        "name": "Estadio La Cartuja",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748437",
+      "date": "2026-04-04T14:15Z",
+      "date_only": "2026-04-04",
+      "name": "Real Madrid at Mallorca",
+      "short_name": "RMA @ MLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "2",
+        "form": "DWWLW",
+        "record": "8-7-15"
+      },
+      "away_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "1",
+        "form": "WLDLL",
+        "record": "22-3-5"
+      },
+      "venue": {
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748442",
+      "date": "2026-04-04T12:00Z",
+      "date_only": "2026-04-04",
+      "name": "Levante at Real Sociedad",
+      "short_name": "LEV @ RSO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "2",
+        "form": "WDWLW",
+        "record": "11-8-11"
+      },
+      "away_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "0",
+        "form": "WLWDD",
+        "record": "6-8-16"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748443",
+      "date": "2026-04-03T19:00Z",
+      "date_only": "2026-04-03",
+      "name": "Elche at Rayo Vallecano",
+      "short_name": "ELC @ RAY",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "1",
+        "form": "LLWWL",
+        "record": "8-11-11"
+      },
+      "away_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "0",
+        "form": "WLWLL",
+        "record": "6-11-13"
+      },
+      "venue": {
+        "name": "Estadio de Vallecas",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748433",
+      "date": "2026-03-22T20:00Z",
+      "date_only": "2026-03-22",
+      "name": "Atlético Madrid at Real Madrid",
+      "short_name": "ATM @ RMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "3",
+        "form": "WLDLL",
+        "record": "22-3-4"
+      },
+      "away_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "2",
+        "form": "LLLWL",
+        "record": "17-6-6"
+      },
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748424",
+      "date": "2026-03-22T17:30Z",
+      "date_only": "2026-03-22",
+      "name": "Real Betis at Athletic Club",
+      "short_name": "BET @ ATH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "2",
+        "form": "WLLWL",
+        "record": "11-5-13"
+      },
+      "away_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "1",
+        "form": "WLDDD",
+        "record": "11-11-7"
+      },
+      "venue": {
+        "name": "San Mamés",
+        "city": "Bilbao",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748431",
+      "date": "2026-03-22T15:15Z",
+      "date_only": "2026-03-22",
+      "name": "Alavés at Celta Vigo",
+      "short_name": "ALA @ CEL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "3",
+        "form": "LLLWL",
+        "record": "10-11-8"
+      },
+      "away_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "4",
+        "form": "LDDWD",
+        "record": "8-7-14"
+      },
+      "venue": {
+        "name": "Balaidos",
+        "city": "Vigo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748432",
+      "date": "2026-03-22T13:00Z",
+      "date_only": "2026-03-22",
+      "name": "Rayo Vallecano at Barcelona",
+      "short_name": "RAY @ BAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "1",
+        "form": "WWLWW",
+        "record": "24-1-4"
+      },
+      "away_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "0",
+        "form": "LLWWL",
+        "record": "7-11-11"
+      },
+      "venue": {
+        "name": "Spotify Camp Nou",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748428",
+      "date": "2026-03-21T20:00Z",
+      "date_only": "2026-03-21",
+      "name": "Valencia at Sevilla",
+      "short_name": "VAL @ SEV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "8-7-14"
+      },
+      "away_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "2",
+        "form": "DLLWL",
+        "record": "9-8-12"
+      },
+      "venue": {
+        "name": "Ramón Sánchez Pizjuán Stadium",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748427",
+      "date": "2026-03-21T17:30Z",
+      "date_only": "2026-03-21",
+      "name": "Girona at Osasuna",
+      "short_name": "GIR @ OSA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "1",
+        "form": "LDDWL",
+        "record": "10-7-12"
+      },
+      "away_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "0",
+        "form": "LDWLW",
+        "record": "8-10-11"
+      },
+      "venue": {
+        "name": "El Sadar",
+        "city": "Pamplona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748426",
+      "date": "2026-03-21T17:30Z",
+      "date_only": "2026-03-21",
+      "name": "Real Oviedo at Levante",
+      "short_name": "OVI @ LEV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "4",
+        "form": "WLWDD",
+        "record": "6-8-15"
+      },
+      "away_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "2",
+        "form": "WWLWD",
+        "record": "4-9-16"
+      },
+      "venue": {
+        "name": "Estadi Ciutat de València",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748425",
+      "date": "2026-03-21T15:15Z",
+      "date_only": "2026-03-21",
+      "name": "Getafe at Espanyol",
+      "short_name": "GET @ ESP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "1",
+        "form": "LDLLD",
+        "record": "10-7-12"
+      },
+      "away_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "2",
+        "form": "LWWLW",
+        "record": "11-5-13"
+      },
+      "venue": {
+        "name": "RCDE Stadium",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748430",
+      "date": "2026-03-21T13:00Z",
+      "date_only": "2026-03-21",
+      "name": "Mallorca at Elche",
+      "short_name": "MLL @ ELC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "2",
+        "form": "WLWLL",
+        "record": "6-11-12"
+      },
+      "away_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "7-7-15"
+      },
+      "venue": {
+        "name": "Estadio Martínez Valero",
+        "city": "Elche",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748429",
+      "date": "2026-03-20T20:00Z",
+      "date_only": "2026-03-20",
+      "name": "Real Sociedad at Villarreal",
+      "short_name": "RSO @ VIL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "3",
+        "form": "WLWDW",
+        "record": "18-4-7"
+      },
+      "away_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "1",
+        "form": "WDWLW",
+        "record": "10-8-11"
+      },
+      "venue": {
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748416",
+      "date": "2026-03-16T20:00Z",
+      "date_only": "2026-03-16",
+      "name": "Levante at Rayo Vallecano",
+      "short_name": "LEV @ RAY",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "1",
+        "form": "LLWWL",
+        "record": "7-11-10"
+      },
+      "away_team": {
+        "id": "1538",
+        "name": "Levante",
+        "abbr": "LEV",
+        "normalized_name": "levante",
+        "score": "1",
+        "form": "WLWDD",
+        "record": "5-8-15"
+      },
+      "venue": {
+        "name": "Estadio de Vallecas",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748420",
+      "date": "2026-03-15T20:00Z",
+      "date_only": "2026-03-15",
+      "name": "Osasuna at Real Sociedad",
+      "short_name": "OSA @ RSO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "89",
+        "name": "Real Sociedad",
+        "abbr": "RSO",
+        "normalized_name": "real sociedad",
+        "score": "3",
+        "form": "WDWLW",
+        "record": "10-8-10"
+      },
+      "away_team": {
+        "id": "97",
+        "name": "Osasuna",
+        "abbr": "OSA",
+        "normalized_name": "osasuna",
+        "score": "1",
+        "form": "LDDWL",
+        "record": "9-7-12"
+      },
+      "venue": {
+        "name": "Reale Arena",
+        "city": "San Sebastian",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748417",
+      "date": "2026-03-15T17:30Z",
+      "date_only": "2026-03-15",
+      "name": "Celta Vigo at Real Betis",
+      "short_name": "CEL @ BET",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "1",
+        "form": "WLDDD",
+        "record": "11-11-6"
+      },
+      "away_team": {
+        "id": "85",
+        "name": "Celta Vigo",
+        "abbr": "CEL",
+        "normalized_name": "celta vigo",
+        "score": "1",
+        "form": "LLLWL",
+        "record": "10-11-7"
+      },
+      "venue": {
+        "name": "Estadio La Cartuja",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748415",
+      "date": "2026-03-15T15:15Z",
+      "date_only": "2026-03-15",
+      "name": "Sevilla at Barcelona",
+      "short_name": "SEV @ BAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "83",
+        "name": "Barcelona",
+        "abbr": "BAR",
+        "normalized_name": "barcelona",
+        "score": "5",
+        "form": "WWLWW",
+        "record": "23-1-4"
+      },
+      "away_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "2",
+        "form": "WLLLD",
+        "record": "8-7-13"
+      },
+      "venue": {
+        "name": "Spotify Camp Nou",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748421",
+      "date": "2026-03-15T13:00Z",
+      "date_only": "2026-03-15",
+      "name": "Espanyol at Mallorca",
+      "short_name": "ESP @ MLL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "84",
+        "name": "Mallorca",
+        "abbr": "MLL",
+        "normalized_name": "mallorca",
+        "score": "2",
+        "form": "DWWLW",
+        "record": "7-7-14"
+      },
+      "away_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "1",
+        "form": "LDLLD",
+        "record": "10-7-11"
+      },
+      "venue": {
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748418",
+      "date": "2026-03-14T20:00Z",
+      "date_only": "2026-03-14",
+      "name": "Elche at Real Madrid",
+      "short_name": "ELC @ RMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "86",
+        "name": "Real Madrid",
+        "abbr": "RMA",
+        "normalized_name": "real madrid",
+        "score": "4",
+        "form": "WLDLL",
+        "record": "21-3-4"
+      },
+      "away_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "1",
+        "form": "WLWLL",
+        "record": "5-11-12"
+      },
+      "venue": {
+        "name": "Santiago Bernabéu",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748419",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "Valencia at Real Oviedo",
+      "short_name": "VAL @ OVI",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "1",
+        "form": "WWLWD",
+        "record": "4-9-15"
+      },
+      "away_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "8-8-12"
+      },
+      "venue": {
+        "name": "Estadio Carlos Tartiere",
+        "city": "Oviedo",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748423",
+      "date": "2026-03-14T15:15Z",
+      "date_only": "2026-03-14",
+      "name": "Getafe at Atlético Madrid",
+      "short_name": "GET @ ATM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "1068",
+        "name": "Atlético Madrid",
+        "abbr": "ATM",
+        "normalized_name": "atletico madrid",
+        "score": "1",
+        "form": "LLLWL",
+        "record": "17-6-5"
+      },
+      "away_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "0",
+        "form": "LWWLW",
+        "record": "10-5-13"
+      },
+      "venue": {
+        "name": "Riyadh Air Metropolitano",
+        "city": "Madrid",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748414",
+      "date": "2026-03-14T13:00Z",
+      "date_only": "2026-03-14",
+      "name": "Athletic Club at Girona",
+      "short_name": "ATH @ GIR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "9812",
+        "name": "Girona",
+        "abbr": "GIR",
+        "normalized_name": "girona",
+        "score": "3",
+        "form": "LDWLW",
+        "record": "8-10-10"
+      },
+      "away_team": {
+        "id": "93",
+        "name": "Athletic Club",
+        "abbr": "ATH",
+        "normalized_name": "athletic",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "10-5-13"
+      },
+      "venue": {
+        "name": "Estadi Montilivi",
+        "city": "Girona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748422",
+      "date": "2026-03-13T20:00Z",
+      "date_only": "2026-03-13",
+      "name": "Villarreal at Alavés",
+      "short_name": "VIL @ ALA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "1",
+        "form": "LDDWD",
+        "record": "7-7-14"
+      },
+      "away_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "1",
+        "form": "WLWDW",
+        "record": "17-4-7"
+      },
+      "venue": {
+        "name": "Mendizorrotza",
+        "city": "Vitoria-Gasteiz",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748412",
+      "date": "2026-03-09T20:00Z",
+      "date_only": "2026-03-09",
+      "name": "Real Oviedo at Espanyol",
+      "short_name": "OVI @ ESP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "88",
+        "name": "Espanyol",
+        "abbr": "ESP",
+        "normalized_name": "espanyol",
+        "score": "1",
+        "form": "LDLLD",
+        "record": "10-7-10"
+      },
+      "away_team": {
+        "id": "92",
+        "name": "Real Oviedo",
+        "abbr": "OVI",
+        "normalized_name": "real oviedo",
+        "score": "1",
+        "form": "WWLWD",
+        "record": "3-9-15"
+      },
+      "venue": {
+        "name": "RCDE Stadium",
+        "city": "Barcelona",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748404",
+      "date": "2026-03-08T20:00Z",
+      "date_only": "2026-03-08",
+      "name": "Alavés at Valencia",
+      "short_name": "ALA @ VAL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "94",
+        "name": "Valencia",
+        "abbr": "VAL",
+        "normalized_name": "valencia",
+        "score": "3",
+        "form": "DLLWL",
+        "record": "8-8-11"
+      },
+      "away_team": {
+        "id": "96",
+        "name": "Alavés",
+        "abbr": "ALA",
+        "normalized_name": "alaves",
+        "score": "2",
+        "form": "LDDWD",
+        "record": "7-6-14"
+      },
+      "venue": {
+        "name": "Mestalla Stadium",
+        "city": "Manises",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748405",
+      "date": "2026-03-08T17:30Z",
+      "date_only": "2026-03-08",
+      "name": "Rayo Vallecano at Sevilla",
+      "short_name": "RAY @ SEV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "243",
+        "name": "Sevilla",
+        "abbr": "SEV",
+        "normalized_name": "sevilla",
+        "score": "1",
+        "form": "WLLLD",
+        "record": "8-7-12"
+      },
+      "away_team": {
+        "id": "101",
+        "name": "Rayo Vallecano",
+        "abbr": "RAY",
+        "normalized_name": "rayo vallecano",
+        "score": "1",
+        "form": "LLWWL",
+        "record": "7-10-10"
+      },
+      "venue": {
+        "name": "Ramón Sánchez Pizjuán Stadium",
+        "city": "Sevilla",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748413",
+      "date": "2026-03-08T15:15Z",
+      "date_only": "2026-03-08",
+      "name": "Real Betis at Getafe",
+      "short_name": "BET @ GET",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2922",
+        "name": "Getafe",
+        "abbr": "GET",
+        "normalized_name": "getafe",
+        "score": "2",
+        "form": "LWWLW",
+        "record": "10-5-12"
+      },
+      "away_team": {
+        "id": "244",
+        "name": "Real Betis",
+        "abbr": "BET",
+        "normalized_name": "real betis",
+        "score": "0",
+        "form": "WLDDD",
+        "record": "11-10-6"
+      },
+      "venue": {
+        "name": "Estadio Coliseum",
+        "city": "Getafe",
+        "country": "Spain"
+      }
+    },
+    {
+      "event_id": "748408",
+      "date": "2026-03-08T13:00Z",
+      "date_only": "2026-03-08",
+      "name": "Elche at Villarreal",
+      "short_name": "ELC @ VIL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "102",
+        "name": "Villarreal",
+        "abbr": "VIL",
+        "normalized_name": "villarreal",
+        "score": "2",
+        "form": "WLWDW",
+        "record": "17-3-7"
+      },
+      "away_team": {
+        "id": "3751",
+        "name": "Elche",
+        "abbr": "ELC",
+        "normalized_name": "elche",
+        "score": "1",
+        "form": "WLWLL",
+        "record": "5-11-11"
+      },
+      "venue": {
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal",
+        "country": "Spain"
+      }
+    }
+  ],
+  "team_index": {
+    "alaves": {
+      "team_id": "96",
+      "name": "Alavés",
+      "short_name": "Alavés",
+      "abbr": "ALA",
+      "normalized_name": "alaves",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ALA",
+        "Alavés"
+      ]
+    },
+    "athletic": {
+      "team_id": "93",
+      "name": "Athletic Club",
+      "short_name": "Athletic",
+      "abbr": "ATH",
+      "normalized_name": "athletic",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ATH",
+        "Athletic",
+        "Athletic Club"
+      ]
+    },
+    "atletico madrid": {
+      "team_id": "1068",
+      "name": "Atlético Madrid",
+      "short_name": "Atlético",
+      "abbr": "ATM",
+      "normalized_name": "atletico madrid",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ATM",
+        "Atlético",
+        "Atlético Madrid"
+      ]
+    },
+    "barcelona": {
+      "team_id": "83",
+      "name": "Barcelona",
+      "short_name": "Barcelona",
+      "abbr": "BAR",
+      "normalized_name": "barcelona",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BAR",
+        "Barcelona"
+      ]
+    },
+    "celta vigo": {
+      "team_id": "85",
+      "name": "Celta Vigo",
+      "short_name": "Celta Vigo",
+      "abbr": "CEL",
+      "normalized_name": "celta vigo",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CEL",
+        "Celta Vigo"
+      ]
+    },
+    "elche": {
+      "team_id": "3751",
+      "name": "Elche",
+      "short_name": "Elche",
+      "abbr": "ELC",
+      "normalized_name": "elche",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ELC",
+        "Elche"
+      ]
+    },
+    "espanyol": {
+      "team_id": "88",
+      "name": "Espanyol",
+      "short_name": "Espanyol",
+      "abbr": "ESP",
+      "normalized_name": "espanyol",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ESP",
+        "Espanyol"
+      ]
+    },
+    "getafe": {
+      "team_id": "2922",
+      "name": "Getafe",
+      "short_name": "Getafe",
+      "abbr": "GET",
+      "normalized_name": "getafe",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "GET",
+        "Getafe"
+      ]
+    },
+    "girona": {
+      "team_id": "9812",
+      "name": "Girona",
+      "short_name": "Girona",
+      "abbr": "GIR",
+      "normalized_name": "girona",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "GIR",
+        "Girona"
+      ]
+    },
+    "levante": {
+      "team_id": "1538",
+      "name": "Levante",
+      "short_name": "Levante",
+      "abbr": "LEV",
+      "normalized_name": "levante",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LEV",
+        "Levante"
+      ]
+    },
+    "mallorca": {
+      "team_id": "84",
+      "name": "Mallorca",
+      "short_name": "Mallorca",
+      "abbr": "MLL",
+      "normalized_name": "mallorca",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "MLL",
+        "Mallorca"
+      ]
+    },
+    "osasuna": {
+      "team_id": "97",
+      "name": "Osasuna",
+      "short_name": "Osasuna",
+      "abbr": "OSA",
+      "normalized_name": "osasuna",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "OSA",
+        "Osasuna"
+      ]
+    },
+    "rayo vallecano": {
+      "team_id": "101",
+      "name": "Rayo Vallecano",
+      "short_name": "Rayo",
+      "abbr": "RAY",
+      "normalized_name": "rayo vallecano",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RAY",
+        "Rayo",
+        "Rayo Vallecano"
+      ]
+    },
+    "real betis": {
+      "team_id": "244",
+      "name": "Real Betis",
+      "short_name": "Betis",
+      "abbr": "BET",
+      "normalized_name": "real betis",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BET",
+        "Betis",
+        "Real Betis"
+      ]
+    },
+    "real madrid": {
+      "team_id": "86",
+      "name": "Real Madrid",
+      "short_name": "Real Madrid",
+      "abbr": "RMA",
+      "normalized_name": "real madrid",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RMA",
+        "Real Madrid"
+      ]
+    },
+    "real oviedo": {
+      "team_id": "92",
+      "name": "Real Oviedo",
+      "short_name": "Real Oviedo",
+      "abbr": "OVI",
+      "normalized_name": "real oviedo",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "OVI",
+        "Real Oviedo"
+      ]
+    },
+    "real sociedad": {
+      "team_id": "89",
+      "name": "Real Sociedad",
+      "short_name": "Real Sociedad",
+      "abbr": "RSO",
+      "normalized_name": "real sociedad",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RSO",
+        "Real Sociedad"
+      ]
+    },
+    "sevilla": {
+      "team_id": "243",
+      "name": "Sevilla",
+      "short_name": "Sevilla",
+      "abbr": "SEV",
+      "normalized_name": "sevilla",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "SEV",
+        "Sevilla"
+      ]
+    },
+    "valencia": {
+      "team_id": "94",
+      "name": "Valencia",
+      "short_name": "Valencia",
+      "abbr": "VAL",
+      "normalized_name": "valencia",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "VAL",
+        "Valencia"
+      ]
+    },
+    "villarreal": {
+      "team_id": "102",
+      "name": "Villarreal",
+      "short_name": "Villarreal",
+      "abbr": "VIL",
+      "normalized_name": "villarreal",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "VIL",
+        "Villarreal"
+      ]
+    }
+  },
+  "team_form": {
+    "villarreal": {
+      "sequence": "WDWLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "elche": {
+      "sequence": "LLWLW",
+      "matches": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3
+    },
+    "getafe": {
+      "sequence": "WLWWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
+    "real betis": {
+      "sequence": "DLDDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2
+    },
+    "sevilla": {
+      "sequence": "DLLLW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3
+    },
+    "rayo vallecano": {
+      "sequence": "DDLWL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "valencia": {
+      "sequence": "LWLLD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3
+    },
+    "alaves": {
+      "sequence": "DWDDL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2
+    },
+    "espanyol": {
+      "sequence": "DLLDL",
+      "matches": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3
+    },
+    "real oviedo": {
+      "sequence": "DWLWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "girona": {
+      "sequence": "WLWDL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2
+    },
+    "athletic": {
+      "sequence": "LWLLW",
+      "matches": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3
+    },
+    "atletico madrid": {
+      "sequence": "WLLL",
+      "matches": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3
+    },
+    "real madrid": {
+      "sequence": "WWLDW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "mallorca": {
+      "sequence": "WLWWD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "barcelona": {
+      "sequence": "WWWW",
+      "matches": 4,
+      "wins": 4,
+      "draws": 0,
+      "losses": 0
+    },
+    "celta vigo": {
+      "sequence": "DLWL",
+      "matches": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2
+    },
+    "real sociedad": {
+      "sequence": "WLWD",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1
+    },
+    "osasuna": {
+      "sequence": "LWDDL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "levante": {
+      "sequence": "DWLW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1
+    }
+  },
+  "meta": {
+    "fixture_count": 16,
+    "recent_result_count": 49,
+    "team_count": 20
+  }
+}

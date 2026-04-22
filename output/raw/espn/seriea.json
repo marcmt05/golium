@@ -1,0 +1,4198 @@
+{
+  "league_key": "seriea",
+  "league_name": "Serie A",
+  "league_slug": "ita.1",
+  "source": "ESPN",
+  "scraped_at": "2026-04-21T18:59:37Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "110",
+      "team_name": "Internazionale",
+      "team_short_name": "Inter Milan",
+      "team_abbr": "INT",
+      "normalized_name": "internazionale",
+      "played": 33.0,
+      "wins": 25.0,
+      "draws": 3.0,
+      "losses": 5.0,
+      "goals_for": 78.0,
+      "goals_against": 29.0,
+      "goal_difference": 49.0,
+      "points": 78.0,
+      "form": "DDWWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 5.0,
+        "Losses": "5",
+        "L": "5",
+        "pointDifferential": 49.0,
+        "Goal Difference": "+49",
+        "GD": "+49",
+        "points": 78.0,
+        "Points": "78",
+        "P": "78",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 78.0,
+        "Goals For": "78",
+        "F": "78",
+        "ties": 3.0,
+        "Draws": "3",
+        "D": "3",
+        "wins": 25.0,
+        "Wins": "25",
+        "W": "25",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "25-3-5",
+        "Overall": "25-3-5",
+        "Total": "25-3-5"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "103",
+      "team_name": "AC Milan",
+      "team_short_name": "Milan",
+      "team_abbr": "MIL",
+      "normalized_name": "milan",
+      "played": 33.0,
+      "wins": 19.0,
+      "draws": 9.0,
+      "losses": 5.0,
+      "goals_for": 48.0,
+      "goals_against": 27.0,
+      "goal_difference": 21.0,
+      "points": 66.0,
+      "form": "LWLLW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 5.0,
+        "Losses": "5",
+        "L": "5",
+        "pointDifferential": 21.0,
+        "Goal Difference": "+21",
+        "GD": "+21",
+        "points": 66.0,
+        "Points": "66",
+        "P": "66",
+        "pointsAgainst": 27.0,
+        "Goals Against": "27",
+        "A": "27",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 19.0,
+        "Wins": "19",
+        "W": "19",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "19-9-5",
+        "Overall": "19-9-5",
+        "Total": "19-9-5"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "114",
+      "team_name": "Napoli",
+      "team_short_name": "Napoli",
+      "team_abbr": "NAP",
+      "normalized_name": "napoli",
+      "played": 33.0,
+      "wins": 20.0,
+      "draws": 6.0,
+      "losses": 7.0,
+      "goals_for": 48.0,
+      "goals_against": 33.0,
+      "goal_difference": 15.0,
+      "points": 66.0,
+      "form": "WWWDL",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 15.0,
+        "Goal Difference": "+15",
+        "GD": "+15",
+        "points": 66.0,
+        "Points": "66",
+        "P": "66",
+        "pointsAgainst": 33.0,
+        "Goals Against": "33",
+        "A": "33",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 20.0,
+        "Wins": "20",
+        "W": "20",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "20-6-7",
+        "Overall": "20-6-7",
+        "Total": "20-6-7"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "111",
+      "team_name": "Juventus",
+      "team_short_name": "Juventus",
+      "team_abbr": "JUV",
+      "normalized_name": "juventus",
+      "played": 33.0,
+      "wins": 18.0,
+      "draws": 9.0,
+      "losses": 6.0,
+      "goals_for": 57.0,
+      "goals_against": 29.0,
+      "goal_difference": 28.0,
+      "points": 63.0,
+      "form": "WDWWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 6.0,
+        "Losses": "6",
+        "L": "6",
+        "pointDifferential": 28.0,
+        "Goal Difference": "+28",
+        "GD": "+28",
+        "points": 63.0,
+        "Points": "63",
+        "P": "63",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 57.0,
+        "Goals For": "57",
+        "F": "57",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 18.0,
+        "Wins": "18",
+        "W": "18",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "18-9-6",
+        "Overall": "18-9-6",
+        "Total": "18-9-6"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "2572",
+      "team_name": "Como",
+      "team_short_name": "Como",
+      "team_abbr": "COMO",
+      "normalized_name": "como",
+      "played": 33.0,
+      "wins": 16.0,
+      "draws": 10.0,
+      "losses": 7.0,
+      "goals_for": 57.0,
+      "goals_against": 28.0,
+      "goal_difference": 29.0,
+      "points": 58.0,
+      "form": "WWDLL",
+      "status": "Europa League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 29.0,
+        "Goal Difference": "+29",
+        "GD": "+29",
+        "points": 58.0,
+        "Points": "58",
+        "P": "58",
+        "pointsAgainst": 28.0,
+        "Goals Against": "28",
+        "A": "28",
+        "pointsFor": 57.0,
+        "Goals For": "57",
+        "F": "57",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-10-7",
+        "Overall": "16-10-7",
+        "Total": "16-10-7"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "104",
+      "team_name": "AS Roma",
+      "team_short_name": "AS Roma",
+      "team_abbr": "ROMA",
+      "normalized_name": "as roma",
+      "played": 33.0,
+      "wins": 18.0,
+      "draws": 4.0,
+      "losses": 11.0,
+      "goals_for": 46.0,
+      "goals_against": 29.0,
+      "goal_difference": 17.0,
+      "points": 58.0,
+      "form": "LWLWD",
+      "status": "Conference League qualifying",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": 17.0,
+        "Goal Difference": "+17",
+        "GD": "+17",
+        "points": 58.0,
+        "Points": "58",
+        "P": "58",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 46.0,
+        "Goals For": "46",
+        "F": "46",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 18.0,
+        "Wins": "18",
+        "W": "18",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "18-4-11",
+        "Overall": "18-4-11",
+        "Total": "18-4-11"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "105",
+      "team_name": "Atalanta",
+      "team_short_name": "Atalanta",
+      "team_abbr": "ATA",
+      "normalized_name": "atalanta",
+      "played": 33.0,
+      "wins": 14.0,
+      "draws": 12.0,
+      "losses": 7.0,
+      "goals_for": 45.0,
+      "goals_against": 29.0,
+      "goal_difference": 16.0,
+      "points": 54.0,
+      "form": "DWWLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 16.0,
+        "Goal Difference": "+16",
+        "GD": "+16",
+        "points": 54.0,
+        "Points": "54",
+        "P": "54",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 45.0,
+        "Goals For": "45",
+        "F": "45",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-12-7",
+        "Overall": "14-12-7",
+        "Total": "14-12-7"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "107",
+      "team_name": "Bologna",
+      "team_short_name": "Bologna",
+      "team_abbr": "BOL",
+      "normalized_name": "bologna",
+      "played": 33.0,
+      "wins": 14.0,
+      "draws": 6.0,
+      "losses": 13.0,
+      "goals_for": 42.0,
+      "goals_against": 39.0,
+      "goal_difference": 3.0,
+      "points": 48.0,
+      "form": "WLWWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": 3.0,
+        "Goal Difference": "+3",
+        "GD": "+3",
+        "points": 48.0,
+        "Points": "48",
+        "P": "48",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 42.0,
+        "Goals For": "42",
+        "F": "42",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-6-13",
+        "Overall": "14-6-13",
+        "Total": "14-6-13"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "112",
+      "team_name": "Lazio",
+      "team_short_name": "Lazio",
+      "team_abbr": "LAZ",
+      "normalized_name": "lazio",
+      "played": 33.0,
+      "wins": 12.0,
+      "draws": 11.0,
+      "losses": 10.0,
+      "goals_for": 34.0,
+      "goals_against": 30.0,
+      "goal_difference": 4.0,
+      "points": 47.0,
+      "form": "WWDLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 4.0,
+        "Goal Difference": "+4",
+        "GD": "+4",
+        "points": 47.0,
+        "Points": "47",
+        "P": "47",
+        "pointsAgainst": 30.0,
+        "Goals Against": "30",
+        "A": "30",
+        "pointsFor": 34.0,
+        "Goals For": "34",
+        "F": "34",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-11-10",
+        "Overall": "12-11-10",
+        "Total": "12-11-10"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "3997",
+      "team_name": "Sassuolo",
+      "team_short_name": "Sassuolo",
+      "team_abbr": "SAS",
+      "normalized_name": "sassuolo",
+      "played": 33.0,
+      "wins": 13.0,
+      "draws": 6.0,
+      "losses": 14.0,
+      "goals_for": 41.0,
+      "goals_against": 44.0,
+      "goal_difference": -3.0,
+      "points": 45.0,
+      "form": "LDWLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -3.0,
+        "Goal Difference": "-3",
+        "GD": "-3",
+        "points": 45.0,
+        "Points": "45",
+        "P": "45",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 41.0,
+        "Goals For": "41",
+        "F": "41",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-6-14",
+        "Overall": "13-6-14",
+        "Total": "13-6-14"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "118",
+      "team_name": "Udinese",
+      "team_short_name": "Udinese",
+      "team_abbr": "UDI",
+      "normalized_name": "udinese",
+      "played": 33.0,
+      "wins": 12.0,
+      "draws": 7.0,
+      "losses": 14.0,
+      "goals_for": 38.0,
+      "goals_against": 43.0,
+      "goal_difference": -5.0,
+      "points": 43.0,
+      "form": "LWDWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -5.0,
+        "Goal Difference": "-5",
+        "GD": "-5",
+        "points": 43.0,
+        "Points": "43",
+        "P": "43",
+        "pointsAgainst": 43.0,
+        "Goals Against": "43",
+        "A": "43",
+        "pointsFor": 38.0,
+        "Goals For": "38",
+        "F": "38",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-7-14",
+        "Overall": "12-7-14",
+        "Total": "12-7-14"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "239",
+      "team_name": "Torino",
+      "team_short_name": "Torino",
+      "team_abbr": "TOR",
+      "normalized_name": "torino",
+      "played": 33.0,
+      "wins": 11.0,
+      "draws": 7.0,
+      "losses": 15.0,
+      "goals_for": 37.0,
+      "goals_against": 54.0,
+      "goal_difference": -17.0,
+      "points": 40.0,
+      "form": "WLWWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -17.0,
+        "Goal Difference": "-17",
+        "GD": "-17",
+        "points": 40.0,
+        "Points": "40",
+        "P": "40",
+        "pointsAgainst": 54.0,
+        "Goals Against": "54",
+        "A": "54",
+        "pointsFor": 37.0,
+        "Goals For": "37",
+        "F": "37",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-7-15",
+        "Overall": "11-7-15",
+        "Total": "11-7-15"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "3263",
+      "team_name": "Genoa",
+      "team_short_name": "Genoa",
+      "team_abbr": "GEN",
+      "normalized_name": "genoa",
+      "played": 33.0,
+      "wins": 10.0,
+      "draws": 9.0,
+      "losses": 14.0,
+      "goals_for": 40.0,
+      "goals_against": 46.0,
+      "goal_difference": -6.0,
+      "points": 39.0,
+      "form": "WLLWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -6.0,
+        "Goal Difference": "-6",
+        "GD": "-6",
+        "points": 39.0,
+        "Points": "39",
+        "P": "39",
+        "pointsAgainst": 46.0,
+        "Goals Against": "46",
+        "A": "46",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-9-14",
+        "Overall": "10-9-14",
+        "Total": "10-9-14"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "115",
+      "team_name": "Parma",
+      "team_short_name": "Parma",
+      "team_abbr": "PAR",
+      "normalized_name": "parma",
+      "played": 33.0,
+      "wins": 9.0,
+      "draws": 12.0,
+      "losses": 12.0,
+      "goals_for": 24.0,
+      "goals_against": 40.0,
+      "goal_difference": -16.0,
+      "points": 39.0,
+      "form": "LLDDW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -16.0,
+        "Goal Difference": "-16",
+        "GD": "-16",
+        "points": 39.0,
+        "Points": "39",
+        "P": "39",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 24.0,
+        "Goals For": "24",
+        "F": "24",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-12-12",
+        "Overall": "9-12-12",
+        "Total": "9-12-12"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "109",
+      "team_name": "Fiorentina",
+      "team_short_name": "Fiorentina",
+      "team_abbr": "FIO",
+      "normalized_name": "fiorentina",
+      "played": 33.0,
+      "wins": 8.0,
+      "draws": 12.0,
+      "losses": 13.0,
+      "goals_for": 38.0,
+      "goals_against": 45.0,
+      "goal_difference": -7.0,
+      "points": 36.0,
+      "form": "WDWWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -7.0,
+        "Goal Difference": "-7",
+        "GD": "-7",
+        "points": 36.0,
+        "Points": "36",
+        "P": "36",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 38.0,
+        "Goals For": "38",
+        "F": "38",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-12-13",
+        "Overall": "8-12-13",
+        "Total": "8-12-13"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "2925",
+      "team_name": "Cagliari",
+      "team_short_name": "Cagliari",
+      "team_abbr": "CAG",
+      "normalized_name": "cagliari",
+      "played": 33.0,
+      "wins": 8.0,
+      "draws": 9.0,
+      "losses": 16.0,
+      "goals_for": 33.0,
+      "goals_against": 47.0,
+      "goal_difference": -14.0,
+      "points": 33.0,
+      "form": "LLLWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -14.0,
+        "Goal Difference": "-14",
+        "GD": "-14",
+        "points": 33.0,
+        "Points": "33",
+        "P": "33",
+        "pointsAgainst": 47.0,
+        "Goals Against": "47",
+        "A": "47",
+        "pointsFor": 33.0,
+        "Goals For": "33",
+        "F": "33",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-9-16",
+        "Overall": "8-9-16",
+        "Total": "8-9-16"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "4050",
+      "team_name": "Cremonese",
+      "team_short_name": "Cremonese",
+      "team_abbr": "CRE",
+      "normalized_name": "cremonese",
+      "played": 33.0,
+      "wins": 6.0,
+      "draws": 10.0,
+      "losses": 17.0,
+      "goals_for": 26.0,
+      "goals_against": 47.0,
+      "goal_difference": -21.0,
+      "points": 28.0,
+      "form": "LWLLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 17.0,
+        "Losses": "17",
+        "L": "17",
+        "pointDifferential": -21.0,
+        "Goal Difference": "-21",
+        "GD": "-21",
+        "points": 28.0,
+        "Points": "28",
+        "P": "28",
+        "pointsAgainst": 47.0,
+        "Goals Against": "47",
+        "A": "47",
+        "pointsFor": 26.0,
+        "Goals For": "26",
+        "F": "26",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 6.0,
+        "Wins": "6",
+        "W": "6",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "6-10-17",
+        "Overall": "6-10-17",
+        "Total": "6-10-17"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "113",
+      "team_name": "Lecce",
+      "team_short_name": "Lecce",
+      "team_abbr": "LEC",
+      "normalized_name": "lecce",
+      "played": 33.0,
+      "wins": 7.0,
+      "draws": 7.0,
+      "losses": 19.0,
+      "goals_for": 22.0,
+      "goals_against": 46.0,
+      "goal_difference": -24.0,
+      "points": 28.0,
+      "form": "LLLLD",
+      "status": "Relegated",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 19.0,
+        "Losses": "19",
+        "L": "19",
+        "pointDifferential": -24.0,
+        "Goal Difference": "-24",
+        "GD": "-24",
+        "points": 28.0,
+        "Points": "28",
+        "P": "28",
+        "pointsAgainst": 46.0,
+        "Goals Against": "46",
+        "A": "46",
+        "pointsFor": 22.0,
+        "Goals For": "22",
+        "F": "22",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-7-19",
+        "Overall": "7-7-19",
+        "Total": "7-7-19"
+      }
+    },
+    {
+      "rank": 19.0,
+      "team_id": "119",
+      "team_name": "Hellas Verona",
+      "team_short_name": "Verona",
+      "team_abbr": "VER",
+      "normalized_name": "hellas verona",
+      "played": 33.0,
+      "wins": 3.0,
+      "draws": 9.0,
+      "losses": 21.0,
+      "goals_for": 23.0,
+      "goals_against": 56.0,
+      "goal_difference": -33.0,
+      "points": 18.0,
+      "form": "LLLLL",
+      "status": "Relegated",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 21.0,
+        "Losses": "21",
+        "L": "21",
+        "pointDifferential": -33.0,
+        "Goal Difference": "-33",
+        "GD": "-33",
+        "points": 18.0,
+        "Points": "18",
+        "P": "18",
+        "pointsAgainst": 56.0,
+        "Goals Against": "56",
+        "A": "56",
+        "pointsFor": 23.0,
+        "Goals For": "23",
+        "F": "23",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 3.0,
+        "Wins": "3",
+        "W": "3",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 19.0,
+        "Rank": "19",
+        "R": "19",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "3-9-21",
+        "Overall": "3-9-21",
+        "Total": "3-9-21"
+      }
+    },
+    {
+      "rank": 20.0,
+      "team_id": "3956",
+      "team_name": "Pisa",
+      "team_short_name": "Pisa",
+      "team_abbr": "PIS",
+      "normalized_name": "pisa",
+      "played": 33.0,
+      "wins": 2.0,
+      "draws": 12.0,
+      "losses": 19.0,
+      "goals_for": 24.0,
+      "goals_against": 60.0,
+      "goal_difference": -36.0,
+      "points": 18.0,
+      "form": "WLLLL",
+      "status": "Relegated",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 19.0,
+        "Losses": "19",
+        "L": "19",
+        "pointDifferential": -36.0,
+        "Goal Difference": "-36",
+        "GD": "-36",
+        "points": 18.0,
+        "Points": "18",
+        "P": "18",
+        "pointsAgainst": 60.0,
+        "Goals Against": "60",
+        "A": "60",
+        "pointsFor": 24.0,
+        "Goals For": "24",
+        "F": "24",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 2.0,
+        "Wins": "2",
+        "W": "2",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 20.0,
+        "Rank": "20",
+        "R": "20",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "2-12-19",
+        "Overall": "2-12-19",
+        "Total": "2-12-19"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "737116",
+      "date": "2026-04-24T18:45Z",
+      "date_only": "2026-04-24",
+      "name": "Cremonese at Napoli",
+      "short_name": "CRE @ NAP",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "0",
+        "form": "LDWWW",
+        "record": "20-6-7"
+      },
+      "away_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "6-10-17"
+      },
+      "venue": {
+        "name": "Stadio Diego Armando Maradona",
+        "city": "Napoli",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737115",
+      "date": "2026-04-25T13:00Z",
+      "date_only": "2026-04-25",
+      "name": "Pisa at Parma",
+      "short_name": "PIS @ PAR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "0",
+        "form": "WDDLL",
+        "record": "9-12-12"
+      },
+      "away_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "2-12-19"
+      },
+      "venue": {
+        "name": "Ennio Tardini",
+        "city": "Parma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737114",
+      "date": "2026-04-25T16:00Z",
+      "date_only": "2026-04-25",
+      "name": "AS Roma at Bologna",
+      "short_name": "ROMA @ BOL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 12:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "0",
+        "form": "LLWLW",
+        "record": "14-6-13"
+      },
+      "away_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "0",
+        "form": "DWLWL",
+        "record": "18-4-11"
+      },
+      "venue": {
+        "name": "Renato Dall'Ara",
+        "city": "Bologna",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737119",
+      "date": "2026-04-25T18:45Z",
+      "date_only": "2026-04-25",
+      "name": "Lecce at Hellas Verona",
+      "short_name": "LEC @ VER",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "3-9-21"
+      },
+      "away_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "0",
+        "form": "DLLLL",
+        "record": "7-7-19"
+      },
+      "venue": {
+        "name": "Stadio Marcantonio Bentegodi",
+        "city": "Verona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737121",
+      "date": "2026-04-26T10:30Z",
+      "date_only": "2026-04-26",
+      "name": "Sassuolo at Fiorentina",
+      "short_name": "SAS @ FIO",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 6:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "0",
+        "form": "DWWLW",
+        "record": "8-12-13"
+      },
+      "away_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "0",
+        "form": "WLWDL",
+        "record": "13-6-14"
+      },
+      "venue": {
+        "name": "Stadio Artemio Franchi",
+        "city": "Firenze",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737120",
+      "date": "2026-04-26T13:00Z",
+      "date_only": "2026-04-26",
+      "name": "Como at Genoa",
+      "short_name": "COMO @ GEN",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 9:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "0",
+        "form": "WWLLW",
+        "record": "10-9-14"
+      },
+      "away_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "0",
+        "form": "LLDWW",
+        "record": "16-10-7"
+      },
+      "venue": {
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genova",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737118",
+      "date": "2026-04-26T16:00Z",
+      "date_only": "2026-04-26",
+      "name": "Internazionale at Torino",
+      "short_name": "INT @ TOR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 12:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "0",
+        "form": "DWWLW",
+        "record": "11-7-15"
+      },
+      "away_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "0",
+        "form": "WWWDD",
+        "record": "25-3-5"
+      },
+      "venue": {
+        "name": "Stadio Olimpico Grande Torino",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737117",
+      "date": "2026-04-26T18:45Z",
+      "date_only": "2026-04-26",
+      "name": "Juventus at AC Milan",
+      "short_name": "JUV @ MIL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "19-9-5"
+      },
+      "away_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "0",
+        "form": "WWWDW",
+        "record": "18-9-6"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737122",
+      "date": "2026-04-27T16:30Z",
+      "date_only": "2026-04-27",
+      "name": "Atalanta at Cagliari",
+      "short_name": "ATA @ CAG",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Mon, April 27th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "0",
+        "form": "LWLLL",
+        "record": "8-9-16"
+      },
+      "away_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "0",
+        "form": "DLWWL",
+        "record": "14-12-7"
+      },
+      "venue": {
+        "name": "Unipol Domus",
+        "city": "Cagliari",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737123",
+      "date": "2026-04-27T18:45Z",
+      "date_only": "2026-04-27",
+      "name": "Udinese at Lazio",
+      "short_name": "UDI @ LAZ",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Mon, April 27th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "0",
+        "form": "WLDWW",
+        "record": "12-11-10"
+      },
+      "away_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "0",
+        "form": "LWDWL",
+        "record": "12-7-14"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "737111",
+      "date": "2026-04-20T18:45Z",
+      "date_only": "2026-04-20",
+      "name": "Fiorentina at Lecce",
+      "short_name": "FIO @ LEC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "1",
+        "form": "DLLLL",
+        "record": "7-7-19"
+      },
+      "away_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "8-12-13"
+      },
+      "venue": {
+        "name": "Via Del Mare",
+        "city": "Lecce",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737112",
+      "date": "2026-04-19T18:45Z",
+      "date_only": "2026-04-19",
+      "name": "Bologna at Juventus",
+      "short_name": "BOL @ JUV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "2",
+        "form": "WWWDW",
+        "record": "18-9-6"
+      },
+      "away_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "0",
+        "form": "LLWLW",
+        "record": "14-6-13"
+      },
+      "venue": {
+        "name": "Allianz Stadium",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737109",
+      "date": "2026-04-19T16:00Z",
+      "date_only": "2026-04-19",
+      "name": "Genoa at Pisa",
+      "short_name": "GEN @ PIS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "1",
+        "form": "LLLLW",
+        "record": "2-12-19"
+      },
+      "away_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "2",
+        "form": "WWLLW",
+        "record": "10-9-14"
+      },
+      "venue": {
+        "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "city": "Pisa",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737105",
+      "date": "2026-04-19T13:00Z",
+      "date_only": "2026-04-19",
+      "name": "AC Milan at Hellas Verona",
+      "short_name": "MIL @ VER",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "3-9-21"
+      },
+      "away_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "19-9-5"
+      },
+      "venue": {
+        "name": "Stadio Marcantonio Bentegodi",
+        "city": "Verona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737104",
+      "date": "2026-04-19T10:30Z",
+      "date_only": "2026-04-19",
+      "name": "Torino at Cremonese",
+      "short_name": "TOR @ CRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "6-10-17"
+      },
+      "away_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "0",
+        "form": "DWWLW",
+        "record": "11-7-15"
+      },
+      "venue": {
+        "name": "Stadio Giovanni Zini",
+        "city": "Cremona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737108",
+      "date": "2026-04-18T18:45Z",
+      "date_only": "2026-04-18",
+      "name": "Atalanta at AS Roma",
+      "short_name": "ATA @ ROMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "1",
+        "form": "DWLWL",
+        "record": "18-4-11"
+      },
+      "away_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "1",
+        "form": "DLWWL",
+        "record": "14-12-7"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737110",
+      "date": "2026-04-18T16:00Z",
+      "date_only": "2026-04-18",
+      "name": "Lazio at Napoli",
+      "short_name": "LAZ @ NAP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "0",
+        "form": "LDWWW",
+        "record": "20-6-7"
+      },
+      "away_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "2",
+        "form": "WLDWW",
+        "record": "12-11-10"
+      },
+      "venue": {
+        "name": "Stadio Diego Armando Maradona",
+        "city": "Napoli",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737106",
+      "date": "2026-04-18T13:00Z",
+      "date_only": "2026-04-18",
+      "name": "Parma at Udinese",
+      "short_name": "PAR @ UDI",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "0",
+        "form": "LWDWL",
+        "record": "12-7-14"
+      },
+      "away_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "9-12-12"
+      },
+      "venue": {
+        "name": "Stadio Friuli",
+        "city": "Udine",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737113",
+      "date": "2026-04-17T18:45Z",
+      "date_only": "2026-04-17",
+      "name": "Cagliari at Internazionale",
+      "short_name": "CAG @ INT",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "3",
+        "form": "WWWDD",
+        "record": "25-3-5"
+      },
+      "away_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "0",
+        "form": "LWLLL",
+        "record": "8-9-16"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737107",
+      "date": "2026-04-17T16:30Z",
+      "date_only": "2026-04-17",
+      "name": "Como at Sassuolo",
+      "short_name": "COMO @ SAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "2",
+        "form": "WLWDL",
+        "record": "13-6-14"
+      },
+      "away_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "1",
+        "form": "LLDWW",
+        "record": "16-10-7"
+      },
+      "venue": {
+        "name": "Mapei Stadium",
+        "city": "Reggio Emilia",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737098",
+      "date": "2026-04-13T18:45Z",
+      "date_only": "2026-04-13",
+      "name": "Lazio at Fiorentina",
+      "short_name": "LAZ @ FIO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "8-11-13"
+      },
+      "away_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "0",
+        "form": "WLDWW",
+        "record": "11-11-10"
+      },
+      "venue": {
+        "name": "Stadio Artemio Franchi",
+        "city": "Firenze",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737099",
+      "date": "2026-04-12T18:45Z",
+      "date_only": "2026-04-12",
+      "name": "Internazionale at Como",
+      "short_name": "INT @ COMO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "3",
+        "form": "LLDWW",
+        "record": "16-10-6"
+      },
+      "away_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "4",
+        "form": "WWWDD",
+        "record": "24-3-5"
+      },
+      "venue": {
+        "name": "Giuseppe Sinigaglia",
+        "city": "Como",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737101",
+      "date": "2026-04-12T16:00Z",
+      "date_only": "2026-04-12",
+      "name": "Lecce at Bologna",
+      "short_name": "LEC @ BOL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "2",
+        "form": "LLWLW",
+        "record": "14-6-12"
+      },
+      "away_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "0",
+        "form": "DLLLL",
+        "record": "7-6-19"
+      },
+      "venue": {
+        "name": "Renato Dall'Ara",
+        "city": "Bologna",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737095",
+      "date": "2026-04-12T13:00Z",
+      "date_only": "2026-04-12",
+      "name": "Napoli at Parma",
+      "short_name": "NAP @ PAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "8-12-12"
+      },
+      "away_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "1",
+        "form": "LDWWW",
+        "record": "20-6-6"
+      },
+      "venue": {
+        "name": "Ennio Tardini",
+        "city": "Parma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737097",
+      "date": "2026-04-12T10:30Z",
+      "date_only": "2026-04-12",
+      "name": "Sassuolo at Genoa",
+      "short_name": "SAS @ GEN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "2",
+        "form": "WWLLW",
+        "record": "9-9-14"
+      },
+      "away_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "1",
+        "form": "WLWDL",
+        "record": "12-6-14"
+      },
+      "venue": {
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genova",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737102",
+      "date": "2026-04-11T18:45Z",
+      "date_only": "2026-04-11",
+      "name": "Juventus at Atalanta",
+      "short_name": "JUV @ ATA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "0",
+        "form": "DLWWL",
+        "record": "14-11-7"
+      },
+      "away_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "17-9-6"
+      },
+      "venue": {
+        "name": "New Balance Arena",
+        "city": "Bergamo",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737096",
+      "date": "2026-04-11T16:00Z",
+      "date_only": "2026-04-11",
+      "name": "Udinese at AC Milan",
+      "short_name": "UDI @ MIL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "18-9-5"
+      },
+      "away_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "3",
+        "form": "LWDWL",
+        "record": "12-7-13"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737103",
+      "date": "2026-04-11T13:00Z",
+      "date_only": "2026-04-11",
+      "name": "Hellas Verona at Torino",
+      "short_name": "VER @ TOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "2",
+        "form": "DWWLW",
+        "record": "11-6-15"
+      },
+      "away_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "1",
+        "form": "LLLLL",
+        "record": "3-9-20"
+      },
+      "venue": {
+        "name": "Stadio Olimpico Grande Torino",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737100",
+      "date": "2026-04-11T13:00Z",
+      "date_only": "2026-04-11",
+      "name": "Cremonese at Cagliari",
+      "short_name": "CRE @ CAG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "1",
+        "form": "LWLLL",
+        "record": "8-9-15"
+      },
+      "away_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "0",
+        "form": "DLLWL",
+        "record": "6-9-17"
+      },
+      "venue": {
+        "name": "Unipol Domus",
+        "city": "Cagliari",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737094",
+      "date": "2026-04-10T18:45Z",
+      "date_only": "2026-04-10",
+      "name": "Pisa at AS Roma",
+      "short_name": "PIS @ ROMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "3",
+        "form": "DWLWL",
+        "record": "18-3-11"
+      },
+      "away_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "2-12-18"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737086",
+      "date": "2026-04-06T18:45Z",
+      "date_only": "2026-04-06",
+      "name": "AC Milan at Napoli",
+      "short_name": "MIL @ NAP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "1",
+        "form": "LDWWW",
+        "record": "20-5-6"
+      },
+      "away_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "18-9-4"
+      },
+      "venue": {
+        "name": "Stadio Diego Armando Maradona",
+        "city": "Napoli",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737089",
+      "date": "2026-04-06T16:00Z",
+      "date_only": "2026-04-06",
+      "name": "Genoa at Juventus",
+      "short_name": "GEN @ JUV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "2",
+        "form": "WWWDW",
+        "record": "16-9-6"
+      },
+      "away_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "0",
+        "form": "WWLLW",
+        "record": "8-9-14"
+      },
+      "venue": {
+        "name": "Allianz Stadium",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737087",
+      "date": "2026-04-06T13:00Z",
+      "date_only": "2026-04-06",
+      "name": "Atalanta at Lecce",
+      "short_name": "ATA @ LEC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "0",
+        "form": "DLLLL",
+        "record": "7-6-18"
+      },
+      "away_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "3",
+        "form": "DLWWL",
+        "record": "14-11-6"
+      },
+      "venue": {
+        "name": "Via Del Mare",
+        "city": "Lecce",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737088",
+      "date": "2026-04-06T10:30Z",
+      "date_only": "2026-04-06",
+      "name": "Como at Udinese",
+      "short_name": "COMO @ UDI",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "0",
+        "form": "LWDWL",
+        "record": "11-7-13"
+      },
+      "away_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "0",
+        "form": "LLDWW",
+        "record": "16-10-5"
+      },
+      "venue": {
+        "name": "Stadio Friuli",
+        "city": "Udine",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737090",
+      "date": "2026-04-05T18:45Z",
+      "date_only": "2026-04-05",
+      "name": "AS Roma at Internazionale",
+      "short_name": "ROMA @ INT",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "5",
+        "form": "WWWDD",
+        "record": "23-3-5"
+      },
+      "away_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "2",
+        "form": "DWLWL",
+        "record": "17-3-11"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737085",
+      "date": "2026-04-05T16:00Z",
+      "date_only": "2026-04-05",
+      "name": "Torino at Pisa",
+      "short_name": "TOR @ PIS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "2-12-17"
+      },
+      "away_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "10-6-15"
+      },
+      "venue": {
+        "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "city": "Pisa",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737092",
+      "date": "2026-04-05T13:00Z",
+      "date_only": "2026-04-05",
+      "name": "Bologna at Cremonese",
+      "short_name": "BOL @ CRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "1",
+        "form": "DLLWL",
+        "record": "6-9-16"
+      },
+      "away_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "2",
+        "form": "LLWLW",
+        "record": "13-6-12"
+      },
+      "venue": {
+        "name": "Stadio Giovanni Zini",
+        "city": "Cremona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737093",
+      "date": "2026-04-04T18:45Z",
+      "date_only": "2026-04-04",
+      "name": "Parma at Lazio",
+      "short_name": "PAR @ LAZ",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "1",
+        "form": "WLDWW",
+        "record": "11-11-9"
+      },
+      "away_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "8-11-12"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737091",
+      "date": "2026-04-04T16:00Z",
+      "date_only": "2026-04-04",
+      "name": "Fiorentina at Hellas Verona",
+      "short_name": "FIO @ VER",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "3-9-19"
+      },
+      "away_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "7-11-13"
+      },
+      "venue": {
+        "name": "Stadio Marcantonio Bentegodi",
+        "city": "Verona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737084",
+      "date": "2026-04-04T13:00Z",
+      "date_only": "2026-04-04",
+      "name": "Cagliari at Sassuolo",
+      "short_name": "CAG @ SAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "2",
+        "form": "WLWDL",
+        "record": "12-6-13"
+      },
+      "away_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "1",
+        "form": "LWLLL",
+        "record": "7-9-15"
+      },
+      "venue": {
+        "name": "Mapei Stadium",
+        "city": "Reggio Emilia",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737079",
+      "date": "2026-03-22T19:45Z",
+      "date_only": "2026-03-22",
+      "name": "Internazionale at Fiorentina",
+      "short_name": "INT @ FIO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "1",
+        "form": "DWWLW",
+        "record": "6-11-13"
+      },
+      "away_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "1",
+        "form": "WWWDD",
+        "record": "22-3-5"
+      },
+      "venue": {
+        "name": "Stadio Artemio Franchi",
+        "city": "Firenze",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737078",
+      "date": "2026-03-22T17:00Z",
+      "date_only": "2026-03-22",
+      "name": "Lecce at AS Roma",
+      "short_name": "LEC @ ROMA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "1",
+        "form": "DWLWL",
+        "record": "17-3-10"
+      },
+      "away_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "0",
+        "form": "DLLLL",
+        "record": "7-6-17"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737082",
+      "date": "2026-03-22T14:00Z",
+      "date_only": "2026-03-22",
+      "name": "Lazio at Bologna",
+      "short_name": "LAZ @ BOL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "0",
+        "form": "LLWLW",
+        "record": "12-6-12"
+      },
+      "away_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "2",
+        "form": "WLDWW",
+        "record": "11-10-9"
+      },
+      "venue": {
+        "name": "Renato Dall'Ara",
+        "city": "Bologna",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737074",
+      "date": "2026-03-22T14:00Z",
+      "date_only": "2026-03-22",
+      "name": "Hellas Verona at Atalanta",
+      "short_name": "VER @ ATA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "1",
+        "form": "DLWWL",
+        "record": "13-11-6"
+      },
+      "away_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "3-9-18"
+      },
+      "venue": {
+        "name": "New Balance Arena",
+        "city": "Bergamo",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737080",
+      "date": "2026-03-22T11:30Z",
+      "date_only": "2026-03-22",
+      "name": "Pisa at Como",
+      "short_name": "PIS @ COMO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "5",
+        "form": "LLDWW",
+        "record": "16-9-5"
+      },
+      "away_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "2-12-16"
+      },
+      "venue": {
+        "name": "Giuseppe Sinigaglia",
+        "city": "Como",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737077",
+      "date": "2026-03-21T19:45Z",
+      "date_only": "2026-03-21",
+      "name": "Sassuolo at Juventus",
+      "short_name": "SAS @ JUV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "15-9-6"
+      },
+      "away_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "1",
+        "form": "WLWDL",
+        "record": "11-6-13"
+      },
+      "venue": {
+        "name": "Allianz Stadium",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737076",
+      "date": "2026-03-21T17:00Z",
+      "date_only": "2026-03-21",
+      "name": "Torino at AC Milan",
+      "short_name": "TOR @ MIL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "3",
+        "form": "WLLWL",
+        "record": "18-9-3"
+      },
+      "away_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "2",
+        "form": "DWWLW",
+        "record": "9-6-15"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737075",
+      "date": "2026-03-21T14:00Z",
+      "date_only": "2026-03-21",
+      "name": "Cremonese at Parma",
+      "short_name": "CRE @ PAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "0",
+        "form": "WDDLL",
+        "record": "8-10-12"
+      },
+      "away_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "2",
+        "form": "DLLWL",
+        "record": "6-9-15"
+      },
+      "venue": {
+        "name": "Ennio Tardini",
+        "city": "Parma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737083",
+      "date": "2026-03-20T19:45Z",
+      "date_only": "2026-03-20",
+      "name": "Udinese at Genoa",
+      "short_name": "UDI @ GEN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "0",
+        "form": "WWLLW",
+        "record": "8-9-13"
+      },
+      "away_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "2",
+        "form": "LWDWL",
+        "record": "11-6-13"
+      },
+      "venue": {
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genova",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737081",
+      "date": "2026-03-20T17:30Z",
+      "date_only": "2026-03-20",
+      "name": "Napoli at Cagliari",
+      "short_name": "NAP @ CAG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "0",
+        "form": "LWLLL",
+        "record": "7-9-14"
+      },
+      "away_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "1",
+        "form": "LDWWW",
+        "record": "19-5-6"
+      },
+      "venue": {
+        "name": "Unipol Domus",
+        "city": "Cagliari",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737065",
+      "date": "2026-03-16T19:45Z",
+      "date_only": "2026-03-16",
+      "name": "Fiorentina at Cremonese",
+      "short_name": "FIO @ CRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "1",
+        "form": "DLLWL",
+        "record": "5-9-15"
+      },
+      "away_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "4",
+        "form": "DWWLW",
+        "record": "6-10-13"
+      },
+      "venue": {
+        "name": "Stadio Giovanni Zini",
+        "city": "Cremona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737071",
+      "date": "2026-03-15T19:45Z",
+      "date_only": "2026-03-15",
+      "name": "AC Milan at Lazio",
+      "short_name": "MIL @ LAZ",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "1",
+        "form": "WLDWW",
+        "record": "10-10-9"
+      },
+      "away_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "17-9-3"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737064",
+      "date": "2026-03-15T17:00Z",
+      "date_only": "2026-03-15",
+      "name": "AS Roma at Como",
+      "short_name": "ROMA @ COMO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "2",
+        "form": "LLDWW",
+        "record": "15-9-5"
+      },
+      "away_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "1",
+        "form": "DWLWL",
+        "record": "16-3-10"
+      },
+      "venue": {
+        "name": "Giuseppe Sinigaglia",
+        "city": "Como",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737069",
+      "date": "2026-03-15T14:00Z",
+      "date_only": "2026-03-15",
+      "name": "Cagliari at Pisa",
+      "short_name": "CAG @ PIS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "3",
+        "form": "LLLLW",
+        "record": "2-12-15"
+      },
+      "away_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "1",
+        "form": "LWLLL",
+        "record": "7-9-13"
+      },
+      "venue": {
+        "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "city": "Pisa",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737068",
+      "date": "2026-03-15T14:00Z",
+      "date_only": "2026-03-15",
+      "name": "Bologna at Sassuolo",
+      "short_name": "BOL @ SAS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "0",
+        "form": "WLWDL",
+        "record": "11-5-13"
+      },
+      "away_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "1",
+        "form": "LLWLW",
+        "record": "12-6-11"
+      },
+      "venue": {
+        "name": "Mapei Stadium",
+        "city": "Reggio Emilia",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737073",
+      "date": "2026-03-15T11:30Z",
+      "date_only": "2026-03-15",
+      "name": "Genoa at Hellas Verona",
+      "short_name": "GEN @ VER",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "0",
+        "form": "LLLLL",
+        "record": "3-9-17"
+      },
+      "away_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "2",
+        "form": "WWLLW",
+        "record": "8-9-12"
+      },
+      "venue": {
+        "name": "Stadio Marcantonio Bentegodi",
+        "city": "Verona",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737066",
+      "date": "2026-03-14T19:45Z",
+      "date_only": "2026-03-14",
+      "name": "Juventus at Udinese",
+      "short_name": "JUV @ UDI",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "0",
+        "form": "LWDWL",
+        "record": "10-6-13"
+      },
+      "away_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "1",
+        "form": "WWWDW",
+        "record": "15-8-6"
+      },
+      "venue": {
+        "name": "Stadio Friuli",
+        "city": "Udine",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737070",
+      "date": "2026-03-14T17:00Z",
+      "date_only": "2026-03-14",
+      "name": "Lecce at Napoli",
+      "short_name": "LEC @ NAP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "114",
+        "name": "Napoli",
+        "abbr": "NAP",
+        "normalized_name": "napoli",
+        "score": "2",
+        "form": "LDWWW",
+        "record": "18-5-6"
+      },
+      "away_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "1",
+        "form": "DLLLL",
+        "record": "7-6-16"
+      },
+      "venue": {
+        "name": "Stadio Diego Armando Maradona",
+        "city": "Napoli",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737072",
+      "date": "2026-03-14T14:00Z",
+      "date_only": "2026-03-14",
+      "name": "Atalanta at Internazionale",
+      "short_name": "ATA @ INT",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "1",
+        "form": "WWWDD",
+        "record": "22-2-5"
+      },
+      "away_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "1",
+        "form": "DLWWL",
+        "record": "12-11-6"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737067",
+      "date": "2026-03-13T19:45Z",
+      "date_only": "2026-03-13",
+      "name": "Parma at Torino",
+      "short_name": "PAR @ TOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "239",
+        "name": "Torino",
+        "abbr": "TOR",
+        "normalized_name": "torino",
+        "score": "4",
+        "form": "DWWLW",
+        "record": "9-6-14"
+      },
+      "away_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "8-10-11"
+      },
+      "venue": {
+        "name": "Stadio Olimpico Grande Torino",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737056",
+      "date": "2026-03-09T19:45Z",
+      "date_only": "2026-03-09",
+      "name": "Sassuolo at Lazio",
+      "short_name": "SAS @ LAZ",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "112",
+        "name": "Lazio",
+        "abbr": "LAZ",
+        "normalized_name": "lazio",
+        "score": "2",
+        "form": "WLDWW",
+        "record": "9-10-9"
+      },
+      "away_team": {
+        "id": "3997",
+        "name": "Sassuolo",
+        "abbr": "SAS",
+        "normalized_name": "sassuolo",
+        "score": "1",
+        "form": "WLWDL",
+        "record": "11-5-12"
+      },
+      "venue": {
+        "name": "Olimpico",
+        "city": "Roma",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737054",
+      "date": "2026-03-08T19:45Z",
+      "date_only": "2026-03-08",
+      "name": "Internazionale at AC Milan",
+      "short_name": "INT @ MIL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "103",
+        "name": "AC Milan",
+        "abbr": "MIL",
+        "normalized_name": "milan",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "17-9-2"
+      },
+      "away_team": {
+        "id": "110",
+        "name": "Internazionale",
+        "abbr": "INT",
+        "normalized_name": "internazionale",
+        "score": "0",
+        "form": "WWWDD",
+        "record": "22-1-5"
+      },
+      "venue": {
+        "name": "San Siro",
+        "city": "Milano",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737058",
+      "date": "2026-03-08T17:00Z",
+      "date_only": "2026-03-08",
+      "name": "AS Roma at Genoa",
+      "short_name": "ROMA @ GEN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3263",
+        "name": "Genoa",
+        "abbr": "GEN",
+        "normalized_name": "genoa",
+        "score": "2",
+        "form": "WWLLW",
+        "record": "7-9-12"
+      },
+      "away_team": {
+        "id": "104",
+        "name": "AS Roma",
+        "abbr": "ROMA",
+        "normalized_name": "as roma",
+        "score": "1",
+        "form": "DWLWL",
+        "record": "16-3-9"
+      },
+      "venue": {
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genova",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737061",
+      "date": "2026-03-08T14:00Z",
+      "date_only": "2026-03-08",
+      "name": "Hellas Verona at Bologna",
+      "short_name": "VER @ BOL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "107",
+        "name": "Bologna",
+        "abbr": "BOL",
+        "normalized_name": "bologna",
+        "score": "1",
+        "form": "LLWLW",
+        "record": "11-6-11"
+      },
+      "away_team": {
+        "id": "119",
+        "name": "Hellas Verona",
+        "abbr": "VER",
+        "normalized_name": "hellas verona",
+        "score": "2",
+        "form": "LLLLL",
+        "record": "3-9-16"
+      },
+      "venue": {
+        "name": "Renato Dall'Ara",
+        "city": "Bologna",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737059",
+      "date": "2026-03-08T14:00Z",
+      "date_only": "2026-03-08",
+      "name": "Parma at Fiorentina",
+      "short_name": "PAR @ FIO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "109",
+        "name": "Fiorentina",
+        "abbr": "FIO",
+        "normalized_name": "fiorentina",
+        "score": "0",
+        "form": "DWWLW",
+        "record": "5-10-13"
+      },
+      "away_team": {
+        "id": "115",
+        "name": "Parma",
+        "abbr": "PAR",
+        "normalized_name": "parma",
+        "score": "0",
+        "form": "WDDLL",
+        "record": "8-10-10"
+      },
+      "venue": {
+        "name": "Stadio Artemio Franchi",
+        "city": "Firenze",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737055",
+      "date": "2026-03-08T11:30Z",
+      "date_only": "2026-03-08",
+      "name": "Cremonese at Lecce",
+      "short_name": "CRE @ LEC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "113",
+        "name": "Lecce",
+        "abbr": "LEC",
+        "normalized_name": "lecce",
+        "score": "2",
+        "form": "DLLLL",
+        "record": "7-6-15"
+      },
+      "away_team": {
+        "id": "4050",
+        "name": "Cremonese",
+        "abbr": "CRE",
+        "normalized_name": "cremonese",
+        "score": "1",
+        "form": "DLLWL",
+        "record": "5-9-14"
+      },
+      "venue": {
+        "name": "Via Del Mare",
+        "city": "Lecce",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737057",
+      "date": "2026-03-07T19:45Z",
+      "date_only": "2026-03-07",
+      "name": "Pisa at Juventus",
+      "short_name": "PIS @ JUV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "111",
+        "name": "Juventus",
+        "abbr": "JUV",
+        "normalized_name": "juventus",
+        "score": "4",
+        "form": "WWWDW",
+        "record": "14-8-6"
+      },
+      "away_team": {
+        "id": "3956",
+        "name": "Pisa",
+        "abbr": "PIS",
+        "normalized_name": "pisa",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "1-12-15"
+      },
+      "venue": {
+        "name": "Allianz Stadium",
+        "city": "Torino",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737062",
+      "date": "2026-03-07T17:00Z",
+      "date_only": "2026-03-07",
+      "name": "Udinese at Atalanta",
+      "short_name": "UDI @ ATA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "105",
+        "name": "Atalanta",
+        "abbr": "ATA",
+        "normalized_name": "atalanta",
+        "score": "2",
+        "form": "DLWWL",
+        "record": "12-10-6"
+      },
+      "away_team": {
+        "id": "118",
+        "name": "Udinese",
+        "abbr": "UDI",
+        "normalized_name": "udinese",
+        "score": "2",
+        "form": "LWDWL",
+        "record": "10-6-12"
+      },
+      "venue": {
+        "name": "New Balance Arena",
+        "city": "Bergamo",
+        "country": "Italy"
+      }
+    },
+    {
+      "event_id": "737060",
+      "date": "2026-03-07T14:00Z",
+      "date_only": "2026-03-07",
+      "name": "Como at Cagliari",
+      "short_name": "COMO @ CAG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2925",
+        "name": "Cagliari",
+        "abbr": "CAG",
+        "normalized_name": "cagliari",
+        "score": "1",
+        "form": "LWLLL",
+        "record": "7-9-12"
+      },
+      "away_team": {
+        "id": "2572",
+        "name": "Como",
+        "abbr": "COMO",
+        "normalized_name": "como",
+        "score": "2",
+        "form": "LLDWW",
+        "record": "14-9-5"
+      },
+      "venue": {
+        "name": "Unipol Domus",
+        "city": "Cagliari",
+        "country": "Italy"
+      }
+    }
+  ],
+  "team_index": {
+    "as roma": {
+      "team_id": "104",
+      "name": "AS Roma",
+      "short_name": "AS Roma",
+      "abbr": "ROMA",
+      "normalized_name": "as roma",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AS Roma",
+        "ROMA"
+      ]
+    },
+    "atalanta": {
+      "team_id": "105",
+      "name": "Atalanta",
+      "short_name": "Atalanta",
+      "abbr": "ATA",
+      "normalized_name": "atalanta",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ATA",
+        "Atalanta"
+      ]
+    },
+    "bologna": {
+      "team_id": "107",
+      "name": "Bologna",
+      "short_name": "Bologna",
+      "abbr": "BOL",
+      "normalized_name": "bologna",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BOL",
+        "Bologna"
+      ]
+    },
+    "cagliari": {
+      "team_id": "2925",
+      "name": "Cagliari",
+      "short_name": "Cagliari",
+      "abbr": "CAG",
+      "normalized_name": "cagliari",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CAG",
+        "Cagliari"
+      ]
+    },
+    "como": {
+      "team_id": "2572",
+      "name": "Como",
+      "short_name": "Como",
+      "abbr": "COMO",
+      "normalized_name": "como",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "COMO",
+        "Como"
+      ]
+    },
+    "cremonese": {
+      "team_id": "4050",
+      "name": "Cremonese",
+      "short_name": "Cremonese",
+      "abbr": "CRE",
+      "normalized_name": "cremonese",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CRE",
+        "Cremonese"
+      ]
+    },
+    "fiorentina": {
+      "team_id": "109",
+      "name": "Fiorentina",
+      "short_name": "Fiorentina",
+      "abbr": "FIO",
+      "normalized_name": "fiorentina",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "FIO",
+        "Fiorentina"
+      ]
+    },
+    "genoa": {
+      "team_id": "3263",
+      "name": "Genoa",
+      "short_name": "Genoa",
+      "abbr": "GEN",
+      "normalized_name": "genoa",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "GEN",
+        "Genoa"
+      ]
+    },
+    "hellas verona": {
+      "team_id": "119",
+      "name": "Hellas Verona",
+      "short_name": "Verona",
+      "abbr": "VER",
+      "normalized_name": "hellas verona",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Hellas Verona",
+        "VER",
+        "Verona"
+      ]
+    },
+    "internazionale": {
+      "team_id": "110",
+      "name": "Internazionale",
+      "short_name": "Inter Milan",
+      "abbr": "INT",
+      "normalized_name": "internazionale",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "INT",
+        "Inter Milan",
+        "Internazionale"
+      ]
+    },
+    "juventus": {
+      "team_id": "111",
+      "name": "Juventus",
+      "short_name": "Juventus",
+      "abbr": "JUV",
+      "normalized_name": "juventus",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "JUV",
+        "Juventus"
+      ]
+    },
+    "lazio": {
+      "team_id": "112",
+      "name": "Lazio",
+      "short_name": "Lazio",
+      "abbr": "LAZ",
+      "normalized_name": "lazio",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LAZ",
+        "Lazio"
+      ]
+    },
+    "lecce": {
+      "team_id": "113",
+      "name": "Lecce",
+      "short_name": "Lecce",
+      "abbr": "LEC",
+      "normalized_name": "lecce",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LEC",
+        "Lecce"
+      ]
+    },
+    "milan": {
+      "team_id": "103",
+      "name": "AC Milan",
+      "short_name": "Milan",
+      "abbr": "MIL",
+      "normalized_name": "milan",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AC Milan",
+        "MIL",
+        "Milan"
+      ]
+    },
+    "napoli": {
+      "team_id": "114",
+      "name": "Napoli",
+      "short_name": "Napoli",
+      "abbr": "NAP",
+      "normalized_name": "napoli",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "NAP",
+        "Napoli"
+      ]
+    },
+    "parma": {
+      "team_id": "115",
+      "name": "Parma",
+      "short_name": "Parma",
+      "abbr": "PAR",
+      "normalized_name": "parma",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "PAR",
+        "Parma"
+      ]
+    },
+    "pisa": {
+      "team_id": "3956",
+      "name": "Pisa",
+      "short_name": "Pisa",
+      "abbr": "PIS",
+      "normalized_name": "pisa",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "PIS",
+        "Pisa"
+      ]
+    },
+    "sassuolo": {
+      "team_id": "3997",
+      "name": "Sassuolo",
+      "short_name": "Sassuolo",
+      "abbr": "SAS",
+      "normalized_name": "sassuolo",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "SAS",
+        "Sassuolo"
+      ]
+    },
+    "torino": {
+      "team_id": "239",
+      "name": "Torino",
+      "short_name": "Torino",
+      "abbr": "TOR",
+      "normalized_name": "torino",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "TOR",
+        "Torino"
+      ]
+    },
+    "udinese": {
+      "team_id": "118",
+      "name": "Udinese",
+      "short_name": "Udinese",
+      "abbr": "UDI",
+      "normalized_name": "udinese",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "UDI",
+        "Udinese"
+      ]
+    }
+  },
+  "team_form": {
+    "cagliari": {
+      "sequence": "LLLWL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 5
+    },
+    "como": {
+      "sequence": "WWDLL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2
+    },
+    "atalanta": {
+      "sequence": "DWWLD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1
+    },
+    "udinese": {
+      "sequence": "LWDWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2
+    },
+    "juventus": {
+      "sequence": "WDWWW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 1,
+      "losses": 0
+    },
+    "pisa": {
+      "sequence": "WLLLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 5
+    },
+    "lecce": {
+      "sequence": "LLLLD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4
+    },
+    "cremonese": {
+      "sequence": "LWLLD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4
+    },
+    "bologna": {
+      "sequence": "WLWWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3
+    },
+    "hellas verona": {
+      "sequence": "LLLLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 5
+    },
+    "fiorentina": {
+      "sequence": "WDWWD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 3,
+      "losses": 0
+    },
+    "parma": {
+      "sequence": "LLDDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 2
+    },
+    "genoa": {
+      "sequence": "WLLWW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 2
+    },
+    "as roma": {
+      "sequence": "LWLWD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3
+    },
+    "milan": {
+      "sequence": "LWLLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3
+    },
+    "internazionale": {
+      "sequence": "DDWWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1
+    },
+    "lazio": {
+      "sequence": "WWDLW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1
+    },
+    "sassuolo": {
+      "sequence": "LDWLW",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3
+    },
+    "torino": {
+      "sequence": "WLWWD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    },
+    "napoli": {
+      "sequence": "WWWDL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1
+    }
+  },
+  "meta": {
+    "fixture_count": 10,
+    "recent_result_count": 59,
+    "team_count": 20
+  }
+}

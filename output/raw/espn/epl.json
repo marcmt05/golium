@@ -1,0 +1,3429 @@
+{
+  "league_key": "epl",
+  "league_name": "Premier League",
+  "league_slug": "eng.1",
+  "source": "ESPN",
+  "scraped_at": "2026-04-21T18:59:16Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "359",
+      "team_name": "Arsenal",
+      "team_short_name": "Arsenal",
+      "team_abbr": "ARS",
+      "normalized_name": "arsenal",
+      "played": 33.0,
+      "wins": 21.0,
+      "draws": 7.0,
+      "losses": 5.0,
+      "goals_for": 63.0,
+      "goals_against": 26.0,
+      "goal_difference": 37.0,
+      "points": 70.0,
+      "form": "WLL",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 5.0,
+        "Losses": "5",
+        "L": "5",
+        "pointDifferential": 37.0,
+        "Goal Difference": "+37",
+        "GD": "+37",
+        "points": 70.0,
+        "Points": "70",
+        "P": "70",
+        "pointsAgainst": 26.0,
+        "Goals Against": "26",
+        "A": "26",
+        "pointsFor": 63.0,
+        "Goals For": "63",
+        "F": "63",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 21.0,
+        "Wins": "21",
+        "W": "21",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "21-7-5",
+        "Overall": "21-7-5",
+        "Total": "21-7-5"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "382",
+      "team_name": "Manchester City",
+      "team_short_name": "Man City",
+      "team_abbr": "MNC",
+      "normalized_name": "manchester city",
+      "played": 32.0,
+      "wins": 20.0,
+      "draws": 7.0,
+      "losses": 5.0,
+      "goals_for": 65.0,
+      "goals_against": 29.0,
+      "goal_difference": 36.0,
+      "points": 67.0,
+      "form": "DWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 5.0,
+        "Losses": "5",
+        "L": "5",
+        "pointDifferential": 36.0,
+        "Goal Difference": "+36",
+        "GD": "+36",
+        "points": 67.0,
+        "Points": "67",
+        "P": "67",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 65.0,
+        "Goals For": "65",
+        "F": "65",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 20.0,
+        "Wins": "20",
+        "W": "20",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "20-7-5",
+        "Overall": "20-7-5",
+        "Total": "20-7-5"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "360",
+      "team_name": "Manchester United",
+      "team_short_name": "Man United",
+      "team_abbr": "MAN",
+      "normalized_name": "manchester united",
+      "played": 33.0,
+      "wins": 16.0,
+      "draws": 10.0,
+      "losses": 7.0,
+      "goals_for": 58.0,
+      "goals_against": 45.0,
+      "goal_difference": 13.0,
+      "points": 58.0,
+      "form": "WDLW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 13.0,
+        "Goal Difference": "+13",
+        "GD": "+13",
+        "points": 58.0,
+        "Points": "58",
+        "P": "58",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 58.0,
+        "Goals For": "58",
+        "F": "58",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-10-7",
+        "Overall": "16-10-7",
+        "Total": "16-10-7"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "362",
+      "team_name": "Aston Villa",
+      "team_short_name": "Aston Villa",
+      "team_abbr": "AVL",
+      "normalized_name": "aston villa",
+      "played": 33.0,
+      "wins": 17.0,
+      "draws": 7.0,
+      "losses": 9.0,
+      "goals_for": 47.0,
+      "goals_against": 41.0,
+      "goal_difference": 6.0,
+      "points": 58.0,
+      "form": "LWDW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 9.0,
+        "Losses": "9",
+        "L": "9",
+        "pointDifferential": 6.0,
+        "Goal Difference": "+6",
+        "GD": "+6",
+        "points": 58.0,
+        "Points": "58",
+        "P": "58",
+        "pointsAgainst": 41.0,
+        "Goals Against": "41",
+        "A": "41",
+        "pointsFor": 47.0,
+        "Goals For": "47",
+        "F": "47",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-7-9",
+        "Overall": "17-7-9",
+        "Total": "17-7-9"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "364",
+      "team_name": "Liverpool",
+      "team_short_name": "Liverpool",
+      "team_abbr": "LIV",
+      "normalized_name": "liverpool",
+      "played": 33.0,
+      "wins": 16.0,
+      "draws": 7.0,
+      "losses": 10.0,
+      "goals_for": 54.0,
+      "goals_against": 43.0,
+      "goal_difference": 11.0,
+      "points": 55.0,
+      "form": "DLWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 11.0,
+        "Goal Difference": "+11",
+        "GD": "+11",
+        "points": 55.0,
+        "Points": "55",
+        "P": "55",
+        "pointsAgainst": 43.0,
+        "Goals Against": "43",
+        "A": "43",
+        "pointsFor": 54.0,
+        "Goals For": "54",
+        "F": "54",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-7-10",
+        "Overall": "16-7-10",
+        "Total": "16-7-10"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "363",
+      "team_name": "Chelsea",
+      "team_short_name": "Chelsea",
+      "team_abbr": "CHE",
+      "normalized_name": "chelsea",
+      "played": 33.0,
+      "wins": 13.0,
+      "draws": 9.0,
+      "losses": 11.0,
+      "goals_for": 53.0,
+      "goals_against": 42.0,
+      "goal_difference": 11.0,
+      "points": 48.0,
+      "form": "LLLL",
+      "status": "Europa League",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": 11.0,
+        "Goal Difference": "+11",
+        "GD": "+11",
+        "points": 48.0,
+        "Points": "48",
+        "P": "48",
+        "pointsAgainst": 42.0,
+        "Goals Against": "42",
+        "A": "42",
+        "pointsFor": 53.0,
+        "Goals For": "53",
+        "F": "53",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-9-11",
+        "Overall": "13-9-11",
+        "Total": "13-9-11"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "337",
+      "team_name": "Brentford",
+      "team_short_name": "Brentford",
+      "team_abbr": "BRE",
+      "normalized_name": "brentford",
+      "played": 33.0,
+      "wins": 13.0,
+      "draws": 9.0,
+      "losses": 11.0,
+      "goals_for": 48.0,
+      "goals_against": 44.0,
+      "goal_difference": 4.0,
+      "points": 48.0,
+      "form": "DDDD",
+      "status": "Conference League Playoff Round",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": 4.0,
+        "Goal Difference": "+4",
+        "GD": "+4",
+        "points": 48.0,
+        "Points": "48",
+        "P": "48",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 48.0,
+        "Goals For": "48",
+        "F": "48",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-9-11",
+        "Overall": "13-9-11",
+        "Total": "13-9-11"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "349",
+      "team_name": "AFC Bournemouth",
+      "team_short_name": "Bournemouth",
+      "team_abbr": "BOU",
+      "normalized_name": "afc bournemouth",
+      "played": 33.0,
+      "wins": 11.0,
+      "draws": 15.0,
+      "losses": 7.0,
+      "goals_for": 50.0,
+      "goals_against": 50.0,
+      "goal_difference": "0",
+      "points": 48.0,
+      "form": "DDWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 0.0,
+        "Goal Difference": "0",
+        "GD": "0",
+        "points": 48.0,
+        "Points": "48",
+        "P": "48",
+        "pointsAgainst": 50.0,
+        "Goals Against": "50",
+        "A": "50",
+        "pointsFor": 50.0,
+        "Goals For": "50",
+        "F": "50",
+        "ties": 15.0,
+        "Draws": "15",
+        "D": "15",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-15-7",
+        "Overall": "11-15-7",
+        "Total": "11-15-7"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "331",
+      "team_name": "Brighton & Hove Albion",
+      "team_short_name": "Brighton",
+      "team_abbr": "BHA",
+      "normalized_name": "brighton and hove albion",
+      "played": 33.0,
+      "wins": 12.0,
+      "draws": 11.0,
+      "losses": 10.0,
+      "goals_for": 45.0,
+      "goals_against": 39.0,
+      "goal_difference": 6.0,
+      "points": 47.0,
+      "form": "WWWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 6.0,
+        "Goal Difference": "+6",
+        "GD": "+6",
+        "points": 47.0,
+        "Points": "47",
+        "P": "47",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 45.0,
+        "Goals For": "45",
+        "F": "45",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-11-10",
+        "Overall": "12-11-10",
+        "Total": "12-11-10"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "368",
+      "team_name": "Everton",
+      "team_short_name": "Everton",
+      "team_abbr": "EVE",
+      "normalized_name": "everton",
+      "played": 33.0,
+      "wins": 13.0,
+      "draws": 8.0,
+      "losses": 12.0,
+      "goals_for": 40.0,
+      "goals_against": 39.0,
+      "goal_difference": 1.0,
+      "points": 47.0,
+      "form": "LWDL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": 1.0,
+        "Goal Difference": "+1",
+        "GD": "+1",
+        "points": 47.0,
+        "Points": "47",
+        "P": "47",
+        "pointsAgainst": 39.0,
+        "Goals Against": "39",
+        "A": "39",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-8-12",
+        "Overall": "13-8-12",
+        "Total": "13-8-12"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "366",
+      "team_name": "Sunderland",
+      "team_short_name": "Sunderland",
+      "team_abbr": "SUN",
+      "normalized_name": "sunderland",
+      "played": 33.0,
+      "wins": 12.0,
+      "draws": 10.0,
+      "losses": 11.0,
+      "goals_for": 36.0,
+      "goals_against": 40.0,
+      "goal_difference": -4.0,
+      "points": 46.0,
+      "form": "LWWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": -4.0,
+        "Goal Difference": "-4",
+        "GD": "-4",
+        "points": 46.0,
+        "Points": "46",
+        "P": "46",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-10-11",
+        "Overall": "12-10-11",
+        "Total": "12-10-11"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "370",
+      "team_name": "Fulham",
+      "team_short_name": "Fulham",
+      "team_abbr": "FUL",
+      "normalized_name": "fulham",
+      "played": 33.0,
+      "wins": 13.0,
+      "draws": 6.0,
+      "losses": 14.0,
+      "goals_for": 43.0,
+      "goals_against": 46.0,
+      "goal_difference": -3.0,
+      "points": 45.0,
+      "form": "DWLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -3.0,
+        "Goal Difference": "-3",
+        "GD": "-3",
+        "points": 45.0,
+        "Points": "45",
+        "P": "45",
+        "pointsAgainst": 46.0,
+        "Goals Against": "46",
+        "A": "46",
+        "pointsFor": 43.0,
+        "Goals For": "43",
+        "F": "43",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 13.0,
+        "Wins": "13",
+        "W": "13",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "13-6-14",
+        "Overall": "13-6-14",
+        "Total": "13-6-14"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "384",
+      "team_name": "Crystal Palace",
+      "team_short_name": "C Palace",
+      "team_abbr": "CRY",
+      "normalized_name": "crystal palace",
+      "played": 32.0,
+      "wins": 11.0,
+      "draws": 10.0,
+      "losses": 11.0,
+      "goals_for": 35.0,
+      "goals_against": 36.0,
+      "goal_difference": -1.0,
+      "points": 43.0,
+      "form": "DWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 32.0,
+        "Games Played": "32",
+        "GP": "32",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": -1.0,
+        "Goal Difference": "-1",
+        "GD": "-1",
+        "points": 43.0,
+        "Points": "43",
+        "P": "43",
+        "pointsAgainst": 36.0,
+        "Goals Against": "36",
+        "A": "36",
+        "pointsFor": 35.0,
+        "Goals For": "35",
+        "F": "35",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-10-11",
+        "Overall": "11-10-11",
+        "Total": "11-10-11"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "361",
+      "team_name": "Newcastle United",
+      "team_short_name": "Newcastle",
+      "team_abbr": "NEW",
+      "normalized_name": "newcastle united",
+      "played": 33.0,
+      "wins": 12.0,
+      "draws": 6.0,
+      "losses": 15.0,
+      "goals_for": 46.0,
+      "goals_against": 49.0,
+      "goal_difference": -3.0,
+      "points": 42.0,
+      "form": "WLLL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -3.0,
+        "Goal Difference": "-3",
+        "GD": "-3",
+        "points": 42.0,
+        "Points": "42",
+        "P": "42",
+        "pointsAgainst": 49.0,
+        "Goals Against": "49",
+        "A": "49",
+        "pointsFor": 46.0,
+        "Goals For": "46",
+        "F": "46",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-6-15",
+        "Overall": "12-6-15",
+        "Total": "12-6-15"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "357",
+      "team_name": "Leeds United",
+      "team_short_name": "Leeds",
+      "team_abbr": "LEE",
+      "normalized_name": "leeds united",
+      "played": 33.0,
+      "wins": 9.0,
+      "draws": 12.0,
+      "losses": 12.0,
+      "goals_for": 42.0,
+      "goals_against": 49.0,
+      "goal_difference": -7.0,
+      "points": 39.0,
+      "form": "DDWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -7.0,
+        "Goal Difference": "-7",
+        "GD": "-7",
+        "points": 39.0,
+        "Points": "39",
+        "P": "39",
+        "pointsAgainst": 49.0,
+        "Goals Against": "49",
+        "A": "49",
+        "pointsFor": 42.0,
+        "Goals For": "42",
+        "F": "42",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-12-12",
+        "Overall": "9-12-12",
+        "Total": "9-12-12"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "393",
+      "team_name": "Nottingham Forest",
+      "team_short_name": "Nottm Forest",
+      "team_abbr": "NFO",
+      "normalized_name": "nottingham forest",
+      "played": 33.0,
+      "wins": 9.0,
+      "draws": 9.0,
+      "losses": 15.0,
+      "goals_for": 36.0,
+      "goals_against": 45.0,
+      "goal_difference": -9.0,
+      "points": 36.0,
+      "form": "DWDW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -9.0,
+        "Goal Difference": "-9",
+        "GD": "-9",
+        "points": 36.0,
+        "Points": "36",
+        "P": "36",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-9-15",
+        "Overall": "9-9-15",
+        "Total": "9-9-15"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "371",
+      "team_name": "West Ham United",
+      "team_short_name": "West Ham",
+      "team_abbr": "WHU",
+      "normalized_name": "west ham united",
+      "played": 33.0,
+      "wins": 8.0,
+      "draws": 9.0,
+      "losses": 16.0,
+      "goals_for": 40.0,
+      "goals_against": 57.0,
+      "goal_difference": -17.0,
+      "points": 33.0,
+      "form": "DLWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -17.0,
+        "Goal Difference": "-17",
+        "GD": "-17",
+        "points": 33.0,
+        "Points": "33",
+        "P": "33",
+        "pointsAgainst": 57.0,
+        "Goals Against": "57",
+        "A": "57",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-9-16",
+        "Overall": "8-9-16",
+        "Total": "8-9-16"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "367",
+      "team_name": "Tottenham Hotspur",
+      "team_short_name": "Spurs",
+      "team_abbr": "TOT",
+      "normalized_name": "tottenham hotspur",
+      "played": 33.0,
+      "wins": 7.0,
+      "draws": 10.0,
+      "losses": 16.0,
+      "goals_for": 42.0,
+      "goals_against": 53.0,
+      "goal_difference": -11.0,
+      "points": 31.0,
+      "form": "DLLD",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -11.0,
+        "Goal Difference": "-11",
+        "GD": "-11",
+        "points": 31.0,
+        "Points": "31",
+        "P": "31",
+        "pointsAgainst": 53.0,
+        "Goals Against": "53",
+        "A": "53",
+        "pointsFor": 42.0,
+        "Goals For": "42",
+        "F": "42",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-10-16",
+        "Overall": "7-10-16",
+        "Total": "7-10-16"
+      }
+    },
+    {
+      "rank": 19.0,
+      "team_id": "379",
+      "team_name": "Burnley",
+      "team_short_name": "Burnley",
+      "team_abbr": "BUR",
+      "normalized_name": "burnley",
+      "played": 33.0,
+      "wins": 4.0,
+      "draws": 8.0,
+      "losses": 21.0,
+      "goals_for": 34.0,
+      "goals_against": 67.0,
+      "goal_difference": -33.0,
+      "points": 20.0,
+      "form": "DLLL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 21.0,
+        "Losses": "21",
+        "L": "21",
+        "pointDifferential": -33.0,
+        "Goal Difference": "-33",
+        "GD": "-33",
+        "points": 20.0,
+        "Points": "20",
+        "P": "20",
+        "pointsAgainst": 67.0,
+        "Goals Against": "67",
+        "A": "67",
+        "pointsFor": 34.0,
+        "Goals For": "34",
+        "F": "34",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 4.0,
+        "Wins": "4",
+        "W": "4",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 19.0,
+        "Rank": "19",
+        "R": "19",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "4-8-21",
+        "Overall": "4-8-21",
+        "Total": "4-8-21"
+      }
+    },
+    {
+      "rank": 20.0,
+      "team_id": "380",
+      "team_name": "Wolverhampton Wanderers",
+      "team_short_name": "Wolves",
+      "team_abbr": "WOL",
+      "normalized_name": "wolverhampton wanderers",
+      "played": 33.0,
+      "wins": 3.0,
+      "draws": 8.0,
+      "losses": 22.0,
+      "goals_for": 24.0,
+      "goals_against": 61.0,
+      "goal_difference": -37.0,
+      "points": 17.0,
+      "form": "DLL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 33.0,
+        "Games Played": "33",
+        "GP": "33",
+        "losses": 22.0,
+        "Losses": "22",
+        "L": "22",
+        "pointDifferential": -37.0,
+        "Goal Difference": "-37",
+        "GD": "-37",
+        "points": 17.0,
+        "Points": "17",
+        "P": "17",
+        "pointsAgainst": 61.0,
+        "Goals Against": "61",
+        "A": "61",
+        "pointsFor": 24.0,
+        "Goals For": "24",
+        "F": "24",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 3.0,
+        "Wins": "3",
+        "W": "3",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 20.0,
+        "Rank": "20",
+        "R": "20",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "3-8-22",
+        "Overall": "3-8-22",
+        "Total": "3-8-22"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "740928",
+      "date": "2026-04-21T19:00Z",
+      "date_only": "2026-04-21",
+      "name": "Chelsea at Brighton & Hove Albion",
+      "short_name": "CHE @ BHA",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Tue, April 21st at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "0",
+        "form": "DWWWL",
+        "record": "12-11-10"
+      },
+      "away_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLWLL",
+        "record": "13-9-11"
+      },
+      "venue": {
+        "name": "American Express Stadium",
+        "city": "Falmer",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740926",
+      "date": "2026-04-22T19:00Z",
+      "date_only": "2026-04-22",
+      "name": "Leeds United at AFC Bournemouth",
+      "short_name": "LEE @ BOU",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "abbr": "BOU",
+        "normalized_name": "afc bournemouth",
+        "score": "0",
+        "form": "WWDDD",
+        "record": "11-15-7"
+      },
+      "away_team": {
+        "id": "357",
+        "name": "Leeds United",
+        "abbr": "LEE",
+        "normalized_name": "leeds united",
+        "score": "0",
+        "form": "WWWDD",
+        "record": "9-12-12"
+      },
+      "venue": {
+        "name": "Vitality Stadium",
+        "city": "Bournemouth",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740929",
+      "date": "2026-04-22T19:00Z",
+      "date_only": "2026-04-22",
+      "name": "Manchester City at Burnley",
+      "short_name": "MNC @ BUR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "379",
+        "name": "Burnley",
+        "abbr": "BUR",
+        "normalized_name": "burnley",
+        "score": "0",
+        "form": "LLLDL",
+        "record": "4-8-21"
+      },
+      "away_team": {
+        "id": "382",
+        "name": "Manchester City",
+        "abbr": "MNC",
+        "normalized_name": "manchester city",
+        "score": "0",
+        "form": "WWWWL",
+        "record": "20-7-5"
+      },
+      "venue": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740933",
+      "date": "2026-04-24T19:00Z",
+      "date_only": "2026-04-24",
+      "name": "Nottingham Forest at Sunderland",
+      "short_name": "NFO @ SUN",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "366",
+        "name": "Sunderland",
+        "abbr": "SUN",
+        "normalized_name": "sunderland",
+        "score": "0",
+        "form": "LWWLL",
+        "record": "12-10-11"
+      },
+      "away_team": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "abbr": "NFO",
+        "normalized_name": "nottingham forest",
+        "score": "0",
+        "form": "WWDDW",
+        "record": "9-9-15"
+      },
+      "venue": {
+        "name": "Stadium of Light",
+        "city": "Sunderland",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740935",
+      "date": "2026-04-25T11:30Z",
+      "date_only": "2026-04-25",
+      "name": "Aston Villa at Fulham",
+      "short_name": "AVL @ FUL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 7:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "370",
+        "name": "Fulham",
+        "abbr": "FUL",
+        "normalized_name": "fulham",
+        "score": "0",
+        "form": "DLWDL",
+        "record": "13-6-14"
+      },
+      "away_team": {
+        "id": "362",
+        "name": "Aston Villa",
+        "abbr": "AVL",
+        "normalized_name": "aston villa",
+        "score": "0",
+        "form": "WWDWW",
+        "record": "17-7-9"
+      },
+      "venue": {
+        "name": "Craven Cottage",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740927",
+      "date": "2026-04-25T14:00Z",
+      "date_only": "2026-04-25",
+      "name": "Crystal Palace at Liverpool",
+      "short_name": "CRY @ LIV",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 10:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "364",
+        "name": "Liverpool",
+        "abbr": "LIV",
+        "normalized_name": "liverpool",
+        "score": "0",
+        "form": "WLWLL",
+        "record": "16-7-10"
+      },
+      "away_team": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "abbr": "CRY",
+        "normalized_name": "crystal palace",
+        "score": "0",
+        "form": "DLWWW",
+        "record": "11-10-11"
+      },
+      "venue": {
+        "name": "Anfield",
+        "city": "Liverpool",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740930",
+      "date": "2026-04-25T14:00Z",
+      "date_only": "2026-04-25",
+      "name": "Everton at West Ham United",
+      "short_name": "EVE @ WHU",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 10:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "371",
+        "name": "West Ham United",
+        "abbr": "WHU",
+        "normalized_name": "west ham united",
+        "score": "0",
+        "form": "DWLLD",
+        "record": "8-9-16"
+      },
+      "away_team": {
+        "id": "368",
+        "name": "Everton",
+        "abbr": "EVE",
+        "normalized_name": "everton",
+        "score": "0",
+        "form": "LDWLW",
+        "record": "13-8-12"
+      },
+      "venue": {
+        "name": "London Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740934",
+      "date": "2026-04-25T14:00Z",
+      "date_only": "2026-04-25",
+      "name": "Tottenham Hotspur at Wolverhampton Wanderers",
+      "short_name": "TOT @ WOL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 10:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "380",
+        "name": "Wolverhampton Wanderers",
+        "abbr": "WOL",
+        "normalized_name": "wolverhampton wanderers",
+        "score": "0",
+        "form": "LLDLW",
+        "record": "3-8-22"
+      },
+      "away_team": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "abbr": "TOT",
+        "normalized_name": "tottenham hotspur",
+        "score": "0",
+        "form": "DLLWD",
+        "record": "7-10-16"
+      },
+      "venue": {
+        "name": "Molineux Stadium",
+        "city": "Wolverhampton",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740931",
+      "date": "2026-04-25T16:30Z",
+      "date_only": "2026-04-25",
+      "name": "Newcastle United at Arsenal",
+      "short_name": "NEW @ ARS",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "359",
+        "name": "Arsenal",
+        "abbr": "ARS",
+        "normalized_name": "arsenal",
+        "score": "0",
+        "form": "LDLWL",
+        "record": "21-7-5"
+      },
+      "away_team": {
+        "id": "361",
+        "name": "Newcastle United",
+        "abbr": "NEW",
+        "normalized_name": "newcastle united",
+        "score": "0",
+        "form": "LLLLW",
+        "record": "12-6-15"
+      },
+      "venue": {
+        "name": "Emirates Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740932",
+      "date": "2026-04-27T19:00Z",
+      "date_only": "2026-04-27",
+      "name": "Brentford at Manchester United",
+      "short_name": "BRE @ MAN",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Mon, April 27th at 3:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "360",
+        "name": "Manchester United",
+        "abbr": "MAN",
+        "normalized_name": "manchester united",
+        "score": "0",
+        "form": "WLDWL",
+        "record": "16-10-7"
+      },
+      "away_team": {
+        "id": "337",
+        "name": "Brentford",
+        "abbr": "BRE",
+        "normalized_name": "brentford",
+        "score": "0",
+        "form": "DDDDL",
+        "record": "13-9-11"
+      },
+      "venue": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "country": "England"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "740923",
+      "date": "2026-04-20T19:00Z",
+      "date_only": "2026-04-20",
+      "name": "West Ham United at Crystal Palace",
+      "short_name": "WHU @ CRY",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "abbr": "CRY",
+        "normalized_name": "crystal palace",
+        "score": "0",
+        "form": "DLWWW",
+        "record": "11-10-11"
+      },
+      "away_team": {
+        "id": "371",
+        "name": "West Ham United",
+        "abbr": "WHU",
+        "normalized_name": "west ham united",
+        "score": "0",
+        "form": "DWLLD",
+        "record": "8-9-16"
+      },
+      "venue": {
+        "name": "Selhurst Park",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740916",
+      "date": "2026-04-19T15:30Z",
+      "date_only": "2026-04-19",
+      "name": "Arsenal at Manchester City",
+      "short_name": "ARS @ MNC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "382",
+        "name": "Manchester City",
+        "abbr": "MNC",
+        "normalized_name": "manchester city",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "20-7-5"
+      },
+      "away_team": {
+        "id": "359",
+        "name": "Arsenal",
+        "abbr": "ARS",
+        "normalized_name": "arsenal",
+        "score": "1",
+        "form": "LDLWL",
+        "record": "21-7-5"
+      },
+      "venue": {
+        "name": "Etihad Stadium",
+        "city": "Manchester",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740925",
+      "date": "2026-04-19T13:00Z",
+      "date_only": "2026-04-19",
+      "name": "Liverpool at Everton",
+      "short_name": "LIV @ EVE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "368",
+        "name": "Everton",
+        "abbr": "EVE",
+        "normalized_name": "everton",
+        "score": "1",
+        "form": "LDWLW",
+        "record": "13-8-12"
+      },
+      "away_team": {
+        "id": "364",
+        "name": "Liverpool",
+        "abbr": "LIV",
+        "normalized_name": "liverpool",
+        "score": "2",
+        "form": "WLWLL",
+        "record": "16-7-10"
+      },
+      "venue": {
+        "name": "Hill Dickinson Stadium",
+        "city": "Liverpool",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740919",
+      "date": "2026-04-19T13:00Z",
+      "date_only": "2026-04-19",
+      "name": "Sunderland at Aston Villa",
+      "short_name": "SUN @ AVL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "362",
+        "name": "Aston Villa",
+        "abbr": "AVL",
+        "normalized_name": "aston villa",
+        "score": "4",
+        "form": "WWDWW",
+        "record": "17-7-9"
+      },
+      "away_team": {
+        "id": "366",
+        "name": "Sunderland",
+        "abbr": "SUN",
+        "normalized_name": "sunderland",
+        "score": "3",
+        "form": "LWWLL",
+        "record": "12-10-11"
+      },
+      "venue": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740917",
+      "date": "2026-04-19T13:00Z",
+      "date_only": "2026-04-19",
+      "name": "Burnley at Nottingham Forest",
+      "short_name": "BUR @ NFO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "abbr": "NFO",
+        "normalized_name": "nottingham forest",
+        "score": "4",
+        "form": "WWDDW",
+        "record": "9-9-15"
+      },
+      "away_team": {
+        "id": "379",
+        "name": "Burnley",
+        "abbr": "BUR",
+        "normalized_name": "burnley",
+        "score": "1",
+        "form": "LLLDL",
+        "record": "4-8-21"
+      },
+      "venue": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740922",
+      "date": "2026-04-18T19:00Z",
+      "date_only": "2026-04-18",
+      "name": "Manchester United at Chelsea",
+      "short_name": "MAN @ CHE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLWLL",
+        "record": "13-9-11"
+      },
+      "away_team": {
+        "id": "360",
+        "name": "Manchester United",
+        "abbr": "MAN",
+        "normalized_name": "manchester united",
+        "score": "1",
+        "form": "WLDWL",
+        "record": "16-10-7"
+      },
+      "venue": {
+        "name": "Stamford Bridge",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740920",
+      "date": "2026-04-18T16:30Z",
+      "date_only": "2026-04-18",
+      "name": "Brighton & Hove Albion at Tottenham Hotspur",
+      "short_name": "BHA @ TOT",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "abbr": "TOT",
+        "normalized_name": "tottenham hotspur",
+        "score": "2",
+        "form": "DLLWD",
+        "record": "7-10-16"
+      },
+      "away_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "2",
+        "form": "DWWWL",
+        "record": "12-11-10"
+      },
+      "venue": {
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740924",
+      "date": "2026-04-18T14:00Z",
+      "date_only": "2026-04-18",
+      "name": "Wolverhampton Wanderers at Leeds United",
+      "short_name": "WOL @ LEE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "357",
+        "name": "Leeds United",
+        "abbr": "LEE",
+        "normalized_name": "leeds united",
+        "score": "3",
+        "form": "WWWDD",
+        "record": "9-12-12"
+      },
+      "away_team": {
+        "id": "380",
+        "name": "Wolverhampton Wanderers",
+        "abbr": "WOL",
+        "normalized_name": "wolverhampton wanderers",
+        "score": "0",
+        "form": "LLDLW",
+        "record": "3-8-22"
+      },
+      "venue": {
+        "name": "Elland Road",
+        "city": "Leeds",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740918",
+      "date": "2026-04-18T14:00Z",
+      "date_only": "2026-04-18",
+      "name": "AFC Bournemouth at Newcastle United",
+      "short_name": "BOU @ NEW",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "361",
+        "name": "Newcastle United",
+        "abbr": "NEW",
+        "normalized_name": "newcastle united",
+        "score": "1",
+        "form": "LLLLW",
+        "record": "12-6-15"
+      },
+      "away_team": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "abbr": "BOU",
+        "normalized_name": "afc bournemouth",
+        "score": "2",
+        "form": "WWDDD",
+        "record": "11-15-7"
+      },
+      "venue": {
+        "name": "St. James' Park",
+        "city": "Newcastle-upon-Tyne",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740921",
+      "date": "2026-04-18T11:30Z",
+      "date_only": "2026-04-18",
+      "name": "Fulham at Brentford",
+      "short_name": "FUL @ BRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "337",
+        "name": "Brentford",
+        "abbr": "BRE",
+        "normalized_name": "brentford",
+        "score": "0",
+        "form": "DDDDL",
+        "record": "13-9-11"
+      },
+      "away_team": {
+        "id": "370",
+        "name": "Fulham",
+        "abbr": "FUL",
+        "normalized_name": "fulham",
+        "score": "0",
+        "form": "DLWDL",
+        "record": "13-6-14"
+      },
+      "venue": {
+        "name": "Gtech Community Stadium",
+        "city": "Brentford",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740912",
+      "date": "2026-04-13T19:00Z",
+      "date_only": "2026-04-13",
+      "name": "Leeds United at Manchester United",
+      "short_name": "LEE @ MAN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "360",
+        "name": "Manchester United",
+        "abbr": "MAN",
+        "normalized_name": "manchester united",
+        "score": "1",
+        "form": "WLDWL",
+        "record": "15-10-7"
+      },
+      "away_team": {
+        "id": "357",
+        "name": "Leeds United",
+        "abbr": "LEE",
+        "normalized_name": "leeds united",
+        "score": "2",
+        "form": "WWWDD",
+        "record": "8-12-12"
+      },
+      "venue": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740909",
+      "date": "2026-04-12T15:30Z",
+      "date_only": "2026-04-12",
+      "name": "Manchester City at Chelsea",
+      "short_name": "MNC @ CHE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLWLL",
+        "record": "13-9-10"
+      },
+      "away_team": {
+        "id": "382",
+        "name": "Manchester City",
+        "abbr": "MNC",
+        "normalized_name": "manchester city",
+        "score": "3",
+        "form": "WWWWL",
+        "record": "19-7-5"
+      },
+      "venue": {
+        "name": "Stamford Bridge",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740915",
+      "date": "2026-04-12T13:00Z",
+      "date_only": "2026-04-12",
+      "name": "Tottenham Hotspur at Sunderland",
+      "short_name": "TOT @ SUN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "366",
+        "name": "Sunderland",
+        "abbr": "SUN",
+        "normalized_name": "sunderland",
+        "score": "1",
+        "form": "LWWLL",
+        "record": "12-10-10"
+      },
+      "away_team": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "abbr": "TOT",
+        "normalized_name": "tottenham hotspur",
+        "score": "0",
+        "form": "DLLWD",
+        "record": "7-9-16"
+      },
+      "venue": {
+        "name": "Stadium of Light",
+        "city": "Sunderland",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740914",
+      "date": "2026-04-12T13:00Z",
+      "date_only": "2026-04-12",
+      "name": "Aston Villa at Nottingham Forest",
+      "short_name": "AVL @ NFO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "abbr": "NFO",
+        "normalized_name": "nottingham forest",
+        "score": "1",
+        "form": "WWDDW",
+        "record": "8-9-15"
+      },
+      "away_team": {
+        "id": "362",
+        "name": "Aston Villa",
+        "abbr": "AVL",
+        "normalized_name": "aston villa",
+        "score": "1",
+        "form": "WWDWW",
+        "record": "16-7-9"
+      },
+      "venue": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740910",
+      "date": "2026-04-12T13:00Z",
+      "date_only": "2026-04-12",
+      "name": "Newcastle United at Crystal Palace",
+      "short_name": "NEW @ CRY",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "abbr": "CRY",
+        "normalized_name": "crystal palace",
+        "score": "2",
+        "form": "DLWWW",
+        "record": "11-9-11"
+      },
+      "away_team": {
+        "id": "361",
+        "name": "Newcastle United",
+        "abbr": "NEW",
+        "normalized_name": "newcastle united",
+        "score": "1",
+        "form": "LLLLW",
+        "record": "12-6-14"
+      },
+      "venue": {
+        "name": "Selhurst Park",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740911",
+      "date": "2026-04-11T16:30Z",
+      "date_only": "2026-04-11",
+      "name": "Fulham at Liverpool",
+      "short_name": "FUL @ LIV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "364",
+        "name": "Liverpool",
+        "abbr": "LIV",
+        "normalized_name": "liverpool",
+        "score": "2",
+        "form": "WLWLL",
+        "record": "15-7-10"
+      },
+      "away_team": {
+        "id": "370",
+        "name": "Fulham",
+        "abbr": "FUL",
+        "normalized_name": "fulham",
+        "score": "0",
+        "form": "DLWDL",
+        "record": "13-5-14"
+      },
+      "venue": {
+        "name": "Anfield",
+        "city": "Liverpool",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740907",
+      "date": "2026-04-11T14:00Z",
+      "date_only": "2026-04-11",
+      "name": "Brighton & Hove Albion at Burnley",
+      "short_name": "BHA @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "379",
+        "name": "Burnley",
+        "abbr": "BUR",
+        "normalized_name": "burnley",
+        "score": "0",
+        "form": "LLLDL",
+        "record": "4-8-20"
+      },
+      "away_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "2",
+        "form": "DWWWL",
+        "record": "12-10-10"
+      },
+      "venue": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740906",
+      "date": "2026-04-11T14:00Z",
+      "date_only": "2026-04-11",
+      "name": "Everton at Brentford",
+      "short_name": "EVE @ BRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "337",
+        "name": "Brentford",
+        "abbr": "BRE",
+        "normalized_name": "brentford",
+        "score": "2",
+        "form": "DDDDL",
+        "record": "13-8-11"
+      },
+      "away_team": {
+        "id": "368",
+        "name": "Everton",
+        "abbr": "EVE",
+        "normalized_name": "everton",
+        "score": "2",
+        "form": "LDWLW",
+        "record": "13-8-11"
+      },
+      "venue": {
+        "name": "Gtech Community Stadium",
+        "city": "Brentford",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740908",
+      "date": "2026-04-11T11:30Z",
+      "date_only": "2026-04-11",
+      "name": "AFC Bournemouth at Arsenal",
+      "short_name": "BOU @ ARS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "359",
+        "name": "Arsenal",
+        "abbr": "ARS",
+        "normalized_name": "arsenal",
+        "score": "1",
+        "form": "LDLWL",
+        "record": "21-7-4"
+      },
+      "away_team": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "abbr": "BOU",
+        "normalized_name": "afc bournemouth",
+        "score": "2",
+        "form": "WWDDD",
+        "record": "10-15-7"
+      },
+      "venue": {
+        "name": "Emirates Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740913",
+      "date": "2026-04-10T19:00Z",
+      "date_only": "2026-04-10",
+      "name": "Wolverhampton Wanderers at West Ham United",
+      "short_name": "WOL @ WHU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "371",
+        "name": "West Ham United",
+        "abbr": "WHU",
+        "normalized_name": "west ham united",
+        "score": "4",
+        "form": "DWLLD",
+        "record": "8-8-16"
+      },
+      "away_team": {
+        "id": "380",
+        "name": "Wolverhampton Wanderers",
+        "abbr": "WOL",
+        "normalized_name": "wolverhampton wanderers",
+        "score": "0",
+        "form": "LLDLW",
+        "record": "3-8-21"
+      },
+      "venue": {
+        "name": "London Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740904",
+      "date": "2026-03-22T14:15Z",
+      "date_only": "2026-03-22",
+      "name": "Nottingham Forest at Tottenham Hotspur",
+      "short_name": "NFO @ TOT",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "abbr": "TOT",
+        "normalized_name": "tottenham hotspur",
+        "score": "0",
+        "form": "DLLWD",
+        "record": "7-9-15"
+      },
+      "away_team": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "abbr": "NFO",
+        "normalized_name": "nottingham forest",
+        "score": "3",
+        "form": "WWDDW",
+        "record": "8-8-15"
+      },
+      "venue": {
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740896",
+      "date": "2026-03-22T14:15Z",
+      "date_only": "2026-03-22",
+      "name": "West Ham United at Aston Villa",
+      "short_name": "WHU @ AVL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "362",
+        "name": "Aston Villa",
+        "abbr": "AVL",
+        "normalized_name": "aston villa",
+        "score": "2",
+        "form": "WWDWW",
+        "record": "16-6-9"
+      },
+      "away_team": {
+        "id": "371",
+        "name": "West Ham United",
+        "abbr": "WHU",
+        "normalized_name": "west ham united",
+        "score": "0",
+        "form": "DWLLD",
+        "record": "7-8-16"
+      },
+      "venue": {
+        "name": "Villa Park",
+        "city": "Birmingham",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740903",
+      "date": "2026-03-22T12:00Z",
+      "date_only": "2026-03-22",
+      "name": "Sunderland at Newcastle United",
+      "short_name": "SUN @ NEW",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "361",
+        "name": "Newcastle United",
+        "abbr": "NEW",
+        "normalized_name": "newcastle united",
+        "score": "1",
+        "form": "LLLLW",
+        "record": "12-6-13"
+      },
+      "away_team": {
+        "id": "366",
+        "name": "Sunderland",
+        "abbr": "SUN",
+        "normalized_name": "sunderland",
+        "score": "2",
+        "form": "LWWLL",
+        "record": "11-10-10"
+      },
+      "venue": {
+        "name": "St. James' Park",
+        "city": "Newcastle-upon-Tyne",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740900",
+      "date": "2026-03-21T20:00Z",
+      "date_only": "2026-03-21",
+      "name": "Brentford at Leeds United",
+      "short_name": "BRE @ LEE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "357",
+        "name": "Leeds United",
+        "abbr": "LEE",
+        "normalized_name": "leeds united",
+        "score": "0",
+        "form": "WWWDD",
+        "record": "7-12-12"
+      },
+      "away_team": {
+        "id": "337",
+        "name": "Brentford",
+        "abbr": "BRE",
+        "normalized_name": "brentford",
+        "score": "0",
+        "form": "DDDDL",
+        "record": "13-7-11"
+      },
+      "venue": {
+        "name": "Elland Road",
+        "city": "Leeds",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740899",
+      "date": "2026-03-21T17:30Z",
+      "date_only": "2026-03-21",
+      "name": "Chelsea at Everton",
+      "short_name": "CHE @ EVE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "368",
+        "name": "Everton",
+        "abbr": "EVE",
+        "normalized_name": "everton",
+        "score": "3",
+        "form": "LDWLW",
+        "record": "13-7-11"
+      },
+      "away_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLWLL",
+        "record": "13-9-9"
+      },
+      "venue": {
+        "name": "Hill Dickinson Stadium",
+        "city": "Liverpool",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740905",
+      "date": "2026-03-21T15:00Z",
+      "date_only": "2026-03-21",
+      "name": "Burnley at Fulham",
+      "short_name": "BUR @ FUL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "370",
+        "name": "Fulham",
+        "abbr": "FUL",
+        "normalized_name": "fulham",
+        "score": "3",
+        "form": "DLWDL",
+        "record": "13-5-13"
+      },
+      "away_team": {
+        "id": "379",
+        "name": "Burnley",
+        "abbr": "BUR",
+        "normalized_name": "burnley",
+        "score": "1",
+        "form": "LLLDL",
+        "record": "4-8-19"
+      },
+      "venue": {
+        "name": "Craven Cottage",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740898",
+      "date": "2026-03-21T12:45Z",
+      "date_only": "2026-03-21",
+      "name": "Liverpool at Brighton & Hove Albion",
+      "short_name": "LIV @ BHA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "2",
+        "form": "DWWWL",
+        "record": "11-10-10"
+      },
+      "away_team": {
+        "id": "364",
+        "name": "Liverpool",
+        "abbr": "LIV",
+        "normalized_name": "liverpool",
+        "score": "1",
+        "form": "WLWLL",
+        "record": "14-7-10"
+      },
+      "venue": {
+        "name": "American Express Stadium",
+        "city": "Falmer",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740897",
+      "date": "2026-03-20T20:00Z",
+      "date_only": "2026-03-20",
+      "name": "Manchester United at AFC Bournemouth",
+      "short_name": "MAN @ BOU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "abbr": "BOU",
+        "normalized_name": "afc bournemouth",
+        "score": "2",
+        "form": "WWDDD",
+        "record": "9-15-7"
+      },
+      "away_team": {
+        "id": "360",
+        "name": "Manchester United",
+        "abbr": "MAN",
+        "normalized_name": "manchester united",
+        "score": "2",
+        "form": "WLDWL",
+        "record": "15-10-6"
+      },
+      "venue": {
+        "name": "Vitality Stadium",
+        "city": "Bournemouth",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740887",
+      "date": "2026-03-16T20:00Z",
+      "date_only": "2026-03-16",
+      "name": "Wolverhampton Wanderers at Brentford",
+      "short_name": "WOL @ BRE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "337",
+        "name": "Brentford",
+        "abbr": "BRE",
+        "normalized_name": "brentford",
+        "score": "2",
+        "form": "DDDDL",
+        "record": "13-6-11"
+      },
+      "away_team": {
+        "id": "380",
+        "name": "Wolverhampton Wanderers",
+        "abbr": "WOL",
+        "normalized_name": "wolverhampton wanderers",
+        "score": "2",
+        "form": "LLDLW",
+        "record": "3-8-20"
+      },
+      "venue": {
+        "name": "Gtech Community Stadium",
+        "city": "Brentford",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740891",
+      "date": "2026-03-15T16:30Z",
+      "date_only": "2026-03-15",
+      "name": "Tottenham Hotspur at Liverpool",
+      "short_name": "TOT @ LIV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "364",
+        "name": "Liverpool",
+        "abbr": "LIV",
+        "normalized_name": "liverpool",
+        "score": "1",
+        "form": "WLWLL",
+        "record": "14-7-9"
+      },
+      "away_team": {
+        "id": "367",
+        "name": "Tottenham Hotspur",
+        "abbr": "TOT",
+        "normalized_name": "tottenham hotspur",
+        "score": "1",
+        "form": "DLLWD",
+        "record": "7-9-14"
+      },
+      "venue": {
+        "name": "Anfield",
+        "city": "Liverpool",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740893",
+      "date": "2026-03-15T14:00Z",
+      "date_only": "2026-03-15",
+      "name": "Fulham at Nottingham Forest",
+      "short_name": "FUL @ NFO",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "393",
+        "name": "Nottingham Forest",
+        "abbr": "NFO",
+        "normalized_name": "nottingham forest",
+        "score": "0",
+        "form": "WWDDW",
+        "record": "7-8-15"
+      },
+      "away_team": {
+        "id": "370",
+        "name": "Fulham",
+        "abbr": "FUL",
+        "normalized_name": "fulham",
+        "score": "0",
+        "form": "DLWDL",
+        "record": "12-5-13"
+      },
+      "venue": {
+        "name": "The City Ground",
+        "city": "Nottingham",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740892",
+      "date": "2026-03-15T14:00Z",
+      "date_only": "2026-03-15",
+      "name": "Aston Villa at Manchester United",
+      "short_name": "AVL @ MAN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "360",
+        "name": "Manchester United",
+        "abbr": "MAN",
+        "normalized_name": "manchester united",
+        "score": "3",
+        "form": "WLDWL",
+        "record": "15-9-6"
+      },
+      "away_team": {
+        "id": "362",
+        "name": "Aston Villa",
+        "abbr": "AVL",
+        "normalized_name": "aston villa",
+        "score": "1",
+        "form": "WWDWW",
+        "record": "15-6-9"
+      },
+      "venue": {
+        "name": "Old Trafford",
+        "city": "Manchester",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740890",
+      "date": "2026-03-15T14:00Z",
+      "date_only": "2026-03-15",
+      "name": "Leeds United at Crystal Palace",
+      "short_name": "LEE @ CRY",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "384",
+        "name": "Crystal Palace",
+        "abbr": "CRY",
+        "normalized_name": "crystal palace",
+        "score": "0",
+        "form": "DLWWW",
+        "record": "10-9-11"
+      },
+      "away_team": {
+        "id": "357",
+        "name": "Leeds United",
+        "abbr": "LEE",
+        "normalized_name": "leeds united",
+        "score": "0",
+        "form": "WWWDD",
+        "record": "7-11-12"
+      },
+      "venue": {
+        "name": "Selhurst Park",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740895",
+      "date": "2026-03-14T20:00Z",
+      "date_only": "2026-03-14",
+      "name": "Manchester City at West Ham United",
+      "short_name": "MNC @ WHU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "371",
+        "name": "West Ham United",
+        "abbr": "WHU",
+        "normalized_name": "west ham united",
+        "score": "1",
+        "form": "DWLLD",
+        "record": "7-8-15"
+      },
+      "away_team": {
+        "id": "382",
+        "name": "Manchester City",
+        "abbr": "MNC",
+        "normalized_name": "manchester city",
+        "score": "1",
+        "form": "WWWWL",
+        "record": "18-7-5"
+      },
+      "venue": {
+        "name": "London Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740889",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "Newcastle United at Chelsea",
+      "short_name": "NEW @ CHE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "363",
+        "name": "Chelsea",
+        "abbr": "CHE",
+        "normalized_name": "chelsea",
+        "score": "0",
+        "form": "LLWLL",
+        "record": "13-9-8"
+      },
+      "away_team": {
+        "id": "361",
+        "name": "Newcastle United",
+        "abbr": "NEW",
+        "normalized_name": "newcastle united",
+        "score": "1",
+        "form": "LLLLW",
+        "record": "12-6-12"
+      },
+      "venue": {
+        "name": "Stamford Bridge",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740886",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "Everton at Arsenal",
+      "short_name": "EVE @ ARS",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "359",
+        "name": "Arsenal",
+        "abbr": "ARS",
+        "normalized_name": "arsenal",
+        "score": "2",
+        "form": "LDLWL",
+        "record": "21-7-3"
+      },
+      "away_team": {
+        "id": "368",
+        "name": "Everton",
+        "abbr": "EVE",
+        "normalized_name": "everton",
+        "score": "0",
+        "form": "LDWLW",
+        "record": "12-7-11"
+      },
+      "venue": {
+        "name": "Emirates Stadium",
+        "city": "London",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740894",
+      "date": "2026-03-14T15:00Z",
+      "date_only": "2026-03-14",
+      "name": "Brighton & Hove Albion at Sunderland",
+      "short_name": "BHA @ SUN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "366",
+        "name": "Sunderland",
+        "abbr": "SUN",
+        "normalized_name": "sunderland",
+        "score": "0",
+        "form": "LWWLL",
+        "record": "10-10-10"
+      },
+      "away_team": {
+        "id": "331",
+        "name": "Brighton & Hove Albion",
+        "abbr": "BHA",
+        "normalized_name": "brighton and hove albion",
+        "score": "1",
+        "form": "DWWWL",
+        "record": "10-10-10"
+      },
+      "venue": {
+        "name": "Stadium of Light",
+        "city": "Sunderland",
+        "country": "England"
+      }
+    },
+    {
+      "event_id": "740888",
+      "date": "2026-03-14T15:00Z",
+      "date_only": "2026-03-14",
+      "name": "AFC Bournemouth at Burnley",
+      "short_name": "BOU @ BUR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "379",
+        "name": "Burnley",
+        "abbr": "BUR",
+        "normalized_name": "burnley",
+        "score": "0",
+        "form": "LLLDL",
+        "record": "4-8-18"
+      },
+      "away_team": {
+        "id": "349",
+        "name": "AFC Bournemouth",
+        "abbr": "BOU",
+        "normalized_name": "afc bournemouth",
+        "score": "0",
+        "form": "WWDDD",
+        "record": "9-14-7"
+      },
+      "venue": {
+        "name": "Turf Moor",
+        "city": "Burnley",
+        "country": "England"
+      }
+    }
+  ],
+  "team_index": {
+    "afc bournemouth": {
+      "team_id": "349",
+      "name": "AFC Bournemouth",
+      "short_name": "Bournemouth",
+      "abbr": "BOU",
+      "normalized_name": "afc bournemouth",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AFC Bournemouth",
+        "BOU",
+        "Bournemouth"
+      ]
+    },
+    "arsenal": {
+      "team_id": "359",
+      "name": "Arsenal",
+      "short_name": "Arsenal",
+      "abbr": "ARS",
+      "normalized_name": "arsenal",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ARS",
+        "Arsenal"
+      ]
+    },
+    "aston villa": {
+      "team_id": "362",
+      "name": "Aston Villa",
+      "short_name": "Aston Villa",
+      "abbr": "AVL",
+      "normalized_name": "aston villa",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AVL",
+        "Aston Villa"
+      ]
+    },
+    "brentford": {
+      "team_id": "337",
+      "name": "Brentford",
+      "short_name": "Brentford",
+      "abbr": "BRE",
+      "normalized_name": "brentford",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BRE",
+        "Brentford"
+      ]
+    },
+    "brighton and hove albion": {
+      "team_id": "331",
+      "name": "Brighton & Hove Albion",
+      "short_name": "Brighton",
+      "abbr": "BHA",
+      "normalized_name": "brighton and hove albion",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BHA",
+        "Brighton",
+        "Brighton & Hove Albion"
+      ]
+    },
+    "burnley": {
+      "team_id": "379",
+      "name": "Burnley",
+      "short_name": "Burnley",
+      "abbr": "BUR",
+      "normalized_name": "burnley",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BUR",
+        "Burnley"
+      ]
+    },
+    "chelsea": {
+      "team_id": "363",
+      "name": "Chelsea",
+      "short_name": "Chelsea",
+      "abbr": "CHE",
+      "normalized_name": "chelsea",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "CHE",
+        "Chelsea"
+      ]
+    },
+    "crystal palace": {
+      "team_id": "384",
+      "name": "Crystal Palace",
+      "short_name": "C Palace",
+      "abbr": "CRY",
+      "normalized_name": "crystal palace",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "C Palace",
+        "CRY",
+        "Crystal Palace"
+      ]
+    },
+    "everton": {
+      "team_id": "368",
+      "name": "Everton",
+      "short_name": "Everton",
+      "abbr": "EVE",
+      "normalized_name": "everton",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "EVE",
+        "Everton"
+      ]
+    },
+    "fulham": {
+      "team_id": "370",
+      "name": "Fulham",
+      "short_name": "Fulham",
+      "abbr": "FUL",
+      "normalized_name": "fulham",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "FUL",
+        "Fulham"
+      ]
+    },
+    "leeds united": {
+      "team_id": "357",
+      "name": "Leeds United",
+      "short_name": "Leeds",
+      "abbr": "LEE",
+      "normalized_name": "leeds united",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LEE",
+        "Leeds",
+        "Leeds United"
+      ]
+    },
+    "liverpool": {
+      "team_id": "364",
+      "name": "Liverpool",
+      "short_name": "Liverpool",
+      "abbr": "LIV",
+      "normalized_name": "liverpool",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LIV",
+        "Liverpool"
+      ]
+    },
+    "manchester city": {
+      "team_id": "382",
+      "name": "Manchester City",
+      "short_name": "Man City",
+      "abbr": "MNC",
+      "normalized_name": "manchester city",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "MNC",
+        "Man City",
+        "Manchester City"
+      ]
+    },
+    "manchester united": {
+      "team_id": "360",
+      "name": "Manchester United",
+      "short_name": "Man United",
+      "abbr": "MAN",
+      "normalized_name": "manchester united",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "MAN",
+        "Man United",
+        "Manchester United"
+      ]
+    },
+    "newcastle united": {
+      "team_id": "361",
+      "name": "Newcastle United",
+      "short_name": "Newcastle",
+      "abbr": "NEW",
+      "normalized_name": "newcastle united",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "NEW",
+        "Newcastle",
+        "Newcastle United"
+      ]
+    },
+    "nottingham forest": {
+      "team_id": "393",
+      "name": "Nottingham Forest",
+      "short_name": "Nottm Forest",
+      "abbr": "NFO",
+      "normalized_name": "nottingham forest",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "NFO",
+        "Nottingham Forest",
+        "Nottm Forest"
+      ]
+    },
+    "sunderland": {
+      "team_id": "366",
+      "name": "Sunderland",
+      "short_name": "Sunderland",
+      "abbr": "SUN",
+      "normalized_name": "sunderland",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "SUN",
+        "Sunderland"
+      ]
+    },
+    "tottenham hotspur": {
+      "team_id": "367",
+      "name": "Tottenham Hotspur",
+      "short_name": "Spurs",
+      "abbr": "TOT",
+      "normalized_name": "tottenham hotspur",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Spurs",
+        "TOT",
+        "Tottenham Hotspur"
+      ]
+    },
+    "west ham united": {
+      "team_id": "371",
+      "name": "West Ham United",
+      "short_name": "West Ham",
+      "abbr": "WHU",
+      "normalized_name": "west ham united",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "WHU",
+        "West Ham",
+        "West Ham United"
+      ]
+    },
+    "wolverhampton wanderers": {
+      "team_id": "380",
+      "name": "Wolverhampton Wanderers",
+      "short_name": "Wolves",
+      "abbr": "WOL",
+      "normalized_name": "wolverhampton wanderers",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "WOL",
+        "Wolverhampton Wanderers",
+        "Wolves"
+      ]
+    }
+  },
+  "team_form": {
+    "sunderland": {
+      "sequence": "LWWL",
+      "matches": 4,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2
+    },
+    "brighton and hove albion": {
+      "sequence": "WWWD",
+      "matches": 4,
+      "wins": 3,
+      "draws": 1,
+      "losses": 0
+    },
+    "burnley": {
+      "sequence": "DLLL",
+      "matches": 4,
+      "wins": 0,
+      "draws": 1,
+      "losses": 3
+    },
+    "afc bournemouth": {
+      "sequence": "DDWW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 2,
+      "losses": 0
+    },
+    "chelsea": {
+      "sequence": "LLLL",
+      "matches": 4,
+      "wins": 0,
+      "draws": 0,
+      "losses": 4
+    },
+    "newcastle united": {
+      "sequence": "WLLL",
+      "matches": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 3
+    },
+    "arsenal": {
+      "sequence": "WLL",
+      "matches": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2
+    },
+    "everton": {
+      "sequence": "LWDL",
+      "matches": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2
+    },
+    "west ham united": {
+      "sequence": "DLWD",
+      "matches": 4,
+      "wins": 1,
+      "draws": 2,
+      "losses": 1
+    },
+    "manchester city": {
+      "sequence": "DWW",
+      "matches": 3,
+      "wins": 2,
+      "draws": 1,
+      "losses": 0
+    },
+    "nottingham forest": {
+      "sequence": "DWDW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 2,
+      "losses": 0
+    },
+    "fulham": {
+      "sequence": "DWLD",
+      "matches": 4,
+      "wins": 1,
+      "draws": 2,
+      "losses": 1
+    },
+    "manchester united": {
+      "sequence": "WDLW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1
+    },
+    "aston villa": {
+      "sequence": "LWDW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1
+    },
+    "crystal palace": {
+      "sequence": "DWD",
+      "matches": 3,
+      "wins": 1,
+      "draws": 2,
+      "losses": 0
+    },
+    "leeds united": {
+      "sequence": "DDWW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 2,
+      "losses": 0
+    },
+    "liverpool": {
+      "sequence": "DLWW",
+      "matches": 4,
+      "wins": 2,
+      "draws": 1,
+      "losses": 1
+    },
+    "tottenham hotspur": {
+      "sequence": "DLLD",
+      "matches": 4,
+      "wins": 0,
+      "draws": 2,
+      "losses": 2
+    },
+    "brentford": {
+      "sequence": "DDDD",
+      "matches": 4,
+      "wins": 0,
+      "draws": 4,
+      "losses": 0
+    },
+    "wolverhampton wanderers": {
+      "sequence": "DLL",
+      "matches": 3,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2
+    }
+  },
+  "meta": {
+    "fixture_count": 10,
+    "recent_result_count": 38,
+    "team_count": 20
+  }
+}

@@ -1,0 +1,2424 @@
+{
+  "league_key": "ligue1",
+  "league_name": "Ligue 1",
+  "league_slug": "fra.1",
+  "source": "ESPN",
+  "scraped_at": "2026-04-18T23:48:42Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "160",
+      "team_name": "Paris Saint-Germain",
+      "team_short_name": "PSG",
+      "team_abbr": "PSG",
+      "normalized_name": "paris saint germain",
+      "played": 27.0,
+      "wins": 20.0,
+      "draws": 3.0,
+      "losses": 4.0,
+      "goals_for": 61.0,
+      "goals_against": 23.0,
+      "goal_difference": 38.0,
+      "points": 63.0,
+      "form": null,
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 27.0,
+        "Games Played": "27",
+        "GP": "27",
+        "losses": 4.0,
+        "Losses": "4",
+        "L": "4",
+        "pointDifferential": 38.0,
+        "Goal Difference": "+38",
+        "GD": "+38",
+        "points": 63.0,
+        "Points": "63",
+        "P": "63",
+        "pointsAgainst": 23.0,
+        "Goals Against": "23",
+        "A": "23",
+        "pointsFor": 61.0,
+        "Goals For": "61",
+        "F": "61",
+        "ties": 3.0,
+        "Draws": "3",
+        "D": "3",
+        "wins": 20.0,
+        "Wins": "20",
+        "W": "20",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "20-3-4",
+        "Overall": "20-3-4",
+        "Total": "20-3-4"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "175",
+      "team_name": "Lens",
+      "team_short_name": "Lens",
+      "team_abbr": "RCL",
+      "normalized_name": "lens",
+      "played": 29.0,
+      "wins": 20.0,
+      "draws": 2.0,
+      "losses": 7.0,
+      "goals_for": 57.0,
+      "goals_against": 29.0,
+      "goal_difference": 28.0,
+      "points": 62.0,
+      "form": "W",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 28.0,
+        "Goal Difference": "+28",
+        "GD": "+28",
+        "points": 62.0,
+        "Points": "62",
+        "P": "62",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 57.0,
+        "Goals For": "57",
+        "F": "57",
+        "ties": 2.0,
+        "Draws": "2",
+        "D": "2",
+        "wins": 20.0,
+        "Wins": "20",
+        "W": "20",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "20-2-7",
+        "Overall": "20-2-7",
+        "Total": "20-2-7"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "166",
+      "team_name": "Lille",
+      "team_short_name": "Lille",
+      "team_abbr": "LILL",
+      "normalized_name": "lille",
+      "played": 30.0,
+      "wins": 16.0,
+      "draws": 6.0,
+      "losses": 8.0,
+      "goals_for": 49.0,
+      "goals_against": 34.0,
+      "goal_difference": 15.0,
+      "points": 54.0,
+      "form": "WD",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 15.0,
+        "Goal Difference": "+15",
+        "GD": "+15",
+        "points": 54.0,
+        "Points": "54",
+        "P": "54",
+        "pointsAgainst": 34.0,
+        "Goals Against": "34",
+        "A": "34",
+        "pointsFor": 49.0,
+        "Goals For": "49",
+        "F": "49",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-6-8",
+        "Overall": "16-6-8",
+        "Total": "16-6-8"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "176",
+      "team_name": "Marseille",
+      "team_short_name": "Marseille",
+      "team_abbr": "OLM",
+      "normalized_name": "marseille",
+      "played": 30.0,
+      "wins": 16.0,
+      "draws": 4.0,
+      "losses": 10.0,
+      "goals_for": 58.0,
+      "goals_against": 40.0,
+      "goal_difference": 18.0,
+      "points": 52.0,
+      "form": "LWL",
+      "status": "Champions League qualifying",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 18.0,
+        "Goal Difference": "+18",
+        "GD": "+18",
+        "points": 52.0,
+        "Points": "52",
+        "P": "52",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 58.0,
+        "Goals For": "58",
+        "F": "58",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-4-10",
+        "Overall": "16-4-10",
+        "Total": "16-4-10"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "167",
+      "team_name": "Lyon",
+      "team_short_name": "Lyon",
+      "team_abbr": "LYON",
+      "normalized_name": "lyon",
+      "played": 29.0,
+      "wins": 15.0,
+      "draws": 6.0,
+      "losses": 8.0,
+      "goals_for": 43.0,
+      "goals_against": 29.0,
+      "goal_difference": 14.0,
+      "points": 51.0,
+      "form": "DW",
+      "status": "Europa League",
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 14.0,
+        "Goal Difference": "+14",
+        "GD": "+14",
+        "points": 51.0,
+        "Points": "51",
+        "P": "51",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 43.0,
+        "Goals For": "43",
+        "F": "43",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 15.0,
+        "Wins": "15",
+        "W": "15",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "15-6-8",
+        "Overall": "15-6-8",
+        "Total": "15-6-8"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "169",
+      "team_name": "Stade Rennais",
+      "team_short_name": "Rennes",
+      "team_abbr": "REN",
+      "normalized_name": "stade rennais",
+      "played": 29.0,
+      "wins": 14.0,
+      "draws": 8.0,
+      "losses": 7.0,
+      "goals_for": 49.0,
+      "goals_against": 41.0,
+      "goal_difference": 8.0,
+      "points": 50.0,
+      "form": "W",
+      "status": "Conference League qualifying",
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 8.0,
+        "Goal Difference": "+8",
+        "GD": "+8",
+        "points": 50.0,
+        "Points": "50",
+        "P": "50",
+        "pointsAgainst": 41.0,
+        "Goals Against": "41",
+        "A": "41",
+        "pointsFor": 49.0,
+        "Goals For": "49",
+        "F": "49",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 14.0,
+        "Wins": "14",
+        "W": "14",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "14-8-7",
+        "Overall": "14-8-7",
+        "Total": "14-8-7"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "174",
+      "team_name": "AS Monaco",
+      "team_short_name": "Monaco",
+      "team_abbr": "MON",
+      "normalized_name": "as monaco",
+      "played": 29.0,
+      "wins": 15.0,
+      "draws": 4.0,
+      "losses": 10.0,
+      "goals_for": 50.0,
+      "goals_against": 43.0,
+      "goal_difference": 7.0,
+      "points": 49.0,
+      "form": "WL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": 7.0,
+        "Goal Difference": "+7",
+        "GD": "+7",
+        "points": 49.0,
+        "Points": "49",
+        "P": "49",
+        "pointsAgainst": 43.0,
+        "Goals Against": "43",
+        "A": "43",
+        "pointsFor": 50.0,
+        "Goals For": "50",
+        "F": "50",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 15.0,
+        "Wins": "15",
+        "W": "15",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "15-4-10",
+        "Overall": "15-4-10",
+        "Total": "15-4-10"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "180",
+      "team_name": "Strasbourg",
+      "team_short_name": "Strasbourg",
+      "team_abbr": "STR",
+      "normalized_name": "strasbourg",
+      "played": 28.0,
+      "wins": 12.0,
+      "draws": 7.0,
+      "losses": 9.0,
+      "goals_for": 46.0,
+      "goals_against": 34.0,
+      "goal_difference": 12.0,
+      "points": 43.0,
+      "form": null,
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 28.0,
+        "Games Played": "28",
+        "GP": "28",
+        "losses": 9.0,
+        "Losses": "9",
+        "L": "9",
+        "pointDifferential": 12.0,
+        "Goal Difference": "+12",
+        "GD": "+12",
+        "points": 43.0,
+        "Points": "43",
+        "P": "43",
+        "pointsAgainst": 34.0,
+        "Goals Against": "34",
+        "A": "34",
+        "pointsFor": 46.0,
+        "Goals For": "46",
+        "F": "46",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-7-9",
+        "Overall": "12-7-9",
+        "Total": "12-7-9"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "273",
+      "team_name": "Lorient",
+      "team_short_name": "Lorient",
+      "team_abbr": "LOR",
+      "normalized_name": "lorient",
+      "played": 30.0,
+      "wins": 10.0,
+      "draws": 11.0,
+      "losses": 9.0,
+      "goals_for": 40.0,
+      "goals_against": 44.0,
+      "goal_difference": -4.0,
+      "points": 41.0,
+      "form": "DLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 9.0,
+        "Losses": "9",
+        "L": "9",
+        "pointDifferential": -4.0,
+        "Goal Difference": "-4",
+        "GD": "-4",
+        "points": 41.0,
+        "Points": "41",
+        "P": "41",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 40.0,
+        "Goals For": "40",
+        "F": "40",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-11-9",
+        "Overall": "10-11-9",
+        "Total": "10-11-9"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "179",
+      "team_name": "Toulouse",
+      "team_short_name": "Toulouse",
+      "team_abbr": "TOU",
+      "normalized_name": "toulouse",
+      "played": 30.0,
+      "wins": 10.0,
+      "draws": 7.0,
+      "losses": 13.0,
+      "goals_for": 41.0,
+      "goals_against": 42.0,
+      "goal_difference": -1.0,
+      "points": 37.0,
+      "form": "LL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -1.0,
+        "Goal Difference": "-1",
+        "GD": "-1",
+        "points": 37.0,
+        "Points": "37",
+        "P": "37",
+        "pointsAgainst": 42.0,
+        "Goals Against": "42",
+        "A": "42",
+        "pointsFor": 41.0,
+        "Goals For": "41",
+        "F": "41",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-7-13",
+        "Overall": "10-7-13",
+        "Total": "10-7-13"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "6997",
+      "team_name": "Brest",
+      "team_short_name": "Brest",
+      "team_abbr": "BRE",
+      "normalized_name": "brest",
+      "played": 28.0,
+      "wins": 10.0,
+      "draws": 6.0,
+      "losses": 12.0,
+      "goals_for": 37.0,
+      "goals_against": 43.0,
+      "goal_difference": -6.0,
+      "points": 36.0,
+      "form": null,
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 28.0,
+        "Games Played": "28",
+        "GP": "28",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -6.0,
+        "Goal Difference": "-6",
+        "GD": "-6",
+        "points": 36.0,
+        "Points": "36",
+        "P": "36",
+        "pointsAgainst": 43.0,
+        "Goals Against": "43",
+        "A": "43",
+        "pointsFor": 37.0,
+        "Goals For": "37",
+        "F": "37",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-6-12",
+        "Overall": "10-6-12",
+        "Total": "10-6-12"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "6851",
+      "team_name": "Paris FC",
+      "team_short_name": "Paris FC",
+      "team_abbr": "PAR",
+      "normalized_name": "paris",
+      "played": 29.0,
+      "wins": 8.0,
+      "draws": 11.0,
+      "losses": 10.0,
+      "goals_for": 37.0,
+      "goals_against": 45.0,
+      "goal_difference": -8.0,
+      "points": 35.0,
+      "form": "DW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": -8.0,
+        "Goal Difference": "-8",
+        "GD": "-8",
+        "points": 35.0,
+        "Points": "35",
+        "P": "35",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 37.0,
+        "Goals For": "37",
+        "F": "37",
+        "ties": 11.0,
+        "Draws": "11",
+        "D": "11",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-11-10",
+        "Overall": "8-11-10",
+        "Total": "8-11-10"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "7868",
+      "team_name": "Angers",
+      "team_short_name": "Angers",
+      "team_abbr": "ANG",
+      "normalized_name": "angers",
+      "played": 30.0,
+      "wins": 9.0,
+      "draws": 7.0,
+      "losses": 14.0,
+      "goals_for": 26.0,
+      "goals_against": 40.0,
+      "goal_difference": -14.0,
+      "points": 34.0,
+      "form": "DLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -14.0,
+        "Goal Difference": "-14",
+        "GD": "-14",
+        "points": 34.0,
+        "Points": "34",
+        "P": "34",
+        "pointsAgainst": 40.0,
+        "Goals Against": "40",
+        "A": "40",
+        "pointsFor": 26.0,
+        "Goals For": "26",
+        "F": "26",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 9.0,
+        "Wins": "9",
+        "W": "9",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "9-7-14",
+        "Overall": "9-7-14",
+        "Total": "9-7-14"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "3236",
+      "team_name": "Le Havre AC",
+      "team_short_name": "Le Havre AC",
+      "team_abbr": "HAC",
+      "normalized_name": "le havre",
+      "played": 30.0,
+      "wins": 6.0,
+      "draws": 12.0,
+      "losses": 12.0,
+      "goals_for": 25.0,
+      "goals_against": 38.0,
+      "goal_difference": -13.0,
+      "points": 30.0,
+      "form": "DDD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -13.0,
+        "Goal Difference": "-13",
+        "GD": "-13",
+        "points": 30.0,
+        "Points": "30",
+        "P": "30",
+        "pointsAgainst": 38.0,
+        "Goals Against": "38",
+        "A": "38",
+        "pointsFor": 25.0,
+        "Goals For": "25",
+        "F": "25",
+        "ties": 12.0,
+        "Draws": "12",
+        "D": "12",
+        "wins": 6.0,
+        "Wins": "6",
+        "W": "6",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "6-12-12",
+        "Overall": "6-12-12",
+        "Total": "6-12-12"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "2502",
+      "team_name": "Nice",
+      "team_short_name": "Nice",
+      "team_abbr": "NICE",
+      "normalized_name": "nice",
+      "played": 30.0,
+      "wins": 7.0,
+      "draws": 8.0,
+      "losses": 15.0,
+      "goals_for": 34.0,
+      "goals_against": 56.0,
+      "goal_difference": -22.0,
+      "points": 29.0,
+      "form": "DD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -22.0,
+        "Goal Difference": "-22",
+        "GD": "-22",
+        "points": 29.0,
+        "Points": "29",
+        "P": "29",
+        "pointsAgainst": 56.0,
+        "Goals Against": "56",
+        "A": "56",
+        "pointsFor": 34.0,
+        "Goals For": "34",
+        "F": "34",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-8-15",
+        "Overall": "7-8-15",
+        "Total": "7-8-15"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "172",
+      "team_name": "AJ Auxerre",
+      "team_short_name": "Auxerre",
+      "team_abbr": "AUX",
+      "normalized_name": "aj auxerre",
+      "played": 29.0,
+      "wins": 5.0,
+      "draws": 9.0,
+      "losses": 15.0,
+      "goals_for": 23.0,
+      "goals_against": 37.0,
+      "goal_difference": -14.0,
+      "points": 24.0,
+      "form": "DD",
+      "status": "Relegation playoff",
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -14.0,
+        "Goal Difference": "-14",
+        "GD": "-14",
+        "points": 24.0,
+        "Points": "24",
+        "P": "24",
+        "pointsAgainst": 37.0,
+        "Goals Against": "37",
+        "A": "37",
+        "pointsFor": 23.0,
+        "Goals For": "23",
+        "F": "23",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 5.0,
+        "Wins": "5",
+        "W": "5",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "5-9-15",
+        "Overall": "5-9-15",
+        "Total": "5-9-15"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "165",
+      "team_name": "Nantes",
+      "team_short_name": "Nantes",
+      "team_abbr": "NAN",
+      "normalized_name": "nantes",
+      "played": 28.0,
+      "wins": 4.0,
+      "draws": 7.0,
+      "losses": 17.0,
+      "goals_for": 24.0,
+      "goals_against": 45.0,
+      "goal_difference": -21.0,
+      "points": 19.0,
+      "form": "DD",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 28.0,
+        "Games Played": "28",
+        "GP": "28",
+        "losses": 17.0,
+        "Losses": "17",
+        "L": "17",
+        "pointDifferential": -21.0,
+        "Goal Difference": "-21",
+        "GD": "-21",
+        "points": 19.0,
+        "Points": "19",
+        "P": "19",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 24.0,
+        "Goals For": "24",
+        "F": "24",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 4.0,
+        "Wins": "4",
+        "W": "4",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "4-7-17",
+        "Overall": "4-7-17",
+        "Total": "4-7-17"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "177",
+      "team_name": "Metz",
+      "team_short_name": "Metz",
+      "team_abbr": "METZ",
+      "normalized_name": "metz",
+      "played": 29.0,
+      "wins": 3.0,
+      "draws": 6.0,
+      "losses": 20.0,
+      "goals_for": 26.0,
+      "goals_against": 63.0,
+      "goal_difference": -37.0,
+      "points": 15.0,
+      "form": "DL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 29.0,
+        "Games Played": "29",
+        "GP": "29",
+        "losses": 20.0,
+        "Losses": "20",
+        "L": "20",
+        "pointDifferential": -37.0,
+        "Goal Difference": "-37",
+        "GD": "-37",
+        "points": 15.0,
+        "Points": "15",
+        "P": "15",
+        "pointsAgainst": 63.0,
+        "Goals Against": "63",
+        "A": "63",
+        "pointsFor": 26.0,
+        "Goals For": "26",
+        "F": "26",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 3.0,
+        "Wins": "3",
+        "W": "3",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "3-6-20",
+        "Overall": "3-6-20",
+        "Total": "3-6-20"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "746678",
+      "date": "2026-04-19T13:00Z",
+      "date_only": "2026-04-19",
+      "name": "AJ Auxerre at AS Monaco",
+      "short_name": "AUX @ MON",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 19th at 9:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "174",
+        "name": "AS Monaco",
+        "abbr": "MON",
+        "normalized_name": "as monaco",
+        "score": "0",
+        "form": "LWWWW",
+        "record": "15-4-10"
+      },
+      "away_team": {
+        "id": "172",
+        "name": "AJ Auxerre",
+        "abbr": "AUX",
+        "normalized_name": "aj auxerre",
+        "score": "0",
+        "form": "DDWLD",
+        "record": "5-9-15"
+      },
+      "venue": {
+        "name": "Stade Louis II",
+        "city": "Monaco",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746677",
+      "date": "2026-04-19T15:15Z",
+      "date_only": "2026-04-19",
+      "name": "Paris FC at Metz",
+      "short_name": "PAR @ METZ",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 19th at 11:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "177",
+        "name": "Metz",
+        "abbr": "METZ",
+        "normalized_name": "metz",
+        "score": "0",
+        "form": "LDDLL",
+        "record": "3-6-20"
+      },
+      "away_team": {
+        "id": "6851",
+        "name": "Paris FC",
+        "abbr": "PAR",
+        "normalized_name": "paris",
+        "score": "0",
+        "form": "WDWDD",
+        "record": "8-11-10"
+      },
+      "venue": {
+        "name": "Stade Saint-Symphorien",
+        "city": "Metz",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746679",
+      "date": "2026-04-19T15:15Z",
+      "date_only": "2026-04-19",
+      "name": "Brest at Nantes",
+      "short_name": "BRE @ NAN",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 19th at 11:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "165",
+        "name": "Nantes",
+        "abbr": "NAN",
+        "normalized_name": "nantes",
+        "score": "0",
+        "form": "DDLLL",
+        "record": "4-7-17"
+      },
+      "away_team": {
+        "id": "6997",
+        "name": "Brest",
+        "abbr": "BRE",
+        "normalized_name": "brest",
+        "score": "0",
+        "form": "LLLWW",
+        "record": "10-6-12"
+      },
+      "venue": {
+        "name": "Stade de la Beaujoire",
+        "city": "Nantes",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746681",
+      "date": "2026-04-19T15:15Z",
+      "date_only": "2026-04-19",
+      "name": "Stade Rennais at Strasbourg",
+      "short_name": "REN @ STR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 19th at 11:15 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "180",
+        "name": "Strasbourg",
+        "abbr": "STR",
+        "normalized_name": "strasbourg",
+        "score": "0",
+        "form": "WLWWD",
+        "record": "12-7-9"
+      },
+      "away_team": {
+        "id": "169",
+        "name": "Stade Rennais",
+        "abbr": "REN",
+        "normalized_name": "stade rennais",
+        "score": "0",
+        "form": "WWDLW",
+        "record": "14-8-7"
+      },
+      "venue": {
+        "name": "Stade de la Meinau",
+        "city": "Strasbourg",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746680",
+      "date": "2026-04-19T18:45Z",
+      "date_only": "2026-04-19",
+      "name": "Lyon at Paris Saint-Germain",
+      "short_name": "LYON @ PSG",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 19th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "160",
+        "name": "Paris Saint-Germain",
+        "abbr": "PSG",
+        "normalized_name": "paris saint germain",
+        "score": "0",
+        "form": "WWWWW",
+        "record": "20-3-4"
+      },
+      "away_team": {
+        "id": "167",
+        "name": "Lyon",
+        "abbr": "LYON",
+        "normalized_name": "lyon",
+        "score": "0",
+        "form": "WDLLD",
+        "record": "15-6-8"
+      },
+      "venue": {
+        "name": "Parc des Princes",
+        "city": "Paris",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746643",
+      "date": "2026-04-22T17:00Z",
+      "date_only": "2026-04-22",
+      "name": "Nantes at Paris Saint-Germain",
+      "short_name": "NAN @ PSG",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Wed, April 22nd at 1:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "160",
+        "name": "Paris Saint-Germain",
+        "abbr": "PSG",
+        "normalized_name": "paris saint germain",
+        "score": "0",
+        "form": "WWWWW",
+        "record": "20-3-4"
+      },
+      "away_team": {
+        "id": "165",
+        "name": "Nantes",
+        "abbr": "NAN",
+        "normalized_name": "nantes",
+        "score": "0",
+        "form": "DDLLL",
+        "record": "4-7-17"
+      },
+      "venue": {
+        "name": "Parc des Princes",
+        "city": "Paris",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746683",
+      "date": "2026-04-24T18:45Z",
+      "date_only": "2026-04-24",
+      "name": "Lens at Brest",
+      "short_name": "RCL @ BRE",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 2:45 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6997",
+        "name": "Brest",
+        "abbr": "BRE",
+        "normalized_name": "brest",
+        "score": "0",
+        "form": "LLLWW",
+        "record": "10-6-12"
+      },
+      "away_team": {
+        "id": "175",
+        "name": "Lens",
+        "abbr": "RCL",
+        "normalized_name": "lens",
+        "score": "0",
+        "form": "WLWLW",
+        "record": "20-2-7"
+      },
+      "venue": {
+        "name": "Stade Francis-Le Blé",
+        "city": "Brest",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746686",
+      "date": "2026-04-25T13:00Z",
+      "date_only": "2026-04-25",
+      "name": "AJ Auxerre at Lyon",
+      "short_name": "AUX @ LYON",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:00 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "167",
+        "name": "Lyon",
+        "abbr": "LYON",
+        "normalized_name": "lyon",
+        "score": "0",
+        "form": "WDLLD",
+        "record": "15-6-8"
+      },
+      "away_team": {
+        "id": "172",
+        "name": "AJ Auxerre",
+        "abbr": "AUX",
+        "normalized_name": "aj auxerre",
+        "score": "0",
+        "form": "DDWLD",
+        "record": "5-9-15"
+      },
+      "venue": {
+        "name": "Groupama Stadium",
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746682",
+      "date": "2026-04-25T17:00Z",
+      "date_only": "2026-04-25",
+      "name": "Paris Saint-Germain at Angers",
+      "short_name": "PSG @ ANG",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 1:00 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7868",
+        "name": "Angers",
+        "abbr": "ANG",
+        "normalized_name": "angers",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "9-7-14"
+      },
+      "away_team": {
+        "id": "160",
+        "name": "Paris Saint-Germain",
+        "abbr": "PSG",
+        "normalized_name": "paris saint germain",
+        "score": "0",
+        "form": "WWWWW",
+        "record": "20-3-4"
+      },
+      "venue": {
+        "name": "Stade Raymond Kopa",
+        "city": "Angers",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746690",
+      "date": "2026-04-25T19:05Z",
+      "date_only": "2026-04-25",
+      "name": "AS Monaco at Toulouse",
+      "short_name": "MON @ TOU",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 3:05 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "179",
+        "name": "Toulouse",
+        "abbr": "TOU",
+        "normalized_name": "toulouse",
+        "score": "0",
+        "form": "LLLWW",
+        "record": "10-7-13"
+      },
+      "away_team": {
+        "id": "174",
+        "name": "AS Monaco",
+        "abbr": "MON",
+        "normalized_name": "as monaco",
+        "score": "0",
+        "form": "LWWWW",
+        "record": "15-4-10"
+      },
+      "venue": {
+        "name": "Stadium Municipal de Toulouse",
+        "city": "Toulouse",
+        "country": "France"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "746675",
+      "date": "2026-04-18T19:05Z",
+      "date_only": "2026-04-18",
+      "name": "Nice at Lille",
+      "short_name": "NICE @ LILL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "166",
+        "name": "Lille",
+        "abbr": "LILL",
+        "normalized_name": "lille",
+        "score": "0",
+        "form": "DWWWL",
+        "record": "16-6-8"
+      },
+      "away_team": {
+        "id": "2502",
+        "name": "Nice",
+        "abbr": "NICE",
+        "normalized_name": "nice",
+        "score": "0",
+        "form": "DDLLW",
+        "record": "7-8-15"
+      },
+      "venue": {
+        "name": "Decathlon Arena - Stade Pierre-Mauroy",
+        "city": "Lille",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746673",
+      "date": "2026-04-18T17:00Z",
+      "date_only": "2026-04-18",
+      "name": "Le Havre AC at Angers",
+      "short_name": "HAC @ ANG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7868",
+        "name": "Angers",
+        "abbr": "ANG",
+        "normalized_name": "angers",
+        "score": "1",
+        "form": "DLDLL",
+        "record": "9-7-14"
+      },
+      "away_team": {
+        "id": "3236",
+        "name": "Le Havre AC",
+        "abbr": "HAC",
+        "normalized_name": "le havre",
+        "score": "1",
+        "form": "DDDLD",
+        "record": "6-12-12"
+      },
+      "venue": {
+        "name": "Stade Raymond Kopa",
+        "city": "Angers",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746676",
+      "date": "2026-04-18T15:00Z",
+      "date_only": "2026-04-18",
+      "name": "Marseille at Lorient",
+      "short_name": "OLM @ LOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "273",
+        "name": "Lorient",
+        "abbr": "LOR",
+        "normalized_name": "lorient",
+        "score": "2",
+        "form": "WLDLW",
+        "record": "10-11-9"
+      },
+      "away_team": {
+        "id": "176",
+        "name": "Marseille",
+        "abbr": "OLM",
+        "normalized_name": "marseille",
+        "score": "0",
+        "form": "LWLLW",
+        "record": "16-4-10"
+      },
+      "venue": {
+        "name": "Stade du Moustoir - Yves Allainmat",
+        "city": "Lorient",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746674",
+      "date": "2026-04-17T18:45Z",
+      "date_only": "2026-04-17",
+      "name": "Toulouse at Lens",
+      "short_name": "TOU @ RCL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "175",
+        "name": "Lens",
+        "abbr": "RCL",
+        "normalized_name": "lens",
+        "score": "3",
+        "form": "WLWLW",
+        "record": "20-2-7"
+      },
+      "away_team": {
+        "id": "179",
+        "name": "Toulouse",
+        "abbr": "TOU",
+        "normalized_name": "toulouse",
+        "score": "2",
+        "form": "LLLWW",
+        "record": "10-7-13"
+      },
+      "venue": {
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746667",
+      "date": "2026-04-12T18:45Z",
+      "date_only": "2026-04-12",
+      "name": "Lorient at Lyon",
+      "short_name": "LOR @ LYON",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "167",
+        "name": "Lyon",
+        "abbr": "LYON",
+        "normalized_name": "lyon",
+        "score": "2",
+        "form": "WDLLD",
+        "record": "15-6-8"
+      },
+      "away_team": {
+        "id": "273",
+        "name": "Lorient",
+        "abbr": "LOR",
+        "normalized_name": "lorient",
+        "score": "0",
+        "form": "WLDLW",
+        "record": "9-11-9"
+      },
+      "venue": {
+        "name": "Groupama Stadium",
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746672",
+      "date": "2026-04-12T15:15Z",
+      "date_only": "2026-04-12",
+      "name": "Lille at Toulouse",
+      "short_name": "LILL @ TOU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "179",
+        "name": "Toulouse",
+        "abbr": "TOU",
+        "normalized_name": "toulouse",
+        "score": "0",
+        "form": "LLLWW",
+        "record": "10-7-12"
+      },
+      "away_team": {
+        "id": "166",
+        "name": "Lille",
+        "abbr": "LILL",
+        "normalized_name": "lille",
+        "score": "4",
+        "form": "DWWWL",
+        "record": "16-5-8"
+      },
+      "venue": {
+        "name": "Stadium Municipal de Toulouse",
+        "city": "Toulouse",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746669",
+      "date": "2026-04-12T15:15Z",
+      "date_only": "2026-04-12",
+      "name": "Le Havre AC at Nice",
+      "short_name": "HAC @ NICE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2502",
+        "name": "Nice",
+        "abbr": "NICE",
+        "normalized_name": "nice",
+        "score": "1",
+        "form": "DDLLW",
+        "record": "7-7-15"
+      },
+      "away_team": {
+        "id": "3236",
+        "name": "Le Havre AC",
+        "abbr": "HAC",
+        "normalized_name": "le havre",
+        "score": "1",
+        "form": "DDDLD",
+        "record": "6-11-12"
+      },
+      "venue": {
+        "name": "Allianz Riviera",
+        "city": "Nice",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746671",
+      "date": "2026-04-11T19:05Z",
+      "date_only": "2026-04-11",
+      "name": "Angers at Stade Rennais",
+      "short_name": "ANG @ REN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "169",
+        "name": "Stade Rennais",
+        "abbr": "REN",
+        "normalized_name": "stade rennais",
+        "score": "2",
+        "form": "WWDLW",
+        "record": "14-8-7"
+      },
+      "away_team": {
+        "id": "7868",
+        "name": "Angers",
+        "abbr": "ANG",
+        "normalized_name": "angers",
+        "score": "1",
+        "form": "DLDLL",
+        "record": "9-6-14"
+      },
+      "venue": {
+        "name": "Roazhon Park",
+        "city": "Rennes",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746664",
+      "date": "2026-04-11T17:00Z",
+      "date_only": "2026-04-11",
+      "name": "Nantes at AJ Auxerre",
+      "short_name": "NAN @ AUX",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "172",
+        "name": "AJ Auxerre",
+        "abbr": "AUX",
+        "normalized_name": "aj auxerre",
+        "score": "0",
+        "form": "DDWLD",
+        "record": "5-9-15"
+      },
+      "away_team": {
+        "id": "165",
+        "name": "Nantes",
+        "abbr": "NAN",
+        "normalized_name": "nantes",
+        "score": "0",
+        "form": "DDLLL",
+        "record": "4-7-17"
+      },
+      "venue": {
+        "name": "Stade de l'Abbé-Deschamps",
+        "city": "Auxerre",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746668",
+      "date": "2026-04-10T19:05Z",
+      "date_only": "2026-04-10",
+      "name": "Metz at Marseille",
+      "short_name": "METZ @ OLM",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "176",
+        "name": "Marseille",
+        "abbr": "OLM",
+        "normalized_name": "marseille",
+        "score": "3",
+        "form": "LWLLW",
+        "record": "16-4-9"
+      },
+      "away_team": {
+        "id": "177",
+        "name": "Metz",
+        "abbr": "METZ",
+        "normalized_name": "metz",
+        "score": "1",
+        "form": "LDDLL",
+        "record": "3-6-20"
+      },
+      "venue": {
+        "name": "Stade Vélodrome",
+        "city": "Marseille",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746670",
+      "date": "2026-04-10T17:00Z",
+      "date_only": "2026-04-10",
+      "name": "AS Monaco at Paris FC",
+      "short_name": "MON @ PAR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6851",
+        "name": "Paris FC",
+        "abbr": "PAR",
+        "normalized_name": "paris",
+        "score": "4",
+        "form": "WDWDD",
+        "record": "8-11-10"
+      },
+      "away_team": {
+        "id": "174",
+        "name": "AS Monaco",
+        "abbr": "MON",
+        "normalized_name": "as monaco",
+        "score": "1",
+        "form": "LWWWW",
+        "record": "15-4-10"
+      },
+      "venue": {
+        "name": "Stade Jean Bouin",
+        "city": "Paris",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746661",
+      "date": "2026-04-05T18:45Z",
+      "date_only": "2026-04-05",
+      "name": "Marseille at AS Monaco",
+      "short_name": "OLM @ MON",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "174",
+        "name": "AS Monaco",
+        "abbr": "MON",
+        "normalized_name": "as monaco",
+        "score": "2",
+        "form": "LWWWW",
+        "record": "15-4-9"
+      },
+      "away_team": {
+        "id": "176",
+        "name": "Marseille",
+        "abbr": "OLM",
+        "normalized_name": "marseille",
+        "score": "1",
+        "form": "LWLLW",
+        "record": "15-4-9"
+      },
+      "venue": {
+        "name": "Stade Louis II",
+        "city": "Monaco",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746663",
+      "date": "2026-04-05T15:15Z",
+      "date_only": "2026-04-05",
+      "name": "Paris FC at Lorient",
+      "short_name": "PAR @ LOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "273",
+        "name": "Lorient",
+        "abbr": "LOR",
+        "normalized_name": "lorient",
+        "score": "1",
+        "form": "WLDLW",
+        "record": "9-11-8"
+      },
+      "away_team": {
+        "id": "6851",
+        "name": "Paris FC",
+        "abbr": "PAR",
+        "normalized_name": "paris",
+        "score": "1",
+        "form": "WDWDD",
+        "record": "7-11-10"
+      },
+      "venue": {
+        "name": "Stade du Moustoir - Yves Allainmat",
+        "city": "Lorient",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746660",
+      "date": "2026-04-05T15:15Z",
+      "date_only": "2026-04-05",
+      "name": "Nantes at Metz",
+      "short_name": "NAN @ METZ",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "177",
+        "name": "Metz",
+        "abbr": "METZ",
+        "normalized_name": "metz",
+        "score": "0",
+        "form": "LDDLL",
+        "record": "3-6-19"
+      },
+      "away_team": {
+        "id": "165",
+        "name": "Nantes",
+        "abbr": "NAN",
+        "normalized_name": "nantes",
+        "score": "0",
+        "form": "DDLLL",
+        "record": "4-6-17"
+      },
+      "venue": {
+        "name": "Stade Saint-Symphorien",
+        "city": "Metz",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746657",
+      "date": "2026-04-05T15:15Z",
+      "date_only": "2026-04-05",
+      "name": "AJ Auxerre at Le Havre AC",
+      "short_name": "AUX @ HAC",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3236",
+        "name": "Le Havre AC",
+        "abbr": "HAC",
+        "normalized_name": "le havre",
+        "score": "1",
+        "form": "DDDLD",
+        "record": "6-10-12"
+      },
+      "away_team": {
+        "id": "172",
+        "name": "AJ Auxerre",
+        "abbr": "AUX",
+        "normalized_name": "aj auxerre",
+        "score": "1",
+        "form": "DDWLD",
+        "record": "5-8-15"
+      },
+      "venue": {
+        "name": "Stade Océane",
+        "city": "Le Havre",
+        "country": "France"
+      }
+    },
+    {
+      "event_id": "746655",
+      "date": "2026-04-05T13:00Z",
+      "date_only": "2026-04-05",
+      "name": "Lyon at Angers",
+      "short_name": "LYON @ ANG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7868",
+        "name": "Angers",
+        "abbr": "ANG",
+        "normalized_name": "angers",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "9-6-13"
+      },
+      "away_team": {
+        "id": "167",
+        "name": "Lyon",
+        "abbr": "LYON",
+        "normalized_name": "lyon",
+        "score": "0",
+        "form": "WDLLD",
+        "record": "14-6-8"
+      },
+      "venue": {
+        "name": "Stade Raymond Kopa",
+        "city": "Angers",
+        "country": "France"
+      }
+    }
+  ],
+  "team_index": {
+    "aj auxerre": {
+      "team_id": "172",
+      "name": "AJ Auxerre",
+      "short_name": "Auxerre",
+      "abbr": "AUX",
+      "normalized_name": "aj auxerre",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AJ Auxerre",
+        "AUX",
+        "Auxerre"
+      ]
+    },
+    "angers": {
+      "team_id": "7868",
+      "name": "Angers",
+      "short_name": "Angers",
+      "abbr": "ANG",
+      "normalized_name": "angers",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "ANG",
+        "Angers"
+      ]
+    },
+    "as monaco": {
+      "team_id": "174",
+      "name": "AS Monaco",
+      "short_name": "Monaco",
+      "abbr": "MON",
+      "normalized_name": "as monaco",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "AS Monaco",
+        "MON",
+        "Monaco"
+      ]
+    },
+    "brest": {
+      "team_id": "6997",
+      "name": "Brest",
+      "short_name": "Brest",
+      "abbr": "BRE",
+      "normalized_name": "brest",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BRE",
+        "Brest"
+      ]
+    },
+    "le havre": {
+      "team_id": "3236",
+      "name": "Le Havre AC",
+      "short_name": "Le Havre AC",
+      "abbr": "HAC",
+      "normalized_name": "le havre",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "HAC",
+        "Le Havre AC"
+      ]
+    },
+    "lens": {
+      "team_id": "175",
+      "name": "Lens",
+      "short_name": "Lens",
+      "abbr": "RCL",
+      "normalized_name": "lens",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Lens",
+        "RCL"
+      ]
+    },
+    "lille": {
+      "team_id": "166",
+      "name": "Lille",
+      "short_name": "Lille",
+      "abbr": "LILL",
+      "normalized_name": "lille",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LILL",
+        "Lille"
+      ]
+    },
+    "lorient": {
+      "team_id": "273",
+      "name": "Lorient",
+      "short_name": "Lorient",
+      "abbr": "LOR",
+      "normalized_name": "lorient",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LOR",
+        "Lorient"
+      ]
+    },
+    "lyon": {
+      "team_id": "167",
+      "name": "Lyon",
+      "short_name": "Lyon",
+      "abbr": "LYON",
+      "normalized_name": "lyon",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "LYON",
+        "Lyon"
+      ]
+    },
+    "marseille": {
+      "team_id": "176",
+      "name": "Marseille",
+      "short_name": "Marseille",
+      "abbr": "OLM",
+      "normalized_name": "marseille",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Marseille",
+        "OLM"
+      ]
+    },
+    "metz": {
+      "team_id": "177",
+      "name": "Metz",
+      "short_name": "Metz",
+      "abbr": "METZ",
+      "normalized_name": "metz",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "METZ",
+        "Metz"
+      ]
+    },
+    "nantes": {
+      "team_id": "165",
+      "name": "Nantes",
+      "short_name": "Nantes",
+      "abbr": "NAN",
+      "normalized_name": "nantes",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "NAN",
+        "Nantes"
+      ]
+    },
+    "nice": {
+      "team_id": "2502",
+      "name": "Nice",
+      "short_name": "Nice",
+      "abbr": "NICE",
+      "normalized_name": "nice",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "NICE",
+        "Nice"
+      ]
+    },
+    "paris": {
+      "team_id": "6851",
+      "name": "Paris FC",
+      "short_name": "Paris FC",
+      "abbr": "PAR",
+      "normalized_name": "paris",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "PAR",
+        "Paris FC"
+      ]
+    },
+    "paris saint germain": {
+      "team_id": "160",
+      "name": "Paris Saint-Germain",
+      "short_name": "PSG",
+      "abbr": "PSG",
+      "normalized_name": "paris saint germain",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "PSG",
+        "Paris Saint-Germain"
+      ]
+    },
+    "stade rennais": {
+      "team_id": "169",
+      "name": "Stade Rennais",
+      "short_name": "Rennes",
+      "abbr": "REN",
+      "normalized_name": "stade rennais",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "REN",
+        "Rennes",
+        "Stade Rennais"
+      ]
+    },
+    "strasbourg": {
+      "team_id": "180",
+      "name": "Strasbourg",
+      "short_name": "Strasbourg",
+      "abbr": "STR",
+      "normalized_name": "strasbourg",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "STR",
+        "Strasbourg"
+      ]
+    },
+    "toulouse": {
+      "team_id": "179",
+      "name": "Toulouse",
+      "short_name": "Toulouse",
+      "abbr": "TOU",
+      "normalized_name": "toulouse",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "TOU",
+        "Toulouse"
+      ]
+    }
+  },
+  "team_form": {
+    "angers": {
+      "sequence": "DLD",
+      "matches": 3,
+      "wins": 0,
+      "draws": 2,
+      "losses": 1
+    },
+    "lyon": {
+      "sequence": "DW",
+      "matches": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0
+    },
+    "lorient": {
+      "sequence": "DLW",
+      "matches": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1
+    },
+    "paris": {
+      "sequence": "DW",
+      "matches": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0
+    },
+    "metz": {
+      "sequence": "DL",
+      "matches": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1
+    },
+    "nantes": {
+      "sequence": "DD",
+      "matches": 2,
+      "wins": 0,
+      "draws": 2,
+      "losses": 0
+    },
+    "le havre": {
+      "sequence": "DDD",
+      "matches": 3,
+      "wins": 0,
+      "draws": 3,
+      "losses": 0
+    },
+    "aj auxerre": {
+      "sequence": "DD",
+      "matches": 2,
+      "wins": 0,
+      "draws": 2,
+      "losses": 0
+    },
+    "as monaco": {
+      "sequence": "WL",
+      "matches": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1
+    },
+    "marseille": {
+      "sequence": "LWL",
+      "matches": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2
+    },
+    "stade rennais": {
+      "sequence": "W",
+      "matches": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0
+    },
+    "toulouse": {
+      "sequence": "LL",
+      "matches": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2
+    },
+    "lille": {
+      "sequence": "WD",
+      "matches": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0
+    },
+    "nice": {
+      "sequence": "DD",
+      "matches": 2,
+      "wins": 0,
+      "draws": 2,
+      "losses": 0
+    },
+    "lens": {
+      "sequence": "W",
+      "matches": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0
+    }
+  },
+  "meta": {
+    "fixture_count": 10,
+    "recent_result_count": 16,
+    "team_count": 18
+  }
+}

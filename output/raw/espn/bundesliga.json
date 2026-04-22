@@ -1,0 +1,3789 @@
+{
+  "league_key": "bundesliga",
+  "league_name": "Bundesliga",
+  "league_slug": "ger.1",
+  "source": "ESPN",
+  "scraped_at": "2026-04-21T18:59:28Z",
+  "standings": [
+    {
+      "rank": 1.0,
+      "team_id": "132",
+      "team_name": "Bayern Munich",
+      "team_short_name": "Bayern",
+      "team_abbr": "MUN",
+      "normalized_name": "bayern munich",
+      "played": 30.0,
+      "wins": 25.0,
+      "draws": 4.0,
+      "losses": 1.0,
+      "goals_for": 109.0,
+      "goals_against": 29.0,
+      "goal_difference": 80.0,
+      "points": 79.0,
+      "form": "DWWWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 1.0,
+        "Losses": "1",
+        "L": "1",
+        "pointDifferential": 80.0,
+        "Goal Difference": "+80",
+        "GD": "+80",
+        "points": 79.0,
+        "Points": "79",
+        "P": "79",
+        "pointsAgainst": 29.0,
+        "Goals Against": "29",
+        "A": "29",
+        "pointsFor": 109.0,
+        "Goals For": "109",
+        "F": "109",
+        "ties": 4.0,
+        "Draws": "4",
+        "D": "4",
+        "wins": 25.0,
+        "Wins": "25",
+        "W": "25",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 1.0,
+        "Rank": "1",
+        "R": "1",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "25-4-1",
+        "Overall": "25-4-1",
+        "Total": "25-4-1"
+      }
+    },
+    {
+      "rank": 2.0,
+      "team_id": "124",
+      "team_name": "Borussia Dortmund",
+      "team_short_name": "Dortmund",
+      "team_abbr": "DOR",
+      "normalized_name": "borussia dortmund",
+      "played": 30.0,
+      "wins": 19.0,
+      "draws": 7.0,
+      "losses": 4.0,
+      "goals_for": 61.0,
+      "goals_against": 31.0,
+      "goal_difference": 30.0,
+      "points": 64.0,
+      "form": "WWWLL",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 4.0,
+        "Losses": "4",
+        "L": "4",
+        "pointDifferential": 30.0,
+        "Goal Difference": "+30",
+        "GD": "+30",
+        "points": 64.0,
+        "Points": "64",
+        "P": "64",
+        "pointsAgainst": 31.0,
+        "Goals Against": "31",
+        "A": "31",
+        "pointsFor": 61.0,
+        "Goals For": "61",
+        "F": "61",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 19.0,
+        "Wins": "19",
+        "W": "19",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 2.0,
+        "Rank": "2",
+        "R": "2",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "19-7-4",
+        "Overall": "19-7-4",
+        "Total": "19-7-4"
+      }
+    },
+    {
+      "rank": 3.0,
+      "team_id": "11420",
+      "team_name": "RB Leipzig",
+      "team_short_name": "RB Leipzig",
+      "team_abbr": "RBL",
+      "normalized_name": "rb leipzig",
+      "played": 30.0,
+      "wins": 18.0,
+      "draws": 5.0,
+      "losses": 7.0,
+      "goals_for": 59.0,
+      "goals_against": 37.0,
+      "goal_difference": 22.0,
+      "points": 59.0,
+      "form": "LWWWW",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 7.0,
+        "Losses": "7",
+        "L": "7",
+        "pointDifferential": 22.0,
+        "Goal Difference": "+22",
+        "GD": "+22",
+        "points": 59.0,
+        "Points": "59",
+        "P": "59",
+        "pointsAgainst": 37.0,
+        "Goals Against": "37",
+        "A": "37",
+        "pointsFor": 59.0,
+        "Goals For": "59",
+        "F": "59",
+        "ties": 5.0,
+        "Draws": "5",
+        "D": "5",
+        "wins": 18.0,
+        "Wins": "18",
+        "W": "18",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 3.0,
+        "Rank": "3",
+        "R": "3",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "18-5-7",
+        "Overall": "18-5-7",
+        "Total": "18-5-7"
+      }
+    },
+    {
+      "rank": 4.0,
+      "team_id": "134",
+      "team_name": "VfB Stuttgart",
+      "team_short_name": "Stuttgart",
+      "team_abbr": "VFB",
+      "normalized_name": "vfb stuttgart",
+      "played": 30.0,
+      "wins": 17.0,
+      "draws": 5.0,
+      "losses": 8.0,
+      "goals_for": 62.0,
+      "goals_against": 42.0,
+      "goal_difference": 20.0,
+      "points": 56.0,
+      "form": "WWLWL",
+      "status": "Champions League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 20.0,
+        "Goal Difference": "+20",
+        "GD": "+20",
+        "points": 56.0,
+        "Points": "56",
+        "P": "56",
+        "pointsAgainst": 42.0,
+        "Goals Against": "42",
+        "A": "42",
+        "pointsFor": 62.0,
+        "Goals For": "62",
+        "F": "62",
+        "ties": 5.0,
+        "Draws": "5",
+        "D": "5",
+        "wins": 17.0,
+        "Wins": "17",
+        "W": "17",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 4.0,
+        "Rank": "4",
+        "R": "4",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "17-5-8",
+        "Overall": "17-5-8",
+        "Total": "17-5-8"
+      }
+    },
+    {
+      "rank": 5.0,
+      "team_id": "7911",
+      "team_name": "TSG Hoffenheim",
+      "team_short_name": "Hoffenheim",
+      "team_abbr": "TSG",
+      "normalized_name": "tsg hoffenheim",
+      "played": 30.0,
+      "wins": 16.0,
+      "draws": 6.0,
+      "losses": 8.0,
+      "goals_for": 59.0,
+      "goals_against": 44.0,
+      "goal_difference": 15.0,
+      "points": 54.0,
+      "form": "DLLDW",
+      "status": "Europa League",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 15.0,
+        "Goal Difference": "+15",
+        "GD": "+15",
+        "points": 54.0,
+        "Points": "54",
+        "P": "54",
+        "pointsAgainst": 44.0,
+        "Goals Against": "44",
+        "A": "44",
+        "pointsFor": 59.0,
+        "Goals For": "59",
+        "F": "59",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 16.0,
+        "Wins": "16",
+        "W": "16",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 5.0,
+        "Rank": "5",
+        "R": "5",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "16-6-8",
+        "Overall": "16-6-8",
+        "Total": "16-6-8"
+      }
+    },
+    {
+      "rank": 6.0,
+      "team_id": "131",
+      "team_name": "Bayer Leverkusen",
+      "team_short_name": "Leverkusen",
+      "team_abbr": "B04",
+      "normalized_name": "bayer leverkusen",
+      "played": 30.0,
+      "wins": 15.0,
+      "draws": 7.0,
+      "losses": 8.0,
+      "goals_for": 60.0,
+      "goals_against": 41.0,
+      "goal_difference": 19.0,
+      "points": 52.0,
+      "form": "DDWWL",
+      "status": "Conference League qualifying",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 8.0,
+        "Losses": "8",
+        "L": "8",
+        "pointDifferential": 19.0,
+        "Goal Difference": "+19",
+        "GD": "+19",
+        "points": 52.0,
+        "Points": "52",
+        "P": "52",
+        "pointsAgainst": 41.0,
+        "Goals Against": "41",
+        "A": "41",
+        "pointsFor": 60.0,
+        "Goals For": "60",
+        "F": "60",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 15.0,
+        "Wins": "15",
+        "W": "15",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 6.0,
+        "Rank": "6",
+        "R": "6",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "15-7-8",
+        "Overall": "15-7-8",
+        "Total": "15-7-8"
+      }
+    },
+    {
+      "rank": 7.0,
+      "team_id": "126",
+      "team_name": "SC Freiburg",
+      "team_short_name": "Freiburg",
+      "team_abbr": "SCF",
+      "normalized_name": "freiburg",
+      "played": 30.0,
+      "wins": 12.0,
+      "draws": 7.0,
+      "losses": 11.0,
+      "goals_for": 44.0,
+      "goals_against": 48.0,
+      "goal_difference": -4.0,
+      "points": 43.0,
+      "form": "LWLWW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 11.0,
+        "Losses": "11",
+        "L": "11",
+        "pointDifferential": -4.0,
+        "Goal Difference": "-4",
+        "GD": "-4",
+        "points": 43.0,
+        "Points": "43",
+        "P": "43",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 44.0,
+        "Goals For": "44",
+        "F": "44",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 12.0,
+        "Wins": "12",
+        "W": "12",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 7.0,
+        "Rank": "7",
+        "R": "7",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "12-7-11",
+        "Overall": "12-7-11",
+        "Total": "12-7-11"
+      }
+    },
+    {
+      "rank": 8.0,
+      "team_id": "125",
+      "team_name": "Eintracht Frankfurt",
+      "team_short_name": "Frankfurt",
+      "team_abbr": "SGE",
+      "normalized_name": "eintracht frankfurt",
+      "played": 30.0,
+      "wins": 11.0,
+      "draws": 9.0,
+      "losses": 10.0,
+      "goals_for": 55.0,
+      "goals_against": 57.0,
+      "goal_difference": -2.0,
+      "points": 42.0,
+      "form": "WLDWL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 10.0,
+        "Losses": "10",
+        "L": "10",
+        "pointDifferential": -2.0,
+        "Goal Difference": "-2",
+        "GD": "-2",
+        "points": 42.0,
+        "Points": "42",
+        "P": "42",
+        "pointsAgainst": 57.0,
+        "Goals Against": "57",
+        "A": "57",
+        "pointsFor": 55.0,
+        "Goals For": "55",
+        "F": "55",
+        "ties": 9.0,
+        "Draws": "9",
+        "D": "9",
+        "wins": 11.0,
+        "Wins": "11",
+        "W": "11",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 8.0,
+        "Rank": "8",
+        "R": "8",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "11-9-10",
+        "Overall": "11-9-10",
+        "Total": "11-9-10"
+      }
+    },
+    {
+      "rank": 9.0,
+      "team_id": "3841",
+      "team_name": "FC Augsburg",
+      "team_short_name": "Augsburg",
+      "team_abbr": "FCA",
+      "normalized_name": "augsburg",
+      "played": 30.0,
+      "wins": 10.0,
+      "draws": 6.0,
+      "losses": 14.0,
+      "goals_for": 38.0,
+      "goals_against": 54.0,
+      "goal_difference": -16.0,
+      "points": 36.0,
+      "form": "LLDDW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -16.0,
+        "Goal Difference": "-16",
+        "GD": "-16",
+        "points": 36.0,
+        "Points": "36",
+        "P": "36",
+        "pointsAgainst": 54.0,
+        "Goals Against": "54",
+        "A": "54",
+        "pointsFor": 38.0,
+        "Goals For": "38",
+        "F": "38",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 10.0,
+        "Wins": "10",
+        "W": "10",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 9.0,
+        "Rank": "9",
+        "R": "9",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "10-6-14",
+        "Overall": "10-6-14",
+        "Total": "10-6-14"
+      }
+    },
+    {
+      "rank": 10.0,
+      "team_id": "2950",
+      "team_name": "Mainz",
+      "team_short_name": "Mainz",
+      "team_abbr": "M05",
+      "normalized_name": "mainz",
+      "played": 30.0,
+      "wins": 8.0,
+      "draws": 10.0,
+      "losses": 12.0,
+      "goals_for": 36.0,
+      "goals_against": 45.0,
+      "goal_difference": -9.0,
+      "points": 34.0,
+      "form": "WWWLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 12.0,
+        "Losses": "12",
+        "L": "12",
+        "pointDifferential": -9.0,
+        "Goal Difference": "-9",
+        "GD": "-9",
+        "points": 34.0,
+        "Points": "34",
+        "P": "34",
+        "pointsAgainst": 45.0,
+        "Goals Against": "45",
+        "A": "45",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 10.0,
+        "Rank": "10",
+        "R": "10",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-10-12",
+        "Overall": "8-10-12",
+        "Total": "8-10-12"
+      }
+    },
+    {
+      "rank": 11.0,
+      "team_id": "598",
+      "team_name": "1. FC Union Berlin",
+      "team_short_name": "Union Berlin",
+      "team_abbr": "FCU",
+      "normalized_name": "1 union berlin",
+      "played": 30.0,
+      "wins": 8.0,
+      "draws": 8.0,
+      "losses": 14.0,
+      "goals_for": 34.0,
+      "goals_against": 52.0,
+      "goal_difference": -18.0,
+      "points": 32.0,
+      "form": "WLDLL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 14.0,
+        "Losses": "14",
+        "L": "14",
+        "pointDifferential": -18.0,
+        "Goal Difference": "-18",
+        "GD": "-18",
+        "points": 32.0,
+        "Points": "32",
+        "P": "32",
+        "pointsAgainst": 52.0,
+        "Goals Against": "52",
+        "A": "52",
+        "pointsFor": 34.0,
+        "Goals For": "34",
+        "F": "34",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 11.0,
+        "Rank": "11",
+        "R": "11",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-8-14",
+        "Overall": "8-8-14",
+        "Total": "8-8-14"
+      }
+    },
+    {
+      "rank": 12.0,
+      "team_id": "122",
+      "team_name": "FC Cologne",
+      "team_short_name": "Cologne",
+      "team_abbr": "KOE",
+      "normalized_name": "cologne",
+      "played": 30.0,
+      "wins": 7.0,
+      "draws": 10.0,
+      "losses": 13.0,
+      "goals_for": 44.0,
+      "goals_against": 51.0,
+      "goal_difference": -7.0,
+      "points": 31.0,
+      "form": "DDDWD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -7.0,
+        "Goal Difference": "-7",
+        "GD": "-7",
+        "points": 31.0,
+        "Points": "31",
+        "P": "31",
+        "pointsAgainst": 51.0,
+        "Goals Against": "51",
+        "A": "51",
+        "pointsFor": 44.0,
+        "Goals For": "44",
+        "F": "44",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 12.0,
+        "Rank": "12",
+        "R": "12",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-10-13",
+        "Overall": "7-10-13",
+        "Total": "7-10-13"
+      }
+    },
+    {
+      "rank": 13.0,
+      "team_id": "268",
+      "team_name": "Borussia Mönchengladbach",
+      "team_short_name": "Gladbach",
+      "team_abbr": "BMG",
+      "normalized_name": "borussia monchengladbach",
+      "played": 30.0,
+      "wins": 7.0,
+      "draws": 10.0,
+      "losses": 13.0,
+      "goals_for": 36.0,
+      "goals_against": 50.0,
+      "goal_difference": -14.0,
+      "points": 31.0,
+      "form": "WDDLD",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -14.0,
+        "Goal Difference": "-14",
+        "GD": "-14",
+        "points": 31.0,
+        "Points": "31",
+        "P": "31",
+        "pointsAgainst": 50.0,
+        "Goals Against": "50",
+        "A": "50",
+        "pointsFor": 36.0,
+        "Goals For": "36",
+        "F": "36",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 13.0,
+        "Rank": "13",
+        "R": "13",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-10-13",
+        "Overall": "7-10-13",
+        "Total": "7-10-13"
+      }
+    },
+    {
+      "rank": 14.0,
+      "team_id": "127",
+      "team_name": "Hamburg SV",
+      "team_short_name": "Hamburg",
+      "team_abbr": "HSV",
+      "normalized_name": "hamburg sv",
+      "played": 30.0,
+      "wins": 7.0,
+      "draws": 10.0,
+      "losses": 13.0,
+      "goals_for": 33.0,
+      "goals_against": 48.0,
+      "goal_difference": -15.0,
+      "points": 31.0,
+      "form": "DLDLL",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 13.0,
+        "Losses": "13",
+        "L": "13",
+        "pointDifferential": -15.0,
+        "Goal Difference": "-15",
+        "GD": "-15",
+        "points": 31.0,
+        "Points": "31",
+        "P": "31",
+        "pointsAgainst": 48.0,
+        "Goals Against": "48",
+        "A": "48",
+        "pointsFor": 33.0,
+        "Goals For": "33",
+        "F": "33",
+        "ties": 10.0,
+        "Draws": "10",
+        "D": "10",
+        "wins": 7.0,
+        "Wins": "7",
+        "W": "7",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 14.0,
+        "Rank": "14",
+        "R": "14",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "7-10-13",
+        "Overall": "7-10-13",
+        "Total": "7-10-13"
+      }
+    },
+    {
+      "rank": 15.0,
+      "team_id": "137",
+      "team_name": "Werder Bremen",
+      "team_short_name": "Bremen",
+      "team_abbr": "SVW",
+      "normalized_name": "werder bremen",
+      "played": 30.0,
+      "wins": 8.0,
+      "draws": 7.0,
+      "losses": 15.0,
+      "goals_for": 35.0,
+      "goals_against": 53.0,
+      "goal_difference": -18.0,
+      "points": 31.0,
+      "form": "LWLLW",
+      "status": null,
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 15.0,
+        "Losses": "15",
+        "L": "15",
+        "pointDifferential": -18.0,
+        "Goal Difference": "-18",
+        "GD": "-18",
+        "points": 31.0,
+        "Points": "31",
+        "P": "31",
+        "pointsAgainst": 53.0,
+        "Goals Against": "53",
+        "A": "53",
+        "pointsFor": 35.0,
+        "Goals For": "35",
+        "F": "35",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 8.0,
+        "Wins": "8",
+        "W": "8",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 15.0,
+        "Rank": "15",
+        "R": "15",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "8-7-15",
+        "Overall": "8-7-15",
+        "Total": "8-7-15"
+      }
+    },
+    {
+      "rank": 16.0,
+      "team_id": "270",
+      "team_name": "St. Pauli",
+      "team_short_name": "St. Pauli",
+      "team_abbr": "STP",
+      "normalized_name": "st pauli",
+      "played": 30.0,
+      "wins": 6.0,
+      "draws": 8.0,
+      "losses": 16.0,
+      "goals_for": 26.0,
+      "goals_against": 51.0,
+      "goal_difference": -25.0,
+      "points": 26.0,
+      "form": "LLDLD",
+      "status": "Relegation playoff",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 16.0,
+        "Losses": "16",
+        "L": "16",
+        "pointDifferential": -25.0,
+        "Goal Difference": "-25",
+        "GD": "-25",
+        "points": 26.0,
+        "Points": "26",
+        "P": "26",
+        "pointsAgainst": 51.0,
+        "Goals Against": "51",
+        "A": "51",
+        "pointsFor": 26.0,
+        "Goals For": "26",
+        "F": "26",
+        "ties": 8.0,
+        "Draws": "8",
+        "D": "8",
+        "wins": 6.0,
+        "Wins": "6",
+        "W": "6",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 16.0,
+        "Rank": "16",
+        "R": "16",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "6-8-16",
+        "Overall": "6-8-16",
+        "Total": "6-8-16"
+      }
+    },
+    {
+      "rank": 17.0,
+      "team_id": "138",
+      "team_name": "VfL Wolfsburg",
+      "team_short_name": "Wolfsburg",
+      "team_abbr": "WOB",
+      "normalized_name": "vfl wolfsburg",
+      "played": 30.0,
+      "wins": 6.0,
+      "draws": 6.0,
+      "losses": 18.0,
+      "goals_for": 41.0,
+      "goals_against": 66.0,
+      "goal_difference": -25.0,
+      "points": 24.0,
+      "form": "DLLLW",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 18.0,
+        "Losses": "18",
+        "L": "18",
+        "pointDifferential": -25.0,
+        "Goal Difference": "-25",
+        "GD": "-25",
+        "points": 24.0,
+        "Points": "24",
+        "P": "24",
+        "pointsAgainst": 66.0,
+        "Goals Against": "66",
+        "A": "66",
+        "pointsFor": 41.0,
+        "Goals For": "41",
+        "F": "41",
+        "ties": 6.0,
+        "Draws": "6",
+        "D": "6",
+        "wins": 6.0,
+        "Wins": "6",
+        "W": "6",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 17.0,
+        "Rank": "17",
+        "R": "17",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "6-6-18",
+        "Overall": "6-6-18",
+        "Total": "6-6-18"
+      }
+    },
+    {
+      "rank": 18.0,
+      "team_id": "6418",
+      "team_name": "1. FC Heidenheim 1846",
+      "team_short_name": "Heidenheim",
+      "team_abbr": "HDH",
+      "normalized_name": "1 heidenheim 1846",
+      "played": 30.0,
+      "wins": 4.0,
+      "draws": 7.0,
+      "losses": 19.0,
+      "goals_for": 33.0,
+      "goals_against": 66.0,
+      "goal_difference": -33.0,
+      "points": 19.0,
+      "form": "LDDWL",
+      "status": "Relegation",
+      "raw_stats": {
+        "gamesPlayed": 30.0,
+        "Games Played": "30",
+        "GP": "30",
+        "losses": 19.0,
+        "Losses": "19",
+        "L": "19",
+        "pointDifferential": -33.0,
+        "Goal Difference": "-33",
+        "GD": "-33",
+        "points": 19.0,
+        "Points": "19",
+        "P": "19",
+        "pointsAgainst": 66.0,
+        "Goals Against": "66",
+        "A": "66",
+        "pointsFor": 33.0,
+        "Goals For": "33",
+        "F": "33",
+        "ties": 7.0,
+        "Draws": "7",
+        "D": "7",
+        "wins": 4.0,
+        "Wins": "4",
+        "W": "4",
+        "deductions": 0.0,
+        "Point Deductions": "",
+        "PD": "",
+        "ppg": 0.0,
+        "Points Per Game": "0",
+        "PPG": "0",
+        "rank": 18.0,
+        "Rank": "18",
+        "R": "18",
+        "rankChange": 0.0,
+        "Rank Change": "0",
+        "RC": "0",
+        "overall": "4-7-19",
+        "Overall": "4-7-19",
+        "Total": "4-7-19"
+      }
+    }
+  ],
+  "fixtures": [
+    {
+      "event_id": "746994",
+      "date": "2026-04-24T18:30Z",
+      "date_only": "2026-04-24",
+      "name": "1. FC Union Berlin at RB Leipzig",
+      "short_name": "FCU @ RBL",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Fri, April 24th at 2:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "0",
+        "form": "WWWWL",
+        "record": "18-5-7"
+      },
+      "away_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "0",
+        "form": "LLDLW",
+        "record": "8-8-14"
+      },
+      "venue": {
+        "name": "Red Bull Arena",
+        "city": "Leipzig",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746988",
+      "date": "2026-04-25T13:30Z",
+      "date_only": "2026-04-25",
+      "name": "St. Pauli at 1. FC Heidenheim 1846",
+      "short_name": "STP @ HDH",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "0",
+        "form": "LWDDL",
+        "record": "4-7-19"
+      },
+      "away_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "6-8-16"
+      },
+      "venue": {
+        "name": "Voith-Arena",
+        "city": "Heidenheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746989",
+      "date": "2026-04-25T13:30Z",
+      "date_only": "2026-04-25",
+      "name": "Bayer Leverkusen at FC Cologne",
+      "short_name": "B04 @ KOE",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "0",
+        "form": "DWDDD",
+        "record": "7-10-13"
+      },
+      "away_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "0",
+        "form": "LWWDL",
+        "record": "15-7-8"
+      },
+      "venue": {
+        "name": "RheinEnergieStadion",
+        "city": "Cologne",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746990",
+      "date": "2026-04-25T13:30Z",
+      "date_only": "2026-04-25",
+      "name": "Bayern Munich at Mainz",
+      "short_name": "MUN @ M05",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "0",
+        "form": "DLLWW",
+        "record": "8-10-12"
+      },
+      "away_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "0",
+        "form": "WWWWW",
+        "record": "25-4-1"
+      },
+      "venue": {
+        "name": "MEWA ARENA",
+        "city": "Mainz",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746992",
+      "date": "2026-04-25T13:30Z",
+      "date_only": "2026-04-25",
+      "name": "Eintracht Frankfurt at FC Augsburg",
+      "short_name": "SGE @ FCA",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "0",
+        "form": "WDDLL",
+        "record": "10-6-14"
+      },
+      "away_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "0",
+        "form": "LWDLW",
+        "record": "11-9-10"
+      },
+      "venue": {
+        "name": "WWK Arena",
+        "city": "Augsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746996",
+      "date": "2026-04-25T13:30Z",
+      "date_only": "2026-04-25",
+      "name": "Borussia Mönchengladbach at VfL Wolfsburg",
+      "short_name": "BMG @ WOB",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "6-6-18"
+      },
+      "away_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "0",
+        "form": "DLDDW",
+        "record": "7-10-13"
+      },
+      "venue": {
+        "name": "Volkswagen Arena",
+        "city": "Wolfsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746993",
+      "date": "2026-04-25T16:30Z",
+      "date_only": "2026-04-25",
+      "name": "TSG Hoffenheim at Hamburg SV",
+      "short_name": "TSG @ HSV",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sat, April 25th at 12:30 PM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "0",
+        "form": "LLDLD",
+        "record": "7-10-13"
+      },
+      "away_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "0",
+        "form": "WDLLD",
+        "record": "16-6-8"
+      },
+      "venue": {
+        "name": "Volksparkstadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746995",
+      "date": "2026-04-26T13:30Z",
+      "date_only": "2026-04-26",
+      "name": "Werder Bremen at VfB Stuttgart",
+      "short_name": "SVW @ VFB",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 9:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "0",
+        "form": "LWLWL",
+        "record": "17-5-8"
+      },
+      "away_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "8-7-15"
+      },
+      "venue": {
+        "name": "MHPArena",
+        "city": "Stuttgart",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746991",
+      "date": "2026-04-26T15:30Z",
+      "date_only": "2026-04-26",
+      "name": "SC Freiburg at Borussia Dortmund",
+      "short_name": "SCF @ DOR",
+      "status": {
+        "state": "pre",
+        "completed": false,
+        "description": "Scheduled",
+        "detail": "Sun, April 26th at 11:30 AM EDT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "0",
+        "form": "LLWWW",
+        "record": "19-7-4"
+      },
+      "away_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "0",
+        "form": "WWWWL",
+        "record": "12-7-11"
+      },
+      "venue": {
+        "name": "Signal Iduna Park",
+        "city": "Aue",
+        "country": "Germany"
+      }
+    }
+  ],
+  "recent_results": [
+    {
+      "event_id": "746981",
+      "date": "2026-04-19T17:30Z",
+      "date_only": "2026-04-19",
+      "name": "Mainz at Borussia Mönchengladbach",
+      "short_name": "M05 @ BMG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "1",
+        "form": "DLDDW",
+        "record": "7-10-13"
+      },
+      "away_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "1",
+        "form": "DLLWW",
+        "record": "8-10-12"
+      },
+      "venue": {
+        "name": "BORUSSIA-PARK",
+        "city": "Mönchengladbach",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746983",
+      "date": "2026-04-19T15:30Z",
+      "date_only": "2026-04-19",
+      "name": "VfB Stuttgart at Bayern Munich",
+      "short_name": "VFB @ MUN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "4",
+        "form": "WWWWW",
+        "record": "25-4-1"
+      },
+      "away_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "2",
+        "form": "LWLWL",
+        "record": "17-5-8"
+      },
+      "venue": {
+        "name": "Allianz Arena",
+        "city": "München",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746985",
+      "date": "2026-04-19T13:30Z",
+      "date_only": "2026-04-19",
+      "name": "1. FC Heidenheim 1846 at SC Freiburg",
+      "short_name": "HDH @ SCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "12-7-11"
+      },
+      "away_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "1",
+        "form": "LWDDL",
+        "record": "4-7-19"
+      },
+      "venue": {
+        "name": "Europa-Park Stadion",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746982",
+      "date": "2026-04-18T16:30Z",
+      "date_only": "2026-04-18",
+      "name": "RB Leipzig at Eintracht Frankfurt",
+      "short_name": "RBL @ SGE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "1",
+        "form": "LWDLW",
+        "record": "11-9-10"
+      },
+      "away_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "3",
+        "form": "WWWWL",
+        "record": "18-5-7"
+      },
+      "venue": {
+        "name": "Deutsche Bank Park",
+        "city": "Frankfurt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746987",
+      "date": "2026-04-18T13:30Z",
+      "date_only": "2026-04-18",
+      "name": "Borussia Dortmund at TSG Hoffenheim",
+      "short_name": "DOR @ TSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "2",
+        "form": "WDLLD",
+        "record": "16-6-8"
+      },
+      "away_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "1",
+        "form": "LLWWW",
+        "record": "19-7-4"
+      },
+      "venue": {
+        "name": "PreZero Arena",
+        "city": "Sinsheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746986",
+      "date": "2026-04-18T13:30Z",
+      "date_only": "2026-04-18",
+      "name": "Hamburg SV at Werder Bremen",
+      "short_name": "HSV @ SVW",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "3",
+        "form": "WLLWL",
+        "record": "8-7-15"
+      },
+      "away_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "1",
+        "form": "LLDLD",
+        "record": "7-10-13"
+      },
+      "venue": {
+        "name": "Weserstadion",
+        "city": "Bremen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746980",
+      "date": "2026-04-18T13:30Z",
+      "date_only": "2026-04-18",
+      "name": "FC Augsburg at Bayer Leverkusen",
+      "short_name": "FCA @ B04",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "1",
+        "form": "LWWDL",
+        "record": "15-7-8"
+      },
+      "away_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "2",
+        "form": "WDDLL",
+        "record": "10-6-14"
+      },
+      "venue": {
+        "name": "BayArena",
+        "city": "Leverkusen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746979",
+      "date": "2026-04-18T13:30Z",
+      "date_only": "2026-04-18",
+      "name": "VfL Wolfsburg at 1. FC Union Berlin",
+      "short_name": "WOB @ FCU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "1",
+        "form": "LLDLW",
+        "record": "8-8-14"
+      },
+      "away_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "2",
+        "form": "WLLLD",
+        "record": "6-6-18"
+      },
+      "venue": {
+        "name": "Stadion An der Alten Försterei",
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746984",
+      "date": "2026-04-17T18:30Z",
+      "date_only": "2026-04-17",
+      "name": "FC Cologne at St. Pauli",
+      "short_name": "KOE @ STP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "1",
+        "form": "DLDLL",
+        "record": "6-8-16"
+      },
+      "away_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "1",
+        "form": "DWDDD",
+        "record": "7-10-13"
+      },
+      "venue": {
+        "name": "Millerntor-Stadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746972",
+      "date": "2026-04-12T17:30Z",
+      "date_only": "2026-04-12",
+      "name": "SC Freiburg at Mainz",
+      "short_name": "SCF @ M05",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "0",
+        "form": "DLLWW",
+        "record": "8-9-12"
+      },
+      "away_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "1",
+        "form": "WWWWL",
+        "record": "11-7-11"
+      },
+      "venue": {
+        "name": "MEWA ARENA",
+        "city": "Mainz",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746977",
+      "date": "2026-04-12T15:30Z",
+      "date_only": "2026-04-12",
+      "name": "Hamburg SV at VfB Stuttgart",
+      "short_name": "HSV @ VFB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "4",
+        "form": "LWLWL",
+        "record": "17-5-7"
+      },
+      "away_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "0",
+        "form": "LLDLD",
+        "record": "7-10-12"
+      },
+      "venue": {
+        "name": "MHPArena",
+        "city": "Stuttgart",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746971",
+      "date": "2026-04-12T13:30Z",
+      "date_only": "2026-04-12",
+      "name": "Werder Bremen at FC Cologne",
+      "short_name": "SVW @ KOE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "3",
+        "form": "DWDDD",
+        "record": "7-9-13"
+      },
+      "away_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "7-7-15"
+      },
+      "venue": {
+        "name": "RheinEnergieStadion",
+        "city": "Cologne",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746975",
+      "date": "2026-04-11T16:30Z",
+      "date_only": "2026-04-11",
+      "name": "Bayern Munich at St. Pauli",
+      "short_name": "MUN @ STP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "6-7-16"
+      },
+      "away_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "5",
+        "form": "WWWWW",
+        "record": "24-4-1"
+      },
+      "venue": {
+        "name": "Millerntor-Stadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746978",
+      "date": "2026-04-11T13:30Z",
+      "date_only": "2026-04-11",
+      "name": "Eintracht Frankfurt at VfL Wolfsburg",
+      "short_name": "SGE @ WOB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "1",
+        "form": "WLLLD",
+        "record": "5-6-18"
+      },
+      "away_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "2",
+        "form": "LWDLW",
+        "record": "11-9-9"
+      },
+      "venue": {
+        "name": "Volkswagen Arena",
+        "city": "Wolfsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746976",
+      "date": "2026-04-11T13:30Z",
+      "date_only": "2026-04-11",
+      "name": "Borussia Mönchengladbach at RB Leipzig",
+      "short_name": "BMG @ RBL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "1",
+        "form": "WWWWL",
+        "record": "17-5-7"
+      },
+      "away_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "0",
+        "form": "DLDDW",
+        "record": "7-9-13"
+      },
+      "venue": {
+        "name": "Red Bull Arena",
+        "city": "Leipzig",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746973",
+      "date": "2026-04-11T13:30Z",
+      "date_only": "2026-04-11",
+      "name": "Bayer Leverkusen at Borussia Dortmund",
+      "short_name": "B04 @ DOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "0",
+        "form": "LLWWW",
+        "record": "19-7-3"
+      },
+      "away_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "1",
+        "form": "LWWDL",
+        "record": "15-7-7"
+      },
+      "venue": {
+        "name": "Signal Iduna Park",
+        "city": "Aue",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746970",
+      "date": "2026-04-11T13:30Z",
+      "date_only": "2026-04-11",
+      "name": "1. FC Union Berlin at 1. FC Heidenheim 1846",
+      "short_name": "FCU @ HDH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "3",
+        "form": "LWDDL",
+        "record": "4-7-18"
+      },
+      "away_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "1",
+        "form": "LLDLW",
+        "record": "8-8-13"
+      },
+      "venue": {
+        "name": "Voith-Arena",
+        "city": "Heidenheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746974",
+      "date": "2026-04-10T18:30Z",
+      "date_only": "2026-04-10",
+      "name": "TSG Hoffenheim at FC Augsburg",
+      "short_name": "TSG @ FCA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "2",
+        "form": "WDDLL",
+        "record": "9-6-14"
+      },
+      "away_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "2",
+        "form": "WDLLD",
+        "record": "15-6-8"
+      },
+      "venue": {
+        "name": "WWK Arena",
+        "city": "Augsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746965",
+      "date": "2026-04-05T15:30Z",
+      "date_only": "2026-04-05",
+      "name": "FC Cologne at Eintracht Frankfurt",
+      "short_name": "KOE @ SGE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "2",
+        "form": "LWDLW",
+        "record": "10-9-9"
+      },
+      "away_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "2",
+        "form": "DWDDD",
+        "record": "6-9-13"
+      },
+      "venue": {
+        "name": "Deutsche Bank Park",
+        "city": "Frankfurt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746961",
+      "date": "2026-04-05T13:30Z",
+      "date_only": "2026-04-05",
+      "name": "St. Pauli at 1. FC Union Berlin",
+      "short_name": "STP @ FCU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "1",
+        "form": "LLDLW",
+        "record": "8-8-12"
+      },
+      "away_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "1",
+        "form": "DLDLL",
+        "record": "6-7-15"
+      },
+      "venue": {
+        "name": "Stadion An der Alten Försterei",
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746964",
+      "date": "2026-04-04T16:30Z",
+      "date_only": "2026-04-04",
+      "name": "Borussia Dortmund at VfB Stuttgart",
+      "short_name": "DOR @ VFB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "0",
+        "form": "LWLWL",
+        "record": "16-5-7"
+      },
+      "away_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "2",
+        "form": "LLWWW",
+        "record": "19-7-2"
+      },
+      "venue": {
+        "name": "MHPArena",
+        "city": "Stuttgart",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746969",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "FC Augsburg at Hamburg SV",
+      "short_name": "FCA @ HSV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "1",
+        "form": "LLDLD",
+        "record": "7-10-11"
+      },
+      "away_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "9-5-14"
+      },
+      "venue": {
+        "name": "Volksparkstadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746968",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "Mainz at TSG Hoffenheim",
+      "short_name": "M05 @ TSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "1",
+        "form": "WDLLD",
+        "record": "15-5-8"
+      },
+      "away_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "2",
+        "form": "DLLWW",
+        "record": "8-9-11"
+      },
+      "venue": {
+        "name": "PreZero Arena",
+        "city": "Sinsheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746967",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "RB Leipzig at Werder Bremen",
+      "short_name": "RBL @ SVW",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "7-7-14"
+      },
+      "away_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "16-5-7"
+      },
+      "venue": {
+        "name": "Weserstadion",
+        "city": "Bremen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746966",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "Bayern Munich at SC Freiburg",
+      "short_name": "MUN @ SCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "10-7-11"
+      },
+      "away_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "3",
+        "form": "WWWWW",
+        "record": "23-4-1"
+      },
+      "venue": {
+        "name": "Europa-Park Stadion",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746963",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "1. FC Heidenheim 1846 at Borussia Mönchengladbach",
+      "short_name": "HDH @ BMG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "2",
+        "form": "DLDDW",
+        "record": "7-9-12"
+      },
+      "away_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "2",
+        "form": "LWDDL",
+        "record": "3-7-18"
+      },
+      "venue": {
+        "name": "BORUSSIA-PARK",
+        "city": "Mönchengladbach",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746962",
+      "date": "2026-04-04T13:30Z",
+      "date_only": "2026-04-04",
+      "name": "VfL Wolfsburg at Bayer Leverkusen",
+      "short_name": "WOB @ B04",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "6",
+        "form": "LWWDL",
+        "record": "14-7-7"
+      },
+      "away_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "3",
+        "form": "WLLLD",
+        "record": "5-6-17"
+      },
+      "venue": {
+        "name": "BayArena",
+        "city": "Leverkusen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746953",
+      "date": "2026-03-22T18:30Z",
+      "date_only": "2026-03-22",
+      "name": "VfB Stuttgart at FC Augsburg",
+      "short_name": "VFB @ FCA",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "2",
+        "form": "WDDLL",
+        "record": "9-4-14"
+      },
+      "away_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "5",
+        "form": "LWLWL",
+        "record": "16-5-6"
+      },
+      "venue": {
+        "name": "WWK Arena",
+        "city": "Augsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746955",
+      "date": "2026-03-22T16:30Z",
+      "date_only": "2026-03-22",
+      "name": "SC Freiburg at St. Pauli",
+      "short_name": "SCF @ STP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "1",
+        "form": "DLDLL",
+        "record": "6-6-15"
+      },
+      "away_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "10-7-10"
+      },
+      "venue": {
+        "name": "Millerntor-Stadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746958",
+      "date": "2026-03-22T14:30Z",
+      "date_only": "2026-03-22",
+      "name": "Eintracht Frankfurt at Mainz",
+      "short_name": "SGE @ M05",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "2",
+        "form": "DLLWW",
+        "record": "7-9-11"
+      },
+      "away_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "1",
+        "form": "LWDLW",
+        "record": "10-8-9"
+      },
+      "venue": {
+        "name": "MEWA ARENA",
+        "city": "Mainz",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746957",
+      "date": "2026-03-21T17:30Z",
+      "date_only": "2026-03-21",
+      "name": "Hamburg SV at Borussia Dortmund",
+      "short_name": "HSV @ DOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "3",
+        "form": "LLWWW",
+        "record": "18-7-2"
+      },
+      "away_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "2",
+        "form": "LLDLD",
+        "record": "7-9-11"
+      },
+      "venue": {
+        "name": "Signal Iduna Park",
+        "city": "Aue",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746960",
+      "date": "2026-03-21T14:30Z",
+      "date_only": "2026-03-21",
+      "name": "Werder Bremen at VfL Wolfsburg",
+      "short_name": "SVW @ WOB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "0",
+        "form": "WLLLD",
+        "record": "5-6-16"
+      },
+      "away_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "1",
+        "form": "WLLWL",
+        "record": "7-7-13"
+      },
+      "venue": {
+        "name": "Volkswagen Arena",
+        "city": "Wolfsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746959",
+      "date": "2026-03-21T14:30Z",
+      "date_only": "2026-03-21",
+      "name": "Borussia Mönchengladbach at FC Cologne",
+      "short_name": "BMG @ KOE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "3",
+        "form": "DWDDD",
+        "record": "6-8-13"
+      },
+      "away_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "3",
+        "form": "DLDDW",
+        "record": "7-8-12"
+      },
+      "venue": {
+        "name": "RheinEnergieStadion",
+        "city": "Cologne",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746954",
+      "date": "2026-03-21T14:30Z",
+      "date_only": "2026-03-21",
+      "name": "1. FC Union Berlin at Bayern Munich",
+      "short_name": "FCU @ MUN",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "4",
+        "form": "WWWWW",
+        "record": "22-4-1"
+      },
+      "away_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "0",
+        "form": "LLDLW",
+        "record": "8-7-12"
+      },
+      "venue": {
+        "name": "Allianz Arena",
+        "city": "München",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746952",
+      "date": "2026-03-21T14:30Z",
+      "date_only": "2026-03-21",
+      "name": "Bayer Leverkusen at 1. FC Heidenheim 1846",
+      "short_name": "B04 @ HDH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "3",
+        "form": "LWDDL",
+        "record": "3-6-18"
+      },
+      "away_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "3",
+        "form": "LWWDL",
+        "record": "13-7-7"
+      },
+      "venue": {
+        "name": "Voith-Arena",
+        "city": "Heidenheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746956",
+      "date": "2026-03-20T19:30Z",
+      "date_only": "2026-03-20",
+      "name": "TSG Hoffenheim at RB Leipzig",
+      "short_name": "TSG @ RBL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "5",
+        "form": "WWWWL",
+        "record": "15-5-7"
+      },
+      "away_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "0",
+        "form": "WDLLD",
+        "record": "15-5-7"
+      },
+      "venue": {
+        "name": "Red Bull Arena",
+        "city": "Leipzig",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746948",
+      "date": "2026-03-15T18:30Z",
+      "date_only": "2026-03-15",
+      "name": "RB Leipzig at VfB Stuttgart",
+      "short_name": "RBL @ VFB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "1",
+        "form": "LWLWL",
+        "record": "15-5-6"
+      },
+      "away_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "0",
+        "form": "WWWWL",
+        "record": "14-5-7"
+      },
+      "venue": {
+        "name": "MHPArena",
+        "city": "Stuttgart",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746945",
+      "date": "2026-03-15T16:30Z",
+      "date_only": "2026-03-15",
+      "name": "1. FC Union Berlin at SC Freiburg",
+      "short_name": "FCU @ SCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "0",
+        "form": "WWWWL",
+        "record": "9-7-10"
+      },
+      "away_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "1",
+        "form": "LLDLW",
+        "record": "8-7-11"
+      },
+      "venue": {
+        "name": "Europa-Park Stadion",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746946",
+      "date": "2026-03-15T14:30Z",
+      "date_only": "2026-03-15",
+      "name": "Mainz at Werder Bremen",
+      "short_name": "M05 @ SVW",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "0",
+        "form": "WLLWL",
+        "record": "6-7-13"
+      },
+      "away_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "2",
+        "form": "DLLWW",
+        "record": "6-9-11"
+      },
+      "venue": {
+        "name": "Weserstadion",
+        "city": "Bremen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746949",
+      "date": "2026-03-14T17:30Z",
+      "date_only": "2026-03-14",
+      "name": "FC Cologne at Hamburg SV",
+      "short_name": "KOE @ HSV",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "1",
+        "form": "LLDLD",
+        "record": "7-9-10"
+      },
+      "away_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "1",
+        "form": "DWDDD",
+        "record": "6-7-13"
+      },
+      "venue": {
+        "name": "Volksparkstadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746951",
+      "date": "2026-03-14T14:30Z",
+      "date_only": "2026-03-14",
+      "name": "FC Augsburg at Borussia Dortmund",
+      "short_name": "FCA @ DOR",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "2",
+        "form": "LLWWW",
+        "record": "17-7-2"
+      },
+      "away_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "0",
+        "form": "WDDLL",
+        "record": "9-4-13"
+      },
+      "venue": {
+        "name": "Signal Iduna Park",
+        "city": "Aue",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746950",
+      "date": "2026-03-14T14:30Z",
+      "date_only": "2026-03-14",
+      "name": "Bayern Munich at Bayer Leverkusen",
+      "short_name": "MUN @ B04",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "1",
+        "form": "LWWDL",
+        "record": "13-6-7"
+      },
+      "away_team": {
+        "id": "132",
+        "name": "Bayern Munich",
+        "abbr": "MUN",
+        "normalized_name": "bayern munich",
+        "score": "1",
+        "form": "WWWWW",
+        "record": "21-4-1"
+      },
+      "venue": {
+        "name": "BayArena",
+        "city": "Leverkusen",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746947",
+      "date": "2026-03-14T14:30Z",
+      "date_only": "2026-03-14",
+      "name": "VfL Wolfsburg at TSG Hoffenheim",
+      "short_name": "WOB @ TSG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "1",
+        "form": "WDLLD",
+        "record": "15-5-6"
+      },
+      "away_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "1",
+        "form": "WLLLD",
+        "record": "5-6-15"
+      },
+      "venue": {
+        "name": "PreZero Arena",
+        "city": "Sinsheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746943",
+      "date": "2026-03-14T14:30Z",
+      "date_only": "2026-03-14",
+      "name": "1. FC Heidenheim 1846 at Eintracht Frankfurt",
+      "short_name": "HDH @ SGE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "1",
+        "form": "LWDLW",
+        "record": "10-8-8"
+      },
+      "away_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "0",
+        "form": "LWDDL",
+        "record": "3-5-18"
+      },
+      "venue": {
+        "name": "Deutsche Bank Park",
+        "city": "Frankfurt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746944",
+      "date": "2026-03-13T19:30Z",
+      "date_only": "2026-03-13",
+      "name": "St. Pauli at Borussia Mönchengladbach",
+      "short_name": "STP @ BMG",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "268",
+        "name": "Borussia Mönchengladbach",
+        "abbr": "BMG",
+        "normalized_name": "borussia monchengladbach",
+        "score": "2",
+        "form": "DLDDW",
+        "record": "7-7-12"
+      },
+      "away_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "6-6-14"
+      },
+      "venue": {
+        "name": "BORUSSIA-PARK",
+        "city": "Mönchengladbach",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746937",
+      "date": "2026-03-08T16:30Z",
+      "date_only": "2026-03-08",
+      "name": "Werder Bremen at 1. FC Union Berlin",
+      "short_name": "SVW @ FCU",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "598",
+        "name": "1. FC Union Berlin",
+        "abbr": "FCU",
+        "normalized_name": "1 union berlin",
+        "score": "1",
+        "form": "LLDLW",
+        "record": "7-7-11"
+      },
+      "away_team": {
+        "id": "137",
+        "name": "Werder Bremen",
+        "abbr": "SVW",
+        "normalized_name": "werder bremen",
+        "score": "4",
+        "form": "WLLWL",
+        "record": "6-7-12"
+      },
+      "venue": {
+        "name": "Stadion An der Alten Försterei",
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746941",
+      "date": "2026-03-08T14:30Z",
+      "date_only": "2026-03-08",
+      "name": "Eintracht Frankfurt at St. Pauli",
+      "short_name": "SGE @ STP",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "270",
+        "name": "St. Pauli",
+        "abbr": "STP",
+        "normalized_name": "st pauli",
+        "score": "0",
+        "form": "DLDLL",
+        "record": "6-6-13"
+      },
+      "away_team": {
+        "id": "125",
+        "name": "Eintracht Frankfurt",
+        "abbr": "SGE",
+        "normalized_name": "eintracht frankfurt",
+        "score": "0",
+        "form": "LWDLW",
+        "record": "9-8-8"
+      },
+      "venue": {
+        "name": "Millerntor-Stadion",
+        "city": "Hamburg Norderstedt",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746938",
+      "date": "2026-03-07T17:30Z",
+      "date_only": "2026-03-07",
+      "name": "Borussia Dortmund at FC Cologne",
+      "short_name": "DOR @ KOE",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "122",
+        "name": "FC Cologne",
+        "abbr": "KOE",
+        "normalized_name": "cologne",
+        "score": "1",
+        "form": "DWDDD",
+        "record": "6-6-13"
+      },
+      "away_team": {
+        "id": "124",
+        "name": "Borussia Dortmund",
+        "abbr": "DOR",
+        "normalized_name": "borussia dortmund",
+        "score": "2",
+        "form": "LLWWW",
+        "record": "16-7-2"
+      },
+      "venue": {
+        "name": "RheinEnergieStadion",
+        "city": "Cologne",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746942",
+      "date": "2026-03-07T14:30Z",
+      "date_only": "2026-03-07",
+      "name": "FC Augsburg at RB Leipzig",
+      "short_name": "FCA @ RBL",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "11420",
+        "name": "RB Leipzig",
+        "abbr": "RBL",
+        "normalized_name": "rb leipzig",
+        "score": "2",
+        "form": "WWWWL",
+        "record": "14-5-6"
+      },
+      "away_team": {
+        "id": "3841",
+        "name": "FC Augsburg",
+        "abbr": "FCA",
+        "normalized_name": "augsburg",
+        "score": "1",
+        "form": "WDDLL",
+        "record": "9-4-12"
+      },
+      "venue": {
+        "name": "Red Bull Arena",
+        "city": "Leipzig",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746940",
+      "date": "2026-03-07T14:30Z",
+      "date_only": "2026-03-07",
+      "name": "Hamburg SV at VfL Wolfsburg",
+      "short_name": "HSV @ WOB",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "138",
+        "name": "VfL Wolfsburg",
+        "abbr": "WOB",
+        "normalized_name": "vfl wolfsburg",
+        "score": "1",
+        "form": "WLLLD",
+        "record": "5-5-15"
+      },
+      "away_team": {
+        "id": "127",
+        "name": "Hamburg SV",
+        "abbr": "HSV",
+        "normalized_name": "hamburg sv",
+        "score": "2",
+        "form": "LLDLD",
+        "record": "7-8-10"
+      },
+      "venue": {
+        "name": "Volkswagen Arena",
+        "city": "Wolfsburg",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746939",
+      "date": "2026-03-07T14:30Z",
+      "date_only": "2026-03-07",
+      "name": "TSG Hoffenheim at 1. FC Heidenheim 1846",
+      "short_name": "TSG @ HDH",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "6418",
+        "name": "1. FC Heidenheim 1846",
+        "abbr": "HDH",
+        "normalized_name": "1 heidenheim 1846",
+        "score": "2",
+        "form": "LWDDL",
+        "record": "3-5-17"
+      },
+      "away_team": {
+        "id": "7911",
+        "name": "TSG Hoffenheim",
+        "abbr": "TSG",
+        "normalized_name": "tsg hoffenheim",
+        "score": "4",
+        "form": "WDLLD",
+        "record": "15-4-6"
+      },
+      "venue": {
+        "name": "Voith-Arena",
+        "city": "Heidenheim",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746936",
+      "date": "2026-03-07T14:30Z",
+      "date_only": "2026-03-07",
+      "name": "VfB Stuttgart at Mainz",
+      "short_name": "VFB @ M05",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "2950",
+        "name": "Mainz",
+        "abbr": "M05",
+        "normalized_name": "mainz",
+        "score": "2",
+        "form": "DLLWW",
+        "record": "5-9-11"
+      },
+      "away_team": {
+        "id": "134",
+        "name": "VfB Stuttgart",
+        "abbr": "VFB",
+        "normalized_name": "vfb stuttgart",
+        "score": "2",
+        "form": "LWLWL",
+        "record": "14-5-6"
+      },
+      "venue": {
+        "name": "MEWA ARENA",
+        "city": "Mainz",
+        "country": "Germany"
+      }
+    },
+    {
+      "event_id": "746934",
+      "date": "2026-03-07T14:30Z",
+      "date_only": "2026-03-07",
+      "name": "Bayer Leverkusen at SC Freiburg",
+      "short_name": "B04 @ SCF",
+      "status": {
+        "state": "post",
+        "completed": true,
+        "description": "Full Time",
+        "detail": "FT"
+      },
+      "season_year": 2025,
+      "home_team": {
+        "id": "126",
+        "name": "SC Freiburg",
+        "abbr": "SCF",
+        "normalized_name": "freiburg",
+        "score": "3",
+        "form": "WWWWL",
+        "record": "9-7-9"
+      },
+      "away_team": {
+        "id": "131",
+        "name": "Bayer Leverkusen",
+        "abbr": "B04",
+        "normalized_name": "bayer leverkusen",
+        "score": "3",
+        "form": "LWWDL",
+        "record": "13-5-7"
+      },
+      "venue": {
+        "name": "Europa-Park Stadion",
+        "city": "Freiburg im Breisgau",
+        "country": "Germany"
+      }
+    }
+  ],
+  "team_index": {
+    "1 heidenheim 1846": {
+      "team_id": "6418",
+      "name": "1. FC Heidenheim 1846",
+      "short_name": "Heidenheim",
+      "abbr": "HDH",
+      "normalized_name": "1 heidenheim 1846",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "1. FC Heidenheim 1846",
+        "HDH",
+        "Heidenheim"
+      ]
+    },
+    "1 union berlin": {
+      "team_id": "598",
+      "name": "1. FC Union Berlin",
+      "short_name": "Union Berlin",
+      "abbr": "FCU",
+      "normalized_name": "1 union berlin",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "1. FC Union Berlin",
+        "FCU",
+        "Union Berlin"
+      ]
+    },
+    "augsburg": {
+      "team_id": "3841",
+      "name": "FC Augsburg",
+      "short_name": "Augsburg",
+      "abbr": "FCA",
+      "normalized_name": "augsburg",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Augsburg",
+        "FC Augsburg",
+        "FCA"
+      ]
+    },
+    "bayer leverkusen": {
+      "team_id": "131",
+      "name": "Bayer Leverkusen",
+      "short_name": "Leverkusen",
+      "abbr": "B04",
+      "normalized_name": "bayer leverkusen",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "B04",
+        "Bayer Leverkusen",
+        "Leverkusen"
+      ]
+    },
+    "bayern munich": {
+      "team_id": "132",
+      "name": "Bayern Munich",
+      "short_name": "Bayern",
+      "abbr": "MUN",
+      "normalized_name": "bayern munich",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Bayern",
+        "Bayern Munich",
+        "MUN"
+      ]
+    },
+    "borussia dortmund": {
+      "team_id": "124",
+      "name": "Borussia Dortmund",
+      "short_name": "Dortmund",
+      "abbr": "DOR",
+      "normalized_name": "borussia dortmund",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Borussia Dortmund",
+        "DOR",
+        "Dortmund"
+      ]
+    },
+    "borussia monchengladbach": {
+      "team_id": "268",
+      "name": "Borussia Mönchengladbach",
+      "short_name": "Gladbach",
+      "abbr": "BMG",
+      "normalized_name": "borussia monchengladbach",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "BMG",
+        "Borussia Mönchengladbach",
+        "Gladbach"
+      ]
+    },
+    "cologne": {
+      "team_id": "122",
+      "name": "FC Cologne",
+      "short_name": "Cologne",
+      "abbr": "KOE",
+      "normalized_name": "cologne",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Cologne",
+        "FC Cologne",
+        "KOE"
+      ]
+    },
+    "eintracht frankfurt": {
+      "team_id": "125",
+      "name": "Eintracht Frankfurt",
+      "short_name": "Frankfurt",
+      "abbr": "SGE",
+      "normalized_name": "eintracht frankfurt",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Eintracht Frankfurt",
+        "Frankfurt",
+        "SGE"
+      ]
+    },
+    "freiburg": {
+      "team_id": "126",
+      "name": "SC Freiburg",
+      "short_name": "Freiburg",
+      "abbr": "SCF",
+      "normalized_name": "freiburg",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Freiburg",
+        "SC Freiburg",
+        "SCF"
+      ]
+    },
+    "hamburg sv": {
+      "team_id": "127",
+      "name": "Hamburg SV",
+      "short_name": "Hamburg",
+      "abbr": "HSV",
+      "normalized_name": "hamburg sv",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "HSV",
+        "Hamburg",
+        "Hamburg SV"
+      ]
+    },
+    "mainz": {
+      "team_id": "2950",
+      "name": "Mainz",
+      "short_name": "Mainz",
+      "abbr": "M05",
+      "normalized_name": "mainz",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "M05",
+        "Mainz"
+      ]
+    },
+    "rb leipzig": {
+      "team_id": "11420",
+      "name": "RB Leipzig",
+      "short_name": "RB Leipzig",
+      "abbr": "RBL",
+      "normalized_name": "rb leipzig",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "RB Leipzig",
+        "RBL"
+      ]
+    },
+    "st pauli": {
+      "team_id": "270",
+      "name": "St. Pauli",
+      "short_name": "St. Pauli",
+      "abbr": "STP",
+      "normalized_name": "st pauli",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "STP",
+        "St. Pauli"
+      ]
+    },
+    "tsg hoffenheim": {
+      "team_id": "7911",
+      "name": "TSG Hoffenheim",
+      "short_name": "Hoffenheim",
+      "abbr": "TSG",
+      "normalized_name": "tsg hoffenheim",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Hoffenheim",
+        "TSG",
+        "TSG Hoffenheim"
+      ]
+    },
+    "vfb stuttgart": {
+      "team_id": "134",
+      "name": "VfB Stuttgart",
+      "short_name": "Stuttgart",
+      "abbr": "VFB",
+      "normalized_name": "vfb stuttgart",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Stuttgart",
+        "VFB",
+        "VfB Stuttgart"
+      ]
+    },
+    "vfl wolfsburg": {
+      "team_id": "138",
+      "name": "VfL Wolfsburg",
+      "short_name": "Wolfsburg",
+      "abbr": "WOB",
+      "normalized_name": "vfl wolfsburg",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "VfL Wolfsburg",
+        "WOB",
+        "Wolfsburg"
+      ]
+    },
+    "werder bremen": {
+      "team_id": "137",
+      "name": "Werder Bremen",
+      "short_name": "Bremen",
+      "abbr": "SVW",
+      "normalized_name": "werder bremen",
+      "sources": [
+        "standings",
+        "fixtures"
+      ],
+      "aliases": [
+        "Bremen",
+        "SVW",
+        "Werder Bremen"
+      ]
+    }
+  },
+  "team_form": {
+    "rb leipzig": {
+      "sequence": "LWWWW",
+      "matches": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1
+    },
+    "augsburg": {
+      "sequence": "LLDDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3
+    },
+    "vfl wolfsburg": {
+      "sequence": "DLLLW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4
+    },
+    "hamburg sv": {
+      "sequence": "DLDLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3
+    },
+    "1 heidenheim 1846": {
+      "sequence": "LDDWL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 3
+    },
+    "tsg hoffenheim": {
+      "sequence": "DLLDW",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2
+    },
+    "mainz": {
+      "sequence": "WWWLD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1
+    },
+    "vfb stuttgart": {
+      "sequence": "WWLWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2
+    },
+    "freiburg": {
+      "sequence": "LWLWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 2
+    },
+    "bayer leverkusen": {
+      "sequence": "DDWWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1
+    },
+    "cologne": {
+      "sequence": "DDDWD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 4,
+      "losses": 1
+    },
+    "borussia dortmund": {
+      "sequence": "WWWLL",
+      "matches": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 2
+    },
+    "st pauli": {
+      "sequence": "LLDLD",
+      "matches": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 3
+    },
+    "eintracht frankfurt": {
+      "sequence": "WLDWL",
+      "matches": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2
+    },
+    "1 union berlin": {
+      "sequence": "WLDLL",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4
+    },
+    "werder bremen": {
+      "sequence": "LWLLW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 3
+    },
+    "borussia monchengladbach": {
+      "sequence": "WDDLD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1
+    },
+    "bayern munich": {
+      "sequence": "DWWWW",
+      "matches": 5,
+      "wins": 4,
+      "draws": 1,
+      "losses": 0
+    }
+  },
+  "meta": {
+    "fixture_count": 9,
+    "recent_result_count": 53,
+    "team_count": 18
+  }
+}

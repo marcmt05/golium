@@ -16,8 +16,6 @@ import os
 from pathlib import Path
 from urllib.parse import urlparse
 
-from storage import DB_PATH, latest_snapshot
-
 HOST = os.getenv("HOST", "0.0.0.0")
 PORT = int(os.getenv("PORT", "8000"))
 ROOT = Path(__file__).resolve().parent
@@ -49,17 +47,7 @@ class GoliumHandler(http.server.SimpleHTTPRequestHandler):
         path = parsed.path
 
         if path in ("/health", "/healthz"):
-            payload = json.dumps({"status": "ok", "db": DB_PATH.name}).encode("utf-8")
-            self.send_response(200)
-            self.send_header("Content-Type", "application/json; charset=utf-8")
-            self.send_header("Content-Length", str(len(payload)))
-            self.end_headers()
-            self.wfile.write(payload)
-            return
-
-        if path == "/api/snapshots":
-            rows = [dict(r) for r in latest_snapshot()]
-            payload = json.dumps({"items": rows}, ensure_ascii=False).encode("utf-8")
+            payload = json.dumps({"status": "ok"}).encode("utf-8")
             self.send_response(200)
             self.send_header("Content-Type", "application/json; charset=utf-8")
             self.send_header("Content-Length", str(len(payload)))
