@@ -5,56 +5,8 @@
       "leagueKey": "laliga",
       "leagueSlug": "esp.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:22:19.236429+00:00",
+      "scrapedAt": "2026-04-22T10:24:06.585487+00:00",
       "fixtures": [
-        {
-          "id": "748467",
-          "date": "2026-04-21T19:30Z",
-          "status": "STATUS_SCHEDULED",
-          "matchday": "2026-04-21T19:30Z",
-          "homeTeam": {
-            "id": "9812",
-            "rawId": "9812",
-            "name": "Girona",
-            "short": "GIR"
-          },
-          "awayTeam": {
-            "id": "244",
-            "rawId": "244",
-            "name": "Real Betis",
-            "short": "BET"
-          },
-          "homeScore": 0,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
-        {
-          "id": "748471",
-          "date": "2026-04-21T19:30Z",
-          "status": "STATUS_SCHEDULED",
-          "matchday": "2026-04-21T19:30Z",
-          "homeTeam": {
-            "id": "86",
-            "rawId": "86",
-            "name": "Real Madrid",
-            "short": "RMA"
-          },
-          "awayTeam": {
-            "id": "96",
-            "rawId": "96",
-            "name": "Alavés",
-            "short": "ALA"
-          },
-          "homeScore": 0,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "748466",
           "date": "2026-04-22T17:00Z",
@@ -294,6 +246,54 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "748462",
+          "date": "2026-04-25T19:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-25T19:00Z",
+          "homeTeam": {
+            "id": "1068",
+            "rawId": "1068",
+            "name": "Atlético Madrid",
+            "short": "ATM"
+          },
+          "awayTeam": {
+            "id": "93",
+            "rawId": "93",
+            "name": "Athletic Club",
+            "short": "ATH"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
+        },
+        {
+          "id": "748458",
+          "date": "2026-04-26T12:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-04-26T12:00Z",
+          "homeTeam": {
+            "id": "101",
+            "rawId": "101",
+            "name": "Rayo Vallecano",
+            "short": "RAY"
+          },
+          "awayTeam": {
+            "id": "89",
+            "rawId": "89",
+            "name": "Real Sociedad",
+            "short": "RSO"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -310,32 +310,8 @@
       "leagueKey": "premier",
       "leagueSlug": "eng.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:24:00.150635+00:00",
+      "scrapedAt": "2026-04-22T10:25:54.754504+00:00",
       "fixtures": [
-        {
-          "id": "740928",
-          "date": "2026-04-21T19:00Z",
-          "status": "STATUS_FIRST_HALF",
-          "matchday": "2026-04-21T19:00Z",
-          "homeTeam": {
-            "id": "331",
-            "rawId": "331",
-            "name": "Brighton & Hove Albion",
-            "short": "BHA"
-          },
-          "awayTeam": {
-            "id": "363",
-            "rawId": "363",
-            "name": "Chelsea",
-            "short": "CHE"
-          },
-          "homeScore": 1,
-          "awayScore": 0,
-          "homeXG": null,
-          "homeXGA": null,
-          "awayXG": null,
-          "awayXGA": null
-        },
         {
           "id": "740926",
           "date": "2026-04-22T19:00Z",
@@ -599,6 +575,30 @@
           "homeXGA": null,
           "awayXG": null,
           "awayXGA": null
+        },
+        {
+          "id": "740944",
+          "date": "2026-05-02T14:00Z",
+          "status": "STATUS_SCHEDULED",
+          "matchday": "2026-05-02T14:00Z",
+          "homeTeam": {
+            "id": "361",
+            "rawId": "361",
+            "name": "Newcastle United",
+            "short": "NEW"
+          },
+          "awayTeam": {
+            "id": "331",
+            "rawId": "331",
+            "name": "Brighton & Hove Albion",
+            "short": "BHA"
+          },
+          "homeScore": 0,
+          "awayScore": 0,
+          "homeXG": null,
+          "homeXGA": null,
+          "awayXG": null,
+          "awayXGA": null
         }
       ],
       "standings": [],
@@ -615,7 +615,7 @@
       "leagueKey": "bundesliga",
       "leagueSlug": "ger.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:26:01.757294+00:00",
+      "scrapedAt": "2026-04-22T10:28:05.668576+00:00",
       "fixtures": [
         {
           "id": "746994",
@@ -920,7 +920,7 @@
       "leagueKey": "seriea",
       "leagueSlug": "ita.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:27:19.910464+00:00",
+      "scrapedAt": "2026-04-22T10:29:28.124545+00:00",
       "fixtures": [
         {
           "id": "737116",
@@ -1225,7 +1225,7 @@
       "leagueKey": "ligue1",
       "leagueSlug": "fra.1",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:28:37.147253+00:00",
+      "scrapedAt": "2026-04-22T10:30:51.260987+00:00",
       "fixtures": [
         {
           "id": "746643",
@@ -1530,7 +1530,7 @@
       "leagueKey": "champions",
       "leagueSlug": "uefa.champions",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:29:00.818420+00:00",
+      "scrapedAt": "2026-04-22T10:31:13.842836+00:00",
       "fixtures": [
         {
           "id": "401862893",
@@ -1643,7 +1643,7 @@
       "leagueKey": "europaleague",
       "leagueSlug": "uefa.europa",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:29:27.499293+00:00",
+      "scrapedAt": "2026-04-22T10:31:40.175485+00:00",
       "fixtures": [
         {
           "id": "401862907",
@@ -1756,7 +1756,7 @@
       "leagueKey": "hypermotion",
       "leagueSlug": "esp.2",
       "source": "ESPN + Understat + FBref",
-      "scrapedAt": "2026-04-21T19:31:01.784068+00:00",
+      "scrapedAt": "2026-04-22T10:33:26.960601+00:00",
       "fixtures": [
         {
           "id": "748929",
