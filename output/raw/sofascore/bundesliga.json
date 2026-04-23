@@ -3,7 +3,7 @@
   "league_name": "Bundesliga",
   "league_slug": "bundesliga",
   "source": "SofaScore",
-  "scraped_at": "2026-04-22T19:24:30Z",
+  "scraped_at": "2026-04-23T10:27:12Z",
   "tournament_id": 35,
   "season_id": 77333,
   "season_year": "25/26",
@@ -535,7 +535,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 191,
-                  "userCount": 1367,
+                  "userCount": 1366,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -574,7 +574,7 @@
                   "position": "D",
                   "jerseyNumber": "19",
                   "height": 184,
-                  "userCount": 2344,
+                  "userCount": 2346,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -618,7 +618,7 @@
                   "position": "G",
                   "jerseyNumber": "25",
                   "height": 188,
-                  "userCount": 121,
+                  "userCount": 122,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -660,7 +660,7 @@
                   "position": "F",
                   "jerseyNumber": "77",
                   "height": 175,
-                  "userCount": 577,
+                  "userCount": 578,
                   "gender": "M",
                   "country": {
                     "alpha2": "NG",
@@ -700,7 +700,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 186,
-                  "userCount": 3148,
+                  "userCount": 3152,
                   "gender": "M",
                   "country": {
                     "alpha2": "HU",
@@ -730,7 +730,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:33+00:00"
+                "expectedEndDate": "2026-05-07T08:00:35+00:00"
               }
             ],
             "starters": [
@@ -940,7 +940,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 1592,
+                  "userCount": 1594,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -1179,7 +1179,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 192,
-                  "userCount": 671,
+                  "userCount": 672,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -1221,7 +1221,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 246,
+                  "userCount": 247,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -1265,7 +1265,7 @@
                   "position": "F",
                   "jerseyNumber": "38",
                   "height": 193,
-                  "userCount": 1531,
+                  "userCount": 1530,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -1297,7 +1297,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+                "expectedEndDate": "2026-05-08T08:00:34+00:00"
               }
             ],
             "starters": [
@@ -1427,7 +1427,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 180,
-                  "userCount": 2488,
+                  "userCount": 2490,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -1511,7 +1511,7 @@
                   "position": "G",
                   "jerseyNumber": "40",
                   "height": 196,
-                  "userCount": 2855,
+                  "userCount": 2857,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -1554,7 +1554,7 @@
                   "position": "D",
                   "jerseyNumber": "34",
                   "height": 191,
-                  "userCount": 1385,
+                  "userCount": 1386,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -1595,7 +1595,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 186,
-                  "userCount": 1630,
+                  "userCount": 1631,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -1834,7 +1834,7 @@
                   "position": "D",
                   "jerseyNumber": "33",
                   "height": 194,
-                  "userCount": 3388,
+                  "userCount": 3386,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -1877,7 +1877,7 @@
                   "position": "D",
                   "jerseyNumber": "14",
                   "height": 192,
-                  "userCount": 631,
+                  "userCount": 632,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -1921,7 +1921,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 190,
-                  "userCount": 2405,
+                  "userCount": 2406,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -1963,7 +1963,7 @@
                   "position": "M",
                   "jerseyNumber": "40",
                   "height": 175,
-                  "userCount": 789,
+                  "userCount": 787,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -2083,7 +2083,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:35+00:00"
+                "expectedEndDate": "2026-05-07T08:00:37+00:00"
               },
               {
                 "player": {
@@ -2299,7 +2299,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 194,
-                  "userCount": 2513,
+                  "userCount": 2511,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -2536,7 +2536,7 @@
                   "position": "F",
                   "jerseyNumber": "29",
                   "height": 190,
-                  "userCount": 283,
+                  "userCount": 284,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -2737,7 +2737,7 @@
                   "position": "D",
                   "jerseyNumber": "8",
                   "height": 191,
-                  "userCount": 438,
+                  "userCount": 437,
                   "gender": "M",
                   "country": {
                     "alpha2": "SE",
@@ -2775,7 +2775,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 180,
-                  "userCount": 353,
+                  "userCount": 348,
                   "gender": "M",
                   "country": {
                     "alpha2": "PT",
@@ -2817,7 +2817,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 183,
-                  "userCount": 353,
+                  "userCount": 354,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -2854,7 +2854,7 @@
                   "position": "G",
                   "jerseyNumber": "30",
                   "height": 196,
-                  "userCount": 69,
+                  "userCount": 68,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -3077,7 +3077,7 @@
         "statistics": null,
         "lineups": {
           "home": {
-            "formation": null,
+            "formation": "3-1-4-2",
             "missing_players": [
               {
                 "player": {
@@ -3089,7 +3089,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 180,
-                  "userCount": 2764,
+                  "userCount": 2765,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -3206,11 +3206,122 @@
                 "expectedEndDate": "2026-05-01T08:00:34+00:00"
               }
             ],
-            "starters": [],
+            "starters": [
+              {
+                "id": 94312,
+                "name": "Daniel Batz",
+                "position": "G",
+                "shirt_number": 33,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 97926,
+                "name": "Danny da Costa",
+                "position": "D",
+                "shirt_number": 21,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 355486,
+                "name": "Stefan Posch",
+                "position": "D",
+                "shirt_number": 4,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 152206,
+                "name": "Dominik Kohr",
+                "position": "D",
+                "shirt_number": 31,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1028307,
+                "name": "Kaishu Sano",
+                "position": "M",
+                "shirt_number": 6,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 846471,
+                "name": "Anthony Caci",
+                "position": "M",
+                "shirt_number": 19,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 327755,
+                "name": "Nadiem Amiri",
+                "position": "M",
+                "shirt_number": 10,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 980621,
+                "name": "Paul Nebel",
+                "position": "F",
+                "shirt_number": 8,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 138126,
+                "name": "Phillipp Mwene",
+                "position": "M",
+                "shirt_number": 2,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 822340,
+                "name": "Phillip Tietz",
+                "position": "F",
+                "shirt_number": 20,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 352544,
+                "name": "Sheraldo Becker",
+                "position": "F",
+                "shirt_number": 23,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              }
+            ],
             "bench": []
           },
           "away": {
-            "formation": null,
+            "formation": "4-2-3-1",
             "missing_players": [
               {
                 "player": {
@@ -3221,7 +3332,7 @@
                   "position": "D",
                   "jerseyNumber": "30",
                   "height": 186,
-                  "userCount": 1866,
+                  "userCount": 1895,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -3261,7 +3372,7 @@
                   "position": "M",
                   "jerseyNumber": "47",
                   "height": 179,
-                  "userCount": 1729,
+                  "userCount": 1742,
                   "gender": "M",
                   "country": {
                     "alpha2": "PT",
@@ -3300,7 +3411,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 168,
-                  "userCount": 47895,
+                  "userCount": 48240,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -3340,7 +3451,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 176,
-                  "userCount": 20708,
+                  "userCount": 20738,
                   "gender": "M",
                   "sofascoreId": "sergegnabry",
                   "country": {
@@ -3382,7 +3493,7 @@
                   "position": "M",
                   "jerseyNumber": "20",
                   "height": 176,
-                  "userCount": 9651,
+                  "userCount": 9677,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -3414,7 +3525,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:36+00:00"
+                "expectedEndDate": "2026-05-06T20:00:42+00:00"
               },
               {
                 "player": {
@@ -3424,7 +3535,7 @@
                   "position": "F",
                   "jerseyNumber": "36",
                   "height": 175,
-                  "userCount": 3606,
+                  "userCount": 3619,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -3455,7 +3566,118 @@
                 "expectedEndDate": "2026-05-17T00:00:00+00:00"
               }
             ],
-            "starters": [],
+            "starters": [
+              {
+                "id": 8959,
+                "name": "Manuel Neuer",
+                "position": "G",
+                "shirt_number": 1,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 355492,
+                "name": "Konrad Laimer",
+                "position": "D",
+                "shirt_number": 27,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 896569,
+                "name": "Min-jae Kim",
+                "position": "D",
+                "shirt_number": 3,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 873106,
+                "name": "Hiroki Itō",
+                "position": "D",
+                "shirt_number": 21,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 843665,
+                "name": "Alphonso Davies",
+                "position": "D",
+                "shirt_number": 19,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 259117,
+                "name": "Joshua Kimmich",
+                "position": "M",
+                "shirt_number": 6,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 184661,
+                "name": "Leon Goretzka",
+                "position": "M",
+                "shirt_number": 8,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 978838,
+                "name": "Michael Olise",
+                "position": "M",
+                "shirt_number": 17,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 246999,
+                "name": "Raphael Guerreiro",
+                "position": "D",
+                "shirt_number": 22,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 883537,
+                "name": "Luis Díaz",
+                "position": "M",
+                "shirt_number": 14,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1085381,
+                "name": "Nicolas Jackson",
+                "position": "F",
+                "shirt_number": 11,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              }
+            ],
             "bench": []
           }
         },
@@ -3536,7 +3758,7 @@
         "statistics": null,
         "lineups": {
           "home": {
-            "formation": null,
+            "formation": "4-4-2",
             "missing_players": [
               {
                 "player": {
@@ -3580,11 +3802,122 @@
                 "externalType": 114
               }
             ],
-            "starters": [],
+            "starters": [
+              {
+                "id": 187185,
+                "name": "Marvin Schwabe",
+                "position": "G",
+                "shirt_number": 1,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1020206,
+                "name": "Sebastian Sebulonsen",
+                "position": "D",
+                "shirt_number": 28,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1402924,
+                "name": "Jahmai Simpson-Pusey",
+                "position": "D",
+                "shirt_number": 22,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 953097,
+                "name": "Cenk Özkaçar",
+                "position": "D",
+                "shirt_number": 39,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 839898,
+                "name": "Alessio Castro-Montes",
+                "position": "M",
+                "shirt_number": 17,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1010726,
+                "name": "Jan Thielmann",
+                "position": "M",
+                "shirt_number": 29,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 988639,
+                "name": "Eric Martel",
+                "position": "M",
+                "shirt_number": 6,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1112327,
+                "name": "Ísak Bergmann Jóhannesson",
+                "position": "M",
+                "shirt_number": 18,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 801263,
+                "name": "Jakub Kamiński",
+                "position": "M",
+                "shirt_number": 16,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1800475,
+                "name": "Said El Mala",
+                "position": "M",
+                "shirt_number": 13,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 378340,
+                "name": "Marius Bulter",
+                "position": "F",
+                "shirt_number": 30,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              }
+            ],
             "bench": []
           },
           "away": {
-            "formation": null,
+            "formation": "3-4-2-1",
             "missing_players": [
               {
                 "player": {
@@ -3596,7 +3929,7 @@
                   "position": "M",
                   "jerseyNumber": "13",
                   "height": 173,
-                  "userCount": 2970,
+                  "userCount": 2976,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -3640,7 +3973,7 @@
                   "position": "F",
                   "jerseyNumber": "35",
                   "height": 189,
-                  "userCount": 13196,
+                  "userCount": 13202,
                   "gender": "M",
                   "country": {
                     "alpha2": "CM",
@@ -3668,7 +4001,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:25+00:00"
+                "expectedEndDate": "2026-05-07T08:00:27+00:00"
               },
               {
                 "player": {
@@ -3678,7 +4011,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 184,
-                  "userCount": 2169,
+                  "userCount": 2172,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -3710,9 +4043,163 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114
+              },
+              {
+                "player": {
+                  "name": "Lucas Vazquez",
+                  "firstName": "Lucas",
+                  "lastName": "Vazquez",
+                  "slug": "lucas-vazquez",
+                  "shortName": "L. Vazquez",
+                  "position": "D",
+                  "jerseyNumber": "21",
+                  "height": 173,
+                  "userCount": 58190,
+                  "gender": "M",
+                  "sofascoreId": "LucasVaz91",
+                  "country": {
+                    "alpha2": "ES",
+                    "alpha3": "ESP",
+                    "name": "Spain",
+                    "slug": "spain"
+                  },
+                  "id": 255239,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 678326400,
+                  "proposedMarketValueRaw": {
+                    "value": 2700000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "bn": "লুকাস ভাজকুয়েজ",
+                      "hi": "लुकास वाज़क्वेज़"
+                    },
+                    "shortNameTranslation": {
+                      "bn": "এল. ভাজকুয়েজ",
+                      "hi": "एल. वाज़क्वेज़"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Unknown",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-08T08:00:26+00:00"
               }
             ],
-            "starters": [],
+            "starters": [
+              {
+                "id": 171919,
+                "name": "Mark Flekken",
+                "position": "G",
+                "shirt_number": 1,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 168903,
+                "name": "Robert Andrich",
+                "position": "D",
+                "shirt_number": 8,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1006489,
+                "name": "Loïc Badé",
+                "position": "D",
+                "shirt_number": 5,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 883262,
+                "name": "Edmond Tapsoba",
+                "position": "D",
+                "shirt_number": 12,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1568522,
+                "name": "Montrell Culbreath",
+                "position": "F",
+                "shirt_number": 42,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 822600,
+                "name": "Exequiel Palacios",
+                "position": "M",
+                "shirt_number": 25,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 796047,
+                "name": "Aleix García",
+                "position": "M",
+                "shirt_number": 24,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 177177,
+                "name": "Alejandro Grimaldo",
+                "position": "M",
+                "shirt_number": 20,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1407524,
+                "name": "Ibrahim Maza",
+                "position": "M",
+                "shirt_number": 30,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 1119502,
+                "name": "Ernest Poku",
+                "position": "F",
+                "shirt_number": 19,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              },
+              {
+                "id": 280609,
+                "name": "Patrik Schick",
+                "position": "F",
+                "shirt_number": 14,
+                "substitute": false,
+                "captain": false,
+                "rating": null,
+                "minutes_played": null
+              }
+            ],
             "bench": []
           }
         },
@@ -3803,7 +4290,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 3622,
+                  "userCount": 3620,
                   "gender": "M",
                   "country": {
                     "alpha2": "BE",
@@ -3846,7 +4333,7 @@
                   "position": "M",
                   "jerseyNumber": "38",
                   "height": 184,
-                  "userCount": 552,
+                  "userCount": 553,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -3884,7 +4371,7 @@
                   "position": "D",
                   "jerseyNumber": "44",
                   "height": 193,
-                  "userCount": 14790,
+                  "userCount": 14795,
                   "gender": "M",
                   "sofascoreId": "lukavuskovic",
                   "country": {
@@ -3927,7 +4414,7 @@
                   "position": "M",
                   "jerseyNumber": "28",
                   "height": 182,
-                  "userCount": 767,
+                  "userCount": 765,
                   "gender": "M",
                   "country": {
                     "alpha2": "CH",
@@ -4086,7 +4573,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 186,
-                  "userCount": 3105,
+                  "userCount": 3107,
                   "gender": "M",
                   "sofascoreId": "ahlozek",
                   "country": {
@@ -4364,7 +4851,7 @@
                   "position": "D",
                   "jerseyNumber": "29",
                   "height": 188,
-                  "userCount": 1439,
+                  "userCount": 1443,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -4392,7 +4879,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:26+00:00"
+                "expectedEndDate": "2026-05-07T08:00:28+00:00"
               },
               {
                 "player": {
@@ -4446,7 +4933,7 @@
                   "position": "M",
                   "jerseyNumber": "45",
                   "height": 182,
-                  "userCount": 1027,
+                  "userCount": 1029,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -4702,7 +5189,7 @@
                   "position": "F",
                   "jerseyNumber": "27",
                   "height": 177,
-                  "userCount": 17540,
+                  "userCount": 17547,
                   "gender": "M",
                   "sofascoreId": "karim_adeyemi",
                   "country": {
@@ -4735,7 +5222,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:34+00:00"
+                "expectedEndDate": "2026-05-07T08:00:36+00:00"
               },
               {
                 "player": {
@@ -4790,7 +5277,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 187,
-                  "userCount": 53316,
+                  "userCount": 53348,
                   "gender": "M",
                   "sofascoreId": "guirassy19off",
                   "country": {
@@ -4823,7 +5310,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:25+00:00"
+                "expectedEndDate": "2026-05-08T08:00:27+00:00"
               }
             ],
             "starters": [],
@@ -4840,7 +5327,7 @@
                   "position": "M",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 2277,
+                  "userCount": 2279,
                   "gender": "M",
                   "country": {
                     "alpha2": "GH",
@@ -4884,7 +5371,7 @@
                   "position": "D",
                   "jerseyNumber": "37",
                   "height": 186,
-                  "userCount": 243,
+                  "userCount": 242,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -4922,7 +5409,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 273,
+                  "userCount": 274,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5047,7 +5534,7 @@
                   "position": "D",
                   "jerseyNumber": "30",
                   "height": 186,
-                  "userCount": 1866,
+                  "userCount": 1895,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5086,7 +5573,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 168,
-                  "userCount": 47895,
+                  "userCount": 48240,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5126,7 +5613,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 176,
-                  "userCount": 20708,
+                  "userCount": 20738,
                   "gender": "M",
                   "sofascoreId": "sergegnabry",
                   "country": {
@@ -5168,7 +5655,7 @@
                   "position": "M",
                   "jerseyNumber": "20",
                   "height": 176,
-                  "userCount": 9651,
+                  "userCount": 9677,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5200,7 +5687,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:36+00:00"
+                "expectedEndDate": "2026-05-06T20:00:42+00:00"
               },
               {
                 "player": {
@@ -5210,7 +5697,7 @@
                   "position": "F",
                   "jerseyNumber": "36",
                   "height": 175,
-                  "userCount": 3606,
+                  "userCount": 3619,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5255,7 +5742,7 @@
                   "position": "F",
                   "jerseyNumber": "29",
                   "height": 190,
-                  "userCount": 283,
+                  "userCount": 284,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -5395,7 +5882,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 180,
-                  "userCount": 2488,
+                  "userCount": 2490,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -5479,7 +5966,7 @@
                   "position": "G",
                   "jerseyNumber": "40",
                   "height": 196,
-                  "userCount": 2855,
+                  "userCount": 2857,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -5522,7 +6009,7 @@
                   "position": "D",
                   "jerseyNumber": "34",
                   "height": 191,
-                  "userCount": 1385,
+                  "userCount": 1386,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5563,7 +6050,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 186,
-                  "userCount": 1630,
+                  "userCount": 1631,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -5613,7 +6100,7 @@
                   "position": "M",
                   "jerseyNumber": "38",
                   "height": 184,
-                  "userCount": 552,
+                  "userCount": 553,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -5651,7 +6138,7 @@
                   "position": "M",
                   "jerseyNumber": "28",
                   "height": 182,
-                  "userCount": 767,
+                  "userCount": 765,
                   "gender": "M",
                   "country": {
                     "alpha2": "CH",
@@ -5839,7 +6326,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 192,
-                  "userCount": 671,
+                  "userCount": 672,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -5881,7 +6368,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 246,
+                  "userCount": 247,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -5925,7 +6412,7 @@
                   "position": "F",
                   "jerseyNumber": "38",
                   "height": 193,
-                  "userCount": 1531,
+                  "userCount": 1530,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -5957,7 +6444,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+                "expectedEndDate": "2026-05-08T08:00:34+00:00"
               }
             ],
             "starters": [],
@@ -8013,7 +8500,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 194,
-                  "userCount": 2513,
+                  "userCount": 2511,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -8266,7 +8753,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 180,
-                  "userCount": 2764,
+                  "userCount": 2765,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -9791,7 +10278,7 @@
                   "position": "D",
                   "jerseyNumber": "30",
                   "height": 186,
-                  "userCount": 1866,
+                  "userCount": 1895,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -9831,7 +10318,7 @@
                   "position": "M",
                   "jerseyNumber": "47",
                   "height": 179,
-                  "userCount": 1729,
+                  "userCount": 1742,
                   "gender": "M",
                   "country": {
                     "alpha2": "PT",
@@ -9870,7 +10357,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 168,
-                  "userCount": 47895,
+                  "userCount": 48240,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -9910,7 +10397,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 176,
-                  "userCount": 20708,
+                  "userCount": 20738,
                   "gender": "M",
                   "sofascoreId": "sergegnabry",
                   "country": {
@@ -9952,7 +10439,7 @@
                   "position": "M",
                   "jerseyNumber": "20",
                   "height": 176,
-                  "userCount": 9651,
+                  "userCount": 9677,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -9984,7 +10471,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:36+00:00"
+                "expectedEndDate": "2026-05-06T20:00:42+00:00"
               },
               {
                 "player": {
@@ -9994,7 +10481,7 @@
                   "position": "F",
                   "jerseyNumber": "36",
                   "height": 175,
-                  "userCount": 3606,
+                  "userCount": 3619,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -10243,7 +10730,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 179,
-                  "userCount": 8595,
+                  "userCount": 8601,
                   "gender": "M",
                   "sofascoreId": "denizundav",
                   "country": {
@@ -10287,7 +10774,7 @@
                   "position": "D",
                   "jerseyNumber": "29",
                   "height": 188,
-                  "userCount": 1439,
+                  "userCount": 1443,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -10315,7 +10802,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:26+00:00"
+                "expectedEndDate": "2026-05-07T08:00:28+00:00"
               },
               {
                 "player": {
@@ -10369,7 +10856,7 @@
                   "position": "M",
                   "jerseyNumber": "45",
                   "height": 182,
-                  "userCount": 1027,
+                  "userCount": 1029,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -11763,7 +12250,7 @@
                   "position": "M",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 2277,
+                  "userCount": 2279,
                   "gender": "M",
                   "country": {
                     "alpha2": "GH",
@@ -11807,7 +12294,7 @@
                   "position": "D",
                   "jerseyNumber": "37",
                   "height": 186,
-                  "userCount": 243,
+                  "userCount": 242,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -11845,7 +12332,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 273,
+                  "userCount": 274,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -12096,7 +12583,7 @@
                   "position": "F",
                   "jerseyNumber": "29",
                   "height": 190,
-                  "userCount": 283,
+                  "userCount": 284,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -13538,7 +14025,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 180,
-                  "userCount": 2488,
+                  "userCount": 2490,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -13580,7 +14067,7 @@
                   "position": "G",
                   "jerseyNumber": "40",
                   "height": 196,
-                  "userCount": 2855,
+                  "userCount": 2857,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -13623,7 +14110,7 @@
                   "position": "D",
                   "jerseyNumber": "34",
                   "height": 191,
-                  "userCount": 1385,
+                  "userCount": 1386,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -13664,7 +14151,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 186,
-                  "userCount": 1630,
+                  "userCount": 1631,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -13915,7 +14402,7 @@
                   "position": "M",
                   "jerseyNumber": "24",
                   "height": 174,
-                  "userCount": 1119,
+                  "userCount": 1117,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -13959,7 +14446,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 191,
-                  "userCount": 1367,
+                  "userCount": 1366,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -13998,7 +14485,7 @@
                   "position": "D",
                   "jerseyNumber": "19",
                   "height": 184,
-                  "userCount": 2344,
+                  "userCount": 2346,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -14042,7 +14529,7 @@
                   "position": "G",
                   "jerseyNumber": "25",
                   "height": 188,
-                  "userCount": 121,
+                  "userCount": 122,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -14084,7 +14571,7 @@
                   "position": "F",
                   "jerseyNumber": "77",
                   "height": 175,
-                  "userCount": 577,
+                  "userCount": 578,
                   "gender": "M",
                   "country": {
                     "alpha2": "NG",
@@ -14124,7 +14611,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 186,
-                  "userCount": 3148,
+                  "userCount": 3152,
                   "gender": "M",
                   "country": {
                     "alpha2": "HU",
@@ -14154,7 +14641,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:33+00:00"
+                "expectedEndDate": "2026-05-07T08:00:35+00:00"
               }
             ],
             "starters": [
@@ -15506,7 +15993,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 186,
-                  "userCount": 3105,
+                  "userCount": 3107,
                   "gender": "M",
                   "sofascoreId": "ahlozek",
                   "country": {
@@ -15843,7 +16330,7 @@
                   "position": "F",
                   "jerseyNumber": "27",
                   "height": 177,
-                  "userCount": 17540,
+                  "userCount": 17547,
                   "gender": "M",
                   "sofascoreId": "karim_adeyemi",
                   "country": {
@@ -15876,7 +16363,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:34+00:00"
+                "expectedEndDate": "2026-05-07T08:00:36+00:00"
               },
               {
                 "player": {
@@ -15931,7 +16418,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 187,
-                  "userCount": 53316,
+                  "userCount": 53348,
                   "gender": "M",
                   "sofascoreId": "guirassy19off",
                   "country": {
@@ -15964,7 +16451,7 @@
                 "reason": 1,
                 "description": "Concussion",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:25+00:00"
+                "expectedEndDate": "2026-05-08T08:00:27+00:00"
               }
             ],
             "starters": [
@@ -17450,7 +17937,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 1592,
+                  "userCount": 1594,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -17703,7 +18190,7 @@
                   "position": "D",
                   "jerseyNumber": "33",
                   "height": 194,
-                  "userCount": 3388,
+                  "userCount": 3386,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -17746,7 +18233,7 @@
                   "position": "D",
                   "jerseyNumber": "14",
                   "height": 192,
-                  "userCount": 631,
+                  "userCount": 632,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -17790,7 +18277,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 190,
-                  "userCount": 2405,
+                  "userCount": 2406,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -17832,7 +18319,7 @@
                   "position": "M",
                   "jerseyNumber": "40",
                   "height": 175,
-                  "userCount": 789,
+                  "userCount": 787,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -17952,7 +18439,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:35+00:00"
+                "expectedEndDate": "2026-05-07T08:00:37+00:00"
               },
               {
                 "player": {
@@ -19456,7 +19943,7 @@
                   "position": "G",
                   "jerseyNumber": "13",
                   "height": 193,
-                  "userCount": 4101,
+                  "userCount": 4104,
                   "gender": "M",
                   "country": {
                     "alpha2": "EE",
@@ -19787,7 +20274,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 3622,
+                  "userCount": 3620,
                   "gender": "M",
                   "country": {
                     "alpha2": "BE",
@@ -19830,7 +20317,7 @@
                   "position": "M",
                   "jerseyNumber": "38",
                   "height": 184,
-                  "userCount": 552,
+                  "userCount": 553,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -19870,7 +20357,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 170,
-                  "userCount": 657,
+                  "userCount": 656,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -19912,7 +20399,7 @@
                   "position": "D",
                   "jerseyNumber": "44",
                   "height": 193,
-                  "userCount": 14790,
+                  "userCount": 14795,
                   "gender": "M",
                   "sofascoreId": "lukavuskovic",
                   "country": {
@@ -19955,7 +20442,7 @@
                   "position": "M",
                   "jerseyNumber": "28",
                   "height": 182,
-                  "userCount": 767,
+                  "userCount": 765,
                   "gender": "M",
                   "country": {
                     "alpha2": "CH",
@@ -19998,7 +20485,7 @@
                   "position": "F",
                   "jerseyNumber": "15",
                   "height": 193,
-                  "userCount": 1811,
+                  "userCount": 1810,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -21431,7 +21918,7 @@
                   "position": "M",
                   "jerseyNumber": "13",
                   "height": 173,
-                  "userCount": 2970,
+                  "userCount": 2976,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -21475,7 +21962,7 @@
                   "position": "F",
                   "jerseyNumber": "35",
                   "height": 189,
-                  "userCount": 13196,
+                  "userCount": 13202,
                   "gender": "M",
                   "country": {
                     "alpha2": "CM",
@@ -21503,7 +21990,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:25+00:00"
+                "expectedEndDate": "2026-05-07T08:00:27+00:00"
               },
               {
                 "player": {
@@ -21513,7 +22000,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 184,
-                  "userCount": 2169,
+                  "userCount": 2172,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -21765,7 +22252,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 192,
-                  "userCount": 671,
+                  "userCount": 672,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -21807,7 +22294,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 246,
+                  "userCount": 247,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -21851,7 +22338,7 @@
                   "position": "F",
                   "jerseyNumber": "38",
                   "height": 193,
-                  "userCount": 1531,
+                  "userCount": 1530,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -21883,7 +22370,7 @@
                 "reason": 1,
                 "description": "Illness",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+                "expectedEndDate": "2026-05-08T08:00:34+00:00"
               }
             ],
             "starters": [
@@ -23276,7 +23763,7 @@
                   "position": "D",
                   "jerseyNumber": "8",
                   "height": 191,
-                  "userCount": 438,
+                  "userCount": 437,
                   "gender": "M",
                   "country": {
                     "alpha2": "SE",
@@ -23314,7 +23801,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 180,
-                  "userCount": 353,
+                  "userCount": 348,
                   "gender": "M",
                   "country": {
                     "alpha2": "PT",
@@ -23356,7 +23843,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 183,
-                  "userCount": 353,
+                  "userCount": 354,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -23393,7 +23880,7 @@
                   "position": "G",
                   "jerseyNumber": "30",
                   "height": 196,
-                  "userCount": 69,
+                  "userCount": 68,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -25015,7 +25502,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 180,
-                  "userCount": 2764,
+                  "userCount": 2765,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -25183,7 +25670,7 @@
                   "position": "M",
                   "jerseyNumber": "26",
                   "height": 189,
-                  "userCount": 7659,
+                  "userCount": 7657,
                   "gender": "M",
                   "sofascoreId": "silas",
                   "country": {
@@ -25271,7 +25758,7 @@
                   "position": "D",
                   "jerseyNumber": "25",
                   "height": 185,
-                  "userCount": 381,
+                  "userCount": 382,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -25522,7 +26009,7 @@
                   "position": "M",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 2277,
+                  "userCount": 2279,
                   "gender": "M",
                   "country": {
                     "alpha2": "GH",
@@ -25566,7 +26053,7 @@
                   "position": "D",
                   "jerseyNumber": "37",
                   "height": 186,
-                  "userCount": 243,
+                  "userCount": 242,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -25604,7 +26091,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 273,
+                  "userCount": 274,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -27010,7 +27497,7 @@
                   "position": "M",
                   "jerseyNumber": "16",
                   "height": 190,
-                  "userCount": 1241,
+                  "userCount": 1243,
                   "gender": "M",
                   "country": {
                     "alpha2": "TR",
@@ -27096,7 +27583,7 @@
                   "position": "M",
                   "jerseyNumber": "45",
                   "height": 182,
-                  "userCount": 1027,
+                  "userCount": 1029,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -27343,7 +27830,7 @@
                   "position": "M",
                   "jerseyNumber": "28",
                   "height": 182,
-                  "userCount": 767,
+                  "userCount": 765,
                   "gender": "M",
                   "country": {
                     "alpha2": "CH",
@@ -27385,7 +27872,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 183,
-                  "userCount": 3622,
+                  "userCount": 3620,
                   "gender": "M",
                   "country": {
                     "alpha2": "BE",
@@ -27428,7 +27915,7 @@
                   "position": "M",
                   "jerseyNumber": "38",
                   "height": 184,
-                  "userCount": 552,
+                  "userCount": 553,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -27466,7 +27953,7 @@
                   "position": "M",
                   "jerseyNumber": "18",
                   "height": 184,
-                  "userCount": 452,
+                  "userCount": 454,
                   "gender": "M",
                   "country": {
                     "alpha2": "GM",
@@ -27510,7 +27997,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 170,
-                  "userCount": 657,
+                  "userCount": 656,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -27552,7 +28039,7 @@
                   "position": "D",
                   "jerseyNumber": "44",
                   "height": 193,
-                  "userCount": 14790,
+                  "userCount": 14795,
                   "gender": "M",
                   "sofascoreId": "lukavuskovic",
                   "country": {
@@ -27597,7 +28084,7 @@
                   "position": "F",
                   "jerseyNumber": "15",
                   "height": 193,
-                  "userCount": 1811,
+                  "userCount": 1810,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -29319,7 +29806,7 @@
                   "position": "M",
                   "jerseyNumber": "18",
                   "height": 178,
-                  "userCount": 1178,
+                  "userCount": 1179,
                   "gender": "M",
                   "country": {
                     "alpha2": "ES",
@@ -29404,7 +29891,7 @@
                   "position": "G",
                   "jerseyNumber": "13",
                   "height": 193,
-                  "userCount": 4101,
+                  "userCount": 4104,
                   "gender": "M",
                   "country": {
                     "alpha2": "EE",
@@ -29568,7 +30055,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 187,
-                  "userCount": 720,
+                  "userCount": 719,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -31027,7 +31514,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 190,
-                  "userCount": 963,
+                  "userCount": 962,
                   "gender": "M",
                   "country": {
                     "alpha2": "AU",
@@ -31071,7 +31558,7 @@
                   "position": "D",
                   "jerseyNumber": "8",
                   "height": 191,
-                  "userCount": 438,
+                  "userCount": 437,
                   "gender": "M",
                   "country": {
                     "alpha2": "SE",
@@ -31111,7 +31598,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 186,
-                  "userCount": 461,
+                  "userCount": 459,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -31154,7 +31641,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 175,
-                  "userCount": 359,
+                  "userCount": 356,
                   "gender": "M",
                   "country": {
                     "alpha2": "GR",
@@ -31196,7 +31683,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 183,
-                  "userCount": 353,
+                  "userCount": 354,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -31233,7 +31720,7 @@
                   "position": "G",
                   "jerseyNumber": "30",
                   "height": 196,
-                  "userCount": 69,
+                  "userCount": 68,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -31481,7 +31968,7 @@
                   "position": "D",
                   "jerseyNumber": "30",
                   "height": 186,
-                  "userCount": 1866,
+                  "userCount": 1895,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -31521,7 +32008,7 @@
                   "position": "M",
                   "jerseyNumber": "47",
                   "height": 179,
-                  "userCount": 1729,
+                  "userCount": 1742,
                   "gender": "M",
                   "country": {
                     "alpha2": "PT",
@@ -31560,7 +32047,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 168,
-                  "userCount": 47895,
+                  "userCount": 48240,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -31598,7 +32085,7 @@
                   "position": "F",
                   "jerseyNumber": "36",
                   "height": 175,
-                  "userCount": 3606,
+                  "userCount": 3619,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -32974,7 +33461,7 @@
                   "position": "F",
                   "jerseyNumber": "29",
                   "height": 190,
-                  "userCount": 283,
+                  "userCount": 284,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -33346,7 +33833,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 179,
-                  "userCount": 1592,
+                  "userCount": 1594,
                   "gender": "M",
                   "country": {
                     "alpha2": "KR",
@@ -34767,7 +35254,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 188,
-                  "userCount": 3455,
+                  "userCount": 3456,
                   "gender": "M",
                   "country": {
                     "alpha2": "GR",
@@ -34811,7 +35298,7 @@
                   "position": "D",
                   "jerseyNumber": "33",
                   "height": 194,
-                  "userCount": 3388,
+                  "userCount": 3386,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -34854,7 +35341,7 @@
                   "position": "D",
                   "jerseyNumber": "14",
                   "height": 192,
-                  "userCount": 631,
+                  "userCount": 632,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -34898,7 +35385,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 190,
-                  "userCount": 2405,
+                  "userCount": 2406,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -34940,7 +35427,7 @@
                   "position": "M",
                   "jerseyNumber": "40",
                   "height": 175,
-                  "userCount": 789,
+                  "userCount": 787,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -35060,7 +35547,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:35+00:00"
+                "expectedEndDate": "2026-05-07T08:00:37+00:00"
               },
               {
                 "player": {
@@ -35116,7 +35603,7 @@
                   "position": "D",
                   "jerseyNumber": "26",
                   "height": 175,
-                  "userCount": 874,
+                  "userCount": 872,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -35369,7 +35856,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 180,
-                  "userCount": 2488,
+                  "userCount": 2490,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -35411,7 +35898,7 @@
                   "position": "G",
                   "jerseyNumber": "40",
                   "height": 196,
-                  "userCount": 2855,
+                  "userCount": 2857,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -35454,7 +35941,7 @@
                   "position": "D",
                   "jerseyNumber": "34",
                   "height": 191,
-                  "userCount": 1385,
+                  "userCount": 1386,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -35495,7 +35982,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 186,
-                  "userCount": 1630,
+                  "userCount": 1631,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -35537,7 +36024,7 @@
                   "position": "M",
                   "jerseyNumber": "20",
                   "height": 172,
-                  "userCount": 5897,
+                  "userCount": 5900,
                   "gender": "M",
                   "sofascoreId": "doanritsu",
                   "country": {
@@ -36938,7 +37425,7 @@
                   "position": "F",
                   "jerseyNumber": "27",
                   "height": 177,
-                  "userCount": 17540,
+                  "userCount": 17547,
                   "gender": "M",
                   "sofascoreId": "karim_adeyemi",
                   "country": {
@@ -37027,7 +37514,7 @@
                   "position": "D",
                   "jerseyNumber": "39",
                   "height": 188,
-                  "userCount": 2370,
+                  "userCount": 2369,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -37067,7 +37554,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 169,
-                  "userCount": 7205,
+                  "userCount": 7206,
                   "gender": "M",
                   "sofascoreId": "yan.couto",
                   "country": {
@@ -37321,7 +37808,7 @@
                   "position": "M",
                   "jerseyNumber": "13",
                   "height": 173,
-                  "userCount": 2970,
+                  "userCount": 2976,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -37363,7 +37850,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 184,
-                  "userCount": 2169,
+                  "userCount": 2172,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -37404,7 +37891,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 190,
-                  "userCount": 10395,
+                  "userCount": 10405,
                   "gender": "M",
                   "sofascoreId": "jarellquansah",
                   "country": {
@@ -38784,7 +39271,7 @@
                   "position": "D",
                   "jerseyNumber": "23",
                   "height": 184,
-                  "userCount": 2879,
+                  "userCount": 2882,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -38827,7 +39314,7 @@
                   "position": "D",
                   "jerseyNumber": "19",
                   "height": 184,
-                  "userCount": 2344,
+                  "userCount": 2346,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -38871,7 +39358,7 @@
                   "position": "G",
                   "jerseyNumber": "25",
                   "height": 188,
-                  "userCount": 121,
+                  "userCount": 122,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -38913,7 +39400,7 @@
                   "position": "F",
                   "jerseyNumber": "77",
                   "height": 175,
-                  "userCount": 577,
+                  "userCount": 578,
                   "gender": "M",
                   "country": {
                     "alpha2": "NG",
@@ -38991,7 +39478,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 186,
-                  "userCount": 3148,
+                  "userCount": 3152,
                   "gender": "M",
                   "country": {
                     "alpha2": "HU",
@@ -39021,7 +39508,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:33+00:00"
+                "expectedEndDate": "2026-05-07T08:00:35+00:00"
               },
               {
                 "player": {
@@ -39031,7 +39518,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 186,
-                  "userCount": 4724,
+                  "userCount": 4725,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -39322,7 +39809,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 186,
-                  "userCount": 15480,
+                  "userCount": 15482,
                   "gender": "M",
                   "sofascoreId": "KevinDiks_",
                   "country": {
@@ -39451,7 +39938,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 194,
-                  "userCount": 2513,
+                  "userCount": 2511,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -40937,7 +41424,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 192,
-                  "userCount": 671,
+                  "userCount": 672,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -40979,7 +41466,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 246,
+                  "userCount": 247,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -41274,7 +41761,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 186,
-                  "userCount": 3105,
+                  "userCount": 3107,
                   "gender": "M",
                   "sofascoreId": "ahlozek",
                   "country": {
@@ -42788,7 +43275,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 180,
-                  "userCount": 2488,
+                  "userCount": 2490,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -42830,7 +43317,7 @@
                   "position": "G",
                   "jerseyNumber": "40",
                   "height": 196,
-                  "userCount": 2855,
+                  "userCount": 2857,
                   "gender": "M",
                   "country": {
                     "alpha2": "BR",
@@ -42873,7 +43360,7 @@
                   "position": "D",
                   "jerseyNumber": "34",
                   "height": 191,
-                  "userCount": 1385,
+                  "userCount": 1386,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -42914,7 +43401,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 186,
-                  "userCount": 1630,
+                  "userCount": 1631,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -43165,7 +43652,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 186,
-                  "userCount": 971,
+                  "userCount": 972,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -45016,7 +45503,7 @@
                   "position": "D",
                   "jerseyNumber": "8",
                   "height": 191,
-                  "userCount": 438,
+                  "userCount": 437,
                   "gender": "M",
                   "country": {
                     "alpha2": "SE",
@@ -45056,7 +45543,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 186,
-                  "userCount": 461,
+                  "userCount": 459,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -45099,7 +45586,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 175,
-                  "userCount": 359,
+                  "userCount": 356,
                   "gender": "M",
                   "country": {
                     "alpha2": "GR",
@@ -45141,7 +45628,7 @@
                   "position": "F",
                   "jerseyNumber": "26",
                   "height": 183,
-                  "userCount": 353,
+                  "userCount": 354,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -45178,7 +45665,7 @@
                   "position": "G",
                   "jerseyNumber": "30",
                   "height": 196,
-                  "userCount": 69,
+                  "userCount": 68,
                   "gender": "M",
                   "country": {
                     "alpha2": "AT",
@@ -45218,7 +45705,7 @@
                   "position": "D",
                   "jerseyNumber": "15",
                   "height": 190,
-                  "userCount": 498,
+                  "userCount": 499,
                   "gender": "M",
                   "country": {
                     "alpha2": "JP",
@@ -46508,7 +46995,7 @@
                   "position": "D",
                   "jerseyNumber": "23",
                   "height": 196,
-                  "userCount": 1147,
+                  "userCount": 1148,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -46594,7 +47081,7 @@
                   "position": "M",
                   "jerseyNumber": "45",
                   "height": 182,
-                  "userCount": 1027,
+                  "userCount": 1029,
                   "gender": "M",
                   "country": {
                     "alpha2": "RS",
@@ -46887,7 +47374,7 @@
                   "position": "D",
                   "jerseyNumber": "39",
                   "height": 188,
-                  "userCount": 2370,
+                  "userCount": 2369,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -48329,7 +48816,7 @@
                   "position": "M",
                   "jerseyNumber": "21",
                   "height": 187,
-                  "userCount": 351,
+                  "userCount": 352,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -48368,7 +48855,7 @@
                   "position": "M",
                   "jerseyNumber": "38",
                   "height": 184,
-                  "userCount": 552,
+                  "userCount": 553,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -48406,7 +48893,7 @@
                   "position": "M",
                   "jerseyNumber": "18",
                   "height": 184,
-                  "userCount": 452,
+                  "userCount": 454,
                   "gender": "M",
                   "country": {
                     "alpha2": "GM",
@@ -48450,7 +48937,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 170,
-                  "userCount": 657,
+                  "userCount": 656,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -48492,7 +48979,7 @@
                   "position": "D",
                   "jerseyNumber": "24",
                   "height": 178,
-                  "userCount": 938,
+                  "userCount": 937,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -48536,7 +49023,7 @@
                   "position": "F",
                   "jerseyNumber": "15",
                   "height": 193,
-                  "userCount": 1811,
+                  "userCount": 1810,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -48789,7 +49276,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 192,
-                  "userCount": 671,
+                  "userCount": 672,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -48833,7 +49320,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 181,
-                  "userCount": 2305,
+                  "userCount": 2302,
                   "gender": "M",
                   "country": {
                     "alpha2": "HR",
@@ -48875,7 +49362,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 246,
+                  "userCount": 247,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -50281,7 +50768,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 186,
-                  "userCount": 3105,
+                  "userCount": 3107,
                   "gender": "M",
                   "sofascoreId": "ahlozek",
                   "country": {
@@ -50363,7 +50850,7 @@
                   "position": "D",
                   "jerseyNumber": "28",
                   "height": 190,
-                  "userCount": 1355,
+                  "userCount": 1356,
                   "gender": "M",
                   "country": {
                     "alpha2": "JP",
@@ -50821,7 +51308,7 @@
                   "position": "M",
                   "jerseyNumber": "26",
                   "height": 189,
-                  "userCount": 7659,
+                  "userCount": 7657,
                   "gender": "M",
                   "sofascoreId": "silas",
                   "country": {
@@ -50909,7 +51396,7 @@
                   "position": "D",
                   "jerseyNumber": "25",
                   "height": 185,
-                  "userCount": 381,
+                  "userCount": 382,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -50953,7 +51440,7 @@
                   "position": "M",
                   "jerseyNumber": "10",
                   "height": 180,
-                  "userCount": 3103,
+                  "userCount": 3111,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -52452,7 +52939,7 @@
                   "position": "F",
                   "jerseyNumber": "11",
                   "height": 194,
-                  "userCount": 2513,
+                  "userCount": 2511,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -52496,7 +52983,7 @@
                   "position": "D",
                   "jerseyNumber": "14",
                   "height": 192,
-                  "userCount": 3577,
+                  "userCount": 3578,
                   "gender": "M",
                   "country": {
                     "alpha2": "JP",
@@ -52535,7 +53022,7 @@
                   "position": "F",
                   "jerseyNumber": "8",
                   "height": 179,
-                  "userCount": 3098,
+                  "userCount": 3096,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -52783,7 +53270,7 @@
                   "position": "M",
                   "jerseyNumber": "3",
                   "height": 190,
-                  "userCount": 169,
+                  "userCount": 167,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",
@@ -52869,7 +53356,7 @@
                   "position": "F",
                   "jerseyNumber": "29",
                   "height": 190,
-                  "userCount": 283,
+                  "userCount": 284,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -52951,7 +53438,7 @@
                   "position": "D",
                   "jerseyNumber": "26",
                   "height": 174,
-                  "userCount": 161,
+                  "userCount": 163,
                   "gender": "M",
                   "country": {
                     "alpha2": "DE",

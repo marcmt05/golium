@@ -3,7 +3,7 @@
   "league_name": "Serie A",
   "league_slug": "ita.1",
   "source": "ESPN+SofaScore",
-  "scraped_at": "2026-04-22T19:24:55Z",
+  "scraped_at": "2026-04-23T10:27:40Z",
   "standings": [
     {
       "rank": 1.0,
@@ -47,6 +47,9 @@
         "wins": 25.0,
         "Wins": "25",
         "W": "25",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -234,6 +237,9 @@
         "wins": 18.0,
         "Wins": "18",
         "W": "18",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -835,7 +841,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -847,7 +853,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 175,
-                  "userCount": 15343,
+                  "userCount": 15345,
                   "gender": "M",
                   "sofascoreId": "davidneres",
                   "country": {
@@ -892,7 +898,7 @@
                   "position": "D",
                   "jerseyNumber": "22",
                   "height": 182,
-                  "userCount": 7126,
+                  "userCount": 7122,
                   "gender": "M",
                   "sofascoreId": "dilorenzo22",
                   "country": {
@@ -935,7 +941,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 191,
-                  "userCount": 55719,
+                  "userCount": 55727,
                   "gender": "M",
                   "sofascoreId": "RLukaku",
                   "country": {
@@ -968,7 +974,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -1098,7 +1104,7 @@
                   "position": "F",
                   "jerseyNumber": "10",
                   "height": 178,
-                  "userCount": 22883,
+                  "userCount": 22895,
                   "gender": "M",
                   "sofascoreId": "Vardy7",
                   "country": {
@@ -1141,7 +1147,7 @@
                   "position": "F",
                   "jerseyNumber": "14",
                   "height": 185,
-                  "userCount": 1812,
+                  "userCount": 1817,
                   "gender": "M",
                   "country": {
                     "alpha2": "CM",
@@ -1173,7 +1179,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -1185,7 +1191,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 189,
-                  "userCount": 770,
+                  "userCount": 769,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -1395,7 +1401,7 @@
                   "position": "M",
                   "jerseyNumber": "25",
                   "height": 180,
-                  "userCount": 3202,
+                  "userCount": 3204,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -1438,7 +1444,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 184,
-                  "userCount": 1405,
+                  "userCount": 1407,
                   "gender": "M",
                   "country": {
                     "alpha2": "HR",
@@ -1482,7 +1488,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 192,
-                  "userCount": 3302,
+                  "userCount": 3297,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -1510,7 +1516,7 @@
                 "reason": 1,
                 "description": "Head Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+                "expectedEndDate": "2026-05-08T08:00:34+00:00"
               }
             ],
             "starters": [
@@ -1638,7 +1644,7 @@
                   "position": "M",
                   "jerseyNumber": "7",
                   "height": 186,
-                  "userCount": 1539,
+                  "userCount": 1537,
                   "gender": "M",
                   "country": {
                     "alpha2": "DZ",
@@ -1719,7 +1725,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 182,
-                  "userCount": 1479,
+                  "userCount": 1478,
                   "gender": "M",
                   "country": {
                     "alpha2": "RO",
@@ -1751,7 +1757,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -1964,7 +1970,7 @@
                   "position": "F",
                   "jerseyNumber": "25",
                   "height": 180,
-                  "userCount": 1035,
+                  "userCount": 1036,
                   "gender": "M",
                   "country": {
                     "alpha2": "CO",
@@ -2166,7 +2172,7 @@
                   "position": "M",
                   "jerseyNumber": "10",
                   "height": 186,
-                  "userCount": 1359,
+                  "userCount": 1360,
                   "gender": "M",
                   "country": {
                     "alpha2": "AL",
@@ -2198,7 +2204,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:31+00:00"
+                "expectedEndDate": "2026-05-07T08:00:33+00:00"
               },
               {
                 "player": {
@@ -2208,7 +2214,7 @@
                   "position": "M",
                   "jerseyNumber": "8",
                   "height": 192,
-                  "userCount": 634,
+                  "userCount": 633,
                   "gender": "M",
                   "country": {
                     "alpha2": "TG",
@@ -2249,7 +2255,7 @@
                   "position": "F",
                   "jerseyNumber": "22",
                   "height": 189,
-                  "userCount": 9870,
+                  "userCount": 9876,
                   "gender": "M",
                   "sofascoreId": "camardafrancesco9",
                   "country": {
@@ -2282,7 +2288,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -2294,7 +2300,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 193,
-                  "userCount": 1230,
+                  "userCount": 1227,
                   "gender": "M",
                   "country": {
                     "alpha2": "AO",
@@ -2326,7 +2332,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -2336,7 +2342,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 180,
-                  "userCount": 1422,
+                  "userCount": 1423,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -2368,7 +2374,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -2544,7 +2550,7 @@
                   "position": "D",
                   "jerseyNumber": "65",
                   "height": 178,
-                  "userCount": 940,
+                  "userCount": 938,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -2586,7 +2592,7 @@
                   "position": "D",
                   "jerseyNumber": "48",
                   "height": 165,
-                  "userCount": 4108,
+                  "userCount": 4115,
                   "gender": "M",
                   "sofascoreId": "TariqLamptey",
                   "country": {
@@ -2631,7 +2637,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 183,
-                  "userCount": 16386,
+                  "userCount": 16379,
                   "gender": "M",
                   "sofascoreId": "moise_kean",
                   "country": {
@@ -2664,7 +2670,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -2675,7 +2681,7 @@
                   "position": "M",
                   "jerseyNumber": "29",
                   "height": 185,
-                  "userCount": 667,
+                  "userCount": 668,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -2703,7 +2709,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -2747,7 +2753,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:26+00:00"
+                "expectedEndDate": "2026-05-08T08:00:28+00:00"
               }
             ],
             "starters": [
@@ -2962,7 +2968,7 @@
                   "position": "M",
                   "jerseyNumber": "50",
                   "height": 178,
-                  "userCount": 1411,
+                  "userCount": 1412,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -2990,7 +2996,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -3044,7 +3050,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 184,
-                  "userCount": 409,
+                  "userCount": 410,
                   "gender": "M",
                   "country": {
                     "alpha2": "GW",
@@ -3294,7 +3300,7 @@
                   "position": "F",
                   "jerseyNumber": "70",
                   "height": 179,
-                  "userCount": 1994,
+                  "userCount": 1997,
                   "gender": "M",
                   "country": {
                     "alpha2": "CI",
@@ -3326,7 +3332,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -3456,7 +3462,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 176,
-                  "userCount": 3148,
+                  "userCount": 3149,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -3496,7 +3502,7 @@
                   "position": "M",
                   "jerseyNumber": "8",
                   "height": 178,
-                  "userCount": 10462,
+                  "userCount": 10461,
                   "gender": "M",
                   "sofascoreId": "sergiroberto",
                   "country": {
@@ -3529,7 +3535,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:30+00:00"
+                "expectedEndDate": "2026-05-08T08:00:32+00:00"
               }
             ],
             "starters": [
@@ -3861,7 +3867,7 @@
                   "position": "F",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 14706,
+                  "userCount": 14713,
                   "gender": "M",
                   "sofascoreId": "arekmilik",
                   "country": {
@@ -3904,7 +3910,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 190,
-                  "userCount": 43012,
+                  "userCount": 43005,
                   "gender": "M",
                   "sofascoreId": "DV9",
                   "country": {
@@ -3991,7 +3997,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 187,
-                  "userCount": 5314,
+                  "userCount": 5322,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -4065,7 +4071,7 @@
                 "reason": 1,
                 "description": "Calf Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:30+00:00"
+                "expectedEndDate": "2026-05-08T08:00:27+00:00"
               },
               {
                 "player": {
@@ -4075,7 +4081,7 @@
                   "position": "D",
                   "jerseyNumber": "32",
                   "height": 185,
-                  "userCount": 4960,
+                  "userCount": 4958,
                   "gender": "M",
                   "country": {
                     "alpha2": "CO",
@@ -4261,7 +4267,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "0",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-12-7"
       },
       "venue": {
@@ -4285,7 +4291,7 @@
                   "position": "M",
                   "jerseyNumber": "4",
                   "height": 180,
-                  "userCount": 467,
+                  "userCount": 468,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -4329,7 +4335,7 @@
                   "position": "F",
                   "jerseyNumber": "30",
                   "height": 188,
-                  "userCount": 585,
+                  "userCount": 584,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -4480,7 +4486,50 @@
           },
           "away": {
             "formation": "3-4-2-1",
-            "missing_players": [],
+            "missing_players": [
+              {
+                "player": {
+                  "name": "Lorenzo Bernasconi",
+                  "slug": "lorenzo-bernasconi",
+                  "shortName": "L. Bernasconi",
+                  "position": "M",
+                  "jerseyNumber": "47",
+                  "height": 190,
+                  "userCount": 872,
+                  "gender": "M",
+                  "country": {
+                    "alpha2": "IT",
+                    "alpha3": "ITA",
+                    "name": "Italy",
+                    "slug": "italy"
+                  },
+                  "id": 1012177,
+                  "marketValueCurrency": "EUR",
+                  "dateOfBirthTimestamp": 1068940800,
+                  "proposedMarketValueRaw": {
+                    "value": 15500000,
+                    "currency": "EUR"
+                  },
+                  "fieldTranslations": {
+                    "nameTranslation": {
+                      "ar": "لورينزو برناسكوني",
+                      "bn": "লরেঞ্জো বার্নাস্কোনি",
+                      "hi": "लोरेंजो बर्नास्कोनी"
+                    },
+                    "shortNameTranslation": {
+                      "ar": "ل. برناسكوني",
+                      "bn": "এল. বার্নাস্কোনি",
+                      "hi": "एल. बर्नास्कोनी"
+                    }
+                  }
+                },
+                "type": "doubtful",
+                "reason": 1,
+                "description": "Knee Injury",
+                "externalType": 114,
+                "expectedEndDate": "2026-05-08T08:00:26+00:00"
+              }
+            ],
             "starters": [
               {
                 "id": 865646,
@@ -4623,7 +4672,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "0",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "12-11-10"
       },
       "away_team": {
@@ -4654,7 +4703,7 @@
                   "position": "G",
                   "jerseyNumber": "55",
                   "height": 191,
-                  "userCount": 202,
+                  "userCount": 208,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -4697,7 +4746,7 @@
                   "position": "G",
                   "jerseyNumber": "94",
                   "height": 194,
-                  "userCount": 1875,
+                  "userCount": 1878,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -4740,7 +4789,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 179,
-                  "userCount": 2979,
+                  "userCount": 2983,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -4797,10 +4846,10 @@
                 "minutes_played": null
               },
               {
-                "id": 965828,
-                "name": "Mario Gila Fuentes",
+                "id": 217784,
+                "name": "Patric",
                 "position": "D",
-                "shirt_number": 34,
+                "shirt_number": 4,
                 "substitute": false,
                 "captain": false,
                 "rating": null,
@@ -4902,7 +4951,7 @@
                   "position": "M",
                   "jerseyNumber": "8",
                   "height": 179,
-                  "userCount": 788,
+                  "userCount": 787,
                   "gender": "M",
                   "country": {
                     "alpha2": "SE",
@@ -4946,7 +4995,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 189,
-                  "userCount": 1735,
+                  "userCount": 1732,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -5064,7 +5113,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -6163,7 +6212,7 @@
                   "position": "M",
                   "jerseyNumber": "10",
                   "height": 186,
-                  "userCount": 1359,
+                  "userCount": 1360,
                   "gender": "M",
                   "country": {
                     "alpha2": "AL",
@@ -6195,7 +6244,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:31+00:00"
+                "expectedEndDate": "2026-05-07T08:00:33+00:00"
               },
               {
                 "player": {
@@ -6205,7 +6254,7 @@
                   "position": "M",
                   "jerseyNumber": "8",
                   "height": 192,
-                  "userCount": 634,
+                  "userCount": 633,
                   "gender": "M",
                   "country": {
                     "alpha2": "TG",
@@ -6246,7 +6295,7 @@
                   "position": "F",
                   "jerseyNumber": "22",
                   "height": 189,
-                  "userCount": 9870,
+                  "userCount": 9876,
                   "gender": "M",
                   "sofascoreId": "camardafrancesco9",
                   "country": {
@@ -6279,7 +6328,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -6291,7 +6340,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 193,
-                  "userCount": 1230,
+                  "userCount": 1227,
                   "gender": "M",
                   "country": {
                     "alpha2": "AO",
@@ -6323,7 +6372,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -6333,7 +6382,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 180,
-                  "userCount": 1422,
+                  "userCount": 1423,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -6365,7 +6414,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -6624,7 +6673,7 @@
                   "position": "D",
                   "jerseyNumber": "65",
                   "height": 178,
-                  "userCount": 940,
+                  "userCount": 938,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -6666,7 +6715,7 @@
                   "position": "D",
                   "jerseyNumber": "48",
                   "height": 165,
-                  "userCount": 4108,
+                  "userCount": 4115,
                   "gender": "M",
                   "sofascoreId": "TariqLamptey",
                   "country": {
@@ -6711,7 +6760,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 183,
-                  "userCount": 16386,
+                  "userCount": 16379,
                   "gender": "M",
                   "sofascoreId": "moise_kean",
                   "country": {
@@ -6744,7 +6793,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -6755,7 +6804,7 @@
                   "position": "M",
                   "jerseyNumber": "29",
                   "height": 185,
-                  "userCount": 667,
+                  "userCount": 668,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -6783,7 +6832,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -8206,7 +8255,7 @@
                   "position": "F",
                   "jerseyNumber": "14",
                   "height": 186,
-                  "userCount": 14706,
+                  "userCount": 14713,
                   "gender": "M",
                   "sofascoreId": "arekmilik",
                   "country": {
@@ -8249,7 +8298,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 190,
-                  "userCount": 43012,
+                  "userCount": 43005,
                   "gender": "M",
                   "sofascoreId": "DV9",
                   "country": {
@@ -8336,7 +8385,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 187,
-                  "userCount": 5314,
+                  "userCount": 5322,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -8378,7 +8427,7 @@
                   "position": "D",
                   "jerseyNumber": "32",
                   "height": 185,
-                  "userCount": 4960,
+                  "userCount": 4958,
                   "gender": "M",
                   "country": {
                     "alpha2": "CO",
@@ -8681,7 +8730,7 @@
                   "position": "G",
                   "jerseyNumber": "1",
                   "height": 187,
-                  "userCount": 4427,
+                  "userCount": 4423,
                   "gender": "M",
                   "sofascoreId": "lukaszskorupski28",
                   "country": {
@@ -8724,7 +8773,7 @@
                   "position": "M",
                   "jerseyNumber": "30",
                   "height": 172,
-                  "userCount": 3307,
+                  "userCount": 3310,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -8766,7 +8815,7 @@
                   "position": "F",
                   "jerseyNumber": "24",
                   "height": 190,
-                  "userCount": 2444,
+                  "userCount": 2442,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -10234,7 +10283,7 @@
                   "position": "F",
                   "jerseyNumber": "19",
                   "height": 182,
-                  "userCount": 2470,
+                  "userCount": 2471,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -10315,7 +10364,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 182,
-                  "userCount": 1479,
+                  "userCount": 1478,
                   "gender": "M",
                   "country": {
                     "alpha2": "RO",
@@ -10347,7 +10396,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -10648,7 +10697,7 @@
                   "position": "M",
                   "jerseyNumber": "32",
                   "height": 178,
-                  "userCount": 1707,
+                  "userCount": 1705,
                   "gender": "M",
                   "country": {
                     "alpha2": "DK",
@@ -10692,7 +10741,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 181,
-                  "userCount": 5002,
+                  "userCount": 5008,
                   "gender": "M",
                   "sofascoreId": "malinovskyi18",
                   "country": {
@@ -10777,7 +10826,7 @@
                   "position": "F",
                   "jerseyNumber": "70",
                   "height": 179,
-                  "userCount": 1994,
+                  "userCount": 1997,
                   "gender": "M",
                   "country": {
                     "alpha2": "CI",
@@ -10809,7 +10858,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -13890,7 +13939,7 @@
                   "position": "F",
                   "jerseyNumber": "10",
                   "height": 178,
-                  "userCount": 22883,
+                  "userCount": 22895,
                   "gender": "M",
                   "sofascoreId": "Vardy7",
                   "country": {
@@ -13933,7 +13982,7 @@
                   "position": "F",
                   "jerseyNumber": "14",
                   "height": 185,
-                  "userCount": 1812,
+                  "userCount": 1817,
                   "gender": "M",
                   "country": {
                     "alpha2": "CM",
@@ -13965,7 +14014,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -13977,7 +14026,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 189,
-                  "userCount": 770,
+                  "userCount": 769,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -14258,7 +14307,7 @@
                   "position": "D",
                   "jerseyNumber": "44",
                   "height": 188,
-                  "userCount": 1185,
+                  "userCount": 1183,
                   "gender": "M",
                   "country": {
                     "alpha2": "AL",
@@ -14300,7 +14349,7 @@
                   "position": "F",
                   "jerseyNumber": "91",
                   "height": 189,
-                  "userCount": 5957,
+                  "userCount": 5956,
                   "gender": "M",
                   "sofascoreId": "duvanzapata91",
                   "country": {
@@ -14385,7 +14434,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 179,
-                  "userCount": 7775,
+                  "userCount": 7776,
                   "gender": "M",
                   "sofascoreId": "zakariaaboukhlal",
                   "country": {
@@ -14858,7 +14907,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-12-7"
       },
       "venue": {
@@ -14895,7 +14944,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "12-11-10"
       },
       "venue": {
@@ -15876,7 +15925,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -15888,7 +15937,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 175,
-                  "userCount": 15343,
+                  "userCount": 15345,
                   "gender": "M",
                   "sofascoreId": "davidneres",
                   "country": {
@@ -15933,7 +15982,7 @@
                   "position": "D",
                   "jerseyNumber": "22",
                   "height": 182,
-                  "userCount": 7126,
+                  "userCount": 7122,
                   "gender": "M",
                   "sofascoreId": "dilorenzo22",
                   "country": {
@@ -15976,7 +16025,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 191,
-                  "userCount": 55719,
+                  "userCount": 55727,
                   "gender": "M",
                   "sofascoreId": "RLukaku",
                   "country": {
@@ -16009,7 +16058,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -16240,7 +16289,7 @@
                   "position": "D",
                   "jerseyNumber": "77",
                   "height": 185,
-                  "userCount": 1173,
+                  "userCount": 1177,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -16280,7 +16329,7 @@
                   "position": "G",
                   "jerseyNumber": "55",
                   "height": 191,
-                  "userCount": 202,
+                  "userCount": 208,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -16323,7 +16372,7 @@
                   "position": "G",
                   "jerseyNumber": "94",
                   "height": 194,
-                  "userCount": 1875,
+                  "userCount": 1878,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -16366,7 +16415,7 @@
                   "position": "D",
                   "jerseyNumber": "29",
                   "height": 173,
-                  "userCount": 766,
+                  "userCount": 769,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -16410,7 +16459,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 179,
-                  "userCount": 2979,
+                  "userCount": 2983,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -17880,7 +17929,7 @@
                   "position": "M",
                   "jerseyNumber": "59",
                   "height": 186,
-                  "userCount": 916,
+                  "userCount": 915,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -17924,7 +17973,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 189,
-                  "userCount": 1735,
+                  "userCount": 1732,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -18042,7 +18091,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -18273,7 +18322,7 @@
                   "position": "M",
                   "jerseyNumber": "25",
                   "height": 180,
-                  "userCount": 3202,
+                  "userCount": 3204,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -18316,7 +18365,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 184,
-                  "userCount": 1405,
+                  "userCount": 1407,
                   "gender": "M",
                   "country": {
                     "alpha2": "HR",
@@ -18360,7 +18409,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 192,
-                  "userCount": 3302,
+                  "userCount": 3297,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -18388,7 +18437,7 @@
                 "reason": 1,
                 "description": "Head Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:32+00:00"
+                "expectedEndDate": "2026-05-08T08:00:34+00:00"
               }
             ],
             "starters": [
@@ -19947,7 +19996,7 @@
                   "position": "M",
                   "jerseyNumber": "50",
                   "height": 178,
-                  "userCount": 1411,
+                  "userCount": 1412,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -19975,7 +20024,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -20029,7 +20078,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 184,
-                  "userCount": 409,
+                  "userCount": 410,
                   "gender": "M",
                   "country": {
                     "alpha2": "GW",
@@ -20312,7 +20361,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 176,
-                  "userCount": 3148,
+                  "userCount": 3149,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -20352,7 +20401,7 @@
                   "position": "M",
                   "jerseyNumber": "8",
                   "height": 178,
-                  "userCount": 10462,
+                  "userCount": 10461,
                   "gender": "M",
                   "sofascoreId": "sergiroberto",
                   "country": {
@@ -20385,7 +20434,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:30+00:00"
+                "expectedEndDate": "2026-05-08T08:00:32+00:00"
               }
             ],
             "starters": [
@@ -20846,7 +20895,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "0",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-11-10"
       },
       "venue": {
@@ -21771,7 +21820,7 @@
                   "position": "F",
                   "jerseyNumber": "10",
                   "height": 178,
-                  "userCount": 3917,
+                  "userCount": 3911,
                   "gender": "M",
                   "country": {
                     "alpha2": "IS",
@@ -21815,7 +21864,7 @@
                   "position": "M",
                   "jerseyNumber": "44",
                   "height": 178,
-                  "userCount": 4562,
+                  "userCount": 4560,
                   "gender": "M",
                   "sofascoreId": "nicolofagioli",
                   "country": {
@@ -21858,7 +21907,7 @@
                   "position": "D",
                   "jerseyNumber": "65",
                   "height": 178,
-                  "userCount": 940,
+                  "userCount": 938,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -21900,7 +21949,7 @@
                   "position": "D",
                   "jerseyNumber": "48",
                   "height": 165,
-                  "userCount": 4108,
+                  "userCount": 4115,
                   "gender": "M",
                   "sofascoreId": "TariqLamptey",
                   "country": {
@@ -21945,7 +21994,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 183,
-                  "userCount": 16386,
+                  "userCount": 16379,
                   "gender": "M",
                   "sofascoreId": "moise_kean",
                   "country": {
@@ -21978,7 +22027,7 @@
                 "reason": 1,
                 "description": "Physical Discomfort",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:35+00:00"
+                "expectedEndDate": "2026-05-08T08:00:37+00:00"
               },
               {
                 "player": {
@@ -21989,7 +22038,7 @@
                   "position": "M",
                   "jerseyNumber": "29",
                   "height": 185,
-                  "userCount": 667,
+                  "userCount": 668,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -22017,7 +22066,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -22268,7 +22317,7 @@
                   "position": "D",
                   "jerseyNumber": "77",
                   "height": 185,
-                  "userCount": 1173,
+                  "userCount": 1177,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -22310,7 +22359,7 @@
                   "position": "F",
                   "jerseyNumber": "27",
                   "height": 187,
-                  "userCount": 4900,
+                  "userCount": 4914,
                   "gender": "M",
                   "sofascoreId": "dani.malda",
                   "country": {
@@ -22355,7 +22404,7 @@
                   "position": "G",
                   "jerseyNumber": "94",
                   "height": 194,
-                  "userCount": 1875,
+                  "userCount": 1878,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -22398,7 +22447,7 @@
                   "position": "M",
                   "jerseyNumber": "6",
                   "height": 179,
-                  "userCount": 2979,
+                  "userCount": 2983,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -22442,7 +22491,7 @@
                   "position": "D",
                   "jerseyNumber": "2",
                   "height": 187,
-                  "userCount": 796,
+                  "userCount": 799,
                   "gender": "M",
                   "country": {
                     "alpha2": "FR",
@@ -22486,7 +22535,7 @@
                   "position": "M",
                   "jerseyNumber": "32",
                   "height": 180,
-                  "userCount": 1008,
+                  "userCount": 1016,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -23959,7 +24008,7 @@
                   "position": "M",
                   "jerseyNumber": "19",
                   "height": 181,
-                  "userCount": 2051,
+                  "userCount": 2049,
                   "gender": "M",
                   "country": {
                     "alpha2": "SX",
@@ -24040,7 +24089,7 @@
                   "position": "G",
                   "jerseyNumber": "1",
                   "height": 187,
-                  "userCount": 4427,
+                  "userCount": 4423,
                   "gender": "M",
                   "sofascoreId": "lukaszskorupski28",
                   "country": {
@@ -24083,7 +24132,7 @@
                   "position": "M",
                   "jerseyNumber": "30",
                   "height": 172,
-                  "userCount": 3307,
+                  "userCount": 3310,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -24125,7 +24174,7 @@
                   "position": "D",
                   "jerseyNumber": "22",
                   "height": 188,
-                  "userCount": 665,
+                  "userCount": 664,
                   "gender": "M",
                   "country": {
                     "alpha2": "GR",
@@ -24165,7 +24214,7 @@
                   "position": "F",
                   "jerseyNumber": "24",
                   "height": 190,
-                  "userCount": 2444,
+                  "userCount": 2442,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -24438,7 +24487,7 @@
                   "position": "M",
                   "jerseyNumber": "10",
                   "height": 186,
-                  "userCount": 1359,
+                  "userCount": 1360,
                   "gender": "M",
                   "country": {
                     "alpha2": "AL",
@@ -24470,7 +24519,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:31+00:00"
+                "expectedEndDate": "2026-05-07T08:00:33+00:00"
               },
               {
                 "player": {
@@ -24480,7 +24529,7 @@
                   "position": "F",
                   "jerseyNumber": "22",
                   "height": 189,
-                  "userCount": 9870,
+                  "userCount": 9876,
                   "gender": "M",
                   "sofascoreId": "camardafrancesco9",
                   "country": {
@@ -24513,7 +24562,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -24525,7 +24574,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 193,
-                  "userCount": 1230,
+                  "userCount": 1227,
                   "gender": "M",
                   "country": {
                     "alpha2": "AO",
@@ -24557,7 +24606,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -24567,7 +24616,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 180,
-                  "userCount": 1422,
+                  "userCount": 1423,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -24599,7 +24648,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -25992,7 +26041,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 192,
-                  "userCount": 3302,
+                  "userCount": 3297,
                   "gender": "M",
                   "country": {
                     "alpha2": "AR",
@@ -26032,7 +26081,7 @@
                   "position": "M",
                   "jerseyNumber": "25",
                   "height": 180,
-                  "userCount": 3202,
+                  "userCount": 3204,
                   "gender": "M",
                   "country": {
                     "alpha2": "US",
@@ -26075,7 +26124,7 @@
                   "position": "F",
                   "jerseyNumber": "20",
                   "height": 184,
-                  "userCount": 1405,
+                  "userCount": 1407,
                   "gender": "M",
                   "country": {
                     "alpha2": "HR",
@@ -26358,7 +26407,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 190,
-                  "userCount": 3753,
+                  "userCount": 3750,
                   "gender": "M",
                   "country": {
                     "alpha2": "XK",
@@ -26432,7 +26481,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -26444,7 +26493,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 175,
-                  "userCount": 15343,
+                  "userCount": 15345,
                   "gender": "M",
                   "sofascoreId": "davidneres",
                   "country": {
@@ -26489,7 +26538,7 @@
                   "position": "D",
                   "jerseyNumber": "22",
                   "height": 182,
-                  "userCount": 7126,
+                  "userCount": 7122,
                   "gender": "M",
                   "sofascoreId": "dilorenzo22",
                   "country": {
@@ -26532,7 +26581,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 191,
-                  "userCount": 55719,
+                  "userCount": 55727,
                   "gender": "M",
                   "sofascoreId": "RLukaku",
                   "country": {
@@ -26565,7 +26614,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -27974,7 +28023,7 @@
                   "position": "M",
                   "jerseyNumber": "14",
                   "height": 189,
-                  "userCount": 1389,
+                  "userCount": 1388,
                   "gender": "M",
                   "country": {
                     "alpha2": "CM",
@@ -28018,7 +28067,7 @@
                   "position": "F",
                   "jerseyNumber": "70",
                   "height": 179,
-                  "userCount": 1994,
+                  "userCount": 1997,
                   "gender": "M",
                   "country": {
                     "alpha2": "CI",
@@ -28050,7 +28099,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -28439,7 +28488,7 @@
                   "position": "D",
                   "jerseyNumber": "5",
                   "height": 184,
-                  "userCount": 409,
+                  "userCount": 410,
                   "gender": "M",
                   "country": {
                     "alpha2": "GW",
@@ -28944,7 +28993,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "0",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-11-7"
       },
       "away_team": {
@@ -29970,7 +30019,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 174,
-                  "userCount": 8520,
+                  "userCount": 8530,
                   "gender": "M",
                   "sofascoreId": "kamaldeenho10",
                   "country": {
@@ -30262,7 +30311,7 @@
                   "position": "M",
                   "jerseyNumber": "22",
                   "height": 185,
-                  "userCount": 8378,
+                  "userCount": 8371,
                   "gender": "M",
                   "sofascoreId": "west.mckennie",
                   "country": {
@@ -30305,7 +30354,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 190,
-                  "userCount": 43012,
+                  "userCount": 43005,
                   "gender": "M",
                   "sofascoreId": "DV9",
                   "country": {
@@ -30392,7 +30441,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 187,
-                  "userCount": 5314,
+                  "userCount": 5322,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -30434,7 +30483,7 @@
                   "position": "D",
                   "jerseyNumber": "32",
                   "height": 185,
-                  "userCount": 4960,
+                  "userCount": 4958,
                   "gender": "M",
                   "country": {
                     "alpha2": "CO",
@@ -32048,7 +32097,7 @@
                   "position": "M",
                   "jerseyNumber": "59",
                   "height": 186,
-                  "userCount": 916,
+                  "userCount": 915,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -32092,7 +32141,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 189,
-                  "userCount": 1735,
+                  "userCount": 1732,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -32168,7 +32217,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -33551,7 +33600,7 @@
                   "position": "F",
                   "jerseyNumber": "91",
                   "height": 189,
-                  "userCount": 5957,
+                  "userCount": 5956,
                   "gender": "M",
                   "sofascoreId": "duvanzapata91",
                   "country": {
@@ -33636,7 +33685,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 179,
-                  "userCount": 7775,
+                  "userCount": 7776,
                   "gender": "M",
                   "sofascoreId": "zakariaaboukhlal",
                   "country": {
@@ -35510,7 +35559,7 @@
                   "position": "M",
                   "jerseyNumber": "4",
                   "height": 180,
-                  "userCount": 467,
+                  "userCount": 468,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -35594,7 +35643,7 @@
                   "position": "F",
                   "jerseyNumber": "30",
                   "height": 188,
-                  "userCount": 585,
+                  "userCount": 584,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -35939,7 +35988,7 @@
                   "position": "F",
                   "jerseyNumber": "10",
                   "height": 178,
-                  "userCount": 22883,
+                  "userCount": 22895,
                   "gender": "M",
                   "sofascoreId": "Vardy7",
                   "country": {
@@ -35984,7 +36033,7 @@
                   "position": "M",
                   "jerseyNumber": "2",
                   "height": 189,
-                  "userCount": 770,
+                  "userCount": 769,
                   "gender": "M",
                   "country": {
                     "alpha2": "NO",
@@ -37453,7 +37502,7 @@
                   "position": "D",
                   "jerseyNumber": "13",
                   "height": 190,
-                  "userCount": 3753,
+                  "userCount": 3750,
                   "gender": "M",
                   "country": {
                     "alpha2": "XK",
@@ -37527,7 +37576,7 @@
                 "reason": 1,
                 "description": "Foot Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -37539,7 +37588,7 @@
                   "position": "F",
                   "jerseyNumber": "7",
                   "height": 175,
-                  "userCount": 15343,
+                  "userCount": 15345,
                   "gender": "M",
                   "sofascoreId": "davidneres",
                   "country": {
@@ -37584,7 +37633,7 @@
                   "position": "D",
                   "jerseyNumber": "22",
                   "height": 182,
-                  "userCount": 7126,
+                  "userCount": 7122,
                   "gender": "M",
                   "sofascoreId": "dilorenzo22",
                   "country": {
@@ -37627,7 +37676,7 @@
                   "position": "F",
                   "jerseyNumber": "19",
                   "height": 191,
-                  "userCount": 69443,
+                  "userCount": 69449,
                   "gender": "M",
                   "sofascoreId": "RHøjlund",
                   "country": {
@@ -37670,7 +37719,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 191,
-                  "userCount": 55719,
+                  "userCount": 55727,
                   "gender": "M",
                   "sofascoreId": "RLukaku",
                   "country": {
@@ -37703,7 +37752,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -37955,7 +38004,7 @@
                   "position": "D",
                   "jerseyNumber": "46",
                   "height": 185,
-                  "userCount": 3600,
+                  "userCount": 3605,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -39320,7 +39369,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 190,
-                  "userCount": 43012,
+                  "userCount": 43005,
                   "gender": "M",
                   "sofascoreId": "DV9",
                   "country": {
@@ -39407,7 +39456,7 @@
                   "position": "M",
                   "jerseyNumber": "17",
                   "height": 187,
-                  "userCount": 5314,
+                  "userCount": 5322,
                   "gender": "M",
                   "country": {
                     "alpha2": "ME",
@@ -39740,7 +39789,7 @@
                   "position": "F",
                   "jerseyNumber": "70",
                   "height": 179,
-                  "userCount": 1994,
+                  "userCount": 1997,
                   "gender": "M",
                   "country": {
                     "alpha2": "CI",
@@ -39772,7 +39821,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -40240,7 +40289,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "3",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-11-6"
       },
       "venue": {
@@ -41175,7 +41224,7 @@
                   "position": "M",
                   "jerseyNumber": "10",
                   "height": 186,
-                  "userCount": 1359,
+                  "userCount": 1360,
                   "gender": "M",
                   "country": {
                     "alpha2": "AL",
@@ -41207,7 +41256,7 @@
                 "reason": 1,
                 "description": "Hamstring Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-06T16:00:31+00:00"
+                "expectedEndDate": "2026-05-07T08:00:33+00:00"
               },
               {
                 "player": {
@@ -41217,7 +41266,7 @@
                   "position": "D",
                   "jerseyNumber": "25",
                   "height": 183,
-                  "userCount": 717,
+                  "userCount": 718,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -41259,7 +41308,7 @@
                   "position": "F",
                   "jerseyNumber": "22",
                   "height": 189,
-                  "userCount": 9870,
+                  "userCount": 9876,
                   "gender": "M",
                   "sofascoreId": "camardafrancesco9",
                   "country": {
@@ -41292,7 +41341,7 @@
                 "reason": 1,
                 "description": "Shoulder Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -41304,7 +41353,7 @@
                   "position": "D",
                   "jerseyNumber": "4",
                   "height": 193,
-                  "userCount": 1230,
+                  "userCount": 1227,
                   "gender": "M",
                   "country": {
                     "alpha2": "AO",
@@ -41336,7 +41385,7 @@
                 "reason": 1,
                 "description": "Knee Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               },
               {
                 "player": {
@@ -41346,7 +41395,7 @@
                   "position": "F",
                   "jerseyNumber": "23",
                   "height": 180,
-                  "userCount": 1422,
+                  "userCount": 1423,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -41378,7 +41427,7 @@
                 "reason": 1,
                 "description": "Muscle Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -41671,7 +41720,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 195,
-                  "userCount": 7292,
+                  "userCount": 7287,
                   "gender": "M",
                   "sofascoreId": "scamacca",
                   "country": {
@@ -43095,7 +43144,7 @@
                   "position": "F",
                   "jerseyNumber": "9",
                   "height": 189,
-                  "userCount": 1735,
+                  "userCount": 1732,
                   "gender": "M",
                   "country": {
                     "alpha2": "EN",
@@ -43137,7 +43186,7 @@
                   "position": "F",
                   "jerseyNumber": "18",
                   "height": 191,
-                  "userCount": 3856,
+                  "userCount": 3859,
                   "gender": "M",
                   "sofascoreId": "AdamBuksa",
                   "country": {
@@ -43180,7 +43229,7 @@
                   "position": "M",
                   "jerseyNumber": "59",
                   "height": 186,
-                  "userCount": 916,
+                  "userCount": 915,
                   "gender": "M",
                   "country": {
                     "alpha2": "IT",
@@ -43256,7 +43305,7 @@
                 "reason": 1,
                 "description": "Thigh Injury",
                 "externalType": 114,
-                "expectedEndDate": "2026-05-07T16:00:31+00:00"
+                "expectedEndDate": "2026-05-08T08:00:33+00:00"
               }
             ],
             "starters": [
@@ -43485,7 +43534,7 @@
                   "position": "D",
                   "jerseyNumber": "14",
                   "height": 196,
-                  "userCount": 13425,
+                  "userCount": 13424,
                   "gender": "M",
                   "country": {
                     "alpha2": "ES",
@@ -43529,7 +43578,7 @@
                   "position": "M",
                   "jerseyNumber": "42",
                   "height": 176,
-                  "userCount": 3148,
+                  "userCount": 3149,
                   "gender": "M",
                   "country": {
                     "alpha2": "NL",
@@ -43990,7 +44039,7 @@
       "referee": {
         "name": "Fabio Maresca",
         "slug": "maresca-fabio",
-        "yellowCards": 1584,
+        "yellowCards": 1583,
         "redCards": 74,
         "yellowRedCards": 43,
         "games": 287,
@@ -44164,7 +44213,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "1",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-11-9"
       },
       "away_team": {
@@ -44382,7 +44431,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-10-9"
       },
       "venue": {
@@ -44418,7 +44467,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "13-11-6"
       },
       "away_team": {
@@ -44778,7 +44827,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "1",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "10-10-9"
       },
       "away_team": {
@@ -45094,7 +45143,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "12-11-6"
       },
       "venue": {
@@ -45167,7 +45216,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "9-10-9"
       },
       "away_team": {
@@ -45190,215 +45239,6 @@
         "incidents_summary": null
       },
       "sofascore_event_id": "13981699",
-      "round": 28,
-      "winner_code": 1
-    },
-    {
-      "event_id": "737054",
-      "date": "2026-03-08T19:45Z",
-      "date_only": "2026-03-08",
-      "name": "Internazionale at AC Milan",
-      "short_name": "INT @ MIL",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "103",
-        "name": "AC Milan",
-        "abbr": "MIL",
-        "normalized_name": "milan",
-        "score": "1",
-        "form": "WLLWL",
-        "record": "17-9-2"
-      },
-      "away_team": {
-        "id": "110",
-        "name": "Internazionale",
-        "abbr": "INT",
-        "normalized_name": "internazionale",
-        "score": "0",
-        "form": "WWWWD",
-        "record": "22-1-5"
-      },
-      "venue": {
-        "name": "San Siro",
-        "city": "Milano",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737058",
-      "date": "2026-03-08T17:00Z",
-      "date_only": "2026-03-08",
-      "name": "AS Roma at Genoa",
-      "short_name": "ROMA @ GEN",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "3263",
-        "name": "Genoa",
-        "abbr": "GEN",
-        "normalized_name": "genoa",
-        "score": "2",
-        "form": "WWLLW",
-        "record": "7-9-12"
-      },
-      "away_team": {
-        "id": "104",
-        "name": "AS Roma",
-        "abbr": "ROMA",
-        "normalized_name": "as roma",
-        "score": "1",
-        "form": "DWLWL",
-        "record": "16-3-9"
-      },
-      "venue": {
-        "name": "Stadio Luigi Ferraris",
-        "city": "Genova",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737061",
-      "date": "2026-03-08T14:00Z",
-      "date_only": "2026-03-08",
-      "name": "Hellas Verona at Bologna",
-      "short_name": "VER @ BOL",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "107",
-        "name": "Bologna",
-        "abbr": "BOL",
-        "normalized_name": "bologna",
-        "score": "1",
-        "form": "LLWLW",
-        "record": "11-6-11"
-      },
-      "away_team": {
-        "id": "119",
-        "name": "Hellas Verona",
-        "abbr": "VER",
-        "normalized_name": "hellas verona",
-        "score": "2",
-        "form": "LLLLL",
-        "record": "3-9-16"
-      },
-      "venue": {
-        "name": "Renato Dall'Ara",
-        "city": "Bologna",
-        "country": "Italy"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "13981692",
-      "round": 28,
-      "winner_code": 2
-    },
-    {
-      "event_id": "737059",
-      "date": "2026-03-08T14:00Z",
-      "date_only": "2026-03-08",
-      "name": "Parma at Fiorentina",
-      "short_name": "PAR @ FIO",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "109",
-        "name": "Fiorentina",
-        "abbr": "FIO",
-        "normalized_name": "fiorentina",
-        "score": "0",
-        "form": "DWWLW",
-        "record": "5-10-13"
-      },
-      "away_team": {
-        "id": "115",
-        "name": "Parma",
-        "abbr": "PAR",
-        "normalized_name": "parma",
-        "score": "0",
-        "form": "WDDLL",
-        "record": "8-10-10"
-      },
-      "venue": {
-        "name": "Stadio Artemio Franchi",
-        "city": "Firenze",
-        "country": "Italy"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "13981696",
-      "round": 28,
-      "winner_code": 3
-    },
-    {
-      "event_id": "737055",
-      "date": "2026-03-08T11:30Z",
-      "date_only": "2026-03-08",
-      "name": "Cremonese at Lecce",
-      "short_name": "CRE @ LEC",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "113",
-        "name": "Lecce",
-        "abbr": "LEC",
-        "normalized_name": "lecce",
-        "score": "2",
-        "form": "DLLLL",
-        "record": "7-6-15"
-      },
-      "away_team": {
-        "id": "4050",
-        "name": "Cremonese",
-        "abbr": "CRE",
-        "normalized_name": "cremonese",
-        "score": "1",
-        "form": "DLLWL",
-        "record": "5-9-14"
-      },
-      "venue": {
-        "name": "Via Del Mare",
-        "city": "Lecce",
-        "country": "Italy"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "13981701",
       "round": 28,
       "winner_code": 1
     }
@@ -46188,7 +46028,7 @@
   "meta": {
     "espn": {
       "fixture_count": 10,
-      "recent_result_count": 56,
+      "recent_result_count": 51,
       "team_count": 20
     },
     "sofascore": {

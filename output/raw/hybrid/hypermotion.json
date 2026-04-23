@@ -3,7 +3,7 @@
   "league_name": "LaLiga Hypermotion",
   "league_slug": "esp.2",
   "source": "ESPN+SofaScore",
-  "scraped_at": "2026-04-22T19:23:46Z",
+  "scraped_at": "2026-04-23T10:26:24Z",
   "standings": [
     {
       "rank": 1.0,
@@ -47,6 +47,9 @@
         "wins": 21.0,
         "Wins": "21",
         "W": "21",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -234,6 +237,9 @@
         "wins": 17.0,
         "Wins": "17",
         "W": "17",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -453,6 +459,9 @@
         "wins": 14.0,
         "Wins": "14",
         "W": "14",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -512,6 +521,9 @@
         "wins": 12.0,
         "Wins": "12",
         "W": "12",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -635,6 +647,9 @@
         "wins": 11.0,
         "Wins": "11",
         "W": "11",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -1450,7 +1465,7 @@
       "sofascore_event_id": "14081749",
       "round": 37,
       "winner_code": null,
-      "manager_home": "Sergio",
+      "manager_home": "Imanol Idiakez",
       "manager_away": "Luis García Fernández"
     }
   ],
@@ -8077,7 +8092,7 @@
         }
       },
       "manager_home": "Borja Jiménez",
-      "manager_away": "Sergio"
+      "manager_away": "Imanol Idiakez"
     },
     {
       "event_id": "748916",
@@ -28211,215 +28226,6 @@
       "sofascore_event_id": "14083372",
       "round": 29,
       "winner_code": 1
-    },
-    {
-      "event_id": "748841",
-      "date": "2026-03-08T20:00Z",
-      "date_only": "2026-03-08",
-      "name": "Granada at Deportivo La Coruña",
-      "short_name": "GRA @ DEP",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "90",
-        "name": "Deportivo La Coruña",
-        "abbr": "DEP",
-        "normalized_name": "la coruna",
-        "score": "0",
-        "form": "WDDWD",
-        "record": "14-7-8"
-      },
-      "away_team": {
-        "id": "3747",
-        "name": "Granada",
-        "abbr": "GRA",
-        "normalized_name": "granada",
-        "score": "2",
-        "form": "LWLLW",
-        "record": "8-11-10"
-      },
-      "venue": {
-        "name": "Riazor",
-        "city": "La Coruña",
-        "country": "Spain"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "14083366",
-      "round": 29,
-      "winner_code": 2
-    },
-    {
-      "event_id": "748842",
-      "date": "2026-03-08T17:30Z",
-      "date_only": "2026-03-08",
-      "name": "Córdoba at Racing Santander",
-      "short_name": "COR @ RAC",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "87",
-        "name": "Racing Santander",
-        "abbr": "RAC",
-        "normalized_name": "racing santander",
-        "score": "4",
-        "form": "WWLWL",
-        "record": "17-5-7"
-      },
-      "away_team": {
-        "id": "8447",
-        "name": "Córdoba",
-        "abbr": "COR",
-        "normalized_name": "cordoba",
-        "score": "3",
-        "form": "WWWLD",
-        "record": "11-8-10"
-      },
-      "venue": {
-        "name": "El Sardineros",
-        "city": "Santander",
-        "country": "Spain"
-      }
-    },
-    {
-      "event_id": "748835",
-      "date": "2026-03-08T17:30Z",
-      "date_only": "2026-03-08",
-      "name": "Eibar at Leganés",
-      "short_name": "EIB @ LEG",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "17534",
-        "name": "Leganés",
-        "abbr": "LEG",
-        "normalized_name": "leganes",
-        "score": "0",
-        "form": "LWLDD",
-        "record": "8-10-11"
-      },
-      "away_team": {
-        "id": "3752",
-        "name": "Eibar",
-        "abbr": "EIB",
-        "normalized_name": "eibar",
-        "score": "1",
-        "form": "WDWWW",
-        "record": "11-8-10"
-      },
-      "venue": {
-        "name": "Estadio Municipal de Butarque",
-        "city": "Leganés, Madrid",
-        "country": "Spain"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "14083389",
-      "round": 29,
-      "winner_code": 2
-    },
-    {
-      "event_id": "748832",
-      "date": "2026-03-08T15:15Z",
-      "date_only": "2026-03-08",
-      "name": "Sporting Gijón at FC Andorra",
-      "short_name": "RSG @ AND",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "20179",
-        "name": "FC Andorra",
-        "abbr": "AND",
-        "normalized_name": "andorra",
-        "score": "1",
-        "form": "WWWDW",
-        "record": "10-8-11"
-      },
-      "away_team": {
-        "id": "3788",
-        "name": "Sporting Gijón",
-        "abbr": "RSG",
-        "normalized_name": "sporting gijon",
-        "score": "0",
-        "form": "WLWLD",
-        "record": "12-6-11"
-      },
-      "venue": {
-        "name": "Estadi de la FAF d'Encamp",
-        "city": "Encamp",
-        "country": "Andorra"
-      },
-      "sofascore": {
-        "statistics": null,
-        "lineups": null,
-        "incidents_summary": null
-      },
-      "sofascore_event_id": "14083375",
-      "round": 29,
-      "winner_code": 1
-    },
-    {
-      "event_id": "748834",
-      "date": "2026-03-08T13:00Z",
-      "date_only": "2026-03-08",
-      "name": "Ceuta at Las Palmas",
-      "short_name": "CEU @ LPA",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "98",
-        "name": "Las Palmas",
-        "abbr": "LPA",
-        "normalized_name": "las palmas",
-        "score": "4",
-        "form": "WLWWL",
-        "record": "12-12-5"
-      },
-      "away_team": {
-        "id": "5404",
-        "name": "Ceuta",
-        "abbr": "CEU",
-        "normalized_name": "ceuta",
-        "score": "0",
-        "form": "DDLDW",
-        "record": "13-5-11"
-      },
-      "venue": {
-        "name": "Estadio Gran Canaria",
-        "city": "Las Palmas de Gran Canaria",
-        "country": "Spain"
-      }
     }
   ],
   "team_metrics": {
@@ -29285,7 +29091,7 @@
   "meta": {
     "espn": {
       "fixture_count": 11,
-      "recent_result_count": 83,
+      "recent_result_count": 78,
       "team_count": 22
     },
     "sofascore": {

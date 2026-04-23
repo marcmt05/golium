@@ -3,7 +3,7 @@
   "league_name": "LaLiga 2",
   "league_slug": "laliga-2",
   "source": "SofaScore",
-  "scraped_at": "2026-04-22T19:23:46Z",
+  "scraped_at": "2026-04-23T10:26:24Z",
   "tournament_id": 54,
   "season_id": 77558,
   "season_year": "25/26",
@@ -1119,7 +1119,7 @@
         "incidents_summary": null
       },
       "referee": null,
-      "manager_home": "Sergio",
+      "manager_home": "Imanol Idiakez",
       "manager_away": "Luis García Fernández"
     },
     {
@@ -11581,7 +11581,7 @@
         }
       },
       "manager_home": "Borja Jiménez",
-      "manager_away": "Sergio"
+      "manager_away": "Imanol Idiakez"
     },
     {
       "event_id": "14081725",

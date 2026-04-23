@@ -3,7 +3,7 @@
   "league_name": "Serie A",
   "league_slug": "ita.1",
   "source": "ESPN",
-  "scraped_at": "2026-04-22T19:24:38Z",
+  "scraped_at": "2026-04-23T10:27:24Z",
   "standings": [
     {
       "rank": 1.0,
@@ -47,6 +47,9 @@
         "wins": 25.0,
         "Wins": "25",
         "W": "25",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -106,6 +109,9 @@
         "wins": 19.0,
         "Wins": "19",
         "W": "19",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -165,6 +171,9 @@
         "wins": 20.0,
         "Wins": "20",
         "W": "20",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -224,6 +233,9 @@
         "wins": 18.0,
         "Wins": "18",
         "W": "18",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -283,6 +295,9 @@
         "wins": 16.0,
         "Wins": "16",
         "W": "16",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -342,6 +357,9 @@
         "wins": 18.0,
         "Wins": "18",
         "W": "18",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -401,6 +419,9 @@
         "wins": 14.0,
         "Wins": "14",
         "W": "14",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -460,6 +481,9 @@
         "wins": 14.0,
         "Wins": "14",
         "W": "14",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -519,6 +543,9 @@
         "wins": 12.0,
         "Wins": "12",
         "W": "12",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -578,6 +605,9 @@
         "wins": 13.0,
         "Wins": "13",
         "W": "13",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -637,6 +667,9 @@
         "wins": 12.0,
         "Wins": "12",
         "W": "12",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -696,6 +729,9 @@
         "wins": 11.0,
         "Wins": "11",
         "W": "11",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -755,6 +791,9 @@
         "wins": 10.0,
         "Wins": "10",
         "W": "10",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -814,6 +853,9 @@
         "wins": 9.0,
         "Wins": "9",
         "W": "9",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -873,6 +915,9 @@
         "wins": 8.0,
         "Wins": "8",
         "W": "8",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -932,6 +977,9 @@
         "wins": 8.0,
         "Wins": "8",
         "W": "8",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -991,6 +1039,9 @@
         "wins": 6.0,
         "Wins": "6",
         "W": "6",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -1050,6 +1101,9 @@
         "wins": 7.0,
         "Wins": "7",
         "W": "7",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -1109,6 +1163,9 @@
         "wins": 3.0,
         "Wins": "3",
         "W": "3",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -1168,6 +1225,9 @@
         "wins": 2.0,
         "Wins": "2",
         "W": "2",
+        "advanced": 0.0,
+        "Advanced": "0",
+        "ADV": "0",
         "deductions": 0.0,
         "Point Deductions": "",
         "PD": "",
@@ -1511,7 +1571,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "0",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-12-7"
       },
       "venue": {
@@ -1539,7 +1599,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "0",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "12-11-10"
       },
       "away_team": {
@@ -1772,7 +1832,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-12-7"
       },
       "venue": {
@@ -1809,7 +1869,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "12-11-10"
       },
       "venue": {
@@ -1957,7 +2017,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "0",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-11-10"
       },
       "venue": {
@@ -2133,7 +2193,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "0",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-11-7"
       },
       "away_team": {
@@ -2401,7 +2461,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "3",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "14-11-6"
       },
       "venue": {
@@ -2577,7 +2637,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "1",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-11-9"
       },
       "away_team": {
@@ -2771,7 +2831,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "11-10-9"
       },
       "venue": {
@@ -2799,7 +2859,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "13-11-6"
       },
       "away_team": {
@@ -3095,7 +3155,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "1",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "10-10-9"
       },
       "away_team": {
@@ -3363,7 +3423,7 @@
         "abbr": "ATA",
         "normalized_name": "atalanta",
         "score": "1",
-        "form": "DLWWL",
+        "form": "LDLWW",
         "record": "12-11-6"
       },
       "venue": {
@@ -3428,7 +3488,7 @@
         "abbr": "LAZ",
         "normalized_name": "lazio",
         "score": "2",
-        "form": "WLDWW",
+        "form": "WWLDW",
         "record": "9-10-9"
       },
       "away_team": {
@@ -3443,191 +3503,6 @@
       "venue": {
         "name": "Olimpico",
         "city": "Roma",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737054",
-      "date": "2026-03-08T19:45Z",
-      "date_only": "2026-03-08",
-      "name": "Internazionale at AC Milan",
-      "short_name": "INT @ MIL",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "103",
-        "name": "AC Milan",
-        "abbr": "MIL",
-        "normalized_name": "milan",
-        "score": "1",
-        "form": "WLLWL",
-        "record": "17-9-2"
-      },
-      "away_team": {
-        "id": "110",
-        "name": "Internazionale",
-        "abbr": "INT",
-        "normalized_name": "internazionale",
-        "score": "0",
-        "form": "WWWWD",
-        "record": "22-1-5"
-      },
-      "venue": {
-        "name": "San Siro",
-        "city": "Milano",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737058",
-      "date": "2026-03-08T17:00Z",
-      "date_only": "2026-03-08",
-      "name": "AS Roma at Genoa",
-      "short_name": "ROMA @ GEN",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "3263",
-        "name": "Genoa",
-        "abbr": "GEN",
-        "normalized_name": "genoa",
-        "score": "2",
-        "form": "WWLLW",
-        "record": "7-9-12"
-      },
-      "away_team": {
-        "id": "104",
-        "name": "AS Roma",
-        "abbr": "ROMA",
-        "normalized_name": "as roma",
-        "score": "1",
-        "form": "DWLWL",
-        "record": "16-3-9"
-      },
-      "venue": {
-        "name": "Stadio Luigi Ferraris",
-        "city": "Genova",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737061",
-      "date": "2026-03-08T14:00Z",
-      "date_only": "2026-03-08",
-      "name": "Hellas Verona at Bologna",
-      "short_name": "VER @ BOL",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "107",
-        "name": "Bologna",
-        "abbr": "BOL",
-        "normalized_name": "bologna",
-        "score": "1",
-        "form": "LLWLW",
-        "record": "11-6-11"
-      },
-      "away_team": {
-        "id": "119",
-        "name": "Hellas Verona",
-        "abbr": "VER",
-        "normalized_name": "hellas verona",
-        "score": "2",
-        "form": "LLLLL",
-        "record": "3-9-16"
-      },
-      "venue": {
-        "name": "Renato Dall'Ara",
-        "city": "Bologna",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737059",
-      "date": "2026-03-08T14:00Z",
-      "date_only": "2026-03-08",
-      "name": "Parma at Fiorentina",
-      "short_name": "PAR @ FIO",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "109",
-        "name": "Fiorentina",
-        "abbr": "FIO",
-        "normalized_name": "fiorentina",
-        "score": "0",
-        "form": "DWWLW",
-        "record": "5-10-13"
-      },
-      "away_team": {
-        "id": "115",
-        "name": "Parma",
-        "abbr": "PAR",
-        "normalized_name": "parma",
-        "score": "0",
-        "form": "WDDLL",
-        "record": "8-10-10"
-      },
-      "venue": {
-        "name": "Stadio Artemio Franchi",
-        "city": "Firenze",
-        "country": "Italy"
-      }
-    },
-    {
-      "event_id": "737055",
-      "date": "2026-03-08T11:30Z",
-      "date_only": "2026-03-08",
-      "name": "Cremonese at Lecce",
-      "short_name": "CRE @ LEC",
-      "status": {
-        "state": "post",
-        "completed": true,
-        "description": "Full Time",
-        "detail": "FT"
-      },
-      "season_year": 2025,
-      "home_team": {
-        "id": "113",
-        "name": "Lecce",
-        "abbr": "LEC",
-        "normalized_name": "lecce",
-        "score": "2",
-        "form": "DLLLL",
-        "record": "7-6-15"
-      },
-      "away_team": {
-        "id": "4050",
-        "name": "Cremonese",
-        "abbr": "CRE",
-        "normalized_name": "cremonese",
-        "score": "1",
-        "form": "DLLWL",
-        "record": "5-9-14"
-      },
-      "venue": {
-        "name": "Via Del Mare",
-        "city": "Lecce",
         "country": "Italy"
       }
     }
@@ -3938,76 +3813,6 @@
     }
   },
   "team_form": {
-    "lecce": {
-      "sequence": "LLLLD",
-      "matches": 5,
-      "wins": 1,
-      "draws": 1,
-      "losses": 4
-    },
-    "cremonese": {
-      "sequence": "LWLLD",
-      "matches": 5,
-      "wins": 1,
-      "draws": 1,
-      "losses": 4
-    },
-    "bologna": {
-      "sequence": "WLWWL",
-      "matches": 5,
-      "wins": 3,
-      "draws": 0,
-      "losses": 3
-    },
-    "hellas verona": {
-      "sequence": "LLLLL",
-      "matches": 5,
-      "wins": 1,
-      "draws": 0,
-      "losses": 5
-    },
-    "fiorentina": {
-      "sequence": "WDWWD",
-      "matches": 5,
-      "wins": 3,
-      "draws": 3,
-      "losses": 0
-    },
-    "parma": {
-      "sequence": "LLDDW",
-      "matches": 5,
-      "wins": 1,
-      "draws": 3,
-      "losses": 2
-    },
-    "genoa": {
-      "sequence": "WLLWW",
-      "matches": 5,
-      "wins": 4,
-      "draws": 0,
-      "losses": 2
-    },
-    "as roma": {
-      "sequence": "LWLWD",
-      "matches": 5,
-      "wins": 2,
-      "draws": 1,
-      "losses": 3
-    },
-    "milan": {
-      "sequence": "LWLLW",
-      "matches": 5,
-      "wins": 3,
-      "draws": 0,
-      "losses": 3
-    },
-    "internazionale": {
-      "sequence": "DDWWW",
-      "matches": 5,
-      "wins": 3,
-      "draws": 2,
-      "losses": 1
-    },
     "lazio": {
       "sequence": "WWDLW",
       "matches": 5,
@@ -4029,6 +3834,20 @@
       "draws": 1,
       "losses": 1
     },
+    "parma": {
+      "sequence": "LLDDW",
+      "matches": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2
+    },
+    "internazionale": {
+      "sequence": "DDWWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 0
+    },
     "atalanta": {
       "sequence": "DWWLD",
       "matches": 5,
@@ -4042,6 +3861,13 @@
       "wins": 3,
       "draws": 1,
       "losses": 1
+    },
+    "lecce": {
+      "sequence": "LLLLD",
+      "matches": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4
     },
     "udinese": {
       "sequence": "LWDWL",
@@ -4057,6 +3883,20 @@
       "draws": 1,
       "losses": 0
     },
+    "hellas verona": {
+      "sequence": "LLLLL",
+      "matches": 5,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5
+    },
+    "genoa": {
+      "sequence": "WLLWW",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
     "pisa": {
       "sequence": "WLLLL",
       "matches": 5,
@@ -4071,17 +3911,52 @@
       "draws": 0,
       "losses": 4
     },
+    "bologna": {
+      "sequence": "WLWWL",
+      "matches": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2
+    },
     "como": {
       "sequence": "WWDLL",
       "matches": 5,
       "wins": 2,
       "draws": 1,
       "losses": 2
+    },
+    "as roma": {
+      "sequence": "LWLWD",
+      "matches": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2
+    },
+    "milan": {
+      "sequence": "LWLLW",
+      "matches": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3
+    },
+    "cremonese": {
+      "sequence": "LWLLD",
+      "matches": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3
+    },
+    "fiorentina": {
+      "sequence": "WDWWD",
+      "matches": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 0
     }
   },
   "meta": {
     "fixture_count": 10,
-    "recent_result_count": 56,
+    "recent_result_count": 51,
     "team_count": 20
   }
 }
